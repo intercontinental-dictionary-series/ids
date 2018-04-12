@@ -56,6 +56,8 @@ class Dataset(clld.CLLD):
 
     def cmd_install(self, **kw):
         with self.cldf as ds:
+            for bib in self.itersourcesbibtex():
+                ds.add_sources(bib)
             for row in self.iteritems():
                 if row['Language_ID'] == 'None':
                     row['Language_ID'] = None
