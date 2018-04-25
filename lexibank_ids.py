@@ -7,6 +7,7 @@ from lingpy.sequence.sound_classes import ipa2tokens
 from clldutils.path import Path, as_unicode
 from clldutils.text import strip_chars, split_text_with_context
 from clldutils.jsonlib import load
+from clldutils.misc import lazyproperty
 
 from pylexibank.providers import clld
 from pylexibank.dataset import Metadata, Lexeme
@@ -20,7 +21,7 @@ class IDSLexeme(Lexeme):
 
 
 class Dataset(clld.CLLD):
-    __cldf_url__ = "http://cdstar.shh.mpg.de/bitstreams/EAEA0-1575-B9D3-4DAF-0/ids_dataset.cldf.zip"
+    __cldf_url__ = "http://cdstar.shh.mpg.de/bitstreams/EAEA0-5F01-8AAF-CDED-0/ids_dataset.cldf.zip"
 
     dir = Path(__file__).parent
     lexeme_class = IDSLexeme
@@ -48,31 +49,37 @@ class Dataset(clld.CLLD):
         if form and strip_chars('- ', form) not in ['\u2014', '?', '???', '']:
             return form
 
-    def get_tokenizer(self):
+    @lazyproperty
+    def tokenizer(self):
         return lambda _, string: ipa2tokens(
             string.replace(' ', '_'),
             semi_diacritics='szh',
             merge_vowels=False)
 
     def cmd_install(self, **kw):
+        ccode = {x.attributes['ids_id']: x.concepticon_id for x in
+                 self.conceptlist.concepts.values()}
+
         with self.cldf as ds:
             self.add_sources(ds)
-            for row in self.iteritems():
-                if row['Language_ID'] == 'None':
-                    row['Language_ID'] = None
 
+            for row in self.original_cldf['LanguageTable']:
                 ds.add_language(
-                    ID=row['Language_name'],
-                    name=row['Language_name'],
-                    glottocode=row['Language_ID'])
+                    ID=row['ID'],
+                    Name=row['Name'],
+                    Glottocode=row['Glottocode'])
 
+            for row in self.original_cldf['ParameterTable']:
                 ds.add_concept(
-                    ID=row['Parameter_ID'],
-                    gloss=row.pop('Concept'),
-                    conceptset=row['Parameter_ID'])
+                    ID=row['ID'],
+                    Name=row.pop('Name'),
+                    Concepticon_ID=ccode[row['ID']])
 
-                row['Transcription'] = row['Transcription'].lower()
-                row['AlternativeTranscription'] = row['AlternativeTranscription'].lower()
-                row['Language_ID'] = row.pop('Language_name')
+            for row in self.original_cldf['FormTable']:
+                row['Value'] = row.pop('Form')
+                row['AlternativeValue'] = row.pop('alt_form')
+                row['Transcription'] = (row.pop('transcription') or '').lower()
+                row['AlternativeTranscription'] = (row.pop('alt_transcription') or '').lower()
                 del row['ID']
+                del row['Contribution_ID']
                 ds.add_lexemes(**row)

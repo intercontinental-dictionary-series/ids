@@ -3,6 +3,7 @@
     "aboutUrl": "http://ids.clld.org/values/{ID}",
     "dc:bibliographicCitation": "Key, Mary Ritchie & Comrie, Bernard (eds.) 2015. The Intercontinental Dictionary Series. Leipzig: Max Planck Institute for Evolutionary Anthropology.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:format": "http://concepticon.clld.org/contributions/Key-2016-1310",
     "dc:identifier": "http://ids.clld.org",
     "dc:license": [
         "CC-BY-4.0",
@@ -20,7 +21,7 @@
             "dc:title": "environment",
             "properties": {
                 "concepticon_version": "pyconcepticon-1.3-45-g85ba61d",
-                "glottolog_version": "v3.2-40-g4c1fe5d"
+                "glottolog_version": "v3.2-55-gef2031a"
             }
         }
     ],
@@ -143,31 +144,31 @@
                     {
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
-                        "name": "name"
+                        "name": "Name"
                     },
                     {
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
                         "valueUrl": "http://glottolog.org/resource/languoid/id/{glottolog_id}",
-                        "name": "glottocode"
+                        "name": "Glottocode"
                     },
                     {
                         "datatype": "string",
-                        "name": "glottolog_name"
+                        "name": "Glottolog_Name"
                     },
                     {
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#iso639P3code",
-                        "name": "iso"
+                        "name": "ISO639P3code"
                     },
                     {
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#macroarea",
-                        "name": "macroarea"
+                        "name": "Macroarea"
                     },
                     {
                         "datatype": "string",
-                        "name": "family"
+                        "name": "Family"
                     }
                 ],
                 "primaryKey": [
@@ -188,17 +189,17 @@
                     {
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
-                        "name": "gloss"
+                        "name": "Name"
                     },
                     {
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#concepticonReference",
                         "valueUrl": "http://concepticon.clld.org/parameters/{concepticon_id}",
-                        "name": "conceptset"
+                        "name": "Concepticon_ID"
                     },
                     {
                         "datatype": "string",
-                        "name": "concepticon_gloss"
+                        "name": "Concepticon_Gloss"
                     }
                 ],
                 "primaryKey": [
@@ -212,14 +213,14 @@
             "tableSchema": {
                 "columns": [
                     {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#formReference",
-                        "name": "Word_ID"
-                    },
-                    {
                         "datatype": "integer",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
-                        "name": "Index"
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#formReference",
+                        "name": "Form_ID"
                     },
                     {
                         "datatype": "string",
@@ -238,13 +239,13 @@
                     {
                         "datatype": "string",
                         "default": "expert",
-                        "name": "Cognate_detection_method"
+                        "name": "Cognate_Detection_Method"
                     },
                     {
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
                         "separator": ";",
-                        "name": "Cognate_source"
+                        "name": "Source"
                     },
                     {
                         "datatype": "string",
@@ -254,17 +255,17 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "Alignment_method"
+                        "name": "Alignment_Method"
                     },
                     {
                         "datatype": "string",
-                        "name": "Alignment_source"
+                        "name": "Alignment_Source"
                     }
                 ],
                 "foreignKeys": [
                     {
                         "columnReference": [
-                            "Word_ID"
+                            "Form_ID"
                         ],
                         "reference": {
                             "resource": "forms.csv",
@@ -275,7 +276,7 @@
                     }
                 ],
                 "primaryKey": [
-                    "Index"
+                    "ID"
                 ]
             },
             "url": "cognates.csv"
