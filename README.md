@@ -8,6 +8,8 @@ This dataset is licensed under a http://creativecommons.org/licenses/by/4.0/ lic
 
 Available online at http://ids.clld.org
 
+Conceptlist in Concepticon: [Key-2016-1310](http://concepticon.clld.org/contributions/Key-2016-1310)
+
 ## Statistics
 
 
@@ -21,12 +23,17 @@ Available online at http://ids.clld.org
 - **Lexemes:** 396,925
 - **Synonymy:** 1.26
 - **Cognacy:** 0 cognates in 0 cognate sets
-- **Invalid lexemes:** 396,925
+- **Invalid lexemes:** 0
 - **Tokens:** 0
-- **Segments:** 0 (0 LingPy errors, 0 CLPA errors, 7 CLPA modified)
+- **Segments:** 0 (0 BIPA errors, 0 CTLS sound class errors, 0 CLTS modified)
 - **Inventory size (avg):** 0.00
 
 ## Possible Improvements:
 
-- Entries missing sources: 318954/396925 (80.36%)
+- Languages linked to [bookkeeping languoids in Glottolog](http://glottolog.org/glottolog/glottologinformation#bookkeepinglanguoids):
+  - Sanapaná (Enlhet dialect) [sana1281](http://glottolog.org/resource/languoid/id/sana1281)
+  - Prai [pray1239](http://glottolog.org/resource/languoid/id/pray1239)
+  - Samre [samr1245](http://glottolog.org/resource/languoid/id/samr1245)
 
+
+- Entries missing sources: 318954/396925 (80.36%)
