@@ -30,10 +30,6 @@ Conceptlist in Concepticon: [Key-2016-1310](http://concepticon.clld.org/contribu
 
 ## Possible Improvements:
 
-- Languages linked to [bookkeeping languoids in Glottolog](http://glottolog.org/glottolog/glottologinformation#bookkeepinglanguoids):
-  - Sanapaná (Enlhet dialect) [sana1281](http://glottolog.org/resource/languoid/id/sana1281)
-  - Prai [pray1239](http://glottolog.org/resource/languoid/id/pray1239)
-  - Samre [samr1245](http://glottolog.org/resource/languoid/id/samr1245)
 
 
 - Entries missing sources: 318954/396925 (80.36%)

@@ -13,6 +13,13 @@ from pylexibank.providers import clld
 from pylexibank.dataset import Metadata, Lexeme
 
 
+GLOTTOCODE_UPDATES = {
+    'sana1281': 'sana1298',
+    'pray1239': 'phai1238',
+    'samr1245': 'somr1240',
+}
+
+
 @attr.s
 class IDSLexeme(Lexeme):
     Transcription = attr.ib(default=None)
@@ -67,7 +74,7 @@ class Dataset(clld.CLLD):
                 ds.add_language(
                     ID=row['ID'],
                     Name=row['Name'],
-                    Glottocode=row['Glottocode'])
+                    Glottocode=GLOTTOCODE_UPDATES.get(row['Glottocode'], row['Glottocode']))
 
             for row in self.original_cldf['ParameterTable']:
                 ds.add_concept(

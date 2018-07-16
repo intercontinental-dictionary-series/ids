@@ -20,7 +20,7 @@
         {
             "dc:title": "environment",
             "properties": {
-                "concepticon_version": "v1.1.0-48-ga51f8de",
+                "concepticon_version": "v1.1.0-81-g64a1b5d",
                 "glottolog_version": "v3.2-76-g1a93b39"
             }
         }
