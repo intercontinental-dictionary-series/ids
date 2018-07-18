@@ -39,29 +39,9 @@ class Dataset(clld.CLLD):
                 for form in split_text_with_context(value, separators='/,;~')]
 
     def clean_form(self, item, form):
-        chars2strip = '[]()*='
-        if item['Transcription'] in ['phonemic', 'phonetic', 'latintrans']:
-            form = clld.CLLD.clean_form(self, item, strip_chars(
-                chars2strip, form))
-        elif item['Transcription'] == 'cyrilltrans':
-            if item['AlternativeTranscription'] in ['phonemic', 'phonetic'] and \
-                    item['AlternativeValue']:
-                form = clld.CLLD.clean_form(self, item, strip_chars(
-                    chars2strip, item['AlternativeValue']))
-            else:
-                form = clld.CLLD.clean_form(self, item, strip_chars(
-                    chars2strip, unidecode(form).lower()))
-        else:
-            form = None
+        form = clld.CLLD.clean_form(self, item, strip_chars('[]()*^?=', form))
         if form and strip_chars('- ', form) not in ['\u2014', '?', '???', '']:
             return form
-
-    @lazyproperty
-    def tokenizer(self):
-        return lambda _, string: ipa2tokens(
-            string.replace(' ', '_'),
-            semi_diacritics='szh',
-            merge_vowels=False)
 
     def cmd_install(self, **kw):
         ccode = {x.attributes['ids_id']: x.concepticon_id for x in

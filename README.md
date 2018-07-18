@@ -16,12 +16,12 @@ Conceptlist in Concepticon: [Key-2016-1310](http://concepticon.clld.org/contribu
 [![Build Status](https://travis-ci.org/lexibank/ids.svg?branch=master)](https://travis-ci.org/lexibank/ids)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
-![Source: 20%](https://img.shields.io/badge/Source-20%25-red.svg "Source: 20%")
+![Source: 22%](https://img.shields.io/badge/Source-22%25-red.svg "Source: 22%")
 
-- **Varieties:** 296
+- **Varieties:** 329
 - **Concepts:** 1,310
-- **Lexemes:** 396,925
-- **Synonymy:** 1.26
+- **Lexemes:** 453,975
+- **Synonymy:** 1.28
 - **Cognacy:** 0 cognates in 0 cognate sets
 - **Invalid lexemes:** 0
 - **Tokens:** 0
@@ -32,4 +32,4 @@ Conceptlist in Concepticon: [Key-2016-1310](http://concepticon.clld.org/contribu
 
 
 
-- Entries missing sources: 318954/396925 (80.36%)
+- Entries missing sources: 352122/453975 (77.56%)
