@@ -5,24 +5,22 @@
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:format": "http://concepticon.clld.org/contributions/Key-2016-1310",
     "dc:identifier": "http://ids.clld.org",
-    "dc:license": [
-        "CC-BY-4.0",
-        "Creative Commons Attribution 4.0",
-        "https://creativecommons.org/licenses/by/4.0/"
-    ],
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:source": "sources.bib",
     "dc:title": "Intercontinental Dictionary Series",
+    "dcat:accessURL": "https://github.com/lexibank/ids",
     "rdf:ID": "ids",
+    "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null
     },
     "notes": [
         {
+            "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v3.2-86-g9701cb0",
-                "concepticon_version": "pyconcepticon-1.4.0-6-g413fdc7"
-            },
-            "dc:title": "environment"
+                "glottolog_version": "v3.3.2",
+                "concepticon_version": "pyconcepticon-1.4.0-10-g1d57531"
+            }
         }
     ],
     "tables": [
@@ -217,7 +215,7 @@
             "tableSchema": {
                 "columns": [
                     {
-                        "datatype": "integer",
+                        "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
                         "name": "ID"
                     },

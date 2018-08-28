@@ -31,6 +31,7 @@ class Dataset(clld.CLLD):
     __cldf_url__ = "http://cdstar.shh.mpg.de/bitstreams/EAEA0-5F01-8AAF-CDED-0/ids_dataset.cldf.zip"
 
     dir = Path(__file__).parent
+    id = 'ids'
     lexeme_class = IDSLexeme
     
     def split_forms(self, row, value):
