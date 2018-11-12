@@ -56,7 +56,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 13-20,two,1498,TWO
 13-30,three,492,THREE
 13-10,one,1493,ONE
-13-0,"zero, nothing",1294,ZERO
+13-0,"zero, nothing",3198,NOTHING OR ZERO
 12-930,change,1264,CHANGE
 12-920,"like, similar",1558,SIMILAR
 12-840,line,1048,LINE
@@ -93,7 +93,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 12-440,far (adv),1406,FAR
 12-420,left (side),244,LEFT
 12-410,right (side),1019,RIGHT
-12-370,"middle, center",1093,MIDDLE
+12-370,"middle, center",3208,CENTER OR MIDDLE
 12-360,side,682,SIDE
 12-353,edge,863,EDGE
 12-352,pointed,372,POINTED
@@ -142,7 +142,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 11-810,buy,1869,BUY
 11-790,earn,733,EARN
 11-780,wages,1122,WAGES
-11-770,hire,856,HIRE
+11-770,hire,3213,HIRE OR RENT
 11-690,"tax, tribute",873,TAX
 11-660,"account, reckoning",1081,BILL
 11-650,pay (vb),718,PAY
@@ -160,7 +160,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 11-330,lose,1660,LOSE
 11-320,find,719,FIND
 11-310,"seek, look for",1468,LOOK FOR
-11-280,"harm, injure, damage",44,INJURE
+11-280,"harm, injure, damage",3195,DAMAGE OR INJURE
 11-270,destroy,681,DESTROY
 11-250,"save, rescue",2008,RESCUE
 11-240,"preserve, look after",1997,PRESERVE
@@ -170,7 +170,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 11-170,"keep, retain",1477,KEEP
 11-160,"get, obtain",694,GET
 11-150,hold,1448,HOLD
-11-140,"seize, grasp",2021,GRASP
+11-140,"seize, grasp",855,SEIZE
 11-130,take,1749,TAKE
 11-120,"own, possess",684,OWN
 11-110,have,773,HAVE
@@ -247,8 +247,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 10-230,fall,1280,FALL
 10-220,"raise, lift",501,LIFT
 10-210,rise,568,RISE (MOVE UPWARDS)
-10-170,twist,430,TWIST
-10-160,drop (vb),808,DRIP (FALL IN GLOBULES)
+10-170,twist,3199,TWIST (AROUND)
+10-160,drop (vb),2866,DROP (SOMETHING)
 10-150,roll,827,ROLL
 10-140,"wind, wrap",1113,WRAP
 10-130,turn around,1445,TURN (SOMETHING)
@@ -271,10 +271,10 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 9-730,clay,1399,CLAY
 9-720,mold (clay etc),289,MOLD
 9-710,potter,359,POTTER
-9-690,"tin, tinplate",358,TINPLATE
+9-690,"tin, tinplate",3217,TIN OR TINPLATE
 9-680,lead (noun),627,LEAD (CHEMICAL ELEMENT)
 9-670,iron,621,IRON
-9-660,"copper, bronze",1825,COPPER
+9-660,"copper, bronze",3192,BRONZE OR COPPER
 9-650,silver,759,SILVER
 9-640,gold,1369,GOLD
 9-630,cast (metals),211,CAST
@@ -310,7 +310,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 9-251,adze,290,ADZE
 9-240,"scissors, shears",356,SHEARS
 9-230,knife,1352,KNIFE
-9-223,stab,1434,STAB
+9-223,stab,3189,STAB TO DEATH
 9-222,"chop, hew",155,CHOP
 9-221,cut down,355,CUT DOWN
 9-220,cut,1432,CUT
@@ -336,7 +336,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 8-912,yam,410,YAM
 8-910,sweet potato,159,SWEET POTATO
 8-850,banyan,346,BANYAN
-8-840,banana tree,868,BANANA
+8-840,banana tree,1795,BANANA TREE
 8-830,citrus fruit,1126,CITRUS FRUIT
 8-820,coconut,970,COCONUT
 8-810,palm tree,1181,PALM TREE
@@ -358,7 +358,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 8-600,tree,906,TREE
 8-570,flower,239,FLOWER
 8-560,leaf,628,LEAF
-8-550,branch,1531,BRANCH
+8-550,branch,3223,BRANCH OR TWIG
 8-540,root,670,ROOT
 8-531,plant (vb),1486,PLANT (SOMETHING)
 8-520,hay,342,HAY
@@ -542,7 +542,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 5-410,meal (a),1526,MEAL
 5-391,tongs,272,TONGS
 5-390,fork (2),1302,FORK
-5-380,knife (2),1352,KNIFE
+5-380,knife (2),3210,KNIFE (FOR EATING)
 5-370,spoon,1378,SPOON
 5-360,saucer,271,SAUCER
 5-350,"cup, drinking vessel",476,CUP
@@ -601,14 +601,14 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 4-840,"sick, sickness",1847,SICK
 4-830,"well, health",1364,HEALTHY
 4-820,weak,1601,WEAK
-4-810,"strong, mighty, powerful",785,STRONG
+4-810,"strong, mighty, powerful",3188,MIGHTY OR POWERFUL OR STRONG
 4-790,"grave, tomb",1773,GRAVE
 4-780,bury (the dead),1719,BURY
 4-770,corpse,767,CORPSE
 4-760,kill,1417,KILL
-4-751,drowned,1904,DROWN
-4-750,"die, dead",1494,DIE
-4-740,"live, living, life",1422,BE ALIVE
+4-751,drowned,3187,DROWNED
+4-750,"die, dead",2101,BE DEAD OR DIE
+4-740,"live, living, life",3184,BE ALIVE OR LIFE
 4-732,conceive,1087,CONCEIVE
 4-730,pregnant,1123,PREGNANT
 4-720,born (to be),1090,BE BORN
@@ -633,7 +633,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 4-530,cough,879,COUGH
 4-521,hiccough,162,HICCOUGH
 4-520,"yawn, gape",1028,YAWN
-4-510,"breathe, breath",1407,BREATHE
+4-510,"breathe, breath",3183,BREATH OR BREATHE
 4-492,penis,1222,PENIS
 4-490,testicle,797,TESTICLES
 4-470,womb,804,WOMB
@@ -877,7 +877,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2-360,mother,1216,MOTHER
 2-350,father,1217,FATHER
 2-341,divorce,1134,DIVORCE
-2-340,"marriage, wedding",1259,WEDDING
+2-340,"marriage, wedding",3182,MARRIAGE OR WEDDING
 2-330,marry,203,MARRY
 2-320,wife,1199,WIFE
 2-310,husband,1200,HUSBAND
@@ -1101,7 +1101,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 17-150,believe,1890,BELIEVE
 17-160,understand,1536,UNDERSTAND
 17-170,know,1410,KNOW (SOMETHING)
-17-171,guess,1932,GUESS
+17-171,guess,3199,TWIST (AROUND)
 17-172,imitate,117,IMITATE
 17-180,seem,1521,SEEM
 17-190,"idea, notion",1609,IDEA
@@ -1207,7 +1207,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 19-440,freeman,384,FREEMAN
 19-450,"command, order",1128,ORDER
 19-460,obey,1635,OBEY
-19-470,"let, permit",1003,PERMIT
+19-470,"let, permit",3237,ALLOW OR PERMIT
 19-510,"friend, companion",1325,FRIEND
 19-520,enemy,1358,ENEMY
 19-540,neighbor,1332,NEIGHBOUR
@@ -1215,7 +1215,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 19-560,guest,1782,GUEST
 19-570,host,1545,HOST
 19-580,"help, aid",1897,HELP
-19-590,"hinder, prevent",1550,PREVENT
+19-590,"hinder, prevent",3201,HINDER OR PREVENT
 19-610,custom,1747,CUSTOM
 19-620,"strife, quarrel",1848,QUARREL
 19-630,"conspiracy, plot",2024,PLOT
@@ -1234,7 +1234,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 20-250,arrow,977,ARROW
 20-260,spear,945,SPEAR
 20-270,sword,1535,SWORD
-20-280,"gun, cannon",1566,GUN
+20-280,"gun, cannon",3203,CANNON OR GUN
 20-310,armor (defensive),1061,ARMOUR
 20-330,helmet,1680,HELMET
 20-340,shield,1064,SHIELD
@@ -1306,6 +1306,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 22-370,idol,1945,IDOL
 22-420,"magic, witchcraft, sorcery",392,MAGIC
 22-430,"sorcerer, witch",2137,MAGICIAN
-22-440,"fairy, elf",2138,LEGENDARY CREATURE
+22-440,"fairy, elf",3206,ELF OR FAIRY
 22-450,"ghost, phantom",1175,GHOST
 22-470,"omen, portent",107,OMEN
