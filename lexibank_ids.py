@@ -33,7 +33,7 @@ class Dataset(clld.CLLD):
     dir = Path(__file__).parent
     id = 'ids'
     lexeme_class = IDSLexeme
-    
+
     def split_forms(self, row, value):
         value = self.lexemes.get(value, value)
         return [self.clean_form(row, form)
@@ -41,7 +41,7 @@ class Dataset(clld.CLLD):
 
     def clean_form(self, item, form):
         chars2strip = "[]()*=\u007f"
-        
+
         form = strip_brackets(form, brackets={
             '[[' : ']]',
             '['  : ']',
@@ -61,11 +61,11 @@ class Dataset(clld.CLLD):
             else:
                 form = clld.CLLD.clean_form(self, item,
                     strip_chars(chars2strip, form.lower()))
-        else:
-            form = None
 
         if form and strip_chars('- ', form) not in ['\u2014', '?', '???', '']:
             return form
+
+
 
     def get_segments(self, row):
         base_form = None
@@ -108,7 +108,7 @@ class Dataset(clld.CLLD):
                 row['Transcription'] = (row.pop('transcription') or '').lower()
                 row['AlternativeTranscription'] = (row.pop('alt_transcription') or '').lower()
 
-                row['Segments'] = self.get_segments(row)
+#                row['Segments'] = self.get_segments(row)
 
                 del row['ID']
                 del row['Contribution_ID']
