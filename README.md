@@ -17,16 +17,18 @@ Conceptlist in Concepticon: [Key-2016-1310](http://concepticon.clld.org/contribu
 ![Glottolog: 98%](https://img.shields.io/badge/Glottolog-98%25-green.svg "Glottolog: 98%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 22%](https://img.shields.io/badge/Source-22%25-red.svg "Source: 22%")
+![BIPA: 45%](https://img.shields.io/badge/BIPA-45%25-red.svg "BIPA: 45%")
+![CLTS SoundClass: 44%](https://img.shields.io/badge/CLTS%20SoundClass-44%25-red.svg "CLTS SoundClass: 44%")
 
 - **Varieties:** 329
 - **Concepts:** 1,310
 - **Lexemes:** 448,715
 - **Synonymy:** 1.28
 - **Cognacy:** 0 cognates in 0 cognate sets
-- **Invalid lexemes:** 0
-- **Tokens:** 0
-- **Segments:** 0 (0 BIPA errors, 0 CTLS sound class errors, 0 CLTS modified)
-- **Inventory size (avg):** 0.00
+- **Invalid lexemes:** 73
+- **Tokens:** 2,481,903
+- **Segments:** 2,021 (1102 BIPA errors, 1136 CTLS sound class errors, 881 CLTS modified)
+- **Inventory size (avg):** 72.58
 
 ## Possible Improvements:
 

@@ -108,7 +108,7 @@ class Dataset(clld.CLLD):
                 row['Transcription'] = (row.pop('transcription') or '').lower()
                 row['AlternativeTranscription'] = (row.pop('alt_transcription') or '').lower()
 
-#                row['Segments'] = self.get_segments(row)
+                row['Segments'] = self.get_segments(row)
 
                 del row['ID']
                 del row['Contribution_ID']
