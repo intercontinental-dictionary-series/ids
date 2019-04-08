@@ -3,12 +3,13 @@
     "aboutUrl": "http://ids.clld.org/values/{ID}",
     "dc:bibliographicCitation": "Key, Mary Ritchie & Comrie, Bernard (eds.) 2015. The Intercontinental Dictionary Series. Leipzig: Max Planck Institute for Evolutionary Anthropology.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
-    "dc:format": "http://concepticon.clld.org/contributions/Key-2016-1310",
+    "dc:format": [
+        "http://concepticon.clld.org/contributions/Key-2016-1310"
+    ],
     "dc:identifier": "http://ids.clld.org",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:source": "sources.bib",
     "dc:title": "Intercontinental Dictionary Series",
-    "dcat:accessURL": "https://github.com/lexibank/ids",
     "rdf:ID": "ids",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
@@ -18,8 +19,8 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v3.3.2",
-                "concepticon_version": "pyconcepticon-1.4.0-10-g1d57531"
+                "glottolog_version": "v3.4",
+                "concepticon_version": "v2.0"
             }
         }
     ],
@@ -53,7 +54,7 @@
                     },
                     {
                         "datatype": "string",
-                        "propertyUrl": "http://linguistics-ontology.org/gold/2010/FormUnit",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#value",
                         "required": true,
                         "name": "Value"
                     },
@@ -165,6 +166,26 @@
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#macroarea",
                         "name": "Macroarea"
+                    },
+                    {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": -90,
+                            "maximum": 90
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
+                        "required": false,
+                        "name": "Latitude"
+                    },
+                    {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": -180,
+                            "maximum": 180
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
+                        "required": false,
+                        "name": "Longitude"
                     },
                     {
                         "datatype": "string",
