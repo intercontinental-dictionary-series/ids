@@ -22,15 +22,15 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v4.0",
-                "concepticon_version": "v2.0"
+                "glottolog_version": "v4.0-51-gd1fd2f4521",
+                "concepticon_version": "v2.1.0-83-g48aed50"
             }
         }
     ],
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 453975,
+            "dc:extent": 453973,
             "tableSchema": {
                 "columns": [
                     {
@@ -193,6 +193,11 @@
                     {
                         "datatype": "string",
                         "name": "Family"
+                    },
+                    {
+                        "datatype": "string",
+                        "separator": ";",
+                        "name": "Contributors"
                     }
                 ],
                 "primaryKey": [

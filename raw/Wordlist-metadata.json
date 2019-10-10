@@ -256,7 +256,8 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "Contributors"
+                        "name": "Contributors",
+                        "separator": ";"
                     }
                 ]
             },

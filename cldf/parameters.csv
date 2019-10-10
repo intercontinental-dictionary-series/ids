@@ -6,7 +6,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 14-270,finish,1766,FINISH
 14-260,end (temporal),743,END (OF TIME)
 14-252,"last, endure",1186,LAST (ENDURE)
-14-250,"begin, beginning",1806,BEGIN
+14-250,"begin, beginning",3447,BEGIN OR START
 14-240,"retard, delay",425,BE LATE
 14-230,"hasten, hurry",754,HURRY
 14-220,slow,701,SLOW
@@ -182,7 +182,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 10-860,rudder,108,RUDDER
 10-852,row (vb),1849,ROW
 10-851,paddle (noun),234,PADDLE
-10-850,oar,108,RUDDER
+10-850,oar,3137,OAR
 10-840,raft,1664,RAFT
 10-832,outrigger,416,OUTRIGGER
 10-831,canoe,1970,CANOE
@@ -230,7 +230,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 10-420,"slide, slip",1324,SLIP
 10-413,crouch,296,CROUCH
 10-412,kneel,66,KNEEL
-10-410,"creep, crawl",96,CRAWL
+10-410,"creep, crawl",3456,CRAWL OR CREEP
 10-380,blow,175,BLOW (OF WIND)
 10-370,fly (vb),1441,FLY (MOVE THROUGH AIR)
 10-360,sail (vb),787,SAIL
@@ -393,7 +393,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 8-120,field (for cultivation),212,FIELD
 8-110,farmer,979,FARMER
 7-640,adobe,901,ADOBE
-7-630,mortar,224,MORTAR CRUSHER
+7-630,mortar,1731,MORTAR BINDER
 7-620,brick,1006,BRICK
 7-580,arch,876,ARCH
 7-610,mason,877,MASON
@@ -445,7 +445,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 6-820,towel,1021,TOWEL
 6-810,"handkerchief, rag",332,RAG
 6-790,tattoo,68,TATTOO
-6-780,"headband, headdress",330,HEADBAND
+6-780,"headband, headdress",3457,HEADBAND OR HEADDRESS
 6-770,earring,770,EARRING
 6-760,bead,1860,BEAD
 6-750,necklace,1961,NECKLACE
@@ -487,7 +487,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 6-270,felt,325,FELT
 6-250,silk,1641,SILK
 6-240,cotton,1850,COTTON
-6-230,"linen, flax",916,LINEN
+6-230,"linen, flax",3462,FLAX OR LINEN
 6-220,wool,964,WOOL
 6-210,cloth,1616,CLOTH
 6-130,tailor,881,TAILOR
@@ -533,7 +533,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 5-510,bread,1368,BREAD
 5-490,"stir, mix",2017,MIX
 5-480,scrape,1767,SCRAPE
-5-470,"sieve, strain",86,SIEVE
+5-470,"sieve, strain",3448,SIEVE OR STRAIN
 5-460,peel,275,PEEL
 5-450,supper,1833,DINNER (SUPPER)
 5-440,dinner,1833,DINNER (SUPPER)
@@ -816,7 +816,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 3-160,pasture,649,PASTURE
 3-150,livestock,631,LIVESTOCK
 3-130,female (adj),2262,FEMALE (OF ANIMAL)
-3-120,male (adj),2261,MALE (OF PERSON)
+3-120,male (adj),2263,MALE (OF ANIMAL)
 3-110,animal,619,ANIMAL
 2-960,they,817,THEY
 2-950,you (plural),1213,YOU
@@ -839,8 +839,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2-640,daughter-in-law (of a man),2265,DAUGHTER-IN-LAW (OF MAN)
 2-631,son-in-law (of a woman),2266,SON-IN-LAW (OF WOMAN)
 2-630,son-in-law (of a man),2267,SON-IN-LAW (OF MAN)
-2-621,mother-in-law (of a woman),2257,MOTHER-IN-LAW (OF MAN)
-2-620,mother-in-law (of a man),2256,MOTHER-IN-LAW (OF WOMAN)
+2-621,mother-in-law (of a woman),2256,MOTHER-IN-LAW (OF WOMAN)
+2-620,mother-in-law (of a man),2257,MOTHER-IN-LAW (OF MAN)
 2-611,father-in-law (of a woman),2254,FATHER-IN-LAW (OF WOMAN)
 2-610,father-in-law (of a man),2255,FATHER-IN-LAW (OF MAN)
 2-570,descendants,490,DESCENDANTS
@@ -887,8 +887,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2-260,girl,1646,GIRL
 2-251,young man (adolescent),76,YOUNG MAN
 2-250,boy,1366,BOY
-2-240,female,1551,FEMALE
-2-230,male,1553,MALE
+2-240,female,2260,FEMALE (OF PERSON)
+2-230,male,2261,MALE (OF PERSON)
 2-220,woman,962,WOMAN
 2-210,man (vs. woman),1554,MAN
 2-100,"person, human being",683,PERSON
@@ -1013,7 +1013,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 15-420,listen,1608,LISTEN
 15-440,"sound, noise",1811,SOUND OR NOISE
 15-450,loud,377,LOUD
-15-460,"quiet, silence",1314,QUIET
+15-460,"quiet, silence",3458,SILENCE
 15-510,see,1409,SEE
 15-520,"look, look at",1819,LOOK
 15-550,show,1039,SHOW
@@ -1138,7 +1138,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 17-550,"yes, affirmative",1268,YES
 17-560,"no, negative",1269,NO
 17-610,how?,1239,HOW
-17-620,how many?,822,HOW MANY
+17-620,how many?,3450,HOW MANY PIECES
 17-630,how much?,531,HOW MUCH
 17-640,what?,1236,WHAT
 17-650,when?,1238,WHEN
@@ -1205,7 +1205,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 19-420,slave,812,SLAVE
 19-430,servant,255,SERVANT
 19-440,freeman,384,FREEMAN
-19-450,"command, order",1128,ORDER
+19-450,"command, order",1998,COMMAND
 19-460,obey,1635,OBEY
 19-470,"let, permit",3237,ALLOW OR PERMIT
 19-510,"friend, companion",1325,FRIEND
