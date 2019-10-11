@@ -42,12 +42,14 @@ class Dataset(clld.CLLD):
         ccode = {
             x.attributes["ids_id"]: x.concepticon_id for x in self.conceptlist.concepts.values()
         }
+        glottolog_codes = self.glottolog.languoids_by_code()
 
         sep = self.original_cldf.__getitem__(('contributions.csv', 'Contributors')).separator
         contributors = {}
         for i, row in enumerate(self.raw.read_csv('contributions.csv')):
             if i:
                 contributors[row[0]] = row[3].split(sep)
+
 
         with self.cldf as ds:
 
@@ -64,10 +66,16 @@ class Dataset(clld.CLLD):
             ds.write(**{'chapters.csv': self.original_cldf['chapters.csv']})
 
             for row in self.original_cldf["LanguageTable"]:
+                gc = GLOTTOCODE_UPDATES.get(row["Glottocode"], row["Glottocode"])
+                try:
+                    iso = glottolog_codes[gc].iso
+                except:
+                    iso = ''
                 ds.add_language(
                     ID=row["ID"],
                     Name=row["Name"],
-                    Glottocode=GLOTTOCODE_UPDATES.get(row["Glottocode"], row["Glottocode"]),
+                    Glottocode=gc,
+                    ISO639P3code=iso,
                     Contributors=contributors[row["ID"]]
                 )
 
