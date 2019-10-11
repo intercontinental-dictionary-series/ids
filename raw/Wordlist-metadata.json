@@ -262,6 +262,22 @@
                 ]
             },
             "url": "contributions.csv"
+        },
+        {
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": "string",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Description"
+                    }
+                ]
+            },
+            "url": "chapters.csv"
         }
     ]
 }

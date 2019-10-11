@@ -25,6 +25,13 @@
                 "glottolog_version": "v4.0-51-gd1fd2f4521",
                 "concepticon_version": "v2.1.0-83-g48aed50"
             }
+        },
+        {
+            "dc:title": "environment",
+            "properties": {
+                "glottolog_version": "v4.0-51-gd1fd2f4521",
+                "concepticon_version": "v2.1.0-83-g48aed50"
+            }
         }
     ],
     "tables": [
@@ -311,6 +318,23 @@
                 ]
             },
             "url": "cognates.csv"
+        },
+        {
+            "dc:extent": 22,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": "string",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Description"
+                    }
+                ]
+            },
+            "url": "chapters.csv"
         }
     ]
 }

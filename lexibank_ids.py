@@ -50,7 +50,18 @@ class Dataset(clld.CLLD):
                 contributors[row[0]] = row[3].split(sep)
 
         with self.cldf as ds:
+
             self.add_sources(ds)
+
+            # add chapters.csv to cldf
+            ds.wl.add_component(dict(
+                url='chapters.csv',
+                tableSchema=dict(columns=[
+                    dict(name='ID', datatype='string', required=True),
+                    dict(name='Description', datatype='string'),
+                ])
+            ))
+            ds.write(**{'chapters.csv': self.original_cldf['chapters.csv']})
 
             for row in self.original_cldf["LanguageTable"]:
                 ds.add_language(
