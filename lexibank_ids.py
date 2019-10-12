@@ -19,6 +19,7 @@ class IDSLanguage(Language):
     Contributors = attr.ib(default=None)
     default_representation = attr.ib(default=None)
     alt_representation = attr.ib(default=None)
+    alt_names = attr.ib(default=None)
     date = attr.ib(default=None)
 
 class Dataset(clld.CLLD):
@@ -46,11 +47,12 @@ class Dataset(clld.CLLD):
         }
         glottolog_codes = self.glottolog.languoids_by_code()
 
-        sep = self.original_cldf.__getitem__(('contributions.csv', 'Contributors')).separator
+        sep_ctr = self.original_cldf.__getitem__(('contributions.csv', 'Contributors')).separator
+        sep_alt_n = self.original_cldf.__getitem__(('languages.csv', 'alt_names')).separator
         contributors = {}
         for i, row in enumerate(self.raw.read_csv('contributions.csv')):
             if i:
-                contributors[row[0]] = row[3].split(sep)
+                contributors[row[0]] = row[3].split(sep_ctr)
 
 
         with self.cldf as ds:
@@ -86,6 +88,7 @@ class Dataset(clld.CLLD):
                     Contributors=contributors[row["ID"]],
                     default_representation=dr,
                     alt_representation=ar,
+                    alt_names=row["alt_names"],
                     date=row["date"],
                 )
                 ds.objects['LanguageTable'][-1]['Latitude'] = row['Latitude']
@@ -111,4 +114,5 @@ class Dataset(clld.CLLD):
             ds.objects['LanguageTable'] = sorted(ds.objects['LanguageTable'],
                     key=lambda item: int(item['ID']))
 
-            ds.wl['LanguageTable', 'Contributors'].separator = sep
+            ds.wl['LanguageTable', 'Contributors'].separator = sep_ctr
+            ds.wl['LanguageTable', 'alt_names'].separator = sep_alt_n

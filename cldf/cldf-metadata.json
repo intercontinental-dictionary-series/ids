@@ -216,6 +216,11 @@
                     },
                     {
                         "datatype": "string",
+                        "separator": ";",
+                        "name": "alt_names"
+                    },
+                    {
+                        "datatype": "string",
                         "name": "date"
                     }
                 ],
