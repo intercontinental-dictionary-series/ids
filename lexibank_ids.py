@@ -17,7 +17,9 @@ class IDSLexeme(Lexeme):
 @attr.s
 class IDSLanguage(Language):
     Contributors = attr.ib(default=None)
-
+    default_representation = attr.ib(default=None)
+    alt_representation = attr.ib(default=None)
+    date = attr.ib(default=None)
 
 class Dataset(clld.CLLD):
     __cldf_url__ = "http://cdstar.shh.mpg.de/bitstreams/EAEA0-5F01-8AAF-CDED-0/ids_dataset.cldf.zip"
@@ -71,13 +73,23 @@ class Dataset(clld.CLLD):
                     iso = glottolog_codes[gc].iso
                 except:
                     iso = ''
+                dr, ar = None, None
+                if row["representations"]:
+                    dr = row["representations"][0]
+                    if len(row["representations"]) > 1:
+                        ar = row["representations"][1]
                 ds.add_language(
                     ID=row["ID"],
                     Name=row["Name"],
                     Glottocode=gc,
                     ISO639P3code=iso,
-                    Contributors=contributors[row["ID"]]
+                    Contributors=contributors[row["ID"]],
+                    default_representation=dr,
+                    alt_representation=ar,
+                    date=row["date"],
                 )
+                ds.objects['LanguageTable'][-1]['Latitude'] = row['Latitude']
+                ds.objects['LanguageTable'][-1]['Longitude'] = row['Longitude']
 
             for row in self.original_cldf["ParameterTable"]:
                 ds.add_concept(

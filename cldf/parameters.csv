@@ -157,7 +157,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 11-440,coin,1867,COIN
 11-430,money,1559,MONEY
 11-340,"release, let go",1095,LET GO OR SET FREE
-11-330,lose,1660,LOSE
+11-330,lose,3072,MISPLACE
 11-320,find,719,FIND
 11-310,"seek, look for",1468,LOOK FOR
 11-280,"harm, injure, damage",3195,DAMAGE OR INJURE
@@ -251,8 +251,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 10-160,drop (vb),2866,DROP (SOMETHING)
 10-150,roll,827,ROLL
 10-140,"wind, wrap",1113,WRAP
-10-130,turn around,1445,TURN (SOMETHING)
-10-120,turn over,1588,TURN
+10-130,turn around,1444,TURN AROUND
+10-120,turn over,1445,TURN (SOMETHING)
 10-110,move,765,MOVE
 9-890,paint (vb),2001,PAINTING
 9-840,chisel,1979,CHISEL

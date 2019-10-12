@@ -1,330 +1,330 @@
-ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Contributors
-26,Avar (Batlukh dialect),batl1238,,,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-27,Avar (Hid dialect),hidd1238,,,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-28,Avar (Andalal dialect),anda1281,,,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-29,Avar (Antsukh dialect),ancu1238,,,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-30,Avar (Zakataly dialect),zaka1239,,,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-31,Avar (Karakh dialect),kara1473,,,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-32,Andi,andi1255,,ani,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-33,Akhvakh (Northern dialect),akhv1239,,akv,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-34,Akhvakh (Southern dialect),akhv1239,,akv,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-35,Bagvalal,bagv1239,,kva,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-37,Botlikh,botl1242,,bph,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-38,Godoberi,ghod1238,,gdo,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-39,Karata,kara1474,,kpt,,,,,Claudia Schmidt|Data Entry;Madzhid Khalilov|Author;Stefan Lange|Data Entry
-40,Karata (Tokitin dialect),toki1238,,,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-41,Khwarshi (Khwarshi dialect),xvar1237,,,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-42,Hinuq,hinu1240,,gin,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-50,Tindi,tind1238,,tin,,,,,Stefan Lange|Data Entry;Madzhid Khalilov|Author
-51,Chamalal,cham1309,,cji,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-52,Hunzib,hunz1247,,huz,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-54,Khwarshi (Inkhokvari dialect),inxo1238,,,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-55,Tsez (Sagada dialect),saga1261,,,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-56,Lak,lakk1252,,lbe,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-57,Dargwa,darg1241,,dar,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-58,Dargwa (Itsari dialect),itsa1239,,,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-59,Dargwa (Kubachi dialect),kuba1248,,,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-60,Dargwa (Khajdak dialect),kajt1238,,,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-61,Aghul,aghu1253,,agx,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-62,Archi (variety 1),arch1244,,aqc,,,,,Stefan Lange|Data Entry;Madzhid Khalilov|Author
-63,Budukh,budu1248,,bdk,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-64,Lezgian,lezg1247,,lez,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-65,Lezgi (Mikrakh dialect),lezg1247,,lez,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-66,Rutul,rutu1240,,rut,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-67,Tabasaran (Northern dialect Khanag subdialect),taba1259,,tab,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-68,Tabasaran (Southern dialect),sout2752,,,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-69,Khinalug,khin1240,,kjj,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-70,Tsakhur,tsak1249,,tkr,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-71,Azerbaijani,nort2697,,azj,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-72,Kumyk,kumy1244,,kum,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-73,Nogai,noga1249,,nog,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-74,Judeo-Tat,jude1256,,jdt,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-75,Chechen,chec1245,,che,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-80,Udi,udii1243,,udi,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-81,Avar (Kusur dialect),avar1256,,ava,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-107,Avar,avar1256,,ava,,,,,Claudia Schmidt|Data Entry;Hagen Jung|Data Entry;Madzhid Khalilov|Author;Stefan Lange|Data Entry
-126,Erzya Mordvin,erzy1239,,myv,,,,,Piret Klesment|Data Entry;Olga Erina|Author
-127,Estonian,esto1258,,ekk,,,,,Iris Audova|Data Entry;Margit Kuusk|Author;Ago Künnap|Author
-128,Finnish,finn1318,,fin,,,,,Anja  Pihlajaniemi|Consultant;Margit Kuusk|Author;Piret Klesment|Data Entry
-131,Hungarian,hung1274,,hun,,,,,Iris Audova|Data Entry;Péter Pomozi|Author;Sirje Volmre|Author
-135,Khanty,khan1273,,kca,,,,,Piret Klesment|Data Entry;Nataliya Kochkareva|Author;Nina Lyskova|Author
-139,Komi,komi1268,,kpv,,,,,Piret Klesment|Data Entry;Adolf Turkin|Author
-143,Northern Saami,nort2671,,sme,,,,,Pekka Sammallahti|Consultant;Axel Jagau|Author;Kulle Kallavus|Author;Iris Audova|Data Entry
-146,Mansi,mans1258,,mns,,,,,Iris Audova|Data Entry;Nina Lyskova|Author
-147,Mari,east2328,,mhr,,,,,Inna Timiryaeva|Author;Iris Audova|Data Entry
-148,Nenets,nene1249,,yrk,,,,,Piret Klesment|Data Entry;Mariya Barmich|Author
-151,Selkup,selk1253,,sel,,,,,Piret Klesment|Data Entry;Arkadiy I. Gashilov|Author
-159,Udmurt,udmu1245,,udm,,,,,Lyudmila Karpova|Author;Iris Audova|Data Entry
-160,Bezhta,bezh1248,,kap,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-162,Tsez (Mokok dialect) ,dido1241,,ddo,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-164,Dargwa (Muiri dialect),darg1241,,dar,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-165,Lezgian (Quba dialect),quba1246,,,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-166,Azerbaijani (Terekeme dialect),nort2697,,azj,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-167,Ancient Greek ,anci1242,,grc,,,,,Fotis A. Kavoukopoulos|Author;Mary Ritchie Key|Data Entry
-168,Modern Greek,mode1248,,ell,,,,,Maria Tsigou|Author;Mary Ritchie Key|Data Entry
-169,Latin,lati1261,,lat,,,,,Philip Baldi|Author;Mary Ritchie Key|Data Entry;Mackayla Infante-Wong|Data Entry
-170,Italian,ital1282,,ita,,,,,Martin Maiden|Author;Mary Ritchie Key|Data Entry
-171,French,stan1290,,fra,,,,,Mary Ritchie Key|Data Entry;various|Author
-172,Panare,enap1235,,pbh,,,,,Jana Price|Author;Mary Ritchie Key|Data Entry
-173,Macushi,macu1259,,mbc,,,,,Miriam Abbott|Author;Patrick Foster|Author;Mary Ritchie Key|Data Entry
-174,De'kwana,maqu1238,,mch,,,,,Katherine Hall|Author;Mary Ritchie Key|Data Entry
-175,Wai Wai,waiw1244,,waw,,,,,Robert E. Hawkins|Author;Mary Ritchie Key|Data Entry
-176,Spanish,stan1288,,spa,,,,,Joan Rafel|Author;Mary Ritchie Key|Data Entry;various|Author
-177,Catalan,stan1289,,cat,,,,,Joan Rafel|Author;Mary Ritchie Key|Data Entry;Native speaker|Consultant
-178,Portuguese,port1283,,por,,,,,various|Author;Mary Ritchie Key|Data Entry
-179,Romanian,roma1327,,ron,,,,,Maria Manoliu-Manea|Author;Mackayla Infante-Wong|Data Entry
-180,Old Irish,oldi1245,,sga,,,,,Jessica Ellis|Data Entry;Mary Ritchie Key|Author
-181,Irish,iris1253,,gle,,,,,Cathal Doherty|Author;Jessica Ellis|Data Entry;Cathal Doherty|Data Entry
-182,Welsh,wels1247,,cym,,,,,Andrew Hawke|Author;Mary Ritchie Key|Data Entry;Mackayla Infante-Wong|Data Entry
-183,Breton,bret1244,,bre,,,,,Jean Le Dû|Author;Jessica Ellis|Data Entry;Mary Ritchie Key|Data Entry
-184,Gothic,goth1244,,got,,,,,Winfred P. Lehmann|Author;Susan Chapman|Data Entry;Winfred P. Lehmann|Consultant
-185,Old Norse,oldn1244,,non,,,,,Mackayla Infante-Wong|Data Entry;Olaf Jansen Westvik|Author
-186,Danish,dani1285,,dan,,,,,W. W. Schuhmacher|Author;Mary Ritchie Key|Data Entry
-187,Swedish,swed1254,,swe,,,,,Erik V. Gunnemark|Author;Laila Kollmann|Author;Mackayla Infante-Wong|Data Entry;Jan-Åke Alvarsson|Consultant
-188,Old English,olde1238,,ang,,,,,Christopher M. Kuipers|Author;Mackayla Infante-Wong|Data Entry;Christopher M. Kuipers|Data Entry
-189,Middle English,midd1317,,enm,,,,,Mona Logarbo|Author;Mackayla Infante-Wong|Data Entry
-190,English,stan1293,,eng,,,,,various|Author;Stephan Schuetze-Coburn|Data Entry
-191,Dutch,dutc1256,,nld,,,,,Bernard Bichakjian|Author;Hendrikje Hettema|Author;Jessica Ellis|Data Entry
-192,Old High German,oldh1241,,goh,,,,,Vincent Miller|Author;Vincent Miller|Data Entry;Mackayla Infante-Wong|Data Entry
-193,Middle High German ,midd1343,,gmh,,,,,William C. Crossgrove|Author;Mackayla Infante-Wong|Data Entry;William C. Crossgrove|Data Entry
-194,German,stan1295,,deu,,,,,Meredith Lee|Author;Mary Ritchie Key|Data Entry
-195,Yiddish,east2295,,ydd,,,,,Paul Glasser|Author;Mackayla Infante-Wong|Data Entry
-196,Lithuanian,lith1251,,lit,,,,,Ramutė Plioplys|Author;S. J. Juozas Vaišnys|Consultant;Sigita Plioplys|Consultant;Kazimieras Plečkaitis|Consultant;William R. Schmalsteig|Consultant;Mackayla Infante-Wong|Data Entry
-197,Latvian,latv1249,,lav,,,,,Juris Cibuļs|Author;Mary Ritchie Key|Data Entry
-198,Old Prussian,prus1238,,prg,,,,,William R. Schmalstieg|Author;William R. Schmalstieg|Data Entry
-199,Old Church Slavonic,chur1257,,chu,,,,,Mary Ritchie Key|Data Entry;Mary Ritchie Key|Author
-200,Bulgarian,bulg1262,,bul,,,,,Cynthia Vakareliyska|Author;Kevork Horissian|Author;Mary Ritchie Key|Data Entry
-201,Serbo-Croatian,sout1528,,hbs,,,,,Andrew R. Corin|Author;Mackayla D. Infante-Wong|Data Entry
-202,Czech,czec1258,,ces,,,,,Václav Blažek|Author;Mackayla Infante-Wong|Data Entry
-203,Polish,poli1260,,pol,,,,,Stanisław Puppel|Author;Mary Ritchie Key|Data Entry;Mackayla Infante-Wong|Data Entry
-204,Russian,russ1263,,rus,,,,,Jules F. Levin|Author;Mackayla Infante-Wong|Data Entry
-205,Albanian (Tosk variety),tosk1239,,als,,,,,Leonard Newmark|Author;Mary Ritchie Key|Data Entry
-206,Armenian (Eastern variety),east2283,,,,,,,Dora Sakayan|Author;Dora Sakayan|Data Entry;Amalia Khatchatrian|Consultant
-207,Armenian (Western variety),west2348,,,,,,,Dora Sakayan|Author;Dora Sakayan|Data Entry;Amalia Khatchatrian|Consultant
-208,Hittite,hitt1242,,hit,,,,,Carol F. Justus|Author;Carol F. Justus|Data Entry
-209,Tocharian A,tokh1242,,xto,,,,,Douglas Q. Adams|Author;Mary Ritchie Key|Data Entry;Mackayla Infante-Wong|Data Entry
-210,Tocharian B,tokh1243,,txb,,,,,Douglas Q. Adams|Author;Mary Ritchie Key|Data Entry;Mackayla Infante-Wong|Data Entry
-211,Sanskrit,sans1269,,san,,,,,James A. Santucci|Author;James A. Santucci|Data Entry
-212,Romani,vlax1238,,rmy,,,,,Donald Kenrick|Author;Mackayla D. Infante-Wong|Data Entry
-213,Avestan,aves1237,,ave,,,,,Mary Ritchie Key|Data Entry;Mary Ritchie Key|Author
-214,Persian,west2369,,pes,,,,,John R. Perry|Author;Mary Ritchie Key|Data Entry;Herbert H. Paper|Consultant
-215,Ancient Aramaic,olda1245,,oar,,,,,Stephen A. Kaufman|Author;Stephen A. Kaufman|Data Entry;Comprehensive Aramaic Lexicon data files|Consultant
-216,Elamite,elam1244,,elx,,,,,Václav Blazek|Author;Mary Ritchie Key|Data Entry
-217,Negerhollands,nege1244,,dcr,,,,,Robin Sabino|Author;Robin Sabino|Data Entry;Mrs. Alice Stevens|Consultant
-218,Jamaican Creole (Limonese Creole dialect),jama1262,,jam,,,,,Anita Hertzfeld|Author;Franklin Perry|Author;Robin Sabino|Data Entry
-219,Basque,basq1248,,eus,,,,,Jean-Baptiste Coyos|Author;Mary Ritchie Key|Data Entry;Etchebarne-Harrixuri family|Consultant;Etchebarne Battitta family|Consultant;Estécahandy-Halbide family|Consultant;Mrs. Coyos (mother of J.-B. Coyos)|Consultant
-220,Hausa,haus1257,,hau,,,,,Ronald Cosper|Author;George B. Loveridge|Data Entry;Hilary Young|Data Entry;Garba Mohammed Gital|Consultant
-221,Polci,polc1243,,plj,,,,,Ronald Cosper|Author;George B. Loveridge|Data Entry;Hilary Young|Data Entry;Musa Waje|Consultant;Abdu Sabo|Consultant
-222,Nahuatl (Sierra de Zacapoaxtla variety),high1278,,azz,,,,,Mary Ritchie Key|Author;Mary Ritchie Key|Data Entry;Field work: 1948-1955|Consultant
-223,Chatino (Zacatepec variety),zaca1242,,ctz,,,,,Leslie G. Pride and Kitty Pride|Author;Mary Ritchie Key|Data Entry
-224,Karok,karo1304,,kyh,,,,,William Bright|Author;Iris Audova|Data Entry;Piret Klesment|Data Entry
-225,Seri,seri1257,,sei,,,,,"Stephen A. Marlett|Author;Mary B. Moser|Author;Mary Ritchie Key|Data Entry;Summer Institute of Linguistics, University of North Dakota|Consultant"
-226,Zuni,zuni1245,,zun,,,,,Willard Walker|Author;Iris Audova|Data Entry;Piret Klesment|Data Entry;Lynn Nichols 1992|Consultant
-227,Northern Haida,nort2938,,hdn,,,,,Mary Ritchie Key|Data Entry;JRS = Swanton|Consultant;John Campbell|Author
-228,Tlingit,tlin1245,,tli,,,,,Mary Ritchie Key|Data Entry;Mary Ritchie Key|Author
-229,Tsimshian,nucl1649,,tsi,,,,,Mary Ritchie Key|Data Entry;Mary Ritchie Key|Author
-230,Nuu-chah-nulth,nuuc1236,,nuk,,,,,Mary Ritchie Key|Data Entry;Mary Ritchie Key|Author
-231,Bella Coola,bell1243,,blc,,,,,Mary Ritchie Key|Data Entry;Mary Ritchie Key|Author
-232,Upper Chehalis,uppe1439,,cjh,,,,,Mary Ritchie Key|Data Entry;Mary Ritchie Key|Author
-233,Proto Austronesian,aust1307,,,,,,,Mary Ritchie Key|Author;Mary Ritchie Key|Data Entry
-234,Proto Polynesian,poly1242,,,,,,,Mary Ritchie Key|Author;Mary Ritchie Key|Data Entry
-235,Hawaiian,hawa1245,,haw,,,,,Mary Ritchie Key|Data Entry;Mary Ritchie Key|Author
-236,Maori,maor1246,,mri,,,,,Mary Ritchie Key|Author;Mary Ritchie Key|Data Entry
-237,Marquesan,sout2866,,mqm,,,,,Mary Ritchie Key|Data Entry;Mary Ritchie Key|Author
-238,Rapa Nui,rapa1244,,rap,,,,,Robert L. Weber|Author;Jessica Ellis|Data Entry;Mary Ritchie Key|Data Entry;Mary Ritchie Key|Author;Nancy L. Weber|Author
-239,Rotuman,rotu1241,,rtm,,,,,Mary Ritchie Key|Data Entry;Mary Ritchie Key|Author
-240,Tongan,tong1325,,ton,,,,,Mary Ritchie Key|Data Entry;Mary Ritchie Key|Author
-241,Tuamotuan,tuam1242,,pmt,,,,,Mary Ritchie Key|Data Entry;various|Author
-242,Barí,bari1297,,mot,,,,,Roberto Lizarralde (Venezuelan dialect)|Author;Manuel Lizarralde (Venezuelan dialect)|Author;Frank Morgan (Colombian  dialect)|Author;Mary Ritchie Key|Data Entry
-243,Muisca,chib1270,,chb,,,,,María Stella González de Pérez|Author;Mary Ritchie Key|Data Entry
-244,Páez,paez1247,,pbb,,,,,Florence L. Gerdel|Author;Mary Ritchie Key|Data Entry
-245,Cayapa,chac1249,,cbi,,,,,Ruth Wiebe|Author;Neil Wiebe|Author;Mary Ritchie Key|Data Entry;Santiago Añapa|Consultant;Raúl Añapa|Consultant
-246,Colorado,colo1256,,cof,,,,,Bruce R. Moore|Author;Mary Ritchie Key|Data Entry
-247,Embera,nort2972,,emp,,,,,Mauricio Pardo Rojas|Author;Mary Ritchie Key|Data Entry
-248,Epena,epen1239,,sja,,,,,Phillip Lee Harms|Author;Eladio Quiro Dura|Author;Mary Ritchie Key|Data Entry
-249,Puinave,puin1248,,pui,,,,,Larry A. Richardson|Author;Mary Ritchie Key|Data Entry
-250,Yuwana,yuwa1244,,yau,,,,,Sue Rodman|Author;David Rodman|Author;Mary Ritchie Key|Data Entry;Rodmans' field notes|Consultant
-251,Yaruro,pume1238,,yae,,,,,Teresa Ann Dyck|Author;Merrill Dyck|Author;Mary Ritchie Key|Data Entry
-252,Ninam (Shirishana variety),nina1238,,shb,,,,,Carole Swain|Author;Mary Ritchie Key|Data Entry
-253,Yanomámi,yano1262,,wca,,,,,Jacques Lizot|Author;Mary Ritchie Key|Data Entry
-254,Cofán,cofa1242,,con,,,,,M. Bub Borman|Author;Mary Ritchie Key|Data Entry;Field notes|Consultant
-255,Waorani,waor1240,,auc,,,,,M. Catherine Peeke|Author;Mary Ritchie Key|Data Entry
-256,Siona,sion1247,,snn,,,,,Mary Ritchie Key|Author;Mary Ritchie Key|Data Entry
-257,Tuyuca,tuyu1244,,tue,,,,,Janet Barnes|Author;Mary Ritchie Key|Data Entry
-258,Aguaruna,agua1253,,agr,,,,,Gerardo Wipio Deicat|Author;Mary Ritchie Key|Data Entry
-260,Yagua,yagu1244,,yad,,,,,Esther Powlison|Author;Paul S. Powlison|Author;Mary Ritchie Key|Data Entry
-261,Baure,baur1253,,brg,,,,,Mary Ritchie Key|Author;Mary Ritchie Key|Data Entry
-262,Goajiro,wayu1243,,guc,,,,,Jesús Olza Zubiri|Author;Miguel Angel Jusayú|Author;José Alvarez (commentary)|Author;Mary Ritchie Key|Data Entry
-263,Ignaciano,igna1246,,ign,,,,,"Mary Ritchie Key|Author;Mary Ritchie Key|Data Entry;Mary Ritchie Key|Author;Mary Ritchie Key|Data Entry;Ott's material, and Ott correspondence|Consultant"
-264,Mashco Piro,mash1270,,cuj,,,,,Mary Ritchie Key|Author;Mary Ritchie Key|Data Entry
-265,Trinitario,trin1274,,trn,,,,,Wayne Gill|Author;Ruth Gill|Author;Mary Ritchie Key|Data Entry
-266,Wapishana,wapi1253,,wap,,,,,Frances V. Tracy|Author;Colette Melville|Author;Olive Williams|Author;Mary Ritchie Key|Data Entry
-267,Waurá,waur1244,,wau,,,,,Joan Richards|Author;Mary Ritchie Key|Data Entry
-268,Yavitero,yavi1244,,yvt,,,,,Mary Ritchie Key|Author;Mary Ritchie Key|Data Entry;Jorge Carlos Mosonyi|Consultant
-269,Aymara,cent2142,,ayr,,,,,Félix Layme Pairumani|Author;Mary Ritchie Key|Data Entry
-270,Chipaya,chip1262,,cap,,,,,Frances Olson|Author;Ronald D. Olson|Author;Mary Ritchie Key|Data Entry
-271,Mosetén,mose1249,,cas,,,,,Andrés A. Pérez Diez|Author;Mary Ritchie Key|Data Entry
-272,Araona,arao1248,,aro,,,,,Mary Ritchie Key|Author;Mary Ritchie Key|Data Entry;Donald Pitman|Consultant;Mary Pitman|Consultant
-273,Cavineña,cavi1250,,cav,,,,,Mary Ritchie Key|Author;Mary Ritchie Key|Data Entry
-274,Ese Ejja,esee1248,,ese,,,,,Mary Ritchie Key|Author;Mary Ritchie Key|Data Entry
-275,Ese Ejja (Huarayo),esee1248,,ese,,,,,María Clotilde Chavarría Mendoza|Author;Mary Ritchie Key|Data Entry
-276,Tacana,taca1256,,tna,,,,,Mary Ritchie Key|Author;Mary Ritchie Key|Data Entry
-277,Cashibo,cash1251,,cbr,,,,,Mary Ritchie Key|Author;R. Michael Tugwell|Author;R. Michael Tugwell|Data Entry;Mary Ritchie Key|Data Entry
-278,Catuquina,pano1254,,knt,,,,,"Gerald Raymond Kennell, Jr.|Author;Mary Ritchie Key|Data Entry"
-279,Chácobo,chac1251,,cao,,,,,Mary Ritchie Key|Author;Marian Prost|Author;Mary Ritchie Key|Data Entry
-280,Pacahuara,paca1246,,pcp,,,,,Mary Ritchie Key|Data Entry;Jeanne East|Consultant;Guy East|Consultant;Mary Ritchie Key|Author
-281,Shipibo-Conibo,ship1254,,shp,,,,,Mary Ritchie Key|Author;Mary Ritchie Key|Data Entry
-282,Yaminahua,yami1256,,yaa,,,,,Ivagene Shive|Author;Mary Ritchie Key|Data Entry
-283,Cayuvava,cayu1262,,cyb,,,,,Mary Ritchie Key|Author;Mary Ritchie Key|Data Entry
-284,Itonama,iton1250,,ito,,,,,Mary Ritchie Key|Author;Mary Ritchie Key|Data Entry
-285,Movima,movi1243,,mzp,,,,,Robert A. Judy|Author;Mary Ritchie Key|Data Entry
-286,Pacaas Novos,wari1268,,pav,,,,,Misión Nuevas Tribus|Author;Mary Ritchie Key|Data Entry
-287,Mundurukú,mund1330,,myu,,,,,Mary Ritchie Key|Data Entry;Mary Ritchie Key|Author
-288,Aché,ache1246,,guq,,,,,Claudia J. Heckart|Author;Kim Hill|Author;Mary Ritchie Key|Data Entry
-289,Chiriguano,east2555,,gui,,,,,Wolf Dietrich|Author;Mary Ritchie Key|Data Entry
-290,Guaraní,para1311,,gug,,,,,Celsa Dávalos de Céspedes|Author;Natalia Krivoshein de Canese|Author;Mary Ritchie Key|Data Entry
-291,Sirionó,siri1273,,srq,,,,,Mary Ritchie Key|Author;Mary Ritchie Key|Data Entry
-292,Wayampi,waya1270,,oym,,,,,Françoise Grenand|Author;Raymond Alasuka|Author;Mary Ritchie Key|Data Entry
-293,Canela,cane1242,,ram,,,,,Mary Ritchie Key|Author;Mary Ritchie Key|Data Entry
-294,Kaingáng,kain1272,,kgp,,,,,Mary Ritchie Key|Author;Mary Ritchie Key|Data Entry;Ursula Wiesemann|Consultant
-295,Karajá,kara1500,,kpj,,,,,Mary Ritchie Key|Author;Mary Ritchie Key|Data Entry
-296,Trumai,trum1247,,tpy,,,,,Aurore Monod-Becquelin|Author;Mary Ritchie Key|Data Entry
-297,Ayoreo,ayor1240,,ayo,,,,,Janet R. Briggs|Author;Mary Ritchie Key|Data Entry
-298,Sanapaná (Angaité dialect),anga1295,,,,,,,Ruth Sammons|Author;Mary Ritchie Key|Data Entry
-299,Sanapaná (Enlhet dialect),sana1298,,spn,,,,,Ernesto Unruh|Author;Hannes Kalisch|Author;Mary Ritchie Key|Data Entry
-300,Lengua,leng1262,,leg,,,,,Elizabeth Richards|Author;Timothy Curtis|Author;Mary Ritchie Key|Data Entry
-301,Mocoví,moco1246,,moc,,,,,Albert S. Buckwalter|Author;Roberto Ruiz|Author;Mary Ritchie Key|Data Entry
-302,Pilagá,pila1245,,plg,,,,,Albert S. Buckwalter|Author;Julio Suárez|Author;Mary Ritchie Key|Data Entry
-304,Chorote,iyoj1235,,crt,,,,,Ana Gerzenstein|Author;Mary Ritchie Key|Data Entry
-305,Maca,maca1260,,mca,,,,,Ana Gerzenstein|Author;Mary Ritchie Key|Data Entry
-306,Wichí,wich1264,,mzh,,,,,José A. Braunstein|Author;Mary Ritchie Key|Data Entry
-307,Nivaclé,niva1238,,cag,,,,,Nélida N. Stell|Author;José Seelwische|Author;Mary Ritchie Key|Data Entry
-308,Kunza,kunz1244,,kuz,,,,,Roberto Lehnert Santander|Author;Mary Ritchie Key|Data Entry
-309,Mapudungun,mapu1245,,arn,,,,,María Catrileo|Author;Ana V. Fernández Garay (Ranquel)|Author;Mary Ritchie Key|Author
-310,Tehuelche,tehu1242,,teh,,,,,Mary Ritchie Key|Data Entry;Martine Delahaye|Author
-311,Selknam,onaa1245,,ona,,,,,Elena L. Najlis|Author;Mary Ritchie Key|Data Entry
-312,Gününa Küne,puel1244,,pue,,,,,Rodolfo M. Casamiquela|Author;José Pedro Viegas Barros|Author;Mary Ritchie Key|Data Entry;Elena Najlis|Consultant
-313,Qawasqar,qawa1238,,alc,,,,,Christos Clairis|Author;José Pedro Viegas Barros|Author;Mary Ritchie Key|Data Entry
-314,Toba,toba1269,,tob,,,,,Albert S. Buckwalter|Author;Orlando Sánchez|Author;Mary Ritchie Key|Data Entry
-315,Yagán,yama1264,,yag,,,,,Ana María Guerra Eissmann|Author;Mary Ritchie Key|Data Entry
-316,Andi (Muni dialect),muni1255,,,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-317,Chechen (Akkin dialect),chec1245,,che,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-318,Uncunwee,ghul1238,,ghl,,,,,Robert Williams|Data Entry;Robert Williams|Author
-319,Ossetic,osse1243,,,,,,,Madzhid Khalilov|Author
-320,Avar (Araderikh dialect),avar1256,,ava,,,,,Madzhid Khalilov|Author
-321,Avar (Khunzakh dialect),kunz1243,,,,,,,Madzhid Khalilov|Author
-322,Avar (East Gergebil dialect),avar1256,,ava,,,,,Madzhid Khalilov|Author
-323,Avar (Ansalta dialect),avar1256,,ava,,,,,Madzhid Khalilov|Author
-324,Avar (Salatav dialect),sala1265,,,,,,,Madzhid Khalilov|Author
-325,Khwarshi (Kwantlada dialect),khva1239,,khv,,,,,Madzhid Khalilov|Author
-401,Central Thai,thai1261,,tha,,,,,Ilya Peiros|Author
-402,Southern Tai (Songkhla variety),sout2746,,sou,,,,,Ilya Peiros|Author
-403,Thai (Korat variety),sout2746,,sou,,,,,Ilya Peiros|Author
-404,Khamuang (Chiang Mai variety),nort2740,,nod,,,,,Ilya Peiros|Author
-405,Dehong,tain1252,,tdd,,,,,Ilya Peiros|Author
-406,Jinsha Dai,nort1545,,huj,,,,,Ilya Peiros|Author
-407,Tai Lü,luuu1242,,khb,,,,,Ilya Peiros|Author
-408,Tai Khün,khun1259,,kkh,,,,,Ilya Peiros|Author
-409,Shan,shan1277,,shn,,,,,Ilya Peiros|Author
-410,Shan (Northern Shan dialect),shan1277,,shn,,,,,Ilya Peiros|Author
-411,Nung-Fengshan,guib1244,,zgn,,,,,Ilya Peiros|Author
-412,Nung-Lazhai,guib1244,,zgn,,,,,Ilya Peiros|Author
-413,Nung-Ninbei,nung1283,,nut,,,,,Ilya Peiros|Author
-414,Zhuang-Longzhou,zuoj1238,,zzj,,,,,Ilya Peiros|Author
-415,Sui,suii1243,,swi,,,,,Ilya Peiros|Author
-416,Maonan,maon1241,,mmd,,,,,Ilya Peiros|Author
-417,Mulam,mula1253,,mlm,,,,,Ilya Peiros|Author
-418,Chadong,chad1240,,cdy,,,,,Ilya Peiros|Author
-419,Southern Kam,sout2741,,kmc,,,,,Ilya Peiros|Author
-420,Lakkia,lakk1238,,lbc,,,,,Ilya Peiros|Author
-421,Hlai (Baoting variety),hlai1239,,lic,,,,,Ilya Peiros|Author
-422,Langja Buyang,emab1235,,yzg,,,,,Ilya Peiros|Author
-423,Ecun Buyang,lang1316,,yln,,,,,Ilya Peiros|Author
-424,Sanchong Kelao,gree1278,,giq,,,,,Ilya Peiros|Author
-425,Qau Kelao,qaua1234,,gqu,,,,,Ilya Peiros|Author
-500,Aghul (Koshan dialect),kosh1245,,,,,,,Madzhid Khalilov|Author
-501,Botlikh (Miarso dialect),botl1242,,bph,,,,,Madzhid Khalilov|Author
-502,Chamalal (Gigatli dialect),giga1238,,,,,,,Madzhid Khalilov|Author
-503,Dargwa (Chirag dialect),chir1284,,,,,,,Madzhid Khalilov|Author
-504,Dargwa (Gapshima Shukti dialect),darg1241,,dar,,,,,Madzhid Khalilov|Author
-505,Dargwa (Gapshima dialect),darg1241,,dar,,,,,Madzhid Khalilov|Author
-506,Dargwa (Gubden dialect),darg1241,,dar,,,,,Madzhid Khalilov|Author
-507,Dargwa (Kadar dialect),darg1241,,dar,,,,,Madzhid Khalilov|Author
-508,Dargwa (Megeb dialect),darg1241,,dar,,,,,Madzhid Khalilov|Author
-509,Dargwa (Mekegi dialect),darg1241,,dar,,,,,Madzhid Khalilov|Author
-510,Dargwa (Mugi dialect),darg1241,,dar,,,,,Madzhid Khalilov|Author
-511,Dargwa (Sirkhi dialect),darg1241,,dar,,,,,Madzhid Khalilov|Author
-512,"Dargwa (Tsudakhar dialect, Tanty subdialect)",cuda1238,,,,,,,Madzhid Khalilov|Author
-513,Dargwa (Tsudakhar dialect),cuda1238,,,,,,,Madzhid Khalilov|Author
-514,Dargwa (Urakhi dialect),urax1238,,,,,,,Madzhid Khalilov|Author
-515,Dargwa (Usisha dialect),darg1241,,dar,,,,,Madzhid Khalilov|Author
-516,Ingush,ingu1240,,inh,,,,,Madzhid Khalilov|Author
-517,Bezhta (Khasharkhota dialect),khoc1238,,,,,,,Madzhid Khalilov|Author
-518,Kryz,kryt1240,,kry,,,,,Madzhid Khalilov|Author
-519,Kumyk (Dorgeli dialect),kumy1244,,kum,,,,,Madzhid Khalilov|Author
-520,Kumyk (Kajtak Tumenler dialect),kumy1244,,kum,,,,,Madzhid Khalilov|Author
-521,Kumyk (Kajtak dialect),kumy1244,,kum,,,,,Madzhid Khalilov|Author
-522,Kumyk (Karabudakhkent dialect),kumy1244,,kum,,,,,Madzhid Khalilov|Author
-523,Kumyk (Ter Bragun dialect),kumy1244,,kum,,,,,Madzhid Khalilov|Author
-524,Lak (Arakul dialect),lakk1252,,lbe,,,,,Madzhid Khalilov|Author
-525,Lak (Balkhar dialect),lakk1252,,lbe,,,,,Madzhid Khalilov|Author
-526,Lak (Shali dialect),lakk1252,,lbe,,,,,Madzhid Khalilov|Author
-527,Rutul (Borchino Khnow dialect),rutu1240,,rut,,,,,Madzhid Khalilov|Author
-528,Rutul (Ikhrek dialect),ixre1238,,,,,,,Madzhid Khalilov|Author
-529,Rutul (Mukhrek) dialect,ixre1238,,,,,,,Madzhid Khalilov|Author
-530,Rutul (Shinaz dialect),shin1265,,,,,,,Madzhid Khalilov|Author
-531,"Bezhta (Tlyadal dialect, Karauzek subdialect)",tlya1238,,,,,,,Madzhid Khalilov|Author
-532,Tsakhur (Gelmets dialect),tsak1249,,tkr,,,,,Madzhid Khalilov|Author
-533,Tsova-Tush,bats1242,,bbl,,,,,Madzhid Khalilov|Author
-534,Archi (variety 2),arch1244,,aqc,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry
-701,Bengali,beng1280,,ben,,,,,Anju Saxena|Author;Anju Saxena|Data Entry;Mohini Pimpalkhare|Data Entry
-702,Hindi  ,hind1269,,hin,,,,,Anju Saxena|Author;Anju Saxena|Data Entry;Mohini Pimpalkhare|Data Entry
-703,Khasi,khas1269,,kha,,,,,Anju Saxena|Author;Marantha T. Wahlang|Author;Marantha T. Wahlang|Data Entry;Muhammad Rafiq|Data Entry
-704,Mahasu Pahari (Kotghari dialect),maha1287,,bfz,,,,,Anju Saxena|Author;David Karlander|Data Entry
-705,Marathi,mara1378,,mar,,,,,Anju Saxena|Author;Mohini Pimpalkhare|Data Entry
-706,Nepali,east1436,,nep,,,,,Anju Saxena|Author;Anju Saxena|Data Entry
-707,Punjabi,west2386,,pnb,,,,,Anju Saxena|Author;Mohini Pimpalkhare|Data Entry
-708,Tamil,tami1289,,tam,,,,,Anju Saxena|Author;Mohamed Hashim|Data Entry
-709,Telugu,telu1262,,tel,,,,,Anju Saxena|Author;David Karlander|Data Entry;Anju Saxena|Data Entry;K. Taraka Rama|Data Entry
-710,Tibetan,tibe1272,,bod,,,,,Anju Saxena|Author;David Karlander|Data Entry
-800,Kme-2 (Kemie variety),manm1238,,mml,,,,,Ilya Peiros|Author
-801,Bulang,blan1242,,blr,,,,,Ilya Peiros|Author
-802,Bulang-2,blan1242,,blr,,,,,Ilya Peiros|Author
-803,Bulang-3,blan1242,,blr,,,,,Ilya Peiros|Author
-804,Keme (Kemie variety),manm1238,,mml,,,,,Ilya Peiros|Author
-805,Xu,huuu1240,,huo,,,,,Ilya Peiros|Author
-806,Mang'an B. (MNN),,,,,,,,Ilya Peiros|Author
-807,Wa,nucl1290,,wbm,,,,,Ilya Peiros|Author
-808,Rumai,ruma1248,,rbb,,,,,Ilya Peiros|Author
-809,Prai,phai1238,,prt,,,,,Ilya Peiros|Author
-810,Pusing,bitt1240,,bgk,,,,,Ilya Peiros|Author
-811,Paliu,boly1239,,ply,,,,,Ilya Peiros|Author
-812,PLW (a Palaung variety),pala1336,,,,,,,Ilya Peiros|Author
-813,DEA (a Palaung variety),pala1336,,,,,,,Ilya Peiros|Author
-814,Mlabri,mlab1235,,mra,,,,,Ilya Peiros|Author
-815,Cuoi,cuoi1242,,,,,,,Ilya Peiros|Author
-816,Vietnamese,viet1252,,vie,,,,,Ilya Peiros|Author
-817,Hanoi Vn,nort2683,,,,,,,Ilya Peiros|Author
-818,Tho Mun (THM),,,,,,,,Ilya Peiros|Author
-819,LiHa,cuoi1242,,,,,,,Ilya Peiros|Author
-820,Phong,phon1246,,pnx,,,,,Ilya Peiros|Author
-821,TUL,,,,,,,,Ilya Peiros|Author
-822,Tum,cuoi1242,,,,,,,Ilya Peiros|Author
-823,Chut (Ruc variety),rucc1239,,,,,,,Ilya Peiros|Author
-824,Phu Tho M (PHU),,,,,,,,Ilya Peiros|Author
-825,Kha Poong,khap1242,,,,,,,Ilya Peiros|Author
-826,Malieng,mali1278,,,,,,,Ilya Peiros|Author
-827,Ahlao Th,aheu1239,,thm,,,,,Ilya Peiros|Author
-828,Thavung So,aheu1239,,thm,,,,,Ilya Peiros|Author
-829,Nyakur,nyah1250,,cbn,,,,,Ilya Peiros|Author
-830,Pear,pear1247,,pcb,,,,,Ilya Peiros|Author
-831,SAN,,,,,,,,Ilya Peiros|Author
-832,Kasong,suoy1242,,syo,,,,,Ilya Peiros|Author
-833,Samre,somr1240,,smu,,,,,Ilya Peiros|Author
-834,Chong,chon1284,,cog,,,,,Ilya Peiros|Author
-835,KNB (a Pearic variety),west2394,,,,,,,Ilya Peiros|Author
-836,Surin Khmer,suri1265,,,,,,,Ilya Peiros|Author
-837,CHNG (a Pearic variety),west2394,,,,,,,Ilya Peiros|Author
-838,Iduh,oduu1239,,tyh,,,,,Ilya Peiros|Author
-839,Mang Ch,mang1378,,zng,,,,,Ilya Peiros|Author
-840,Mang VN,mang1378,,zng,,,,,Ilya Peiros|Author
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Contributors,default_representation,alt_representation,date
+26,Avar (Batlukh dialect),batl1238,,,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-24
+27,Avar (Hid dialect),hidd1238,,,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-24
+28,Avar (Andalal dialect),anda1281,,,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-24
+29,Avar (Antsukh dialect),ancu1238,,,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-24
+30,Avar (Zakataly dialect),zaka1239,,,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-24
+31,Avar (Karakh dialect),kara1473,,,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-24
+32,Andi,andi1255,,ani,,42.8078,46.2919,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-24
+33,Akhvakh (Northern dialect),akhv1239,,akv,,42.4003,46.3037,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-23
+34,Akhvakh (Southern dialect),akhv1239,,akv,,42.4003,46.3037,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-23
+35,Bagvalal,bagv1239,,kva,,42.3966,46.1041,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-24
+37,Botlikh,botl1242,,bph,,42.7658,46.1944,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-24
+38,Godoberi,ghod1238,,gdo,,42.7428,46.2252,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-25
+39,Karata,kara1474,,kpt,,42.6501,46.3151,,Claudia Schmidt|Data Entry;Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-26
+40,Karata (Tokitin dialect),toki1238,,,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-26
+41,Khwarshi (Khwarshi dialect),xvar1237,,,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-26
+42,Hinuq,hinu1240,,gin,,42.4502,45.8064,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-26
+50,Tindi,tind1238,,tin,,42.3316,45.9227,,Stefan Lange|Data Entry;Madzhid Khalilov|Author,CyrillTrans,Phonemic,2014-01-26
+51,Chamalal,cham1309,,cji,,42.5024,45.995,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-25
+52,Hunzib,hunz1247,,huz,,42.0808,46.1369,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-26
+54,Khwarshi (Inkhokvari dialect),inxo1238,,,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-26
+55,Tsez (Sagada dialect),saga1261,,,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-26
+56,Lak,lakk1252,,lbe,,42.1328,47.0809,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-26
+57,Dargwa,darg1241,,dar,,42.4257,47.4388,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-25
+58,Dargwa (Itsari dialect),itsa1239,,,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-25
+59,Dargwa (Kubachi dialect),kuba1248,,,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-25
+60,Dargwa (Khajdak dialect),kajt1238,,,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-25
+61,Aghul,aghu1253,,agx,,41.9242,47.5843,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-23
+62,Archi (variety 1),arch1244,,aqc,,42.3239,46.8267,,Stefan Lange|Data Entry;Madzhid Khalilov|Author,CyrillTrans,Phonemic,2014-01-24
+63,Budukh,budu1248,,bdk,,41.2272,48.3353,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-24
+64,Lezgian,lezg1247,,lez,,41.5157,47.8951,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-26
+65,Lezgi (Mikrakh dialect),lezg1247,,lez,,41.5157,47.8951,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-26
+66,Rutul,rutu1240,,rut,,41.6187,47.3244,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-26
+67,Tabasaran (Northern dialect Khanag subdialect),taba1259,,tab,,42.0198,47.8379,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-26
+68,Tabasaran (Southern dialect),sout2752,,,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-26
+69,Khinalug,khin1240,,kjj,,41.1801,48.0571,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-26
+70,Tsakhur,tsak1249,,tkr,,41.5916,46.8858,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-26
+71,Azerbaijani,nort2697,,azj,,40.9777,46.4737,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-24
+72,Kumyk,kumy1244,,kum,,43.0,47.0,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-26
+73,Nogai,noga1249,,nog,,43.5917,46.6618,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-26
+74,Judeo-Tat,jude1256,,jdt,,32.33,34.75,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-26
+75,Chechen,chec1245,,che,,43.5,45.5,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-25
+80,Udi,udii1243,,udi,,40.9,47.7236,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-26
+81,Avar (Kusur dialect),avar1256,,ava,,41.7047,46.558,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-24
+107,Avar,avar1256,,ava,,41.7047,46.558,,Claudia Schmidt|Data Entry;Hagen Jung|Data Entry;Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-24
+126,Erzya Mordvin,erzy1239,,myv,,52.8548,45.3901,,Piret Klesment|Data Entry;Olga Erina|Author,Phonemic,,2007-09-27
+127,Estonian,esto1258,,ekk,,58.55,25.82,,Iris Audova|Data Entry;Margit Kuusk|Author;Ago Künnap|Author,Phonemic,,2007-09-27
+128,Finnish,finn1318,,fin,,64.7628,25.5577,,Anja  Pihlajaniemi|Consultant;Margit Kuusk|Author;Piret Klesment|Data Entry,Phonemic,,2007-09-27
+131,Hungarian,hung1274,,hun,,46.9069,19.6555,,Iris Audova|Data Entry;Péter Pomozi|Author;Sirje Volmre|Author,Standard,Phonemic,2007-09-27
+135,Khanty,khan1273,,kca,,62.4308,66.1218,,Piret Klesment|Data Entry;Nataliya Kochkareva|Author;Nina Lyskova|Author,Phonemic,,2007-09-27
+139,Komi,komi1268,,kpv,,64.0527,54.946,,Piret Klesment|Data Entry;Adolf Turkin|Author,Phonemic,,2007-09-27
+143,Northern Saami,nort2671,,sme,,68.725,22.1113,,Pekka Sammallahti|Consultant;Axel Jagau|Author;Kulle Kallavus|Author;Iris Audova|Data Entry,Phonemic,,2007-09-27
+146,Mansi,mans1258,,mns,,64.4118,61.344,,Iris Audova|Data Entry;Nina Lyskova|Author,Phonemic,,2007-09-27
+147,Mari,east2328,,mhr,,55.8307,48.405,,Inna Timiryaeva|Author;Iris Audova|Data Entry,Phonemic,,2007-09-27
+148,Nenets,nene1249,,yrk,,66.1775,71.0234,,Piret Klesment|Data Entry;Mariya Barmich|Author,Phonemic,,2007-09-27
+151,Selkup,selk1253,,sel,,59.9409,82.3004,,Piret Klesment|Data Entry;Arkadiy I. Gashilov|Author,Phonemic,,2007-09-27
+159,Udmurt,udmu1245,,udm,,56.1292,52.6355,,Lyudmila Karpova|Author;Iris Audova|Data Entry,Phonemic,,2007-09-27
+160,Bezhta,bezh1248,,kap,,42.1206,46.0332,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-24
+162,Tsez (Mokok dialect) ,dido1241,,ddo,,42.2646,45.8096,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-26
+164,Dargwa (Muiri dialect),darg1241,,dar,,42.4257,47.4388,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-25
+165,Lezgian (Quba dialect),quba1246,,,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-26
+166,Azerbaijani (Terekeme dialect),nort2697,,azj,,40.9777,46.4737,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-24
+167,Ancient Greek ,anci1242,,grc,,39.8155,21.9129,,Fotis A. Kavoukopoulos|Author;Mary Ritchie Key|Data Entry,LatinTrans,,2007-07-18
+168,Modern Greek,mode1248,,ell,,42.3224,24.8699,,Maria Tsigou|Author;Mary Ritchie Key|Data Entry,LatinTrans,,2007-07-18
+169,Latin,lati1261,,lat,,41.9026,12.4502,,Philip Baldi|Author;Mary Ritchie Key|Data Entry;Mackayla Infante-Wong|Data Entry,StandardOrth,,2007-07-20
+170,Italian,ital1282,,ita,,43.0464,12.6489,,Martin Maiden|Author;Mary Ritchie Key|Data Entry,StandardOrth,,2007-07-20
+171,French,stan1290,,fra,,48.0,2.0,,Mary Ritchie Key|Data Entry;various|Author,StandardOrth,,2007-07-20
+172,Panare,enap1235,,pbh,,6.95035,-65.8483,,Jana Price|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-08-30
+173,Macushi,macu1259,,mbc,,4.31861,-60.2209,,Miriam Abbott|Author;Patrick Foster|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-08-30
+174,De'kwana,maqu1238,,mch,,4.70705,-64.3877,,Katherine Hall|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-08-30
+175,Wai Wai,waiw1244,,waw,,1.50881,-59.1417,,Robert E. Hawkins|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-08-30
+176,Spanish,stan1288,,spa,,40.4414,-1.11788,,Joan Rafel|Author;Mary Ritchie Key|Data Entry;various|Author,Phonemic,,2007-08-31
+177,Catalan,stan1289,,cat,,41.8983,3.39375,,Joan Rafel|Author;Mary Ritchie Key|Data Entry;Native speaker|Consultant,StandardOrth,,2007-08-31
+178,Portuguese,port1283,,por,,39.91,-8.1,,various|Author;Mary Ritchie Key|Data Entry,StandardOrth,,2007-08-31
+179,Romanian,roma1327,,ron,,46.3913,24.2256,,Maria Manoliu-Manea|Author;Mackayla Infante-Wong|Data Entry,StandardOrth,,2007-09-12
+180,Old Irish,oldi1245,,sga,,,,,Jessica Ellis|Data Entry;Mary Ritchie Key|Author,StandardOrth,,2007-09-12
+181,Irish,iris1253,,gle,,53.2186,-7.61509,,Cathal Doherty|Author;Jessica Ellis|Data Entry;Cathal Doherty|Data Entry,StandardOrth,,2007-09-12
+182,Welsh,wels1247,,cym,,52.0,-4.0,,Andrew Hawke|Author;Mary Ritchie Key|Data Entry;Mackayla Infante-Wong|Data Entry,StandardOrth,,2007-09-20
+183,Breton,bret1244,,bre,,48.2452,-3.78934,,Jean Le Dû|Author;Jessica Ellis|Data Entry;Mary Ritchie Key|Data Entry,Phonemic,,2007-09-20
+184,Gothic,goth1244,,got,,46.9304,29.9786,,Winfred P. Lehmann|Author;Susan Chapman|Data Entry;Winfred P. Lehmann|Consultant,StandardOrth,,2007-09-20
+185,Old Norse,oldn1244,,non,,,,,Mackayla Infante-Wong|Data Entry;Olaf Jansen Westvik|Author,StandardOrth,,2007-09-20
+186,Danish,dani1285,,dan,,54.8655,9.36284,,W. W. Schuhmacher|Author;Mary Ritchie Key|Data Entry,StandardOrth,,2007-09-20
+187,Swedish,swed1254,,swe,,59.800634,17.389526,,Erik V. Gunnemark|Author;Laila Kollmann|Author;Mackayla Infante-Wong|Data Entry;Jan-Åke Alvarsson|Consultant,StandardOrth,,2007-09-20
+188,Old English,olde1238,,ang,,,,,Christopher M. Kuipers|Author;Mackayla Infante-Wong|Data Entry;Christopher M. Kuipers|Data Entry,StandardOrth,,2007-09-20
+189,Middle English,midd1317,,enm,,,,,Mona Logarbo|Author;Mackayla Infante-Wong|Data Entry,StandardOrth,,2007-09-20
+190,English,stan1293,,eng,,53.0,-1.0,,various|Author;Stephan Schuetze-Coburn|Data Entry,StandardOrth,,2007-09-20
+191,Dutch,dutc1256,,nld,,52.0,5.0,,Bernard Bichakjian|Author;Hendrikje Hettema|Author;Jessica Ellis|Data Entry,StandardOrth,,2007-09-20
+192,Old High German,oldh1241,,goh,,,,,Vincent Miller|Author;Vincent Miller|Data Entry;Mackayla Infante-Wong|Data Entry,StandardOrth,,2007-09-20
+193,Middle High German ,midd1343,,gmh,,,,,William C. Crossgrove|Author;Mackayla Infante-Wong|Data Entry;William C. Crossgrove|Data Entry,StandardOrth,,2007-09-20
+194,German,stan1295,,deu,,48.649,12.4676,,Meredith Lee|Author;Mary Ritchie Key|Data Entry,StandardOrth,Original (M. R. Key),2014-01-25
+195,Yiddish,east2295,,ydd,,51.75,19.42,,Paul Glasser|Author;Mackayla Infante-Wong|Data Entry,Phonemic,,2007-09-20
+196,Lithuanian,lith1251,,lit,,55.1429,23.9601,,Ramutė Plioplys|Author;S. J. Juozas Vaišnys|Consultant;Sigita Plioplys|Consultant;Kazimieras Plečkaitis|Consultant;William R. Schmalsteig|Consultant;Mackayla Infante-Wong|Data Entry,StandardOrthTone,,2007-09-20
+197,Latvian,latv1249,,lav,,56.826108,24.309118,,Juris Cibuļs|Author;Mary Ritchie Key|Data Entry,StandardOrth,,2007-09-20
+198,Old Prussian,prus1238,,prg,,55.56,20.56,,William R. Schmalstieg|Author;William R. Schmalstieg|Data Entry,StandardOrth,,2007-09-20
+199,Old Church Slavonic,chur1257,,chu,,43.7171,22.8442,,Mary Ritchie Key|Data Entry;Mary Ritchie Key|Author,Phonemic,,2007-09-20
+200,Bulgarian,bulg1262,,bul,,43.3646,25.047,,Cynthia Vakareliyska|Author;Kevork Horissian|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-09-20
+201,Serbo-Croatian,sout1528,,hbs,,,,,Andrew R. Corin|Author;Mackayla D. Infante-Wong|Data Entry,Phonemic,,2007-09-20
+202,Czech,czec1258,,ces,,49.873398,15.10437,,Václav Blažek|Author;Mackayla Infante-Wong|Data Entry,StandardOrth,,2007-09-20
+203,Polish,poli1260,,pol,,51.8439,18.6255,,Stanisław Puppel|Author;Mary Ritchie Key|Data Entry;Mackayla Infante-Wong|Data Entry,StandardOrth,,2007-09-20
+204,Russian,russ1263,,rus,,59.0,50.0,,Jules F. Levin|Author;Mackayla Infante-Wong|Data Entry,Phonemic,,2007-09-20
+205,Albanian (Tosk variety),tosk1239,,als,,41.0,20.0,,Leonard Newmark|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-09-20
+206,Armenian (Eastern variety),east2283,,,,,,,Dora Sakayan|Author;Dora Sakayan|Data Entry;Amalia Khatchatrian|Consultant,Phonemic,,2007-09-20
+207,Armenian (Western variety),west2348,,,,,,,Dora Sakayan|Author;Dora Sakayan|Data Entry;Amalia Khatchatrian|Consultant,Phonemic,,2007-09-20
+208,Hittite,hitt1242,,hit,,,,,Carol F. Justus|Author;Carol F. Justus|Data Entry,LatinTrans,,2007-09-20
+209,Tocharian A,tokh1242,,xto,,,,,Douglas Q. Adams|Author;Mary Ritchie Key|Data Entry;Mackayla Infante-Wong|Data Entry,Phonemic,,2007-09-27
+210,Tocharian B,tokh1243,,txb,,,,,Douglas Q. Adams|Author;Mary Ritchie Key|Data Entry;Mackayla Infante-Wong|Data Entry,Phonemic,,2007-09-27
+211,Sanskrit,sans1269,,san,,20.0,77.0,,James A. Santucci|Author;James A. Santucci|Data Entry,LatinTrans,,2007-09-27
+212,Romani,vlax1238,,rmy,,46.8191,14.8451,,Donald Kenrick|Author;Mackayla D. Infante-Wong|Data Entry,Phonemic,,2007-09-27
+213,Avestan,aves1237,,ave,,31.541,53.633,,Mary Ritchie Key|Data Entry;Mary Ritchie Key|Author,Phonemic,,2007-09-27
+214,Persian,west2369,,pes,,28.6593,55.1586,,John R. Perry|Author;Mary Ritchie Key|Data Entry;Herbert H. Paper|Consultant,Phonemic,,2007-09-27
+215,Ancient Aramaic,olda1245,,oar,,,,,Stephen A. Kaufman|Author;Stephen A. Kaufman|Data Entry;Comprehensive Aramaic Lexicon data files|Consultant,Phonemic,,2007-10-25
+216,Elamite,elam1244,,elx,,31.1833,48.2333,,Václav Blazek|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-25
+217,Negerhollands,nege1244,,dcr,,18.3416,-64.8922,,Robin Sabino|Author;Robin Sabino|Data Entry;Mrs. Alice Stevens|Consultant,Phonemic,,2007-10-25
+218,Jamaican Creole (Limonese Creole dialect),jama1262,,jam,,18.13,-77.2612,,Anita Hertzfeld|Author;Franklin Perry|Author;Robin Sabino|Data Entry,Phonemic,,2007-10-25
+219,Basque,basq1248,,eus,,43.2787,-1.31622,,Jean-Baptiste Coyos|Author;Mary Ritchie Key|Data Entry;Etchebarne-Harrixuri family|Consultant;Etchebarne Battitta family|Consultant;Estécahandy-Halbide family|Consultant;Mrs. Coyos (mother of J.-B. Coyos)|Consultant,Phonemic,,2007-10-25
+220,Hausa,haus1257,,hau,,11.1513,8.7804,,Ronald Cosper|Author;George B. Loveridge|Data Entry;Hilary Young|Data Entry;Garba Mohammed Gital|Consultant,Phonemic,,2007-10-25
+221,Polci,polc1243,,plj,,10.0258,9.53362,,Ronald Cosper|Author;George B. Loveridge|Data Entry;Hilary Young|Data Entry;Musa Waje|Consultant;Abdu Sabo|Consultant,Phonemic,,2007-10-25
+222,Nahuatl (Sierra de Zacapoaxtla variety),high1278,,azz,,20.1554,-97.5556,,Mary Ritchie Key|Author;Mary Ritchie Key|Data Entry;Field work: 1948-1955|Consultant,Phonemic,,2007-10-25
+223,Chatino (Zacatepec variety),zaca1242,,ctz,,16.08,-97.3069,,Leslie G. Pride and Kitty Pride|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-25
+224,Karok,karo1304,,kyh,,41.8228,-123.315,,William Bright|Author;Iris Audova|Data Entry;Piret Klesment|Data Entry,Phonemic,,2007-10-29
+225,Seri,seri1257,,sei,,28.9877,-112.384,,"Stephen A. Marlett|Author;Mary B. Moser|Author;Mary Ritchie Key|Data Entry;Summer Institute of Linguistics, University of North Dakota|Consultant",Phonemic,,2007-10-29
+226,Zuni,zuni1245,,zun,,35.0056,-108.782,,Willard Walker|Author;Iris Audova|Data Entry;Piret Klesment|Data Entry;Lynn Nichols 1992|Consultant,Phonemic,,2007-10-29
+227,Northern Haida,nort2938,,hdn,,54.6931,-132.465,,Mary Ritchie Key|Data Entry;JRS = Swanton|Consultant;John Campbell|Author,Phonemic,,2007-10-29
+228,Tlingit,tlin1245,,tli,,59.4447,-135.29,,Mary Ritchie Key|Data Entry;Mary Ritchie Key|Author,Phonemic,,2007-10-29
+229,Tsimshian,nucl1649,,tsi,,54.6214,-130.496,,Mary Ritchie Key|Data Entry;Mary Ritchie Key|Author,Phonemic,,2007-10-30
+230,Nuu-chah-nulth,nuuc1236,,nuk,,,,,Mary Ritchie Key|Data Entry;Mary Ritchie Key|Author,Phonemic,,2007-10-30
+231,Bella Coola,bell1243,,blc,,52.3448,-126.689,,Mary Ritchie Key|Data Entry;Mary Ritchie Key|Author,Phonemic,,2007-10-30
+232,Upper Chehalis,uppe1439,,cjh,,46.7981,-123.169,,Mary Ritchie Key|Data Entry;Mary Ritchie Key|Author,Phonemic,,2007-10-30
+233,Proto Austronesian,aust1307,,,,,,,Mary Ritchie Key|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+234,Proto Polynesian,poly1242,,,,,,,Mary Ritchie Key|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+235,Hawaiian,hawa1245,,haw,,19.6297,-155.43,,Mary Ritchie Key|Data Entry;Mary Ritchie Key|Author,Phonemic,,2007-10-30
+236,Maori,maor1246,,mri,,-38.2881,176.541,,Mary Ritchie Key|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+237,Marquesan,sout2866,,mqm,,-9.75663,-138.979,,Mary Ritchie Key|Data Entry;Mary Ritchie Key|Author,Phonemic,,2007-10-30
+238,Rapa Nui,rapa1244,,rap,,-27.113,-109.342,,Robert L. Weber|Author;Jessica Ellis|Data Entry;Mary Ritchie Key|Data Entry;Mary Ritchie Key|Author;Nancy L. Weber|Author,Phonemic,Phonemic (vars),2007-10-31
+239,Rotuman,rotu1241,,rtm,,-12.5008,177.066,,Mary Ritchie Key|Data Entry;Mary Ritchie Key|Author,Phonemic,,2007-10-30
+240,Tongan,tong1325,,ton,,-21.17,-175.25,,Mary Ritchie Key|Data Entry;Mary Ritchie Key|Author,Phonemic,,2007-10-30
+241,Tuamotuan,tuam1242,,pmt,,-21.709,-140.658,,Mary Ritchie Key|Data Entry;various|Author,Phonemic,,2007-10-30
+242,Barí,bari1297,,mot,,9.08497,-72.9353,,Roberto Lizarralde (Venezuelan dialect)|Author;Manuel Lizarralde (Venezuelan dialect)|Author;Frank Morgan (Colombian  dialect)|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+243,Muisca,chib1270,,chb,,6.24999,-74.1666,,María Stella González de Pérez|Author;Mary Ritchie Key|Data Entry,LatinTrans,Phonemic,2007-10-30
+244,Páez,paez1247,,pbb,,2.61516,-76.3125,,Florence L. Gerdel|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+245,Cayapa,chac1249,,cbi,,0.71489,-79.0508,,Ruth Wiebe|Author;Neil Wiebe|Author;Mary Ritchie Key|Data Entry;Santiago Añapa|Consultant;Raúl Añapa|Consultant,Phonemic,,2007-10-30
+246,Colorado,colo1256,,cof,,-0.21181,-79.2347,,Bruce R. Moore|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+247,Embera,nort2972,,emp,,7.12761,-77.574,,Mauricio Pardo Rojas|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+248,Epena,epen1239,,sja,,4.25877,-77.3566,,Phillip Lee Harms|Author;Eladio Quiro Dura|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+249,Puinave,puin1248,,pui,,3.92974,-67.6886,,Larry A. Richardson|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+250,Yuwana,yuwa1244,,yau,,5.63879,-65.4267,,Sue Rodman|Author;David Rodman|Author;Mary Ritchie Key|Data Entry;Rodmans' field notes|Consultant,Phonemic,,2007-10-30
+251,Yaruro,pume1238,,yae,,7.10677,-67.5996,,Teresa Ann Dyck|Author;Merrill Dyck|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+252,Ninam (Shirishana variety),nina1238,,shb,,4.03894,-62.7801,,Carole Swain|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+253,Yanomámi,yano1262,,wca,,2.48999,-62.8522,,Jacques Lizot|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+254,Cofán,cofa1242,,con,,0.276675,-77.0643,,M. Bub Borman|Author;Mary Ritchie Key|Data Entry;Field notes|Consultant,Phonemic,,2007-10-30
+255,Waorani,waor1240,,auc,,-1.12312,-76.683,,M. Catherine Peeke|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+256,Siona,sion1247,,snn,,0.31733,-76.0237,,Mary Ritchie Key|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+257,Tuyuca,tuyu1244,,tue,,0.39441,-70.0435,,Janet Barnes|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+258,Aguaruna,agua1253,,agr,,-5.30044,-77.9218,,Gerardo Wipio Deicat|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+260,Yagua,yagu1244,,yad,,-3.42913,-72.2186,,Esther Powlison|Author;Paul S. Powlison|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+261,Baure,baur1253,,brg,,-13.1278,-64.1838,,Mary Ritchie Key|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+262,Goajiro,wayu1243,,guc,,10.2252,-71.8101,,Jesús Olza Zubiri|Author;Miguel Angel Jusayú|Author;José Alvarez (commentary)|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+263,Ignaciano,igna1246,,ign,,-15.1188,-65.3993,,"Mary Ritchie Key|Author;Mary Ritchie Key|Data Entry;Mary Ritchie Key|Author;Mary Ritchie Key|Data Entry;Ott's material, and Ott correspondence|Consultant",Phonemic,,2007-10-30
+264,Mashco Piro,mash1270,,cuj,,-11.4745,-70.7953,,Mary Ritchie Key|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+265,Trinitario,trin1274,,trn,,-15.3331,-65.4096,,Wayne Gill|Author;Ruth Gill|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+266,Wapishana,wapi1253,,wap,,2.58744,-59.8021,,Frances V. Tracy|Author;Colette Melville|Author;Olive Williams|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+267,Waurá,waur1244,,wau,,-13.296,-53.6971,,Joan Richards|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+268,Yavitero,yavi1244,,yvt,,2.800281,-68.084219,,Mary Ritchie Key|Author;Mary Ritchie Key|Data Entry;Jorge Carlos Mosonyi|Consultant,Phonemic,,2007-10-30
+269,Aymara,cent2142,,ayr,,-17.0,-68.5,,Félix Layme Pairumani|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+270,Chipaya,chip1262,,cap,,-18.7395,-67.8963,,Frances Olson|Author;Ronald D. Olson|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+271,Mosetén,mose1249,,cas,,-14.6445,-67.8376,,Andrés A. Pérez Diez|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+272,Araona,arao1248,,aro,,-12.4242,-67.7293,,Mary Ritchie Key|Author;Mary Ritchie Key|Data Entry;Donald Pitman|Consultant;Mary Pitman|Consultant,Phonemic,,2007-10-30
+273,Cavineña,cavi1250,,cav,,-13.3544,-66.6277,,Mary Ritchie Key|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+274,Ese Ejja,esee1248,,ese,,-11.7268,-67.515,,Mary Ritchie Key|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+275,Ese Ejja (Huarayo),esee1248,,ese,,-11.7268,-67.515,,María Clotilde Chavarría Mendoza|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+276,Tacana,taca1256,,tna,,-13.3925,-68.0406,,Mary Ritchie Key|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+277,Cashibo,cash1251,,cbr,,-8.70232,-75.4206,,Mary Ritchie Key|Author;R. Michael Tugwell|Author;R. Michael Tugwell|Data Entry;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+278,Catuquina,pano1254,,knt,,-7.97456,-71.5615,,"Gerald Raymond Kennell, Jr.|Author;Mary Ritchie Key|Data Entry",Phonemic,,2007-10-30
+279,Chácobo,chac1251,,cao,,-12.133,-66.7164,,Mary Ritchie Key|Author;Marian Prost|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+280,Pacahuara,paca1246,,pcp,,-11.9968,-65.5568,,Mary Ritchie Key|Data Entry;Jeanne East|Consultant;Guy East|Consultant;Mary Ritchie Key|Author,Phonemic,,2007-10-30
+281,Shipibo-Conibo,ship1254,,shp,,-7.17105,-74.8219,,Mary Ritchie Key|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+282,Yaminahua,yami1256,,yaa,,-9.8846,-71.5964,,Ivagene Shive|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+283,Cayuvava,cayu1262,,cyb,,-13.2482,-65.4822,,Mary Ritchie Key|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+284,Itonama,iton1250,,ito,,-12.8043,-64.3575,,Mary Ritchie Key|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+285,Movima,movi1243,,mzp,,-13.8115,-65.6348,,Robert A. Judy|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+286,Pacaas Novos,wari1268,,pav,,-10.6995,-64.5615,,Misión Nuevas Tribus|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+287,Mundurukú,mund1330,,myu,,-8.41095,-57.691,,Mary Ritchie Key|Data Entry;Mary Ritchie Key|Author,Phonemic,,2007-10-30
+288,Aché,ache1246,,guq,,-25.5865,-56.4697,,Claudia J. Heckart|Author;Kim Hill|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+289,Chiriguano,east2555,,gui,,-21.0909,-61.7179,,Wolf Dietrich|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+290,Guaraní,para1311,,gug,,-25.6055,-57.0882,,Celsa Dávalos de Céspedes|Author;Natalia Krivoshein de Canese|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+291,Sirionó,siri1273,,srq,,-15.5298,-63.9688,,Mary Ritchie Key|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+292,Wayampi,waya1270,,oym,,1.73817,-52.6887,,Françoise Grenand|Author;Raymond Alasuka|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+293,Canela,cane1242,,ram,,-6.10712,-45.1299,,Mary Ritchie Key|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+294,Kaingáng,kain1272,,kgp,,-27.7671,-52.5394,,Mary Ritchie Key|Author;Mary Ritchie Key|Data Entry;Ursula Wiesemann|Consultant,Phonemic,,2007-10-30
+295,Karajá,kara1500,,kpj,,-11.1881,-50.3492,,Mary Ritchie Key|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+296,Trumai,trum1247,,tpy,,-11.8119,-53.5717,,Aurore Monod-Becquelin|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+297,Ayoreo,ayor1240,,ayo,,-19.2201,-60.2175,,Janet R. Briggs|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+298,Sanapaná (Angaité dialect),anga1295,,,,,,,Ruth Sammons|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+299,Sanapaná (Enlhet dialect),sana1298,,spn,,-22.1145,-58.907,,Ernesto Unruh|Author;Hannes Kalisch|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-30
+300,Lengua,leng1262,,leg,,-22.6559,-58.9053,,Elizabeth Richards|Author;Timothy Curtis|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-31
+301,Mocoví,moco1246,,moc,,-28.097,-60.4145,,Albert S. Buckwalter|Author;Roberto Ruiz|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-31
+302,Pilagá,pila1245,,plg,,-25.0058,-60.1537,,Albert S. Buckwalter|Author;Julio Suárez|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-31
+304,Chorote,iyoj1235,,crt,,-22.1896,-63.2383,,Ana Gerzenstein|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-31
+305,Maca,maca1260,,mca,,-25.0119,-57.3694,,Ana Gerzenstein|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-31
+306,Wichí,wich1264,,mzh,,-23.1633,-62.1757,,José A. Braunstein|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-31
+307,Nivaclé,niva1238,,cag,,-22.8557,-61.7606,,Nélida N. Stell|Author;José Seelwische|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-31
+308,Kunza,kunz1244,,kuz,,-23.0,-69.0,,Roberto Lehnert Santander|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-31
+309,Mapudungun,mapu1245,,arn,,-38.7392,-71.277,,María Catrileo|Author;Ana V. Fernández Garay (Ranquel)|Author;Mary Ritchie Key|Author,Phonemic,,2007-10-31
+310,Tehuelche,tehu1242,,teh,,-47.5796,-68.3235,,Mary Ritchie Key|Data Entry;Martine Delahaye|Author,Phonemic,,2007-10-31
+311,Selknam,onaa1245,,ona,,-54.0,-68.5,,Elena L. Najlis|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-31
+312,Gününa Küne,puel1244,,pue,,-36.6376,-62.9413,,Rodolfo M. Casamiquela|Author;José Pedro Viegas Barros|Author;Mary Ritchie Key|Data Entry;Elena Najlis|Consultant,Phonemic,,2007-10-31
+313,Qawasqar,qawa1238,,alc,,-49.703,-75.3756,,Christos Clairis|Author;José Pedro Viegas Barros|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-31
+314,Toba,toba1269,,tob,,-24.4025,-60.4473,,Albert S. Buckwalter|Author;Orlando Sánchez|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-31
+315,Yagán,yama1264,,yag,,-55.2748,-68.2648,,Ana María Guerra Eissmann|Author;Mary Ritchie Key|Data Entry,Phonemic,,2007-10-31
+316,Andi (Muni dialect),muni1255,,,,,,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-24
+317,Chechen (Akkin dialect),chec1245,,che,,43.5,45.5,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-25
+318,Uncunwee,ghul1238,,ghl,,11.6432,29.8122,,Robert Williams|Data Entry;Robert Williams|Author,IPA,,2012-09-25
+319,Ossetic,osse1243,,,,41.7882,43.2674,,Madzhid Khalilov|Author,CyrillTrans,,2015-01-22
+320,Avar (Araderikh dialect),avar1256,,ava,,41.7047,46.558,,Madzhid Khalilov|Author,CyrillTrans,,2015-01-22
+321,Avar (Khunzakh dialect),kunz1243,,,,,,,Madzhid Khalilov|Author,CyrillTrans,,2015-01-22
+322,Avar (East Gergebil dialect),avar1256,,ava,,41.7047,46.558,,Madzhid Khalilov|Author,CyrillTrans,,2015-01-27
+323,Avar (Ansalta dialect),avar1256,,ava,,41.7047,46.558,,Madzhid Khalilov|Author,CyrillTrans,,2015-01-27
+324,Avar (Salatav dialect),sala1265,,,,,,,Madzhid Khalilov|Author,CyrillTrans,,2015-01-27
+325,Khwarshi (Kwantlada dialect),khva1239,,khv,,42.2743,45.9977,,Madzhid Khalilov|Author,CyrillTrans,,2015-01-27
+401,Central Thai,thai1261,,tha,,14.192,100.671,,Ilya Peiros|Author,Phonemic,,2013-09-11
+402,Southern Tai (Songkhla variety),sout2746,,sou,,6.85668,99.7031,,Ilya Peiros|Author,Phonemic,,2013-09-11
+403,Thai (Korat variety),sout2746,,sou,,6.85668,99.7031,,Ilya Peiros|Author,Phonemic,,2013-09-11
+404,Khamuang (Chiang Mai variety),nort2740,,nod,,18.8575,100.207,,Ilya Peiros|Author,Phonemic,,2013-09-11
+405,Dehong,tain1252,,tdd,,21.7837,99.722,,Ilya Peiros|Author,Phonemic,,2013-09-11
+406,Jinsha Dai,nort1545,,huj,,26.7238,106.682,,Ilya Peiros|Author,,,2013-09-11
+407,Tai Lü,luuu1242,,khb,,21.0321,101.282,,Ilya Peiros|Author,Phonemic,,2013-09-11
+408,Tai Khün,khun1259,,kkh,,19.6062,99.3363,,Ilya Peiros|Author,Phonemic,,2013-09-11
+409,Shan,shan1277,,shn,,21.5995,98.0342,,Ilya Peiros|Author,Phonemic,,2013-09-11
+410,Shan (Northern Shan dialect),shan1277,,shn,,21.5995,98.0342,,Ilya Peiros|Author,Phonemic,,2013-09-11
+411,Nung-Fengshan,guib1244,,zgn,,23.6818,107.184,,Ilya Peiros|Author,Phonemic,,2013-09-11
+412,Nung-Lazhai,guib1244,,zgn,,23.6818,107.184,,Ilya Peiros|Author,Phonemic,,2013-09-11
+413,Nung-Ninbei,nung1283,,nut,,20.8965,104.286,,Ilya Peiros|Author,Phonemic,,2013-09-11
+414,Zhuang-Longzhou,zuoj1238,,zzj,,21.8375,107.362,,Ilya Peiros|Author,Phonemic,,2013-09-11
+415,Sui,suii1243,,swi,,24.0488,106.563,,Ilya Peiros|Author,Phonemic,,2013-09-11
+416,Maonan,maon1241,,mmd,,25.0169,108.024,,Ilya Peiros|Author,,,2013-09-11
+417,Mulam,mula1253,,mlm,,24.8151,108.928,,Ilya Peiros|Author,,,2013-09-11
+418,Chadong,chad1240,,cdy,,25.23532,109.96041,,Ilya Peiros|Author,,,2013-09-11
+419,Southern Kam,sout2741,,kmc,,25.8874,109.222,,Ilya Peiros|Author,,,2013-09-11
+420,Lakkia,lakk1238,,lbc,,24.1169,110.106,,Ilya Peiros|Author,Phonemic,,2013-09-11
+421,Hlai (Baoting variety),hlai1239,,lic,,18.8062,109.459,,Ilya Peiros|Author,Phonemic,,2013-09-11
+422,Langja Buyang,emab1235,,yzg,,23.0105,104.449,,Ilya Peiros|Author,Phonemic,,2013-09-11
+423,Ecun Buyang,lang1316,,yln,,23.0105,104.449,,Ilya Peiros|Author,Phonemic,,2013-09-11
+424,Sanchong Kelao,gree1278,,giq,,22.5632,104.698,,Ilya Peiros|Author,Phonemic,,2013-09-11
+425,Qau Kelao,qaua1234,,gqu,,26.155438,106.16455,,Ilya Peiros|Author,Phonemic,,2013-09-11
+500,Aghul (Koshan dialect),kosh1245,,,,,,,Madzhid Khalilov|Author,CyrillTrans,Phonemic,2014-01-23
+501,Botlikh (Miarso dialect),botl1242,,bph,,42.7658,46.1944,,Madzhid Khalilov|Author,CyrillTrans,Phonemic,2014-01-24
+502,Chamalal (Gigatli dialect),giga1238,,,,,,,Madzhid Khalilov|Author,CyrillTrans,Phonemic,2014-01-25
+503,Dargwa (Chirag dialect),chir1284,,,,,,,Madzhid Khalilov|Author,CyrillTrans,Phonemic,2014-01-25
+504,Dargwa (Gapshima Shukti dialect),darg1241,,dar,,42.4257,47.4388,,Madzhid Khalilov|Author,CyrillTrans,Phonemic,2014-01-25
+505,Dargwa (Gapshima dialect),darg1241,,dar,,42.4257,47.4388,,Madzhid Khalilov|Author,CyrillTrans,Phonemic,2014-01-25
+506,Dargwa (Gubden dialect),darg1241,,dar,,42.4257,47.4388,,Madzhid Khalilov|Author,CyrillTrans,Phonemic,2014-01-25
+507,Dargwa (Kadar dialect),darg1241,,dar,,42.4257,47.4388,,Madzhid Khalilov|Author,CyrillTrans,Phonemic,2014-01-25
+508,Dargwa (Megeb dialect),darg1241,,dar,,42.4257,47.4388,,Madzhid Khalilov|Author,CyrillTrans,Phonemic,2014-01-25
+509,Dargwa (Mekegi dialect),darg1241,,dar,,42.4257,47.4388,,Madzhid Khalilov|Author,CyrillTrans,Phonemic,2014-01-25
+510,Dargwa (Mugi dialect),darg1241,,dar,,42.4257,47.4388,,Madzhid Khalilov|Author,CyrillTrans,Phonemic,2014-01-25
+511,Dargwa (Sirkhi dialect),darg1241,,dar,,42.4257,47.4388,,Madzhid Khalilov|Author,CyrillTrans,Phonemic,2014-01-25
+512,"Dargwa (Tsudakhar dialect, Tanty subdialect)",cuda1238,,,,,,,Madzhid Khalilov|Author,CyrillTrans,Phonemic,2014-01-25
+513,Dargwa (Tsudakhar dialect),cuda1238,,,,,,,Madzhid Khalilov|Author,CyrillTrans,Phonemic,2014-01-25
+514,Dargwa (Urakhi dialect),urax1238,,,,,,,Madzhid Khalilov|Author,CyrillTrans,Phonemic,2014-01-25
+515,Dargwa (Usisha dialect),darg1241,,dar,,42.4257,47.4388,,Madzhid Khalilov|Author,CyrillTrans,Phonemic,2014-01-25
+516,Ingush,ingu1240,,inh,,42.9525,44.158,,Madzhid Khalilov|Author,CyrillTrans,Phonemic,2014-01-26
+517,Bezhta (Khasharkhota dialect),khoc1238,,,,,,,Madzhid Khalilov|Author,CyrillTrans,Phonemic,2014-01-24
+518,Kryz,kryt1240,,kry,,41.1811,48.1846,,Madzhid Khalilov|Author,CyrillTrans,Phonemic,2014-01-26
+519,Kumyk (Dorgeli dialect),kumy1244,,kum,,43.0,47.0,,Madzhid Khalilov|Author,CyrillTrans,Phonemic,2014-01-26
+520,Kumyk (Kajtak Tumenler dialect),kumy1244,,kum,,43.0,47.0,,Madzhid Khalilov|Author,CyrillTrans,Phonemic,2014-01-26
+521,Kumyk (Kajtak dialect),kumy1244,,kum,,43.0,47.0,,Madzhid Khalilov|Author,CyrillTrans,Phonemic,2014-01-26
+522,Kumyk (Karabudakhkent dialect),kumy1244,,kum,,43.0,47.0,,Madzhid Khalilov|Author,CyrillTrans,Phonemic,2014-01-26
+523,Kumyk (Ter Bragun dialect),kumy1244,,kum,,43.0,47.0,,Madzhid Khalilov|Author,CyrillTrans,Phonemic,2014-01-26
+524,Lak (Arakul dialect),lakk1252,,lbe,,42.1328,47.0809,,Madzhid Khalilov|Author,CyrillTrans,Phonemic,2014-01-26
+525,Lak (Balkhar dialect),lakk1252,,lbe,,42.1328,47.0809,,Madzhid Khalilov|Author,CyrillTrans,Phonemic,2014-01-26
+526,Lak (Shali dialect),lakk1252,,lbe,,42.1328,47.0809,,Madzhid Khalilov|Author,CyrillTrans,Phonemic,2014-01-26
+527,Rutul (Borchino Khnow dialect),rutu1240,,rut,,41.6187,47.3244,,Madzhid Khalilov|Author,CyrillTrans,Phonemic,2014-01-26
+528,Rutul (Ikhrek dialect),ixre1238,,,,,,,Madzhid Khalilov|Author,CyrillTrans,Phonemic,2014-01-26
+529,Rutul (Mukhrek) dialect,ixre1238,,,,,,,Madzhid Khalilov|Author,CyrillTrans,Phonemic,2014-01-26
+530,Rutul (Shinaz dialect),shin1265,,,,,,,Madzhid Khalilov|Author,CyrillTrans,Phonemic,2014-01-26
+531,"Bezhta (Tlyadal dialect, Karauzek subdialect)",tlya1238,,,,,,,Madzhid Khalilov|Author,CyrillTrans,Phonemic,2014-01-26
+532,Tsakhur (Gelmets dialect),tsak1249,,tkr,,41.5916,46.8858,,Madzhid Khalilov|Author,CyrillTrans,Phonemic,2014-01-26
+533,Tsova-Tush,bats1242,,bbl,,42.1806,45.344,,Madzhid Khalilov|Author,CyrillTrans,Phonemic,2014-01-26
+534,Archi (variety 2),arch1244,,aqc,,42.3239,46.8267,,Madzhid Khalilov|Author;Stefan Lange|Data Entry,CyrillTrans,Phonemic,2014-01-24
+701,Bengali,beng1280,,ben,,24.0,90.0,,Anju Saxena|Author;Anju Saxena|Data Entry;Mohini Pimpalkhare|Data Entry,Phonemic,Standard,2015-04-01
+702,Hindi  ,hind1269,,hin,,25.0,77.0,,Anju Saxena|Author;Anju Saxena|Data Entry;Mohini Pimpalkhare|Data Entry,Phonemic,Standard,2015-04-01
+703,Khasi,khas1269,,kha,,24.977,91.9998,,Anju Saxena|Author;Marantha T. Wahlang|Author;Marantha T. Wahlang|Data Entry;Muhammad Rafiq|Data Entry,,,2015-04-01
+704,Mahasu Pahari (Kotghari dialect),maha1287,,bfz,,31.0088,77.5317,,Anju Saxena|Author;David Karlander|Data Entry,Phonemic,,2015-04-01
+705,Marathi,mara1378,,mar,,17.9344,76.6665,,Anju Saxena|Author;Mohini Pimpalkhare|Data Entry,Phonemic,Standard,2015-04-01
+706,Nepali,east1436,,nep,,,,,Anju Saxena|Author;Anju Saxena|Data Entry,Phonemic,,2015-04-01
+707,Punjabi,west2386,,pnb,,30.0948,75.3474,,Anju Saxena|Author;Mohini Pimpalkhare|Data Entry,Phonemic,,2015-04-01
+708,Tamil,tami1289,,tam,,10.520219,78.825989,,Anju Saxena|Author;Mohamed Hashim|Data Entry,Phonemic,,2015-04-01
+709,Telugu,telu1262,,tel,,16.4529,78.7024,,Anju Saxena|Author;David Karlander|Data Entry;Anju Saxena|Data Entry;K. Taraka Rama|Data Entry,Phonemic,,2015-04-01
+710,Tibetan,tibe1272,,bod,,28.3681,90.1872,,Anju Saxena|Author;David Karlander|Data Entry,Phonemic,,2015-04-01
+800,Kme-2 (Kemie variety),manm1238,,mml,,22.0743,100.842,,Ilya Peiros|Author,phonetic,,2016-01-31
+801,Bulang,blan1242,,blr,,22.0092,99.7405,,Ilya Peiros|Author,phonetic,,2016-01-31
+802,Bulang-2,blan1242,,blr,,22.0092,99.7405,,Ilya Peiros|Author,phonetic,,2016-01-31
+803,Bulang-3,blan1242,,blr,,22.0092,99.7405,,Ilya Peiros|Author,phonetic,,2016-01-31
+804,Keme (Kemie variety),manm1238,,mml,,22.0743,100.842,,Ilya Peiros|Author,phonetic,,2016-01-31
+805,Xu,huuu1240,,huo,,22.0163,100.881,,Ilya Peiros|Author,phonetic,,2016-01-31
+806,Mang'an B. (MNN),,,,,,,,Ilya Peiros|Author,phonetic,,2016-01-31
+807,Wa,nucl1290,,wbm,,23.1024,99.108,,Ilya Peiros|Author,phonetic,,2016-01-31
+808,Rumai,ruma1248,,rbb,,23.6404,97.3172,,Ilya Peiros|Author,phonetic,,2016-01-31
+809,Prai,phai1238,,prt,,19.4306,101.021,,Ilya Peiros|Author,phonetic,,2016-01-31
+810,Pusing,bitt1240,,bgk,,21.3474,101.916,,Ilya Peiros|Author,phonetic,,2016-01-31
+811,Paliu,boly1239,,ply,,24.7013,104.955,,Ilya Peiros|Author,phonetic,,2016-01-31
+812,PLW (a Palaung variety),pala1336,,,,,,,Ilya Peiros|Author,phonetic,,2016-01-31
+813,DEA (a Palaung variety),pala1336,,,,,,,Ilya Peiros|Author,phonetic,,2016-01-31
+814,Mlabri,mlab1235,,mra,,18.5533,101.163,,Ilya Peiros|Author,phonetic,,2016-01-31
+815,Cuoi,cuoi1242,,,,,,,Ilya Peiros|Author,phonetic,,2016-01-31
+816,Vietnamese,viet1252,,vie,,18.3887,106.757,,Ilya Peiros|Author,phonetic,,2016-01-31
+817,Hanoi Vn,nort2683,,,,,,,Ilya Peiros|Author,phonetic,,2016-01-31
+818,Tho Mun (THM),,,,,,,,Ilya Peiros|Author,phonetic,,2016-01-31
+819,LiHa,cuoi1242,,,,,,,Ilya Peiros|Author,phonetic,,2016-01-31
+820,Phong,phon1246,,pnx,,19.9622,104.088,,Ilya Peiros|Author,phonetic,,2016-01-31
+821,TUL,,,,,,,,Ilya Peiros|Author,phonetic,,2016-01-31
+822,Tum,cuoi1242,,,,,,,Ilya Peiros|Author,phonetic,,2016-01-31
+823,Chut (Ruc variety),rucc1239,,,,,,,Ilya Peiros|Author,phonetic,,2016-01-31
+824,Phu Tho M (PHU),,,,,,,,Ilya Peiros|Author,phonetic,,2016-01-31
+825,Kha Poong,khap1242,,,,,,,Ilya Peiros|Author,phonetic,,2016-01-31
+826,Malieng,mali1278,,,,,,,Ilya Peiros|Author,phonetic,,2016-01-31
+827,Ahlao Th,aheu1239,,thm,,17.7655,104.229,,Ilya Peiros|Author,phonetic,,2016-01-31
+828,Thavung So,aheu1239,,thm,,17.7655,104.229,,Ilya Peiros|Author,phonetic,,2016-01-31
+829,Nyakur,nyah1250,,cbn,,15.8909,101.515,,Ilya Peiros|Author,phonetic,,2016-01-31
+830,Pear,pear1247,,pcb,,13.593,105.028,,Ilya Peiros|Author,phonetic,,2016-01-31
+831,SAN,,,,,,,,Ilya Peiros|Author,phonetic,,2016-01-31
+832,Kasong,suoy1242,,syo,,11.936,104.136,,Ilya Peiros|Author,phonetic,,2016-01-31
+833,Samre,somr1240,,smu,,13.479,103.978,,Ilya Peiros|Author,phonetic,,2016-01-31
+834,Chong,chon1284,,cog,,12.5218,102.514,,Ilya Peiros|Author,phonetic,,2016-01-31
+835,KNB (a Pearic variety),west2394,,,,,,,Ilya Peiros|Author,phonetic,,2016-01-31
+836,Surin Khmer,suri1265,,,,,,,Ilya Peiros|Author,phonetic,,2016-01-31
+837,CHNG (a Pearic variety),west2394,,,,,,,Ilya Peiros|Author,phonetic,,2016-01-31
+838,Iduh,oduu1239,,tyh,,19.3497,104.106,,Ilya Peiros|Author,phonetic,,2016-01-31
+839,Mang Ch,mang1378,,zng,,21.4305,102.133,,Ilya Peiros|Author,phonetic,,2016-01-31
+840,Mang VN,mang1378,,zng,,21.4305,102.133,,Ilya Peiros|Author,phonetic,,2016-01-31

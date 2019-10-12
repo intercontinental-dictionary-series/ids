@@ -231,6 +231,15 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#iso639P3code",
                         "required": false,
                         "name": "ISO639P3code"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "representations",
+                        "separator": ";"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "date"
                     }
                 ],
                 "primaryKey": [
