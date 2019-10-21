@@ -1,8 +1,8 @@
 import attr
 from clldutils.path import Path
-from clldutils.text import strip_chars, split_text_with_context
 from pylexibank.dataset import Lexeme, Language
 from pylexibank.providers import clld
+import unicodedata
 
 GLOTTOCODE_UPDATES = {"sana1281": "sana1298", "pray1239": "phai1238", "samr1245": "somr1240"}
 
@@ -30,16 +30,8 @@ class Dataset(clld.CLLD):
     lexeme_class = IDSLexeme
     language_class = IDSLanguage
 
-    def split_forms(self, row, value):
-        value = self.lexemes.get(value, value)
-        return filter(None,[
-            self.clean_form(row, form) for form in split_text_with_context(value, separators="/,;~")
-        ])
-
-    def clean_form(self, item, form):
-        form = strip_chars("[]()*^?=", form)
-        if form and strip_chars("- ", form) not in ["\u2014", "?", "???", "", "666"]:
-            return form
+    strip_inside_brackets = False
+    missing_data = ('?', '-', '???', '', '666', '\u2014')
 
     def cmd_install(self, **kw):
         ccode = {
@@ -102,14 +94,17 @@ class Dataset(clld.CLLD):
                 )
 
             for row in self.original_cldf["FormTable"]:
-                row["Value"] = row.pop("Form")
-                row["AlternativeValue"] = row.pop("alt_form")
-                row["Transcription"] = (row.pop("transcription") or "").lower()
-                row["AlternativeTranscription"] = (row.pop("alt_transcription") or "").lower()
+                av = row.pop("alt_form")
+                if av:
+                    av = unicodedata.normalize('NFC', av)
+                row["Value"] = unicodedata.normalize('NFC', row.pop("Form"))
+                row["AlternativeValue"] = av
+                row["Transcription"] = row.pop("transcription") or ""
+                row["AlternativeTranscription"] = row.pop("alt_transcription") or ""
                 del row["ID"]
                 del row["Contribution_ID"]
                 del row["Segments"]
-                ds.add_lexemes(**row)
+                ds.add_forms_from_value(**row)
 
             ds.objects['LanguageTable'] = sorted(ds.objects['LanguageTable'],
                     key=lambda item: int(item['ID']))

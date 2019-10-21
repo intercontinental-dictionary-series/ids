@@ -23,21 +23,25 @@
             "dc:title": "environment",
             "properties": {
                 "glottolog_version": "v4.0-51-gd1fd2f4521",
-                "concepticon_version": "v2.1.0-96-g1fa3d76"
+                "concepticon_version": "v2.1.0-96-g1fa3d76",
+                "pylexibank_version": "1.1.2.dev0",
+                "repository_version": "v2.0.1-9-g4d7faf2"
             }
         },
         {
             "dc:title": "environment",
             "properties": {
                 "glottolog_version": "v4.0-51-gd1fd2f4521",
-                "concepticon_version": "v2.1.0-96-g1fa3d76"
+                "concepticon_version": "v2.1.0-96-g1fa3d76",
+                "pylexibank_version": "1.1.2.dev0",
+                "repository_version": "v2.0.1-9-g4d7faf2"
             }
         }
     ],
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 453845,
+            "dc:extent": 451800,
             "tableSchema": {
                 "columns": [
                     {
