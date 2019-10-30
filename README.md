@@ -8,9 +8,9 @@ This dataset is licensed under a http://creativecommons.org/licenses/by/4.0/ lic
 
 Available online at http://ids.clld.org
 
-Conceptlists in Concepticon:
-- [Key-2016-1310](http://concepticon.clld.org/contributions/Key-2016-1310)
 
+Conceptlists in Concepticon:
+- [Key-2016-1310](https://concepticon.clld.org/contributions/Key-2016-1310)
 ## Statistics
 
 
@@ -22,6 +22,7 @@ Conceptlists in Concepticon:
 - **Varieties:** 329
 - **Concepts:** 1,310
 - **Lexemes:** 453,975
+- **Sources:** 95
 - **Synonymy:** 1.28
 
 ## Possible Improvements:
