@@ -18,9 +18,9 @@ class IDSLexeme(Lexeme):
 class Dataset(clld.CLLD):
     form_spec = FormSpec(
         brackets={"(": ")", "[": "]"},
-        replacements={"[": "", "]": "", "(": "", ")": ""},
+        replacements=[("[", ""), ("]", ""), ("(", ""), (")", "")],
         separators="/,;~",
-        missing_data=("-", "--", "\u2014", "?", "???", ""),
+        missing_data=("-", "--", "\u2014", "?", "???", "", "-)"),
         strip_inside_brackets=False,
     )
 

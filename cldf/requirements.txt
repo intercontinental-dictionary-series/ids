@@ -11,9 +11,6 @@ decorator==4.4.1
 idna==2.8
 isodate==0.6.0
 jdcal==1.4.1
--e git+git@github.com:lexibank/diacl.git@b312303ed17baa2457d8ce62ce21caa617e42c71#egg=lexibank_diacl
--e git+git@github.com:lexibank/hubercolumbian.git@d41a9126f871199bfd8bffd6e16ec0cd491b5c63#egg=lexibank_hubercolumbian
--e git+git@github.com:lexibank/logos.git@1a65b8d7ce8eb04179d033df6f9351f2c0b4345e#egg=lexibank_logos
 lingpy==2.6.5
 Markdown==3.1.1
 networkx==2.1
@@ -30,7 +27,7 @@ pyclts==2.0.0
 pyconcepticon==2.3.0
 pycountry==19.8.18
 pyglottolog==2.2.1
-pylexibank==2.0.0
+-e git+git@github.com:lexibank/pylexibank.git@9c4fe91d165a98b82aca386c8ed6809afed8efd8#egg=pylexibank
 pytest==5.2.2
 regex==2019.8.19
 requests==2.22.0
