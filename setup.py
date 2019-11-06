@@ -2,29 +2,19 @@ from setuptools import setup
 import json
 
 
-with open('metadata.json') as fp:
+with open("metadata.json") as fp:
     metadata = json.load(fp)
 
 
 setup(
-    name='lexibank_ids',
-    description=metadata['title'],
-    license=metadata['license'],
-    url=metadata['url'],
-    py_modules=['lexibank_ids'],
+    name="lexibank_ids",
+    description=metadata["title"],
+    license=metadata["license"],
+    url=metadata["url"],
+    py_modules=["lexibank_ids"],
     include_package_data=True,
     zip_safe=False,
-    entry_points={
-        'lexibank.dataset': [
-            'ids=lexibank_ids:Dataset',
-        ]
-    },
-    install_requires=[
-        'pylexibank>=2.0',
-    ],
-    extras_require={
-        'test': [
-            'pytest-cldf',
-        ],
-    },
+    entry_points={"lexibank.dataset": ["ids=lexibank_ids:Dataset"]},
+    install_requires=["pylexibank>=2.1"],
+    extras_require={"test": ["pytest-cldf"]},
 )
