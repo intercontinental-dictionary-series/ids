@@ -9,7 +9,7 @@ GLOTTOCODE_UPDATES = {"sana1281": "sana1298", "pray1239": "phai1238", "samr1245"
 
 
 @attr.s
-class IDSLexeme(Lexeme):
+class CustomLexeme(Lexeme):
     Transcription = attr.ib(default=None)
     AlternativeValue = attr.ib(default=None)
     AlternativeTranscription = attr.ib(default=None)
@@ -28,11 +28,11 @@ class Dataset(clld.CLLD):
 
     dir = Path(__file__).parent
     id = "ids"
-    lexeme_class = IDSLexeme
+    lexeme_class = CustomLexeme
 
     def cmd_makecldf(self, args):
         ccode = {
-            x.attributes["ids_id"]: x.concepticon_id for x in self.conceptlist.concepts.values()
+            x.attributes["ids_id"]: x.concepticon_id for x in self.conceptlists[0].concepts.values()
         }
 
         args.writer.add_sources()
