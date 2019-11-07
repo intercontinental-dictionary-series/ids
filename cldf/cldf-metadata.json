@@ -12,24 +12,24 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Intercontinental Dictionary Series",
-    "dcat:accessURL": "git@github.com:lexibank/ids",
+    "dcat:accessURL": "https://github.com/lexibank/ids",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
-            "rdf:about": "git@github.com:lexibank/ids",
-            "dc:created": "v2.0.1-5-g6d12231"
+            "rdf:about": "https://github.com/lexibank/ids",
+            "dc:created": "v2.0.1-7-gf63c961"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
-            "rdf:about": "git@github.com:glottolog/glottolog",
+            "rdf:about": "https://github.com/glottolog/glottolog",
             "dc:created": "v4.0"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
-            "rdf:about": "git@github.com:concepticon/concepticon-data",
+            "rdf:about": "https://github.com/concepticon/concepticon-data",
             "dc:created": "v2.2.0"
         },
         {
