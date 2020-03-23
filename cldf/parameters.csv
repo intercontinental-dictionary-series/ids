@@ -348,7 +348,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 8-691,pipe,1124,PIPE
 8-690,smoke (tobacco),1689,SMOKE (INHALE)
 8-680,tobacco,974,TOBACCO
-8-670,vine,343,VINE
+8-670,vine,3769,GRAPEVINE
 8-660,acorn,968,ACORN
 8-650,fir,1915,FIR
 8-640,pine,1740,PINE
@@ -524,7 +524,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 5-630,sausage,1874,SAUSAGE
 5-610,meat,634,MEAT
 5-590,pestle,225,PESTLE
-5-580,mortar (2),224,MORTAR CRUSHER
+5-580,mortar (2),224,MORTAR
 5-570,mill,636,MILL
 5-560,"crush, grind",1033,GRIND
 5-550,"meal, flour",1594,FLOUR
@@ -551,7 +551,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 5-320,plate,480,PLATE
 5-310,dish,481,DISH
 5-280,pan,31,PAN
-5-260,"pot, cooking vessel",1462,POT
+5-260,"pot, cooking vessel",3653,COOKING POT
 5-270,kettle,854,KETTLE
 5-240,bake,183,BAKE
 5-250,oven,1143,OVEN
@@ -797,11 +797,11 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 3-420,stallion,936,STALLION
 3-410,horse (equine),615,HORSE
 3-380,kid,1972,KID
-3-370,he-goat,264,HE-GOAT
+3-370,he-goat,2475,MALE GOAT
 3-360,goat,1502,GOAT
 3-350,pig,1337,PIG
 3-340,sow (2),1351,SOW (FEMALE PIG)
-3-320,boar,1348,BOAR
+3-320,boar,1348,BOAR (MALE PIG)
 3-290,lamb,820,LAMB
 3-280,ewe,1345,EWE
 3-260,ram,1344,RAM
@@ -848,11 +848,11 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2-550,cousin,1643,COUSIN
 2-540,niece,1642,NIECE
 2-530,nephew,1063,NEPHEW
-2-522,father's sister,170,FATHER'S SISTER
+2-522,father's sister,2691,PATERNAL AUNT (FATHER'S SISTER)
 2-520,aunt,1272,AUNT
-2-521,mother's sister,171,MOTHER'S SISTER
-2-512,father's brother,1985,FATHER'S BROTHER
-2-511,mother's brother,1984,MOTHER'S BROTHER
+2-521,mother's sister,2693,MATERNAL AUNT (MOTHER'S SISTER)
+2-512,father's brother,1985,PATERNAL UNCLE (FATHER'S BROTHER)
+2-511,mother's brother,2692,MATERNAL UNCLE (MOTHER'S BROTHER)
 2-510,uncle,1327,UNCLE
 2-480,grandson,1618,GRANDSON
 2-490,granddaughter,1619,GRANDDAUGHTER
@@ -934,7 +934,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1-380,swamp,1145,SWAMP
 1-370,"spring, well",2144,SPRING OR WELL
 1-362,whirlpool,1982,WHIRLPOOL
-1-360,"river, stream, brook",666,RIVER
+1-360,"river, stream, brook",3311,FLOWING BODY OF WATER
 1-354,hightide,613,HIGH TIDE
 1-353,lowtide,1026,LOW TIDE
 1-352,tide,891,TIDE
