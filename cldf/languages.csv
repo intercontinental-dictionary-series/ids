@@ -1,330 +1,330 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family
-325,Khwarshi (Kwantlada dialect),khva1239,,,,,,
-319,Ossetic,osse1243,,,,,,
-320,Avar (Araderikh dialect),avar1256,,,,,,
-321,Avar (Khunzakh dialect),kunz1243,,,,,,
-322,Avar (East Gergebil dialect),avar1256,,,,,,
-323,Avar (Ansalta dialect),avar1256,,,,,,
-324,Avar (Salatav dialect),sala1265,,,,,,
-61,Aghul,aghu1253,,,,,,
-33,Akhvakh (Northern dialect),akhv1239,,,,,,
-34,Akhvakh (Southern dialect),akhv1239,,,,,,
-32,Andi,andi1255,,,,,,
-62,Archi (variety 1),arch1244,,,,,,
-107,Avar,avar1256,,,,,,
-28,Avar (Andalal dialect),anda1281,,,,,,
-29,Avar (Antsukh dialect),ancu1238,,,,,,
-26,Avar (Batlukh dialect),batl1238,,,,,,
-27,Avar (Hid dialect),hidd1238,,,,,,
-31,Avar (Karakh dialect),kara1473,,,,,,
-81,Avar (Kusur dialect),avar1256,,,,,,
-30,Avar (Zakataly dialect),zaka1239,,,,,,
-71,Azerbaijani,nort2697,,,,,,
-35,Bagvalal,bagv1239,,,,,,
-37,Botlikh,botl1242,,,,,,
-63,Budukh,budu1248,,,,,,
-51,Chamalal,cham1309,,,,,,
-75,Chechen,chec1245,,,,,,
-59,Dargwa (Kubachi dialect),kuba1248,,,,,,
-57,Dargwa,darg1241,,,,,,
-60,Dargwa (Khajdak dialect),kajt1238,,,,,,
+325,Khwarshi (Kwantlada dialect),khva1239,Khwarshi-Inkhoqwari,khv,Eurasia,42.2743,45.9977,Nakh-Daghestanian
+319,Ossetic,osse1243,Modern Ossetic,,Eurasia,42.98,44.61,Indo-European
+320,Avar (Araderikh dialect),avar1256,Avar,ava,Eurasia,41.7047,46.558,Nakh-Daghestanian
+321,Avar (Khunzakh dialect),kunz1243,Kunzakh,,Eurasia,,,Nakh-Daghestanian
+322,Avar (East Gergebil dialect),avar1256,Avar,ava,Eurasia,41.7047,46.558,Nakh-Daghestanian
+323,Avar (Ansalta dialect),avar1256,Avar,ava,Eurasia,41.7047,46.558,Nakh-Daghestanian
+324,Avar (Salatav dialect),sala1265,Salatav,,Eurasia,,,Nakh-Daghestanian
+61,Aghul,aghu1253,Aghul,agx,Eurasia,41.9242,47.5843,Nakh-Daghestanian
+33,Akhvakh (Northern dialect),akhv1239,Akhvakh,akv,Eurasia,42.4003,46.3037,Nakh-Daghestanian
+34,Akhvakh (Southern dialect),akhv1239,Akhvakh,akv,Eurasia,42.4003,46.3037,Nakh-Daghestanian
+32,Andi,andi1255,Andi,ani,Eurasia,42.8078,46.2919,Nakh-Daghestanian
+62,Archi (variety 1),arch1244,Archi,aqc,Eurasia,42.3239,46.8267,Nakh-Daghestanian
+107,Avar,avar1256,Avar,ava,Eurasia,41.7047,46.558,Nakh-Daghestanian
+28,Avar (Andalal dialect),anda1281,Andalal-Gxdatl,,Eurasia,,,Nakh-Daghestanian
+29,Avar (Antsukh dialect),ancu1238,Ancux,,Eurasia,,,Nakh-Daghestanian
+26,Avar (Batlukh dialect),batl1238,Batlux,,Eurasia,,,Nakh-Daghestanian
+27,Avar (Hid dialect),hidd1238,Hid,,Eurasia,,,Nakh-Daghestanian
+31,Avar (Karakh dialect),kara1473,Karax,,Eurasia,,,Nakh-Daghestanian
+81,Avar (Kusur dialect),avar1256,Avar,ava,Eurasia,41.7047,46.558,Nakh-Daghestanian
+30,Avar (Zakataly dialect),zaka1239,Zakataly,,Eurasia,,,Nakh-Daghestanian
+71,Azerbaijani,nort2697,North Azerbaijani,azj,Eurasia,40.9777,46.4737,Turkic
+35,Bagvalal,bagv1239,Bagvalal,kva,Eurasia,42.3966,46.1041,Nakh-Daghestanian
+37,Botlikh,botl1242,Botlikh,bph,Eurasia,42.665,46.22,Nakh-Daghestanian
+63,Budukh,budu1248,Budukh,bdk,Eurasia,41.2272,48.3353,Nakh-Daghestanian
+51,Chamalal,cham1309,Chamalal,cji,Eurasia,42.5024,45.995,Nakh-Daghestanian
+75,Chechen,chec1245,Chechen,che,Eurasia,43.5,45.5,Nakh-Daghestanian
+59,Dargwa (Kubachi dialect),kuba1248,Kubachi,,Eurasia,42.08504,47.601843,Nakh-Daghestanian
+57,Dargwa,darg1241,North-Central Dargwa,dar,Eurasia,42.4257,47.4388,Nakh-Daghestanian
+60,Dargwa (Khajdak dialect),kajt1238,Kajtak,,Eurasia,42.052428,47.776611,Nakh-Daghestanian
 58,Dargwa (Itsari dialect),itsa1239,,,,,,
-126,Erzya Mordvin,erzy1239,,,,,,
-127,Estonian,esto1258,,,,,,
-128,Finnish,finn1318,,,,,,
-38,Godoberi,ghod1238,,,,,,
-42,Hinuq,hinu1240,,,,,,
-131,Hungarian,hung1274,,,,,,
-52,Hunzib,hunz1247,,,,,,
-39,Karata,kara1474,,,,,,
-40,Karata (Tokitin dialect),toki1238,,,,,,
-135,Khanty,khan1273,,,,,,
-69,Khinalug,khin1240,,,,,,
-54,Khwarshi (Inkhokvari dialect),inxo1238,,,,,,
-41,Khwarshi (Khwarshi dialect),xvar1237,,,,,,
-139,Komi,komi1268,,,,,,
-72,Kumyk,kumy1244,,,,,,
-56,Lak,lakk1252,,,,,,
-143,Northern Saami,nort2671,,,,,,
-64,Lezgian,lezg1247,,,,,,
-65,Lezgi (Mikrakh dialect),lezg1247,,,,,,
-146,Mansi,mans1258,,,,,,
-147,Mari,east2328,,,,,,
-148,Nenets,nene1249,,,,,,
-73,Nogai,noga1249,,,,,,
-66,Rutul,rutu1240,,,,,,
-151,Selkup,selk1253,,,,,,
-67,Tabasaran (Northern dialect Khanag subdialect),taba1259,,,,,,
-68,Tabasaran (Southern dialect),sout2752,,,,,,
-74,Judeo-Tat,jude1256,,,,,,
-50,Tindi,tind1238,,,,,,
-70,Tsakhur,tsak1249,,,,,,
-55,Tsez (Sagada dialect),saga1261,,,,,,
-80,Udi,udii1243,,,,,,
-159,Udmurt,udmu1245,,,,,,
-160,Bezhta,bezh1248,,,,,,
-162,Tsez (Mokok dialect) ,dido1241,,,,,,
-164,Dargwa (Muiri dialect),darg1241,,,,,,
-165,Lezgian (Quba dialect),quba1246,,,,,,
-166,Azerbaijani (Terekeme dialect),nort2697,,,,,,
-167,Ancient Greek ,anci1242,,,,,,
-168,Modern Greek,mode1248,,,,,,
-169,Latin,lati1261,,,,,,
-172,Panare,enap1235,,,,,,
-170,Italian,ital1282,,,,,,
-171,French,stan1290,,,,,,
-173,Macushi,macu1259,,,,,,
-174,De'kwana,maqu1238,,,,,,
-175,Wai Wai,waiw1244,,,,,,
-176,Spanish,stan1288,,,,,,
-177,Catalan,stan1289,,,,,,
-178,Portuguese,port1283,,,,,,
-179,Romanian,roma1327,,,,,,
-180,Old Irish,oldi1245,,,,,,
-181,Irish,iris1253,,,,,,
-182,Welsh,wels1247,,,,,,
-183,Breton,bret1244,,,,,,
-184,Gothic,goth1244,,,,,,
-185,Old Norse,oldn1244,,,,,,
-186,Danish,dani1285,,,,,,
-187,Swedish,swed1254,,,,,,
-188,Old English,olde1238,,,,,,
-189,Middle English,midd1317,,,,,,
-190,English,stan1293,,,,,,
-191,Dutch,dutc1256,,,,,,
-192,Old High German,oldh1241,,,,,,
-193,Middle High German ,midd1343,,,,,,
-194,German,stan1295,,,,,,
-195,Yiddish,east2295,,,,,,
-196,Lithuanian,lith1251,,,,,,
-197,Latvian,latv1249,,,,,,
-198,Old Prussian,prus1238,,,,,,
-199,Old Church Slavonic,chur1257,,,,,,
-200,Bulgarian,bulg1262,,,,,,
-201,Serbo-Croatian,sout1528,,,,,,
-202,Czech,czec1258,,,,,,
-203,Polish,poli1260,,,,,,
-204,Russian,russ1263,,,,,,
-205,Albanian (Tosk variety),tosk1239,,,,,,
+126,Erzya Mordvin,erzy1239,Erzya,myv,Eurasia,52.8548,45.3901,Uralic
+127,Estonian,esto1258,Estonian,ekk,Eurasia,58.55,25.82,Uralic
+128,Finnish,finn1318,Finnish,fin,Eurasia,64.7628,25.5577,Uralic
+38,Godoberi,ghod1238,Godoberi,gdo,Eurasia,42.7428,46.2252,Nakh-Daghestanian
+42,Hinuq,hinu1240,Hinuq,gin,Eurasia,42.4502,45.8064,Nakh-Daghestanian
+131,Hungarian,hung1274,Hungarian,hun,Eurasia,46.9068585714,19.6555271429,Uralic
+52,Hunzib,hunz1247,Hunzib,huz,Eurasia,42.0808,46.1369,Nakh-Daghestanian
+39,Karata,kara1474,Karata,kpt,Eurasia,42.6501,46.3151,Nakh-Daghestanian
+40,Karata (Tokitin dialect),toki1238,Tokita,,Eurasia,,,Nakh-Daghestanian
+135,Khanty,khan1273,Kazym-Berezover-Suryskarer Khanty,kca,Eurasia,62.4308,66.1218,Uralic
+69,Khinalug,khin1240,Khinalugh,kjj,Eurasia,41.1801,48.0571,Nakh-Daghestanian
+54,Khwarshi (Inkhokvari dialect),inxo1238,Inxokvari,,Eurasia,,,Nakh-Daghestanian
+41,Khwarshi (Khwarshi dialect),xvar1237,Xvarshi,,Eurasia,,,Nakh-Daghestanian
+139,Komi,komi1268,Komi-Zyrian,kpv,Eurasia,64.0527,54.946,Uralic
+72,Kumyk,kumy1244,Kumyk,kum,Eurasia,43.0,47.0,Turkic
+56,Lak,lakk1252,Lak,lbe,Eurasia,42.1328,47.0809,Nakh-Daghestanian
+143,Northern Saami,nort2671,North Saami,sme,Eurasia,68.725,22.1113,Uralic
+64,Lezgian,lezg1247,Lezgian,lez,Eurasia,41.5157,47.8951,Nakh-Daghestanian
+65,Lezgi (Mikrakh dialect),lezg1247,Lezgian,lez,Eurasia,41.5157,47.8951,Nakh-Daghestanian
+146,Mansi,mans1258,Northern Mansi,mns,Eurasia,64.4118,61.344,Uralic
+147,Mari,east2328,Eastern Mari,mhr,Eurasia,55.8307,48.405,Uralic
+148,Nenets,nene1249,Tundra Nenets,yrk,Eurasia,66.1775,71.0234,Uralic
+73,Nogai,noga1249,Nogai,nog,Eurasia,43.5917,46.6618,Turkic
+66,Rutul,rutu1240,Rutul,rut,Eurasia,41.6187,47.3244,Nakh-Daghestanian
+151,Selkup,selk1253,Selkup,sel,Eurasia,59.9409,82.3004,Uralic
+67,Tabasaran (Northern dialect Khanag subdialect),taba1259,Tabasaran,tab,Eurasia,42.0198,47.8379,Nakh-Daghestanian
+68,Tabasaran (Southern dialect),sout2752,South Tabasaran,,Eurasia,,,Nakh-Daghestanian
+74,Judeo-Tat,jude1256,Judeo-Tat,jdt,Eurasia,42.068306,48.264749,Indo-European
+50,Tindi,tind1238,Tindi,tin,Eurasia,42.3316,45.9227,Nakh-Daghestanian
+70,Tsakhur,tsak1249,Tsakhur,tkr,Eurasia,41.5916,46.8858,Nakh-Daghestanian
+55,Tsez (Sagada dialect),saga1261,Sagadin,,Eurasia,,,Nakh-Daghestanian
+80,Udi,udii1243,Udi,udi,Eurasia,40.9,47.7236,Nakh-Daghestanian
+159,Udmurt,udmu1245,Udmurt,udm,Eurasia,56.12921,52.63548,Uralic
+160,Bezhta,bezh1248,Bezhta,kap,Eurasia,42.1206,46.0332,Nakh-Daghestanian
+162,Tsez (Mokok dialect) ,dido1241,Tsez,ddo,Eurasia,42.2646,45.8096,Nakh-Daghestanian
+164,Dargwa (Muiri dialect),darg1241,North-Central Dargwa,dar,Eurasia,42.4257,47.4388,Nakh-Daghestanian
+165,Lezgian (Quba dialect),quba1246,Quba (Lezgian),,Eurasia,,,Nakh-Daghestanian
+166,Azerbaijani (Terekeme dialect),nort2697,North Azerbaijani,azj,Eurasia,40.9777,46.4737,Turkic
+167,Ancient Greek ,anci1242,Ancient Greek,grc,Eurasia,39.8155,21.9129,Indo-European
+168,Modern Greek,mode1248,Modern Greek,ell,Eurasia,38.36,23.13,Indo-European
+169,Latin,lati1261,Latin,lat,Eurasia,41.9026,12.4502,Indo-European
+172,Panare,enap1235,Panare,pbh,South America,6.95035,-65.8483,Cariban
+170,Italian,ital1282,Italian,ita,Eurasia,43.0464,12.6489,Indo-European
+171,French,stan1290,French,fra,Eurasia,48.0,2.0,Indo-European
+173,Macushi,macu1259,Macushi,mbc,South America,4.31861,-60.2209,Cariban
+174,De'kwana,maqu1238,Maquiritari,mch,South America,4.70705,-64.3877,Cariban
+175,Wai Wai,waiw1244,Waiwai,waw,South America,1.50881,-59.1417,Cariban
+176,Spanish,stan1288,Spanish,spa,Eurasia,40.4414,-1.11788,Indo-European
+177,Catalan,stan1289,Catalan,cat,Eurasia,41.453,1.569,Indo-European
+178,Portuguese,port1283,Portuguese,por,Eurasia,39.91,-8.1,Indo-European
+179,Romanian,roma1327,Romanian,ron,Eurasia,46.3913,24.2256,Indo-European
+180,Old Irish,oldi1245,Early Irish,sga,Eurasia,53.0,-8.0,Indo-European
+181,Irish,iris1253,Irish,gle,Eurasia,53.2186,-7.61509,Indo-European
+182,Welsh,wels1247,Welsh,cym,Eurasia,52.0,-4.0,Indo-European
+183,Breton,bret1244,Breton,bre,Eurasia,48.2452,-3.78934,Indo-European
+184,Gothic,goth1244,Gothic,got,Eurasia,46.9304,29.9786,Indo-European
+185,Old Norse,oldn1244,Old Norse,non,Eurasia,63.42,10.38,Indo-European
+186,Danish,dani1285,Danish,dan,Eurasia,54.8655,9.36284,Indo-European
+187,Swedish,swed1254,Swedish,swe,Eurasia,59.800634,17.389526,Indo-European
+188,Old English,olde1238,Old English (ca. 450-1100),ang,Eurasia,51.06,-1.31,Indo-European
+189,Middle English,midd1317,Middle English,enm,Eurasia,,,Indo-European
+190,English,stan1293,English,eng,Eurasia,53.0,-1.0,Indo-European
+191,Dutch,dutc1256,Dutch,nld,Eurasia,52.0,5.0,Indo-European
+192,Old High German,oldh1241,Old High German (ca. 750-1050),goh,Eurasia,52.0,10.0,Indo-European
+193,Middle High German ,midd1343,Middle High German,gmh,Eurasia,,,Indo-European
+194,German,stan1295,German,deu,Eurasia,48.649,12.4676,Indo-European
+195,Yiddish,east2295,Eastern Yiddish,ydd,Eurasia,51.75,19.42,Indo-European
+196,Lithuanian,lith1251,Lithuanian,lit,Eurasia,55.1429,23.9601,Indo-European
+197,Latvian,latv1249,Latvian,lav,Eurasia,56.826108,24.309118,Indo-European
+198,Old Prussian,prus1238,Old Prussian,prg,Eurasia,52.394,14.757,Indo-European
+199,Old Church Slavonic,chur1257,Church Slavic,chu,Eurasia,43.7171,22.8442,Indo-European
+200,Bulgarian,bulg1262,Bulgarian,bul,Eurasia,43.3646,25.047,Indo-European
+201,Serbo-Croatian,sout1528,Serbian-Croatian-Bosnian,hbs,Eurasia,44.15,18.81,Indo-European
+202,Czech,czec1258,Czech,ces,Eurasia,49.873398,15.10437,Indo-European
+203,Polish,poli1260,Polish,pol,Eurasia,51.8439,18.6255,Indo-European
+204,Russian,russ1263,Russian,rus,Eurasia,59.0,50.0,Indo-European
+205,Albanian (Tosk variety),tosk1239,Northern Tosk Albanian,als,Eurasia,41.0,20.0,Indo-European
 206,Armenian (Eastern variety),east2283,,,,,,
 207,Armenian (Western variety),west2348,,,,,,
-208,Hittite,hitt1242,,,,,,
-209,Tocharian A,tokh1242,,,,,,
-210,Tocharian B,tokh1243,,,,,,
-211,Sanskrit,sans1269,,,,,,
-212,Romani,vlax1238,,,,,,
-213,Avestan,aves1237,,,,,,
-214,Persian,west2369,,,,,,
-215,Ancient Aramaic,olda1245,,,,,,
-216,Elamite,elam1244,,,,,,
-217,Negerhollands,nege1244,,,,,,
-218,Jamaican Creole (Limonese Creole dialect),jama1262,,,,,,
-219,Basque,basq1248,,,,,,
-220,Hausa,haus1257,,,,,,
-221,Polci,polc1243,,,,,,
-222,Nahuatl (Sierra de Zacapoaxtla variety),high1278,,,,,,
-223,Chatino (Zacatepec variety),zaca1242,,,,,,
-224,Karok,karo1304,,,,,,
-225,Seri,seri1257,,,,,,
-226,Zuni,zuni1245,,,,,,
-227,Northern Haida,nort2938,,,,,,
-228,Tlingit,tlin1245,,,,,,
-229,Tsimshian,nucl1649,,,,,,
-230,Nuu-chah-nulth,nuuc1236,,,,,,
-231,Bella Coola,bell1243,,,,,,
-232,Upper Chehalis,uppe1439,,,,,,
-233,Proto Austronesian,aust1307,,,,,,
-234,Proto Polynesian,poly1242,,,,,,
-235,Hawaiian,hawa1245,,,,,,
-236,Maori,maor1246,,,,,,
-237,Marquesan,sout2866,,,,,,
-238,Rapa Nui,rapa1244,,,,,,
-239,Rotuman,rotu1241,,,,,,
-240,Tongan,tong1325,,,,,,
-241,Tuamotuan,tuam1242,,,,,,
-242,Barí,bari1297,,,,,,
-243,Muisca,chib1270,,,,,,
-244,Páez,paez1247,,,,,,
-245,Cayapa,chac1249,,,,,,
-246,Colorado,colo1256,,,,,,
-247,Embera,nort2972,,,,,,
-248,Epena,epen1239,,,,,,
-249,Puinave,puin1248,,,,,,
-250,Yuwana,yuwa1244,,,,,,
-251,Yaruro,pume1238,,,,,,
-252,Ninam (Shirishana variety),nina1238,,,,,,
-253,Yanomámi,yano1262,,,,,,
-254,Cofán,cofa1242,,,,,,
-255,Waorani,waor1240,,,,,,
-256,Siona,sion1247,,,,,,
-257,Tuyuca,tuyu1244,,,,,,
-258,Aguaruna,agua1253,,,,,,
-260,Yagua,yagu1244,,,,,,
-261,Baure,baur1253,,,,,,
-262,Goajiro,wayu1243,,,,,,
-263,Ignaciano,igna1246,,,,,,
-264,Mashco Piro,mash1270,,,,,,
-265,Trinitario,trin1274,,,,,,
-266,Wapishana,wapi1253,,,,,,
-267,Waurá,waur1244,,,,,,
-268,Yavitero,yavi1244,,,,,,
-269,Aymara,cent2142,,,,,,
-270,Chipaya,chip1262,,,,,,
-271,Mosetén,mose1249,,,,,,
-272,Araona,arao1248,,,,,,
-273,Cavineña,cavi1250,,,,,,
-274,Ese Ejja,esee1248,,,,,,
-275,Ese Ejja (Huarayo),esee1248,,,,,,
-276,Tacana,taca1256,,,,,,
-277,Cashibo,cash1251,,,,,,
-278,Catuquina,pano1254,,,,,,
-279,Chácobo,chac1251,,,,,,
-280,Pacahuara,paca1246,,,,,,
-281,Shipibo-Conibo,ship1254,,,,,,
-282,Yaminahua,yami1256,,,,,,
-283,Cayuvava,cayu1262,,,,,,
-284,Itonama,iton1250,,,,,,
-285,Movima,movi1243,,,,,,
-286,Pacaas Novos,wari1268,,,,,,
-287,Mundurukú,mund1330,,,,,,
-288,Aché,ache1246,,,,,,
-289,Chiriguano,east2555,,,,,,
-290,Guaraní,para1311,,,,,,
-291,Sirionó,siri1273,,,,,,
-292,Wayampi,waya1270,,,,,,
-293,Canela,cane1242,,,,,,
-294,Kaingáng,kain1272,,,,,,
-295,Karajá,kara1500,,,,,,
-296,Trumai,trum1247,,,,,,
-297,Ayoreo,ayor1240,,,,,,
+208,Hittite,hitt1242,Hittite,hit,Eurasia,40.0,35.0,Indo-European
+209,Tocharian A,tokh1242,Tokharian A,xto,Eurasia,42.98,89.18,Indo-European
+210,Tocharian B,tokh1243,Tokharian B,txb,Eurasia,41.65,82.9,Indo-European
+211,Sanskrit,sans1269,Sanskrit,san,Eurasia,20.0,77.0,Indo-European
+212,Romani,vlax1238,Vlax Romani,rmy,Eurasia,46.09,18.16,Indo-European
+213,Avestan,aves1237,Avestan,ave,Eurasia,31.541,53.633,Indo-European
+214,Persian,west2369,Western Farsi,pes,Eurasia,32.9,53.3,Indo-European
+215,Ancient Aramaic,olda1245,Old Aramaic (up to 700 BCE),oar,Eurasia,,,Afro-Asiatic
+216,Elamite,elam1244,Elamite,elx,Eurasia,31.1833,48.2333,Elamite
+217,Negerhollands,nege1244,Negerhollands,dcr,North America,18.3416,-64.8922,Indo-European
+218,Jamaican Creole (Limonese Creole dialect),jama1262,Jamaican Creole English,jam,North America,18.13,-77.2612,Indo-European
+219,Basque,basq1248,Basque,eus,Eurasia,43.2787,-1.31622,Basque
+220,Hausa,haus1257,Hausa,hau,Africa,11.1513,8.7804,Afro-Asiatic
+221,Polci,polc1243,Polci,plj,Africa,10.0258,9.53362,Afro-Asiatic
+222,Nahuatl (Sierra de Zacapoaxtla variety),high1278,Highland Puebla Nahuatl,azz,North America,20.1554,-97.5556,Uto-Aztecan
+223,Chatino (Zacatepec variety),zaca1242,Zacatepec Chatino,ctz,North America,16.08,-97.3069,Otomanguean
+224,Karok,karo1304,Karok,kyh,North America,41.8228,-123.315,Karok
+225,Seri,seri1257,Seri,sei,North America,28.9877,-112.384,Seri
+226,Zuni,zuni1245,Zuni,zun,North America,35.0056,-108.782,Zuni
+227,Northern Haida,nort2938,Northern Haida,hdn,North America,54.004532,-132.079257,Haida
+228,Tlingit,tlin1245,Tlingit,tli,North America,59.4447,-135.29,Athabaskan-Eyak-Tlingit
+229,Tsimshian,nucl1649,Southern-Coastal Tsimshian,tsi,North America,52.59103,-128.544545,Tsimshian
+230,Nuu-chah-nulth,nuuc1236,Nuu-chah-nulth,nuk,North America,49.67,-126.67,Wakashan
+231,Bella Coola,bell1243,Bella Coola,blc,North America,52.3448,-126.689,Salishan
+232,Upper Chehalis,uppe1439,Upper Chehalis,cjh,North America,46.7981,-123.169,Salishan
+233,Proto Austronesian,aust1307,Austronesian,,,,,Austronesian
+234,Proto Polynesian,poly1242,Polynesian,,,,,Austronesian
+235,Hawaiian,hawa1245,Hawaiian,haw,Papunesia,19.6297,-155.43,Austronesian
+236,Maori,maor1246,Maori,mri,Papunesia,-38.2881,176.541,Austronesian
+237,Marquesan,sout2866,South Marquesan,mqm,Papunesia,-9.75663,-138.979,Austronesian
+238,Rapa Nui,rapa1244,Rapanui,rap,Papunesia,-27.113,-109.342,Austronesian
+239,Rotuman,rotu1241,Rotuman,rtm,Papunesia,-12.5008,177.066,Austronesian
+240,Tongan,tong1325,Tonga (Tonga Islands),ton,Papunesia,-21.17,-175.25,Austronesian
+241,Tuamotuan,tuam1242,Tuamotuan,pmt,Papunesia,-16.17259,-146.321755,Austronesian
+242,Barí,bari1297,Barí,mot,South America,9.08497,-72.9353,Chibchan
+243,Muisca,chib1270,Chibcha,chb,South America,6.24999,-74.1666,Chibchan
+244,Páez,paez1247,Páez,pbb,South America,2.61516,-76.3125,Páez
+245,Cayapa,chac1249,Cha'palaa,cbi,South America,0.71489,-79.0508,Barbacoan
+246,Colorado,colo1256,Tsafiki,cof,South America,-0.21181,-79.2347,Barbacoan
+247,Embera,nort2972,Northern Emberá,emp,South America,7.12761,-77.574,Chocoan
+248,Epena,epen1239,Epena,sja,South America,4.25877,-77.3566,Chocoan
+249,Puinave,puin1248,Puinave,pui,South America,3.92974,-67.6886,Puinave
+250,Yuwana,yuwa1244,Hoti,yau,South America,5.63879,-65.4267,Jodi-Saliban
+251,Yaruro,pume1238,Pumé,yae,South America,7.10677,-67.5996,Pumé
+252,Ninam (Shirishana variety),nina1238,Ninam,shb,South America,4.03894,-62.7801,Yanomamic
+253,Yanomámi,yano1262,Yanomámi,wca,South America,2.48999,-62.8522,Yanomamic
+254,Cofán,cofa1242,Cofán,con,South America,0.276675,-77.0643,Cofán
+255,Waorani,waor1240,Waorani,auc,South America,-1.12312,-76.683,Waorani
+256,Siona,sion1247,Siona-Tetete,snn,South America,0.31733,-76.0237,Tucanoan
+257,Tuyuca,tuyu1244,Tuyuca,tue,South America,0.39441,-70.043515,Tucanoan
+258,Aguaruna,agua1253,Aguaruna,agr,South America,-5.30044,-77.9218,Chicham
+260,Yagua,yagu1244,Yagua,yad,South America,-3.42913,-72.2186,Peba-Yagua
+261,Baure,baur1253,Baure,brg,South America,-13.1278,-64.1838,Arawakan
+262,Goajiro,wayu1243,Wayuu,guc,South America,11.395566,-72.199791,Arawakan
+263,Ignaciano,igna1246,Ignaciano,ign,South America,-15.1188,-65.3993,Arawakan
+264,Mashco Piro,mash1270,Mashco Piro,cuj,South America,-11.4745,-70.7953,Arawakan
+265,Trinitario,trin1274,Trinitario,trn,South America,-15.3331,-65.4096,Arawakan
+266,Wapishana,wapi1253,Wapishana,wap,South America,2.58744,-59.8021,Arawakan
+267,Waurá,waur1244,Waurá,wau,South America,-13.296,-53.6971,Arawakan
+268,Yavitero,yavi1244,Yavitero,yvt,South America,2.800281,-68.084219,Arawakan
+269,Aymara,cent2142,Central Aymara,ayr,South America,-17.0,-68.5,Aymaran
+270,Chipaya,chip1262,Chipaya,cap,South America,-18.73951,-67.89633,Uru-Chipaya
+271,Mosetén,mose1249,Mosetén-Chimané,cas,South America,-14.64448,-67.83756,Mosetén-Chimané
+272,Araona,arao1248,Araona,aro,South America,-12.4242,-67.7293,Pano-Tacanan
+273,Cavineña,cavi1250,Cavineña,cav,South America,-13.3544,-66.6277,Pano-Tacanan
+274,Ese Ejja,esee1248,Ese Ejja,ese,South America,-11.7268,-67.515,Pano-Tacanan
+275,Ese Ejja (Huarayo),esee1248,Ese Ejja,ese,South America,-11.7268,-67.515,Pano-Tacanan
+276,Tacana,taca1256,Tacana,tna,South America,-13.39249,-68.04056,Pano-Tacanan
+277,Cashibo,cash1251,Cashibo-Cacataibo,cbr,South America,-8.70232,-75.4206,Pano-Tacanan
+278,Catuquina,pano1254,Panoan Katukína,knt,South America,-7.97456,-71.56151,Pano-Tacanan
+279,Chácobo,chac1251,Chácobo,cao,South America,-12.133,-66.7164,Pano-Tacanan
+280,Pacahuara,paca1246,Pacahuara,pcp,South America,-11.9968,-65.5568,Pano-Tacanan
+281,Shipibo-Conibo,ship1254,Shipibo-Conibo,shp,South America,-7.17105,-74.8219,Pano-Tacanan
+282,Yaminahua,yami1256,Yaminahua,yaa,South America,-9.8846,-71.5964,Pano-Tacanan
+283,Cayuvava,cayu1262,Cayubaba,cyb,South America,-13.2482,-65.4822,Cayubaba
+284,Itonama,iton1250,Itonama,ito,South America,-12.80431,-64.35748,Itonama
+285,Movima,movi1243,Movima,mzp,South America,-13.8115,-65.6348,Movima
+286,Pacaas Novos,wari1268,Wari',pav,South America,-10.69948,-64.56152,Chapacuran
+287,Mundurukú,mund1330,Mundurukú,myu,South America,-8.41095,-57.691,Tupian
+288,Aché,ache1246,Aché,guq,South America,-25.5865,-56.4697,Tupian
+289,Chiriguano,east2555,Eastern Bolivian Guaraní,gui,South America,-20.42,-63.37,Tupian
+290,Guaraní,para1311,Paraguayan Guaraní,gug,South America,-25.60551,-57.08816,Tupian
+291,Sirionó,siri1273,Sirionó,srq,South America,-15.5298,-63.9688,Tupian
+292,Wayampi,waya1270,Wayampi,oym,South America,1.73817,-52.6887,Tupian
+293,Canela,cane1242,Canela-Krahô,ram,South America,-6.10712,-45.1299,Nuclear-Macro-Je
+294,Kaingáng,kain1272,Kaingang,kgp,South America,-27.7671,-52.5394,Nuclear-Macro-Je
+295,Karajá,kara1500,Karajá,kpj,South America,-11.1881,-50.3492,Nuclear-Macro-Je
+296,Trumai,trum1247,Trumai,tpy,South America,-11.8119,-53.5717,Trumai
+297,Ayoreo,ayor1240,Ayoreo,ayo,South America,-19.220055,-60.217495,Zamucoan
 298,Sanapaná (Angaité dialect),anga1295,,,,,,
-299,Sanapaná (Enlhet dialect),sana1298,,,,,,
-300,Lengua,leng1262,,,,,,
-301,Mocoví,moco1246,,,,,,
-302,Pilagá,pila1245,,,,,,
-304,Chorote,iyoj1235,,,,,,
-305,Maca,maca1260,,,,,,
-306,Wichí,wich1264,,,,,,
-307,Nivaclé,niva1238,,,,,,
-308,Kunza,kunz1244,,,,,,
-309,Mapudungun,mapu1245,,,,,,
-310,Tehuelche,tehu1242,,,,,,
-311,Selknam,onaa1245,,,,,,
-312,Gününa Küne,puel1244,,,,,,
-313,Qawasqar,qawa1238,,,,,,
-314,Toba,toba1269,,,,,,
-315,Yagán,yama1264,,,,,,
-316,Andi (Muni dialect),muni1255,,,,,,
-317,Chechen (Akkin dialect),chec1245,,,,,,
-318,Uncunwee,ghul1238,,,,,,
-401,Central Thai,thai1261,,,,,,
-402,Southern Tai (Songkhla variety),sout2746,,,,,,
-403,Thai (Korat variety),sout2746,,,,,,
-404,Khamuang (Chiang Mai variety),nort2740,,,,,,
-405,Dehong,tain1252,,,,,,
-406,Jinsha Dai,nort1545,,,,,,
-407,Tai Lü,luuu1242,,,,,,
-408,Tai Khün,khun1259,,,,,,
-409,Shan,shan1277,,,,,,
-410,Shan (Northern Shan dialect),shan1277,,,,,,
-411,Nung-Fengshan,guib1244,,,,,,
-412,Nung-Lazhai,guib1244,,,,,,
-413,Nung-Ninbei,nung1283,,,,,,
-414,Zhuang-Longzhou,zuoj1238,,,,,,
-415,Sui,suii1243,,,,,,
-416,Maonan,maon1241,,,,,,
-417,Mulam,mula1253,,,,,,
-418,Chadong,chad1240,,,,,,
-419,Southern Kam,sout2741,,,,,,
-420,Lakkia,lakk1238,,,,,,
-421,Hlai (Baoting variety),hlai1239,,,,,,
-422,Langja Buyang,emab1235,,,,,,
-423,Ecun Buyang,lang1316,,,,,,
-424,Sanchong Kelao,gree1278,,,,,,
-425,Qau Kelao,qaua1234,,,,,,
-500,Aghul (Koshan dialect),kosh1245,,,,,,
-501,Botlikh (Miarso dialect),botl1242,,,,,,
-502,Chamalal (Gigatli dialect),giga1238,,,,,,
-503,Dargwa (Chirag dialect),chir1284,,,,,,
-504,Dargwa (Gapshima Shukti dialect),darg1241,,,,,,
-505,Dargwa (Gapshima dialect),darg1241,,,,,,
-506,Dargwa (Gubden dialect),darg1241,,,,,,
-507,Dargwa (Kadar dialect),darg1241,,,,,,
-508,Dargwa (Megeb dialect),darg1241,,,,,,
-509,Dargwa (Mekegi dialect),darg1241,,,,,,
-510,Dargwa (Mugi dialect),darg1241,,,,,,
-511,Dargwa (Sirkhi dialect),darg1241,,,,,,
-512,"Dargwa (Tsudakhar dialect, Tanty subdialect)",cuda1238,,,,,,
-513,Dargwa (Tsudakhar dialect),cuda1238,,,,,,
-514,Dargwa (Urakhi dialect),urax1238,,,,,,
-515,Dargwa (Usisha dialect),darg1241,,,,,,
-516,Ingush,ingu1240,,,,,,
-517,Bezhta (Khasharkhota dialect),khoc1238,,,,,,
-518,Kryz,kryt1240,,,,,,
-519,Kumyk (Dorgeli dialect),kumy1244,,,,,,
-520,Kumyk (Kajtak Tumenler dialect),kumy1244,,,,,,
-521,Kumyk (Kajtak dialect),kumy1244,,,,,,
-522,Kumyk (Karabudakhkent dialect),kumy1244,,,,,,
-523,Kumyk (Ter Bragun dialect),kumy1244,,,,,,
-524,Lak (Arakul dialect),lakk1252,,,,,,
-525,Lak (Balkhar dialect),lakk1252,,,,,,
-526,Lak (Shali dialect),lakk1252,,,,,,
-527,Rutul (Borchino Khnow dialect),rutu1240,,,,,,
-528,Rutul (Ikhrek dialect),ixre1238,,,,,,
-529,Rutul (Mukhrek) dialect,ixre1238,,,,,,
-530,Rutul (Shinaz dialect),shin1265,,,,,,
-531,"Bezhta (Tlyadal dialect, Karauzek subdialect)",tlya1238,,,,,,
-532,Tsakhur (Gelmets dialect),tsak1249,,,,,,
-533,Tsova-Tush,bats1242,,,,,,
-534,Archi (variety 2),arch1244,,,,,,
-701,Bengali,beng1280,,,,,,
-702,Hindi  ,hind1269,,,,,,
-703,Khasi,khas1269,,,,,,
-704,Mahasu Pahari (Kotghari dialect),maha1287,,,,,,
-705,Marathi,mara1378,,,,,,
-706,Nepali,east1436,,,,,,
-707,Punjabi,west2386,,,,,,
-708,Tamil,tami1289,,,,,,
-709,Telugu,telu1262,,,,,,
-710,Tibetan,tibe1272,,,,,,
-800,Kme-2 (Kemie variety),manm1238,,,,,,
-801,Bulang,blan1242,,,,,,
-802,Bulang-2,blan1242,,,,,,
-803,Bulang-3,blan1242,,,,,,
-804,Keme (Kemie variety),manm1238,,,,,,
-805,Xu,huuu1240,,,,,,
+299,Sanapaná (Enlhet dialect),sana1298,Sanapaná,spn,South America,-23.2,-58.0,Lengua-Mascoy
+300,Lengua,leng1262,Lengua,leg,South America,-22.6559,-58.9053,Lengua-Mascoy
+301,Mocoví,moco1246,Mocoví,moc,South America,-28.097,-60.4145,Guaicuruan
+302,Pilagá,pila1245,Pilagá,plg,South America,-25.0058,-60.1537,Guaicuruan
+304,Chorote,iyoj1235,Iyojwa'ja Chorote,crt,South America,-22.1896,-63.2383,Matacoan
+305,Maca,maca1260,Maca,mca,South America,-25.0119,-57.3694,Matacoan
+306,Wichí,wich1264,Wichí Lhamtés Güisnay,mzh,South America,-23.1633,-62.1757,Matacoan
+307,Nivaclé,niva1238,Nivaclé,cag,South America,-22.8557,-61.7606,Matacoan
+308,Kunza,kunz1244,Kunza,kuz,South America,-23.0,-69.0,Kunza
+309,Mapudungun,mapu1245,Mapudungun,arn,South America,-38.7392,-71.277,Araucanian
+310,Tehuelche,tehu1242,Tehuelche,teh,South America,-47.5796,-68.3235,Chonan
+311,Selknam,onaa1245,Selk'nam,ona,South America,-54.0,-68.5,Chonan
+312,Gününa Küne,puel1244,Puelche,pue,South America,-42.223,-68.666,Puelche
+313,Qawasqar,qawa1238,Qawasqar,alc,South America,-49.303195,-74.707536,Kawesqar
+314,Toba,toba1269,Toba,tob,South America,-23.77,-61.96,Guaicuruan
+315,Yagán,yama1264,Yámana,yag,South America,-55.2748,-68.2648,Yámana
+316,Andi (Muni dialect),muni1255,Munin,,Eurasia,,,Nakh-Daghestanian
+317,Chechen (Akkin dialect),chec1245,Chechen,che,Eurasia,43.5,45.5,Nakh-Daghestanian
+318,Uncunwee,ghul1238,Uncunwee,ghl,Africa,11.6432,29.8122,Nubian
+401,Central Thai,thai1261,Thai,tha,Eurasia,14.192,100.671,Tai-Kadai
+402,Southern Tai (Songkhla variety),sout2746,Southern Thai,sou,Eurasia,6.85668,99.7031,Tai-Kadai
+403,Thai (Korat variety),sout2746,Southern Thai,sou,Eurasia,6.85668,99.7031,Tai-Kadai
+404,Khamuang (Chiang Mai variety),nort2740,Northern Thai,nod,Eurasia,18.857495,100.20739,Tai-Kadai
+405,Dehong,tain1252,Tai Nüa,tdd,Eurasia,21.7837,99.722,Tai-Kadai
+406,Jinsha Dai,nort1545,Northern Guiyang Hmong,huj,Eurasia,26.7238,106.682,Hmong-Mien
+407,Tai Lü,luuu1242,Lü,khb,Eurasia,21.0321,101.282,Tai-Kadai
+408,Tai Khün,khun1259,Khün,kkh,Eurasia,19.6062,99.3363,Tai-Kadai
+409,Shan,shan1277,Shan,shn,Eurasia,21.5995,98.0342,Tai-Kadai
+410,Shan (Northern Shan dialect),shan1277,Shan,shn,Eurasia,21.5995,98.0342,Tai-Kadai
+411,Nung-Fengshan,guib1244,Guibian Zhuang,zgn,Eurasia,24.3,106.2,Tai-Kadai
+412,Nung-Lazhai,guib1244,Guibian Zhuang,zgn,Eurasia,24.3,106.2,Tai-Kadai
+413,Nung-Ninbei,nung1283,Nung (Viet Nam),nut,Eurasia,20.8965,104.286,Tai-Kadai
+414,Zhuang-Longzhou,zuoj1238,Zuojiang Zhuang,zzj,Eurasia,22.4,106.9,Tai-Kadai
+415,Sui,suii1243,Sui,swi,Eurasia,24.0488,106.563,Tai-Kadai
+416,Maonan,maon1241,Maonan,mmd,Eurasia,25.0169,108.024,Tai-Kadai
+417,Mulam,mula1253,Mulam,mlm,Eurasia,24.8151,108.928,Tai-Kadai
+418,Chadong,chad1240,Chadong,cdy,Eurasia,25.23532,109.96041,Tai-Kadai
+419,Southern Kam,sout2741,Southern Dong,kmc,Eurasia,25.8874,109.222,Tai-Kadai
+420,Lakkia,lakk1238,Lakkia,lbc,Eurasia,24.1169,110.106,Tai-Kadai
+421,Hlai (Baoting variety),hlai1239,Hlai,lic,Eurasia,18.8062,109.459,Tai-Kadai
+422,Langja Buyang,emab1235,E'ma Buyang,yzg,Eurasia,23.604572,106.030277,Tai-Kadai
+423,Ecun Buyang,lang1316,Langnian Buyang,yln,Eurasia,23.550258,106.016896,Tai-Kadai
+424,Sanchong Kelao,gree1278,Hagei Gelao,giq,Eurasia,22.5632,104.698,Tai-Kadai
+425,Qau Kelao,qaua1234,Central Gelao-Qau,gqu,Eurasia,26.155438,106.16455,Tai-Kadai
+500,Aghul (Koshan dialect),kosh1245,Koshan,,Eurasia,,,Nakh-Daghestanian
+501,Botlikh (Miarso dialect),botl1242,Botlikh,bph,Eurasia,42.665,46.22,Nakh-Daghestanian
+502,Chamalal (Gigatli dialect),giga1238,Gigatl,,Eurasia,,,Nakh-Daghestanian
+503,Dargwa (Chirag dialect),chir1284,Chirag,,Eurasia,41.869481,47.41111,Nakh-Daghestanian
+504,Dargwa (Gapshima Shukti dialect),darg1241,North-Central Dargwa,dar,Eurasia,42.4257,47.4388,Nakh-Daghestanian
+505,Dargwa (Gapshima dialect),darg1241,North-Central Dargwa,dar,Eurasia,42.4257,47.4388,Nakh-Daghestanian
+506,Dargwa (Gubden dialect),darg1241,North-Central Dargwa,dar,Eurasia,42.4257,47.4388,Nakh-Daghestanian
+507,Dargwa (Kadar dialect),darg1241,North-Central Dargwa,dar,Eurasia,42.4257,47.4388,Nakh-Daghestanian
+508,Dargwa (Megeb dialect),darg1241,North-Central Dargwa,dar,Eurasia,42.4257,47.4388,Nakh-Daghestanian
+509,Dargwa (Mekegi dialect),darg1241,North-Central Dargwa,dar,Eurasia,42.4257,47.4388,Nakh-Daghestanian
+510,Dargwa (Mugi dialect),darg1241,North-Central Dargwa,dar,Eurasia,42.4257,47.4388,Nakh-Daghestanian
+511,Dargwa (Sirkhi dialect),darg1241,North-Central Dargwa,dar,Eurasia,42.4257,47.4388,Nakh-Daghestanian
+512,"Dargwa (Tsudakhar dialect, Tanty subdialect)",cuda1238,Cudaxar,,Eurasia,,,Nakh-Daghestanian
+513,Dargwa (Tsudakhar dialect),cuda1238,Cudaxar,,Eurasia,,,Nakh-Daghestanian
+514,Dargwa (Urakhi dialect),urax1238,Uraxa,,Eurasia,,,Nakh-Daghestanian
+515,Dargwa (Usisha dialect),darg1241,North-Central Dargwa,dar,Eurasia,42.4257,47.4388,Nakh-Daghestanian
+516,Ingush,ingu1240,Ingush,inh,Eurasia,43.11,45.03,Nakh-Daghestanian
+517,Bezhta (Khasharkhota dialect),khoc1238,Khocharkhotin,,Eurasia,,,Nakh-Daghestanian
+518,Kryz,kryt1240,Kryz,kry,Eurasia,41.1811,48.1846,Nakh-Daghestanian
+519,Kumyk (Dorgeli dialect),kumy1244,Kumyk,kum,Eurasia,43.0,47.0,Turkic
+520,Kumyk (Kajtak Tumenler dialect),kumy1244,Kumyk,kum,Eurasia,43.0,47.0,Turkic
+521,Kumyk (Kajtak dialect),kumy1244,Kumyk,kum,Eurasia,43.0,47.0,Turkic
+522,Kumyk (Karabudakhkent dialect),kumy1244,Kumyk,kum,Eurasia,43.0,47.0,Turkic
+523,Kumyk (Ter Bragun dialect),kumy1244,Kumyk,kum,Eurasia,43.0,47.0,Turkic
+524,Lak (Arakul dialect),lakk1252,Lak,lbe,Eurasia,42.1328,47.0809,Nakh-Daghestanian
+525,Lak (Balkhar dialect),lakk1252,Lak,lbe,Eurasia,42.1328,47.0809,Nakh-Daghestanian
+526,Lak (Shali dialect),lakk1252,Lak,lbe,Eurasia,42.1328,47.0809,Nakh-Daghestanian
+527,Rutul (Borchino Khnow dialect),rutu1240,Rutul,rut,Eurasia,41.6187,47.3244,Nakh-Daghestanian
+528,Rutul (Ikhrek dialect),ixre1238,Ixreko-Muxrek,,Eurasia,,,Nakh-Daghestanian
+529,Rutul (Mukhrek) dialect,ixre1238,Ixreko-Muxrek,,Eurasia,,,Nakh-Daghestanian
+530,Rutul (Shinaz dialect),shin1265,Shina (Nakh-Daghestan),,Eurasia,,,Nakh-Daghestanian
+531,"Bezhta (Tlyadal dialect, Karauzek subdialect)",tlya1238,Tlyadaly,,Eurasia,,,Nakh-Daghestanian
+532,Tsakhur (Gelmets dialect),tsak1249,Tsakhur,tkr,Eurasia,41.5916,46.8858,Nakh-Daghestanian
+533,Tsova-Tush,bats1242,Bats,bbl,Eurasia,42.1806,45.344,Nakh-Daghestanian
+534,Archi (variety 2),arch1244,Archi,aqc,Eurasia,42.3239,46.8267,Nakh-Daghestanian
+701,Bengali,beng1280,Bengali,ben,Eurasia,24.0,90.0,Indo-European
+702,Hindi  ,hind1269,Hindi,hin,Eurasia,25.0,77.0,Indo-European
+703,Khasi,khas1269,Khasi,kha,Eurasia,24.977,91.9998,Austroasiatic
+704,Mahasu Pahari (Kotghari dialect),maha1287,Mahasu Pahari,bfz,Eurasia,31.0088,77.5317,Indo-European
+705,Marathi,mara1378,Marathi,mar,Eurasia,17.9344,76.6665,Indo-European
+706,Nepali,east1436,Eastern Pahari,nep,Eurasia,27.5947033333,87.6200833333,Indo-European
+707,Punjabi,west2386,Western Panjabi,pnb,Eurasia,30.0948,75.3474,Indo-European
+708,Tamil,tami1289,Tamil,tam,Eurasia,10.520219,78.825989,Dravidian
+709,Telugu,telu1262,Telugu,tel,Eurasia,16.4529,78.7024,Dravidian
+710,Tibetan,tibe1272,Tibetan,bod,Eurasia,28.3681,90.1872,Sino-Tibetan
+800,Kme-2 (Kemie variety),manm1238,Man Met,mml,Eurasia,22.0743,100.842,Austroasiatic
+801,Bulang,blan1242,Blang,blr,Eurasia,22.0092,99.7405,Austroasiatic
+802,Bulang-2,blan1242,Blang,blr,Eurasia,22.0092,99.7405,Austroasiatic
+803,Bulang-3,blan1242,Blang,blr,Eurasia,22.0092,99.7405,Austroasiatic
+804,Keme (Kemie variety),manm1238,Man Met,mml,Eurasia,22.0743,100.842,Austroasiatic
+805,Xu,huuu1240,Hu,huo,Eurasia,22.0163,100.881,Austroasiatic
 806,Mang'an B. (MNN),,,,,,,
-807,Wa,nucl1290,,,,,,
-808,Rumai,ruma1248,,,,,,
-809,Prai,phai1238,,,,,,
-810,Pusing,bitt1240,,,,,,
-811,Paliu,boly1239,,,,,,
-812,PLW (a Palaung variety),pala1336,,,,,,
-813,DEA (a Palaung variety),pala1336,,,,,,
-814,Mlabri,mlab1235,,,,,,
-815,Cuoi,cuoi1242,,,,,,
-816,Vietnamese,viet1252,,,,,,
-817,Hanoi Vn,nort2683,,,,,,
+807,Wa,nucl1290,Zhenkang Wa,wbm,Eurasia,23.1024,99.108,Austroasiatic
+808,Rumai,ruma1248,Rumai Palaung,rbb,Eurasia,23.6404,97.3172,Austroasiatic
+809,Prai,phai1238,Prai,prt,Eurasia,19.0383,101.218,Austroasiatic
+810,Pusing,bitt1240,Bit,bgk,Eurasia,21.3474,101.916,Austroasiatic
+811,Paliu,boly1239,Bolyu,ply,Eurasia,24.7013,104.955,Austroasiatic
+812,PLW (a Palaung variety),pala1336,Palaung,,,,,Austroasiatic
+813,DEA (a Palaung variety),pala1336,Palaung,,,,,Austroasiatic
+814,Mlabri,mlab1235,Mlabri,mra,Eurasia,18.5533,101.163,Austroasiatic
+815,Cuoi,cuoi1242,Cuoi,,,,,Austroasiatic
+816,Vietnamese,viet1252,Vietnamese,vie,Eurasia,20.681188,105.774071,Austroasiatic
+817,Hanoi Vn,nort2683,Northern Vietnamese,,Eurasia,,,Austroasiatic
 818,Tho Mun (THM),,,,,,,
-819,LiHa,cuoi1242,,,,,,
-820,Phong,phon1246,,,,,,
+819,LiHa,cuoi1242,Cuoi,,,,,Austroasiatic
+820,Phong,phon1246,Phong-Kniang,pnx,Eurasia,19.9622,104.088,Austroasiatic
 821,TUL,,,,,,,
-822,Tum,cuoi1242,,,,,,
-823,Chut (Ruc variety),rucc1239,,,,,,
+822,Tum,cuoi1242,Cuoi,,,,,Austroasiatic
+823,Chut (Ruc variety),rucc1239,Ruc,,Eurasia,,,Austroasiatic
 824,Phu Tho M (PHU),,,,,,,
-825,Kha Poong,khap1242,,,,,,
-826,Malieng,mali1278,,,,,,
-827,Ahlao Th,aheu1239,,,,,,
-828,Thavung So,aheu1239,,,,,,
-829,Nyakur,nyah1250,,,,,,
-830,Pear,pear1247,,,,,,
+825,Kha Poong,khap1242,Kha Phong,,Eurasia,,,Austroasiatic
+826,Malieng,mali1278,Malieng,,Eurasia,,,Austroasiatic
+827,Ahlao Th,aheu1239,Thavung,thm,Eurasia,17.7655,104.229,Austroasiatic
+828,Thavung So,aheu1239,Thavung,thm,Eurasia,17.7655,104.229,Austroasiatic
+829,Nyakur,nyah1250,Nyahkur,cbn,Eurasia,15.8909,101.515,Austroasiatic
+830,Pear,pear1247,Pear,pcb,Eurasia,13.593,105.028,Austroasiatic
 831,SAN,,,,,,,
-832,Kasong,suoy1242,,,,,,
-833,Samre,somr1240,,,,,,
-834,Chong,chon1284,,,,,,
-835,KNB (a Pearic variety),west2394,,,,,,
-836,Surin Khmer,suri1265,,,,,,
-837,CHNG (a Pearic variety),west2394,,,,,,
-838,Iduh,oduu1239,,,,,,
-839,Mang Ch,mang1378,,,,,,
-840,Mang VN,mang1378,,,,,,
+832,Kasong,suoy1242,Suoy,syo,Eurasia,11.936,104.136,Austroasiatic
+833,Samre,somr1240,Somray of Battambang-Somre of Siem Reap,smu,Eurasia,12.243,103.139,Austroasiatic
+834,Chong,chon1284,Chong of Chanthaburi,cog,Eurasia,12.5218,102.514,Austroasiatic
+835,KNB (a Pearic variety),west2394,Western Pearic,,,,,Austroasiatic
+836,Surin Khmer,suri1265,Surin,,Eurasia,,,Austroasiatic
+837,CHNG (a Pearic variety),west2394,Western Pearic,,,,,Austroasiatic
+838,Iduh,oduu1239,O'du,tyh,Eurasia,19.3497,104.106,Austroasiatic
+839,Mang Ch,mang1378,Mang,zng,Eurasia,21.4305,102.133,Austroasiatic
+840,Mang VN,mang1378,Mang,zng,Eurasia,21.4305,102.133,Austroasiatic

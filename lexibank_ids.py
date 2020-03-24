@@ -83,9 +83,7 @@ class Dataset(clld.CLLD):
             )
 
         def apply_tokenizer(form, tokenizer):
-            return tokenizer(
-                unicodedata.normalize("NFC", "^" + form + "$")
-            ).split()
+            return tokenizer(unicodedata.normalize("NFC", form)).split()
 
         tokenizers = {}
         profile_dir = self.etc_dir / "profiles"
@@ -105,17 +103,27 @@ class Dataset(clld.CLLD):
             del row["ID"]
             del row["Contribution_ID"]
 
-            # Add forms
-            # TODO: use AlternativeTranscription if it is `phonemic`
-            for i, form in enumerate(
-                self.form_spec.split({}, row["Value"], {})
+            # Default to `phonemic` transcription
+            if (
+                row["AlternativeTranscription"] == "phonemic"
+                and row["AlternativeValue"]
             ):
-                if row["Transcription"] in tokenizers:
-                    segments = apply_tokenizer(
-                        form, tokenizers[row["Transcription"]]
-                    )
+                value = row["AlternativeValue"]
+                transcription = row["AlternativeTranscription"]
+            else:
+                value = row["Value"]
+                transcription = row["Transcription"]
+
+            # Add forms
+            for i, form in enumerate(self.form_spec.split({}, value, {})):
+                if transcription in tokenizers:
+                    segments = apply_tokenizer(form, tokenizers[transcription])
                 else:
                     segments = [c for c in form]
+
+                # TODO: temporary for development
+                if transcription != "phonemic":
+                    segments = ["a"]
 
                 # Add forms
                 args.writer.add_form_with_segments(
