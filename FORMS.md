@@ -23,7 +23,7 @@ These methods use the attributes of a `FormSpec` instance to configure their beh
   Flag signaling whether at most one form should be returned from `split` - effectively ignoring any spelling variants, etc.
 - `normalize_whitespace`: `True`
   Flag signaling whether to normalize whitespace - stripping leading and trailing whitespace and collapsing multi-character whitespace to single spaces
-- `normalize_unicode`: `NFC`
+- `normalize_unicode`: `NFD`
   UNICODE normalization form to use for input of `split` (`None`, 'NFD' or 'NFC')
 
 ### Replacement of invalid lexemes

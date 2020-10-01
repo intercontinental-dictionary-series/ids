@@ -2,7 +2,6 @@ import os
 import re
 import pathlib
 import pylexibank
-import idsutils
 from idspy import IDSDataset, IDSEntry
 from clldutils.misc import nfilter
 from clldutils.text import split_text_with_context
@@ -20,14 +19,10 @@ empty = re.compile(r'^\s*(NULL|∅|[\s\-]*)$')
 
 
 class Dataset(IDSDataset):
-    form_spec = pylexibank.FormSpec(
-        brackets={"(": ")"},
-        replacements=[],
-        separators=";,/~",
-        missing_data=('?', '∅', '-', '--', '- -', '???', '', '-666', '666', '\u2014', '\u02bc'),
-        strip_inside_brackets=False,
-        normalize_unicode="NFC",
-    )
+
+    IDSDataset.form_spec.missing_data = (
+        '?', '∅', '-', '--', '- -', '???', '', '-666', '666', '\u2014', '\u02bc')
+    IDSDataset.form_spec.separators = ';,/~'
 
     dir = pathlib.Path(__file__).parent
     id = "ids"
@@ -110,17 +105,22 @@ class Dataset(IDSDataset):
             lg.lg_id.strip(): iso_codes[lg.sil_id.strip()]
             for lg in self.ids_raw_read('x_lg_sil')}
 
+        lang_corrections = defaultdict(dict)
+        for lg in dsv.reader(self.etc_dir / 'languages.csv', dicts=True):
+            if lg['lg_id'] in ids_lgs_ids:
+                lang_corrections[lg['lg_id']] = lg
+
         args.log.info("processing language data ...")
         for lg in ids_lgs:
             lg_id = lg.lg_id.strip()
-            lang_changed = idsutils.LANGS.get(int(lg_id), {})
+            lang_changed = lang_corrections[lg_id]
             lg_name = lang_changed.get('name') or lg.lg_name
             iso = lang_changed.get('iso') or iso_codes.get(lg_id) or ''
             gl_ = ''
             if len(iso) > 3:
                 gl_ = iso
                 iso = ''
-            gl = lang_changed.get('glotto', gl_)
+            gl = lang_changed.get('glottolog', gl_)
             if not gl and iso:
                 gl = glottolog_codes[iso].id
             gl = GLOTTOCODE_UPDATES.get(gl, gl)
@@ -212,14 +212,14 @@ class Dataset(IDSDataset):
 
                     alt_val, alt_trans = '', ''
                     if trans2:
-                        alt_val, com = idsutils.preprocess_form_comment(
+                        alt_val, com = self.preprocess_form_comment(
                                                         trans2[i], desc.get('2'),
                                                         lg.lg_id, com, entry_id)
                         alt_trans = desc.get('2')
                         if alt_val and empty.match(alt_val):
                             alt_val, alt_trans = '', ''
 
-                    w, com = idsutils.preprocess_form_comment(
+                    w, com = self.preprocess_form_comment(
                                                 word, desc.get('1'), lg.lg_id, com, entry_id)
                     if w and not empty.match(w):
                         if cid not in counterparts:
