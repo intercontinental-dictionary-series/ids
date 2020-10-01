@@ -1,0 +1,111 @@
+lg_id,name,iso,glottolog
+26,Avar (Batlukh dialect),ava,batl1238
+27,Avar (Hid dialect),ava,hidd1238
+28,Avar (Andalal dialect),ava,anda1281
+29,Avar (Antsukh dialect),ava,ancu1238
+30,Avar (Zakataly dialect),ava,zaka1239
+31,Avar (Karakh dialect),ava,kara1473
+33,Akhvakh (Northern dialect),akv,akhv1239
+34,Akhvakh (Southern dialect),akv,akhv1239
+35,Bagvalal,kva,bagv1239
+38,Godoberi,gdo,ghod1238
+40,Karata (Tokitin dialect),kpt,toki1238
+41,Khwarshi (Khwarshi dialect),khv,xvar1237
+42,Hinuq,gin,hinu1240
+54,Khwarshi (Inkhokvari dialect),khv,inxo1238
+55,Tsez (Sagada dialect),ddo,saga1261
+58,Dargwa (Itsari dialect),dar,icar1234
+59,Dargwa (Kubachi dialect),dar,kuba1248
+60,Dargwa (Khajdak dialect),dar,kajt1238
+62,Archi (variety 1),aqc,arch1244
+64,Lezgian,lez,lezg1247
+65,Lezgi (Mikrakh dialect),lez,lezg1247
+67,Tabasaran (Northern dialect Khanag subdialect),tab,taba1259
+68,Tabasaran (Southern dialect),tab,sout2752
+71,Azerbaijani,azj,nort2697
+74,Judeo-Tat,jdt,jude1256
+81,Avar (Kusur dialect),ava,avar1256
+126,Erzya Mordvin,myv,erzy1239
+127,Estonian,est,esto1258
+143,Northern Saami,sme,nort2671
+162,Tsez (Mokok dialect) ,ddo,dido1241
+164,Dargwa (Muiri dialect),dar,darg1241
+165,Lezgian (Quba dialect),lez,quba1246
+166,Azerbaijani (Terekeme dialect),azj,nort2697
+167,Ancient Greek ,grc,anci1242
+168,Modern Greek,ell,mode1248
+174,De'kwana,mch,maqu1238
+180,Old Irish,sga,oldi1245
+185,Old Norse,non,oldn1244
+188,Old English,ang,olde1238
+189,Middle English,enm,midd1317
+192,Old High German,goh,oldh1241
+193,Middle High German ,gmh,midd1343
+198,Old Prussian,prg,prus1238
+199,Old Church Slavonic,chu,chur1257
+205,Albanian (Tosk variety),als,tosk1239
+206,Armenian (Eastern variety),hye,nucl1235
+207,Armenian (Western variety),hye,homs1234
+209,Tocharian A,xto,tokh1242
+210,Tocharian B,txb,tokh1243
+215,Ancient Aramaic,oar,olda1245
+218,Jamaican Creole (Limonese Creole dialect),jam,jama1262
+222,Nahuatl (Sierra de Zacapoaxtla variety),azz,high1278
+223,Chatino (Zacatepec variety),ctz,zaca1242
+227,Northern Haida,hdn,nort2938
+230,Nuu-chah-nulth,nuk,nuuc1236
+232,Upper Chehalis,cjh,uppe1439
+252,Ninam (Shirishana variety),shb,nina1238
+298,Sanapaná (Angaité dialect),sap,anga1316
+299,Sanapaná (Enlhet dialect),sap,sana1298
+300,Lengua,,leng1262
+316,Andi (Muni dialect),ani,muni1255
+317,Chechen (Akkin dialect),che,chec1245
+318,Uncunwee,ghl,ghul1238
+320,Avar (Araderikh dialect),ava,avar1256
+321,Avar (Khunzakh dialect),ava,kunz1243
+322,Avar (East Gergebil dialect),ava,avar1256
+323,Avar (Ansalta dialect),ava,avar1256
+324,Avar (Salatav dialect),ava,sala1265
+325,Khwarshi (Kwantlada dialect),khv,khva1239
+401,Central Thai,tha,thai1261
+402,Southern Tai (Songkhla variety),sou,sout2746
+403,Thai (Korat variety),sou,sout2746
+404,Khamuang (Chiang Mai variety),nod,nort2740
+407,Tai Lü,khb,luuu1242
+408,Tai Khün,kkh,khun1259
+421,Hlai (Baoting variety),lic,hlai1239
+500,Aghul (Koshan dialect),agx,kosh1245
+501,Botlikh (Miarso dialect),bph,botl1242
+502,Chamalal (Gigatli dialect),cji,giga1238
+503,Dargwa (Chirag dialect),dar,chir1284
+504,Dargwa (Gapshima Shukti dialect),dar,darg1241
+505,Dargwa (Gapshima dialect),dar,darg1241
+506,Dargwa (Gubden dialect),dar,darg1241
+507,Dargwa (Kadar dialect),dar,darg1241
+508,Dargwa (Megeb dialect),dar,darg1241
+509,Dargwa (Mekegi dialect),dar,darg1241
+510,Dargwa (Mugi dialect),dar,darg1241
+511,Dargwa (Sirkhi dialect),dar,darg1241
+512,"Dargwa (Tsudakhar dialect, Tanty subdialect)",dar,cuda1238
+513,Dargwa (Tsudakhar dialect),dar,cuda1238
+514,Dargwa (Urakhi dialect),dar,urax1238
+515,Dargwa (Usisha dialect),dar,darg1241
+517,Bezhta (Khasharkhota dialect),kap,khoc1238
+519,Kumyk (Dorgeli dialect),kum,kumy1244
+520,Kumyk (Kajtak Tumenler dialect),kum,kumy1244
+521,Kumyk (Kajtak dialect),kum,kumy1244
+522,Kumyk (Karabudakhkent dialect),kum,kumy1244
+523,Kumyk (Ter Bragun dialect),kum,kumy1244
+524,Lak (Arakul dialect),lbe,lakk1252
+525,Lak (Balkhar dialect),lbe,lakk1252
+526,Lak (Shali dialect),lbe,lakk1252
+527,Rutul (Borchino Khnow dialect),rut,rutu1240
+528,Rutul (Ikhrek dialect),rut,ixre1238
+529,Rutul (Mukhrek) dialect,rut,ixre1238
+530,Rutul (Shinaz dialect),rut,shin1265
+531,"Bezhta (Tlyadal dialect, Karauzek subdialect)",kap,tlya1238
+532,Tsakhur (Gelmets dialect),tkr,tsak1249
+534,Archi (variety 2),aqc,arch1244
+704,Mahasu Pahari (Kotghari dialect),bfz,maha1287
+827,Ahlao (Thavung),thm,aheu1239

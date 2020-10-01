@@ -1,0 +1,39 @@
+{
+    "title": "CLDF dataset derived from Key and Comrie\u2019s \"Intercontinental Dictionary Series\" from 2015",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Robert Forkel"
+        },
+        {
+            "name": "Christoph Rzymski"
+        },
+        {
+            "name": "Hans-J\u00f6rg Bibiko"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Mary Ritchie Key",
+            "type": "Editor"
+        },
+        {
+            "name": "Bernard Comrie",
+            "type": "Editor"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Key, Mary Ritchie &amp; Comrie, Bernard (eds.) 2015. The Intercontinental Dictionary Series. Leipzig: Max Planck Institute for Evolutionary Anthropology.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}

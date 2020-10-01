@@ -1,0 +1,336 @@
+lg_name,status,lg_id,date,docpath
+Khwarshi (Kwantlada dialect),0,325,2015-01-27,NULL
+Ossetic,0,319,2015-01-22,NULL
+Avar (Araderikh dialect),0,320,2015-01-22,NULL
+Avar (Khunzakh dialect),0,321,2015-01-22,NULL
+"Avar (East, Gergebil dialect)",0,322,2015-01-27,NULL
+Avar (Ansalta dialect),0,323,2015-01-27,NULL
+Avar (Salatav dialect),0,324,2015-01-27,NULL
+Aghul,0,61,2014-01-23,NULL
+Akhvakh (Northern Akhvakh),0,33,2014-01-23,NULL
+Akhvakh (Southern Akhvakh),0,34,2014-01-23,NULL
+Andi,0,32,2014-01-24,NULL
+Arabic,1,95,2006-10-02,NULL
+Archi (variety 1),0,62,2014-01-24,NULL
+Avar,0,107,2014-01-24,NULL
+Avar (Andalal dialect),0,28,2014-01-24,NULL
+Avar (Antsukh dialect),0,29,2014-01-24,NULL
+Avar (Batlukh dialect),0,26,2014-01-24,NULL
+Avar (Hid dialect),0,27,2014-01-24,NULL
+Avar (Karakh dialect),0,31,2014-01-24,NULL
+Avar (Kusur dialect),0,81,2014-01-24,NULL
+Avar (Zakataly dialect),0,30,2014-01-24,NULL
+Azerbaijani,0,71,2014-01-24,NULL
+Bagvalal,0,35,2014-01-24,NULL
+Botlikh,0,37,2014-01-24,NULL
+Botlikh (Botlikh dialect),1,36,2007-08-30,NULL
+Budukh,0,63,2014-01-24,NULL
+Chamalal,0,51,2014-01-25,NULL
+Chechen,0,75,2014-01-25,NULL
+Dargwa (Kubachi dialect),0,59,2014-01-25,NULL
+Dargwa,0,57,2014-01-25,NULL
+Dargwa (Khajdak dialect),0,60,2014-01-25,NULL
+Dargwa (Itsari dialect),0,58,2014-01-25,NULL
+Erzya Mordvin,0,126,2007-09-27,NULL
+Estonian,0,127,2007-09-27,NULL
+Finnish,0,128,2007-09-27,NULL
+Godoberi,0,38,2014-01-25,NULL
+Hinuq,0,42,2014-01-26,NULL
+Hungarian,0,131,2007-09-27,NULL
+Hunzib,0,52,2014-01-26,NULL
+Karata,0,39,2014-01-26,NULL
+Karata (Tokitin dialect),0,40,2014-01-26,NULL
+Khanty,0,135,2007-09-27,NULL
+Khinalug,0,69,2014-01-26,NULL
+Khwarshi (Inkhokvari dialect),0,54,2014-01-26,NULL
+Khwarshi (Khwarshi dialect),0,41,2014-01-26,NULL
+Komi,0,139,2007-09-27,NULL
+Kumyk,0,72,2014-01-26,NULL
+Khwarshi (Inkhokvari dialect),1,53,2006-10-02,NULL
+Lak,0,56,2014-01-26,NULL
+Northern Saami,0,143,2007-09-27,NULL
+Lezgian,0,64,2014-01-26,NULL
+Lezgian (Mikrakh dialect),0,65,2014-01-26,NULL
+Mansi,0,146,2007-09-27,NULL
+Mari,0,147,2007-09-27,NULL
+Nenets,0,148,2007-09-27,NULL
+Nogai,0,73,2014-01-26,NULL
+Rutul,0,66,2014-01-26,NULL
+Selkup,0,151,2007-09-27,NULL
+"Tabasaran (Northern dialect, Khanag subdialect)",0,67,2014-01-26,NULL
+Tabasaran (Southern dialect),0,68,2014-01-26,NULL
+Judeo-Tat,0,74,2014-01-26,NULL
+Tindi,0,50,2014-01-26,NULL
+Tsakhur,0,70,2014-01-26,NULL
+Tsez (Sagada dialect),0,55,2014-01-26,NULL
+Udi,0,80,2014-01-26,NULL
+Udmurt,0,159,2007-09-27,NULL
+Bezhta,0,160,2014-01-24,NULL
+Tsez (Mokok dialect),0,162,2014-01-26,NULL
+Dargwa (Muiri dialect),0,164,2014-01-25,NULL
+Lezgian (Quba dialect),0,165,2014-01-26,NULL
+Azerbaijan (Terekeme dialect),0,166,2014-01-24,NULL
+Ancient Greek,0,167,2007-07-18,NULL
+Modern Greek,0,168,2007-07-18,NULL
+Latin,0,169,2007-07-20,NULL
+Panare,0,172,2007-08-30,NULL
+Italian,0,170,2007-07-20,NULL
+French,0,171,2007-07-20,NULL
+Macushi,0,173,2007-08-30,NULL
+De'kwana,0,174,2007-08-30,NULL
+Wai Wai,0,175,2007-08-30,NULL
+Spanish,0,176,2007-08-31,NULL
+Catalan,0,177,2007-08-31,NULL
+Portuguese,0,178,2007-08-31,NULL
+Romanian,0,179,2007-09-12,NULL
+Old Irish,0,180,2007-09-12,NULL
+Irish,0,181,2007-09-12,NULL
+Welsh,0,182,2007-09-20,NULL
+Breton,0,183,2007-09-20,NULL
+Gothic,0,184,2007-09-20,NULL
+Old Norse,0,185,2007-09-20,NULL
+Danish,0,186,2007-09-20,NULL
+Swedish,0,187,2007-09-20,NULL
+Old English,0,188,2007-09-20,NULL
+Middle English,0,189,2007-09-20,NULL
+English,0,190,2007-09-20,NULL
+Dutch,0,191,2007-09-20,NULL
+Old High German,0,192,2007-09-20,NULL
+Middle High German,0,193,2007-09-20,NULL
+German,0,194,2014-01-25,NULL
+Yiddish,0,195,2007-09-20,NULL
+Lithuanian,0,196,2007-09-20,NULL
+Latvian,0,197,2007-09-20,NULL
+Old Prussian,0,198,2007-09-20,NULL
+Old Church Slavonic,0,199,2007-09-20,NULL
+Bulgarian,0,200,2007-09-20,NULL
+Serbo-Croatian,0,201,2007-09-20,NULL
+Czech,0,202,2007-09-20,NULL
+Polish,0,203,2007-09-20,NULL
+Russian,0,204,2007-09-20,NULL
+Albanian (Tosk variety),0,205,2007-09-20,NULL
+Armenian (Eastern variety),0,206,2007-09-20,NULL
+Armenian (Western variety),0,207,2007-09-20,NULL
+Hittite,0,208,2007-09-20,NULL
+Tocharian A,0,209,2007-09-27,NULL
+Tocharian B,0,210,2007-09-27,NULL
+Sanskrit,0,211,2007-09-27,NULL
+Romani,0,212,2007-09-27,NULL
+Avestan,0,213,2007-09-27,NULL
+Persian,0,214,2007-09-27,NULL
+Ancient Aramaic,0,215,2007-10-25,NULL
+Elamite,0,216,2007-10-25,NULL
+Negerhollands,0,217,2007-10-25,NULL
+Jamaican Creole (Limonese Creole dialect),0,218,2007-10-25,NULL
+Basque,0,219,2007-10-25,NULL
+Hausa,0,220,2007-10-25,NULL
+Polci,0,221,2007-10-25,NULL
+Nahuatl (Sierra de Zacapoaxtla variety),0,222,2007-10-25,NULL
+Chatino (Zacatepec variety),0,223,2007-10-25,NULL
+Karok,0,224,2007-10-29,NULL
+Seri,0,225,2007-10-29,NULL
+Zuni,0,226,2007-10-29,NULL
+Northern Haida,0,227,2007-10-29,NULL
+Tlingit,0,228,2007-10-29,NULL
+Tsimshian,0,229,2007-10-30,NULL
+Nuu-chah-nulth,0,230,2007-10-30,NULL
+Bella Coola,0,231,2007-10-30,NULL
+Upper Chehalis,0,232,2007-10-30,NULL
+Proto Austronesian,0,233,2007-10-30,NULL
+Proto Polynesian,0,234,2007-10-30,NULL
+Hawaiian,0,235,2007-10-30,NULL
+Maori,0,236,2007-10-30,NULL
+Marquesan,0,237,2007-10-30,NULL
+Rapa Nui,0,238,2007-10-31,NULL
+Rotuman,0,239,2007-10-30,NULL
+Tongan,0,240,2007-10-30,NULL
+Tuamotuan,0,241,2007-10-30,NULL
+Barí,0,242,2007-10-30,NULL
+Muisca,0,243,2007-10-30,NULL
+Páez,0,244,2007-10-30,NULL
+Cayapa,0,245,2007-10-30,NULL
+Colorado,0,246,2007-10-30,NULL
+Embera,0,247,2007-10-30,NULL
+Epena,0,248,2007-10-30,NULL
+Puinave,0,249,2007-10-30,NULL
+Yuwana,0,250,2007-10-30,NULL
+Yaruro,0,251,2007-10-30,NULL
+Ninam (Shirishana variety),0,252,2007-10-30,NULL
+Yanomámi,0,253,2007-10-30,NULL
+Cofán,0,254,2007-10-30,NULL
+Waorani,0,255,2007-10-30,NULL
+Siona,0,256,2007-10-30,NULL
+Tuyuca,0,257,2007-10-30,NULL
+Aguaruna,0,258,2007-10-30,NULL
+Shuar,1,259,2007-10-30,NULL
+Yagua,0,260,2007-10-30,NULL
+Baure,0,261,2007-10-30,NULL
+Goajiro,0,262,2007-10-30,NULL
+Ignaciano,0,263,2007-10-30,NULL
+Mashco Piro,0,264,2007-10-30,NULL
+Trinitario,0,265,2007-10-30,NULL
+Wapishana,0,266,2007-10-30,NULL
+Waurá,0,267,2007-10-30,NULL
+Yavitero,0,268,2007-10-30,NULL
+Aymara,0,269,2007-10-30,NULL
+Chipaya,0,270,2007-10-30,NULL
+Mosetén,0,271,2007-10-30,NULL
+Araona,0,272,2007-10-30,NULL
+Cavineña,0,273,2007-10-30,NULL
+Ese Ejja,0,274,2007-10-30,NULL
+Ese Ejja (Huarayo),0,275,2007-10-30,NULL
+Tacana,0,276,2007-10-30,NULL
+Cashibo,0,277,2007-10-30,NULL
+Catuquina,0,278,2007-10-30,NULL
+Chácobo,0,279,2007-10-30,NULL
+Pacahuara,0,280,2007-10-30,NULL
+Shipibo-Conibo,0,281,2007-10-30,NULL
+Yaminahua,0,282,2007-10-30,NULL
+Cayuvava,0,283,2007-10-30,NULL
+Itonama,0,284,2007-10-30,NULL
+Movima,0,285,2007-10-30,NULL
+Pacaas Novos,0,286,2007-10-30,NULL
+Mundurukú,0,287,2007-10-30,NULL
+Aché,0,288,2007-10-30,NULL
+Chiriguano,0,289,2007-10-30,NULL
+Guaraní,0,290,2007-10-30,NULL
+Sirionó,0,291,2007-10-30,NULL
+Wayampi,0,292,2007-10-30,NULL
+Canela,0,293,2007-10-30,NULL
+Kaingáng,0,294,2007-10-30,NULL
+Karajá,0,295,2007-10-30,NULL
+Trumai,0,296,2007-10-30,NULL
+Ayoreo,0,297,2007-10-30,NULL
+Sanapaná (Angaité dialect),0,298,2007-10-30,NULL
+Sanapaná (Enlhet dialect),0,299,2007-10-30,NULL
+Lengua,0,300,2007-10-31,NULL
+Mocoví,0,301,2007-10-31,NULL
+Pilagá,0,302,2007-10-31,NULL
+Chorote,0,304,2007-10-31,NULL
+Maca,0,305,2007-10-31,NULL
+Wichí,0,306,2007-10-31,NULL
+Nivaclé,0,307,2007-10-31,NULL
+Kunza,0,308,2007-10-31,NULL
+Mapudungun,0,309,2007-10-31,NULL
+Tehuelche,0,310,2007-10-31,NULL
+Selknam,0,311,2007-10-31,NULL
+Gününa Küne,0,312,2007-10-31,NULL
+Qawasqar,0,313,2007-10-31,NULL
+Toba,0,314,2007-10-31,NULL
+Yagán,0,315,2007-10-31,NULL
+Andi (Muni dialect),0,316,2014-01-24,NULL
+Chechen (Akkin dialect),0,317,2014-01-25,NULL
+Uncunwee,0,318,2012-09-25,docs/ghl/GhulfanGrammarSketch.pdf
+Thai (Standard),1,400,2013-09-11,NULL
+Central Thai,0,401,2013-09-11,NULL
+Southern Thai (Songkhla variety),0,402,2013-09-11,NULL
+Thai (Korat dialect),0,403,2013-09-11,NULL
+Khamuang (Chiang Mai variety),0,404,2013-09-11,NULL
+Dehong,0,405,2013-09-11,NULL
+Jinsha Dai,0,406,2013-09-11,NULL
+Tai Lü,0,407,2013-09-11,NULL
+Tai Khün,0,408,2013-09-11,NULL
+Shan,0,409,2013-09-11,NULL
+Shan (Northern Shan dialect),0,410,2013-09-11,NULL
+Nung-Fengshan,0,411,2013-09-11,NULL
+Nung-Lazhai,0,412,2013-09-11,NULL
+Nung-Ninbei,0,413,2013-09-11,NULL
+Zhuang-Longzhou,0,414,2013-09-11,NULL
+Sui,0,415,2013-09-11,NULL
+Maonan,0,416,2013-09-11,NULL
+Mulam,0,417,2013-09-11,NULL
+Chadong,0,418,2013-09-11,NULL
+Southern Kam,0,419,2013-09-11,NULL
+Lakkia,0,420,2013-09-11,NULL
+Hlai (Baoting variety),0,421,2013-09-11,NULL
+Langja Buyang,0,422,2013-09-11,NULL
+Ecun Buyang,0,423,2013-09-11,NULL
+Sanchong Kelao,0,424,2013-09-11,NULL
+Qau Kelao,0,425,2013-09-11,NULL
+Aghul (Koshan dialect),0,500,2014-01-23,NULL
+Botlikh (Miarso dialect),0,501,2014-01-24,NULL
+Chamalal (Gigatli dialect),0,502,2014-01-25,NULL
+Dargwa (Chirag dialect),0,503,2014-01-25,NULL
+Dargwa (Gapshima Shukti dialect),0,504,2014-01-25,NULL
+Dargwa (Gapshima dialect),0,505,2014-01-25,NULL
+Dargwa (Gubden dialect),0,506,2014-01-25,NULL
+Dargwa (Kadar dialect),0,507,2014-01-25,NULL
+Dargwa (Megeb dialect),0,508,2014-01-25,NULL
+Dargwa (Mekegi dialect),0,509,2014-01-25,NULL
+Dargwa (Mugi dialect),0,510,2014-01-25,NULL
+Dargwa (Sirkhi dialect),0,511,2014-01-25,NULL
+"Dargwa (Tsudakhar dialect, Tanty subdialect)",0,512,2014-01-25,NULL
+Dargwa (Tsudakhar dialect),0,513,2014-01-25,NULL
+Dargwa (Urakhi dialect),0,514,2014-01-25,NULL
+Dargwa (Usisha dialect),0,515,2014-01-25,NULL
+Ingush,0,516,2014-01-26,NULL
+Bezhta (Khasharkhota dialect),0,517,2014-01-24,NULL
+Kryz,0,518,2014-01-26,NULL
+Kumyk (Dorgeli dialect),0,519,2014-01-26,NULL
+Kumyk (Kajtak Tumenler dialect),0,520,2014-01-26,NULL
+Kumyk (Kajtak dialect),0,521,2014-01-26,NULL
+Kumyk (Karabudakhkent dialect),0,522,2014-01-26,NULL
+Kumyk (Ter Bragun dialect),0,523,2014-01-26,NULL
+Lak (Arakul dialect),0,524,2014-01-26,NULL
+Lak (Balkhar dialect),0,525,2014-01-26,NULL
+Lak (Shali dialect),0,526,2014-01-26,NULL
+Rutul (Borchino Khnow dialect),0,527,2014-01-26,NULL
+Rutul (Ikhrek dialect),0,528,2014-01-26,NULL
+Rutul (Mukhrek dialect),0,529,2014-01-26,NULL
+Rutul (Shinaz dialect),0,530,2014-01-26,NULL
+"Bezhta (Tljadal dialect, Karauzek subdialect)",0,531,2014-01-26,NULL
+Tsakhur (Gelmets dialect),0,532,2014-01-26,NULL
+Tsova-Tush,0,533,2014-01-26,NULL
+Archi (variety 2),0,534,2014-01-24,NULL
+Bengali,0,701,2015-04-01,NULL
+Hindi  ,0,702,2015-04-01,NULL
+Khasi,0,703,2015-04-01,NULL
+Mahasu Pahari (Kotghari dialect),0,704,2015-04-01,NULL
+Marathi,0,705,2015-04-01,NULL
+Nepali,0,706,2015-04-01,NULL
+Punjabi,0,707,2015-04-01,NULL
+Tamil,0,708,2015-04-01,NULL
+Telugu,0,709,2015-04-01,NULL
+Tibetan,0,710,2015-04-01,NULL
+
+Kme-2 (Kemie variety),0,800,2016-01-31,NULL
+Bulang,0,801,2016-01-31,NULL
+Bulang-2,0,802,2016-01-31,NULL
+Bulang-3,0,803,2016-01-31,NULL
+Keme (Kemie variety),0,804,2016-01-31,NULL
+Xu,0,805,2016-01-31,NULL
+Mang'an B. (MNN),0,806,2016-01-31,NULL
+Wa,0,807,2016-01-31,NULL
+Rumai,0,808,2016-01-31,NULL
+Prai,0,809,2016-01-31,NULL
+Pusing,0,810,2016-01-31,NULL
+Paliu,0,811,2016-01-31,NULL
+PLW (a Palaung variety),0,812,2016-01-31,NULL
+DEA (a Palaung variety),0,813,2016-01-31,NULL
+Mlabri,0,814,2016-01-31,NULL
+Cuoi,0,815,2016-01-31,NULL
+Vietnamese,0,816,2016-01-31,NULL
+Hanoi Vn,0,817,2016-01-31,NULL
+Tho Mun (THM),0,818,2016-01-31,NULL
+LiHa,0,819,2016-01-31,NULL
+Phong,0,820,2016-01-31,NULL
+TUL,0,821,2016-01-31,NULL
+Tum,0,822,2016-01-31,NULL
+Chut (Ruc variety),0,823,2016-01-31,NULL
+Phu Tho M (PHU),0,824,2016-01-31,NULL
+Kha Poong,0,825,2016-01-31,NULL
+Malieng,0,826,2016-01-31,NULL
+Ahlao Th,0,827,2016-01-31,NULL
+Thavung So,0,828,2016-01-31,NULL
+Nyakur,0,829,2016-01-31,NULL
+Pear,0,830,2016-01-31,NULL
+SAN,0,831,2016-01-31,NULL
+Kasong,0,832,2016-01-31,NULL
+Samre,0,833,2016-01-31,NULL
+Chong,0,834,2016-01-31,NULL
+KNB (a Pearic variety),0,835,2016-01-31,NULL
+Surin Khmer,0,836,2016-01-31,NULL
+CHNG (a Pearic variety),0,837,2016-01-31,NULL
+Iduh,0,838,2016-01-31,NULL
+Mang Ch,0,839,2016-01-31,NULL
+Mang VN,0,840,2016-01-31,NULL

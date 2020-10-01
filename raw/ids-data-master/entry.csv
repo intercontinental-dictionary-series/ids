@@ -1,0 +1,1311 @@
+entry_id,chap_id,"trans_english","trans_french","trans_russian","trans_spanish","trans_portugese","concept_eng"
+320,14,"often","souvent","часто","a menudo, frecuentemente","amiúde",NULL
+310,14,"always","toujours","всегда","siempre","sempre",NULL
+290,14,"ready","prêt","готовый","listo","pronto",NULL
+280,14,"cease, stop","cesser, s'arrêter","прекращать, останавливаться","terminar, detenerse","parar, cessar",NULL
+270,14,"finish","finir, terminer","заканчивать","acabar, terminar, finalizar","completar, acabar",NULL
+260,14,"end (temporal)","fin","кончать","fin","fim",NULL
+252,14,"last, endure","durer","продолжаться, длиться","durar","durar, suportar",NULL
+250,14,"begin, beginning","commencement, début","начинать, начало","empezar, comienzo, inicio","começar",NULL
+240,14,"retard, delay","différer, retarder","замедлять, задерживать","demorar, retrasar","demorar, atrasar",NULL
+230,14,"hasten, hurry","se dépêcher","спешить, торопить(ся)","apurarse, darse prisa","apressar",NULL
+220,14,"slow","lent","медленный","despacio, lentamente","vagaroso, devagar",NULL
+210,14,"swift, fast, quick","vite, rapide","быстрый","rápido","rápido, ligeiro",NULL
+190,14,"immediately","tout de suite","немедленно","en seguida, inmediatamente","de imediato",NULL
+180,14,"now","maintenant","сейчас","ahora","agora",NULL
+170,14,"late","tard","поздно","tarde","tarde",NULL
+160,14,"early","tôt, de bonne heure","рано","temprano","cedo",NULL
+150,14,"old","vieux, âgé","старый","viejo","velho",NULL
+140,14,"young","jeune","молодой","tierno, joven","jovem, novo",NULL
+120,14,"age","âge","возраст, век, эпоха","edad","idade",NULL
+130,14,"new","nouveau","новый","nuevo","novo",NULL
+110,14,"time","heure, temps","время","tiempo","tempo",NULL
+440,13,"three times","trois fois","три раза","tres veces","três vezes",NULL
+420,13,"third","troisième","третий","tercero","terceiro",NULL
+380,13,"two times","deux fois","два раза","dos veces","duas vezes",NULL
+370,13,"pair","couple, paire","пара","par","par",NULL
+360,13,"second","deuxième","второй","segundo","segundo",NULL
+350,13,"last","dernier","последний","último","último",NULL
+340,13,"first","premier","первый","primero","primeiro",NULL
+330,13,"alone, only","seul, seulement","один, единственный","solo, solamente","só, somente",NULL
+240,13,"half","moitié","половина","mitad","metade",NULL
+230,13,"part, piece","morceau, partie","часть, кусок","pedazo","parte, pedaço, peça",NULL
+220,13,"empty","vide","пустой","vacío","vazio",NULL
+210,13,"full","plein","полный","lleno","cheio",NULL
+190,13,"multitude, crowd","foule","множество","multitud","multidão",NULL
+181,13,"some","un peu","несколько","un poco, algo, alguno","alguns",NULL
+170,13,"little (quantity), few","peu","мало","poco","pouco, poucos",NULL
+180,13,"enough","assez","достаточно","bastante, suficiente","bastante, suficiente",NULL
+160,13,"more","encore, plus","больше","más","mais",NULL
+150,13,"much, many","beaucoup","много","mucho","muito, muitos",NULL
+140,13,"every, all","chaque, tous","все","cada uno, todo","cada, tudo",NULL
+107,13,"count","compter","считать","contar","contar",NULL
+106,13,"thousand","mille","тысяча","mil","mil",NULL
+105,13,"hundred","cent","сто","ciento, cien","cento, cem",NULL
+104,13,"twenty","vingt","двадцать","veinte","vinte",NULL
+103,13,"fifteen","quinze","пятнадцать","quince","quinze",NULL
+102,13,"twelve","douze","двенадцать","doce","doze",NULL
+101,13,"eleven","onze","одиннадцать","once","onze",NULL
+100,13,"ten","dix","десять","diez","dez",NULL
+90,13,"nine","neuf","девять","nueve","nove",NULL
+80,13,"eight","huit","восемь","ocho","oito",NULL
+70,13,"seven","sept","семь","siete","sete",NULL
+60,13,"six","six","шесть","seis","seis",NULL
+50,13,"five","cinq","пять","cinco","cinco",NULL
+40,13,"four","quatre","четыре","cuatro","quatro",NULL
+20,13,"two","deux","два","dos","dois, duas",NULL
+30,13,"three","trois","три","tres","três",NULL
+10,13,"one","un","один","uno","um, uma",NULL
+0,13,"zero, nothing","zéro, rien","ноль","cero, nada","zero, nada",NULL
+930,12,"change","changer","менять","cambiar","mudar",NULL
+920,12,"like, similar","semblable","похожий, подобный","semejante","parecido",NULL
+840,12,"line","ligne, rang","линия","línea","linha",NULL
+850,12,"hole","trou","дыра","agujero","buraco",NULL
+830,12,"sphere, ball","sphère, ballon","сфера, шар","pelota, esfera, globo","esfera, bola",NULL
+810,12,"round","rond","круглый","redondo","redondo",NULL
+820,12,"circle","cercle","круг, окружность","círculo","círculo, roda",NULL
+780,12,"square","carré","квадрат","cuadrado","quadrado",NULL
+770,12,"cross","croix","крест","cruz","cruz",NULL
+760,12,"corner","coin","угол","esquina, rincón","esquina, canto",NULL
+750,12,"hook","crochet","крюк","gancho","gancho",NULL
+740,12,"crooked","courbe, pas droit","кривой","torcido","torcido, torto",NULL
+730,12,"straight","droit","прямой","derecho, recto","direito, reto",NULL
+710,12,"flat","plat","плоский","plano","plano, chato",NULL
+680,12,"shallow","peu profond","мелкий","bajo, poco profundo","raso, baixo",NULL
+670,12,"deep","profond","глубокий","profundo, hondo","fundo",NULL
+650,12,"thin (in dimension)","mince","тонкий","delgado","fino, delgado",NULL
+630,12,"thick (in dimension)","épais","толстый","grueso","grosso",NULL
+620,12,"narrow","étroit","узкий","angosto, estrecho","estreito",NULL
+610,12,"wide, broad","large","широкий","ancho, amplio","largo",NULL
+590,12,"short","court","короткий","corto","curto",NULL
+580,12,"tall","grand","высокий","alto","alto",NULL
+570,12,"long","long","длинный","largo","comprido",NULL
+560,12,"small, little","petit","маленький","chico, pequeño","pequeno",NULL
+550,12,"large, big","grand, gros","большой","grande","grande",NULL
+541,12,"span, fathom","brasse (mesure)","пядь, морская сажень","braza (medida)","palmo, braça",NULL
+540,12,"measure","mesurer","мерить, измерять","medir","medir",NULL
+530,12,"grow","grandir, croître, pousser","расти","crecer","crescer",NULL
+480,12,"south","sud","юг","sur","sul",NULL
+470,12,"north","nord","север","norte","norte",NULL
+460,12,"west","ouest, occident","запад","oeste, poniente","oeste",NULL
+450,12,"east","est, orient","восток","este (punto cardinal), levante","leste, este",NULL
+430,12,"near (adv)","près","рядом","cerca","perto, próximo",NULL
+440,12,"far (adv)","loin","далеко","lejos","longe",NULL
+420,12,"left (side)","gauche","левая (сторна)","izquierda","esquerda",NULL
+410,12,"right (side)","droite","правая (сторона)","derecha","direita",NULL
+370,12,"middle, center","milieu, centre","середина, центр","medio, centro","meio, centro",NULL
+360,12,"side","côte","сторона","lado, costado","lado",NULL
+353,12,"edge","bord, orée","край","borde, orilla, margen","beira, borda",NULL
+352,12,"pointed","pointu","остроконечный","puntiagudo","afiado, agudo",NULL
+350,12,"end","bout, extrémité","конец","final","extremidade, fim, ponta",NULL
+340,12,"bottom","fond","дно, низ","fondo","fundo",NULL
+320,12,"low","bas","низко","bajo","baixo",NULL
+330,12,"top","haut, sommet","вершина, макушка","cima","cume, topo",NULL
+310,12,"high","haut","высоко","alto","alto, elevado",NULL
+270,12,"hide, conceal","cacher, dissimuler","прятать, скрывать","esconder","esconder",NULL
+250,12,"shut, close","fermer","закрывать","cerrar","fechar",NULL
+260,12,"cover","couvrir","покрывать","cubrir","cobrir",NULL
+240,12,"open","ouvrir","открывать","abrir","abrir, aberto",NULL
+232,12,"divide","diviser","делить","dividir","dividir",NULL
+230,12,"separate","séparer","отделять","separar, apartar","separar",NULL
+220,12,"join, unite","unir","соединять, объединять","juntar","juntar, unir",NULL
+213,12,"pile up","entasser","накоплять, нагромождать","amontonar","empilhar",NULL
+212,12,"pick up","ramasser","подбирать, поднимать","recoger","captar",NULL
+210,12,"collect, gather","recueillir, rassembler","собирать","recoger, reunir","colecionar, reunir",NULL
+170,12,"remains, left overs","reste","остатки","sobras","restos",NULL
+160,12,"remain, stay","rester, demeurer, attendre","оставаться","quedar","ficar",NULL
+150,12,"stand","se tenir debout","стоять","poner(se) de pie","estar em pé, ficar em pé",NULL
+140,12,"lie down","se coucher","ложиться","acostarse, echarse","deitar-se",NULL
+130,12,"sit","s'asseoir","сидеть","sentar","sentar-se",NULL
+120,12,"put","mettre","положить","poner","pôr",NULL
+110,12,"place","endroit, place, lieu","место","lugar, sitio","espaço, lugar",NULL
+80,12,"up, above","au-dessus, sur, là-haut, là dessus","над","arriba, encima","em cima, sôbre",NULL
+70,12,"under","dessous, sous","под","debajo","debaixo",NULL
+60,12,"outside","dehors","снаружи","afuera, fuera, exterior","fora",NULL
+50,12,"inside, in","dans, dedans","в, внутри","adentro, dentro","dentro",NULL
+41,12,"front","devant","перед","delantero, delante","frente",NULL
+40,12,"before","avant, devant","перед, до","delante, antes de","antes, perante",NULL
+30,12,"down, below","en bas, sous","ниже, по направлению вниз","abajo, bajo","debaixo, abaixo",NULL
+20,12,"beside","à côté de","рядом, у","al lado de","ao lado de",NULL
+11,12,"behind","derrière","за","atrás, detrás","atrás",NULL
+10,12,"after","après","после","después","depois",NULL
+920,11,"weigh","peser","взвешивать, весить","pesar","pesar",NULL
+910,11,"share (distribute)","partager","распределять","repartir","distribuir, compartilhar",NULL
+890,11,"cheap","bon marché","дешевый","barato","barato",NULL
+880,11,"dear (costly, expensive)","cher","дорогой","caro (costoso)","caro",NULL
+870,11,"price","prix","цена","precio","preço",NULL
+860,11,"store, shop","boutique, magasin","магазин","tienda, almacen","loja",NULL
+850,11,"market (place)","marché","рынок, базар","mercado","mercado",NULL
+840,11,"merchant","marchand, commerçant","купец, торговец","comerciante","negociante",NULL
+830,11,"trade, barter","échange","торговля, обмен","trocar","trocar",NULL
+820,11,"sell","vendre","продавать","vender","vender",NULL
+810,11,"buy","acheter","покупать","comprar","comprar",NULL
+790,11,"earn","gagner","зарабатывать","ganar (dinero)","ganhar",NULL
+780,11,"wages","salaire","заработная плата","salario, sueldo","salário",NULL
+770,11,"hire","louer","нанимать, брать на прокат","alquilar, emplear","alugar",NULL
+690,11,"tax, tribute","taxe, impôt","налог","impuesto, tributo","imposto, taxa",NULL
+660,11,"account, reckoning","compte","счет","calcul, cuenta","conta",NULL
+650,11,"pay (vb)","payer","платить","pagar","pagar",NULL
+640,11,"debt","dette","долг","deuda","dívida",NULL
+630,11,"owe","devoir","быть должным","deber","dever",NULL
+620,11,"borrow","emprunter","занимать","pedir prestado","pedir emprestado",NULL
+610,11,"lend","prêter","давать в долг","prestar","emprestar",NULL
+540,11,"avaricious, stingy","avare, radin","скупой","avaro, mezquino","avarento",NULL
+530,11,"beggar","mendiant","попрошайка, нищий","mendigo","mendigo",NULL
+520,11,"poor","pauvre","бедный","pobre","pobre",NULL
+510,11,"rich","riche","богатый","rico","rico",NULL
+440,11,"coin","pièce de monnaie","монета","moneda","moeda",NULL
+430,11,"money","argent","деньги","dinero","dinheiro",NULL
+340,11,"release, let go","libérer","отпускать","soltar","largar, soltar",NULL
+330,11,"lose","perdre","терять","perder","perder",NULL
+320,11,"find","trouver","находить","encontrar, hallar","achar, encontrar",NULL
+310,11,"seek, look for","chercher","искать","buscar","buscar, procurar",NULL
+280,11,"harm, injure, damage","blesser, endommager","наносить ущерб","dañar, herir","danificar, ferir, estragar",NULL
+270,11,"destroy","détruire","разрушать","destruir","destruir",NULL
+250,11,"save, rescue","sauver","спасать","salvar","salvar",NULL
+240,11,"preserve, look after","préserver","сохранять","conservar, proteger","cuidar de, preservar",NULL
+220,11,"give back","rendre","возвращать","devolver","restituir, devolver",NULL
+210,11,"give","donner","давать","dar","dar",NULL
+180,11,"thing","chose","вещь","cosa","coisa",NULL
+170,11,"keep, retain","garder, retenir","хранить","conservar, retener","guardar, conservar",NULL
+160,11,"get, obtain","obtenir","получать","obtener","obter, conseguir",NULL
+150,11,"hold","tenir","держать","tener (en mano), apoyar","segurar, agarrar",NULL
+140,11,"seize, grasp","saisir, attraper","хватать, схватить","agarrar, empuñar, coger, asir","agarrar",NULL
+130,11,"take","prendre","брать","tomar, coger","tomar",NULL
+120,11,"own, possess","posséder","владеть","poseer, tener","possuir",NULL
+110,11,"have","avoir","иметь","tener","ter",NULL
+920,10,"land (vb)","débarquer","причаливать, приземляться","desembarcar","desembarcar",NULL
+910,10,"harbor, port","port, mouillage","гавань, пристань, порт","puerto","pôrto",NULL
+890,10,"anchor","ancre","якорь","ancla","âncora",NULL
+880,10,"sail (noun)","voile","парус","vela","vela",NULL
+870,10,"mast","mât","мачта","mástil","mastro",NULL
+860,10,"rudder","gouvernail","руль","timón","leme",NULL
+852,10,"row (vb)","ramer","грести","remar","remar",NULL
+851,10,"paddle (noun)","pagaie","весло (байдарочный гребок)","remo corto","remo",NULL
+850,10,"oar","rame","весло","remo","remo",NULL
+840,10,"raft","radeau","плот","balsa","balsa",NULL
+832,10,"outrigger","balancier","шлюпка с выносными уключинами","batanga","jangada",NULL
+831,10,"canoe","canoe, pirogue","каноэ","canoa","canoa",NULL
+830,10,"boat","bateau","лодка","bote","bote, barco",NULL
+810,10,"ship","navire, bateau","корабль, судно","buque, barco","navio",NULL
+780,10,"yoke","joug","ярмо","yugo","jugo, canga",NULL
+770,10,"axle","essieu","ось","eje","eixo",NULL
+760,10,"wheel","roue","колесо","rueda","roda",NULL
+750,10,"carriage, wagon, cart","wagon, charrette","экипаж, телега","carro, carretón","carruagem, carroça",NULL
+740,10,"bridge","pont","мост","puente","ponte",NULL
+720,10,"path","sentier, chemin","дорожка, тропинка","camino, senda","caminho, vereda",NULL
+710,10,"road","route","дорога","carretera","estrada, caminho",NULL
+670,10,"push, shove","pousser","толкать","empujar","empurrar",NULL
+660,10,"ride","chevaucher","ехать на лошади","montar","montar",NULL
+650,10,"drive","conduire","ехать на машине","conducir","dirigir",NULL
+640,10,"lead (vb)","mener, conduire","вести","guiar","conduzir, guiar",NULL
+630,10,"send","envoyer","посылать","enviar, mandar","enviar, mandar",NULL
+620,10,"bring","apporter, amener","приносить","traer","trazer",NULL
+615,10,"carry-underarm","porter (sous le bras)","нести подмышкой","llevar bajo el brazo","levar debaixo do braço",NULL
+614,10,"carry-on-head","porter (sur la tête)","нести, переносить на голове","llevar sobre la cabeza","levar na cabeça",NULL
+613,10,"carry-on-shoulder","porter (sur l'épaule)","нести, переносить на плечах","llevar a la espalda/ en el hombro","levar no ombro",NULL
+612,10,"carry-in-hand","porter (dans la main)","нести, переносить в руках","llevar en la mano","levar na mão",NULL
+610,10,"carry (bear)","porter","нести","llevar, cargar","levar",NULL
+570,10,"enter","entrer","входить","entrar","entrar",NULL
+560,10,"approach","approcher","приближаться","acercarse","aproximar",NULL
+550,10,"reach, arrive","atteindre, arriver","достигать, прибывать","llegar, alcanzar","chegar",NULL
+530,10,"pursue","poursuivre","преследовать","perseguir","perseguir",NULL
+520,10,"follow","suivre","следовать","seguir","seguir",NULL
+510,10,"flee","s'enfuir","бежать, спасаться бегством","huir","escapar, fugir",NULL
+491,10,"disappear","disparaître","исчезать","desaparecer","desaparecer",NULL
+490,10,"go away, depart","s'en aller, partir","уходить","irse, marcharse","partir, ir-se embora",NULL
+481,10,"come back","revenir","возвращаться","volver, regresar","voltar, regressar",NULL
+480,10,"come","venir","приходить","venir","vir",NULL
+474,10,"go out","sortir","выходить","salir","sair",NULL
+473,10,"go down","descendre","спускаться, идти вниз","bajar","descer, baixar",NULL
+472,10,"climb","grimper","подниматься, взбираться","trepar","trepar",NULL
+470,10,"go","aller","идти","ir","ir",NULL
+471,10,"go up","monter","подниматься, идти вверх","subir","subir",NULL
+460,10,"run","courir","бежать","correr","correr",NULL
+451,10,"limp","boiter","хромать","lisiar","coxear",NULL
+450,10,"walk","marcher","ходить","caminar","andar, caminhar",NULL
+440,10,"dance","danser","танцевать","bailar","dançar",NULL
+431,10,"kick","donner un coup de pied","пинать","patear","dar um pontapé, chutar",NULL
+430,10,"jump, leap","sauter","прыгать","saltar, brincar","saltar",NULL
+420,10,"slide, slip","glisser","скользить","resbalar","escorregar, resvalar",NULL
+413,10,"crouch","s'accroupir","приседать","agacharse, ponerse en cuclillas","agachar-se",NULL
+412,10,"kneel","s'agenouiller","становиться на колени","arrodillarse","ajoelhar",NULL
+410,10,"creep, crawl","ramper","ползти","gatear","rastejar, arrastar-se",NULL
+380,10,"blow","souffler","дуть","soplar","soprar",NULL
+370,10,"fly (vb)","voler","летать","volar","voar",NULL
+360,10,"sail (vb)","naviguer","плыть под парусом","navegar","navegar",NULL
+352,10,"splash","éclabousser","плескаться","salpicar","chapinhar",NULL
+351,10,"dive","plonger","нырять","zambullirse","mergulhar",NULL
+350,10,"swim","nager","плыть","nadar","nadar",NULL
+340,10,"float","flotter","плыть по поверхности воды","flotar","flutuar",NULL
+330,10,"sink","couler, sombrer","погружаться в воду, тонуть","hundir","afundar",NULL
+320,10,"flow","couler","течь, литься потоком","fluir, correr","fluir",NULL
+260,10,"shake","secouer, agiter","трясти","sacudir","agitar",NULL
+252,10,"catch (ball)","attraper","ловить (мяч)","coger","apanhar, agarrar",NULL
+250,10,"throw","jeter","бросать","echar, tirar","atirar, arremessar, lançar",NULL
+240,10,"drip","s'égoutter","лить по каплям","gotear, escurrir","gotejar, escorrer",NULL
+230,10,"fall","tomber","падать","caer","cair",NULL
+220,10,"raise, lift","lever, élever","поднимать","levantar","levantar, içar",NULL
+210,10,"rise","monter, se lever","подниматься, восходить","ascender","subir",NULL
+170,10,"twist","tordre","скручивать","torcer","torcer",NULL
+160,10,"drop (vb)","laisser tomber","капать","dejar caer","deixar cair",NULL
+150,10,"roll","rouler","вращать","rodar, arrollar, enrollar","rolar",NULL
+140,10,"wind, wrap","enrouler, envelopper","обертывать","enrollar, envolver","envolver, enrolar",NULL
+130,10,"turn around","culbuter, se retourner","развернуть(ся)","dar vuelta, voltear","voltar, dar a volta",NULL
+120,10,"turn over","retourner","переворачивать(ся)","volcar, dar(se) vuelta","virar",NULL
+110,10,"move","mouvoir, bouger","двигаться","mover","mover",NULL
+890,9,"paint (vb)","peindre","красить, рисовать (краской)","pintar","pintar",NULL
+840,9,"chisel","ciseau","резец, долото","escoplo, cincel","cinzel",NULL
+880,9,"paint (noun)","peinture","краска","pintura","tinta",NULL
+830,9,"statue","statue","статуя","estatua","estátua",NULL
+820,9,"sculptor","sculpteur","скульптор","escultor","escultor",NULL
+810,9,"carve","sculpter, graver","вырезать","esculpir","esculpir",NULL
+791,9,"fan (vb)","s'éventer","освежать, обмахивать (веером)","abanicar, aventar","ventilar, abanar",NULL
+790,9,"fan (noun)","éventail","веер, вентилятор","abanico","ventilador",NULL
+780,9,"netbag","filet","сетчатая сумка","bolsa de malla","saco",NULL
+771,9,"rug","tapis","ковёр","tapete, alfombra","tapete, carpete",NULL
+770,9,"mat","natte","циновка","estera","tapete",NULL
+760,9,"basket","panier","корзина","cesto, canasto, canasta","cesto, cesta",NULL
+750,9,"weave, plait","tisser, tresser","ткать","tejer, trenzar","tecer",NULL
+740,9,"glass","verre","стекло","vidrio","vidro",NULL
+730,9,"clay","argile, glaise","глина","barro, arcilla","barro, argila",NULL
+720,9,"mold (clay etc)","mouler","формовать","moldear, formar","moldar, amoldar",NULL
+710,9,"potter","pottier","гончар","alfarero","oleiro",NULL
+690,9,"tin, tinplate","étain","(белая) жесть","estaño","estanho",NULL
+680,9,"lead (noun)","plomb","свинец","plomo","chumbo",NULL
+670,9,"iron","fer","железо","hierro","ferro",NULL
+660,9,"copper, bronze","cuivre, bronze","медь, бронза","cobre, bronce","cobre, bronze",NULL
+650,9,"silver","argent","серебро","plata","prata",NULL
+640,9,"gold","or","золото","oro","ouro",NULL
+630,9,"cast (metals)","mouler, couler","отливать в форму (металлы)","fundir","fundir",NULL
+620,9,"anvil","enclume","наковальня","yunque","bigorna",NULL
+610,9,"forge","forger","кузница","fragua","forja",NULL
+600,9,"smith, blacksmith","forgeron","кузнец","herrero","ferreiro",NULL
+560,9,"glue","colle","клей","cola, adhesivo (pegar)","cola",NULL
+500,9,"nail","clou, ongle, pointe","гвоздь","clavo","prego",NULL
+490,9,"hammer","marteau","молоток","martillo","martelo",NULL
+480,9,"saw","scie","пила","serrucho, sierra","serra",NULL
+461,9,"hollow out","creuser","выдалбливать","ahuecar","esburacar, cavar",NULL
+460,9,"bore","percer, perforer","дыра, отверстие","perforar","perfurar",NULL
+440,9,"build","bâtir, construire","строить","edificar","construir",NULL
+430,9,"carpenter","charpentier","плотник","carpintero","carpinteiro",NULL
+422,9,"tool","outil","инструмент","herramienta","ferramenta",NULL
+380,9,"broom","balai","метла, веник","escoba","vassoura",NULL
+360,9,"wash","laver","мыть","lavar","lavar",NULL
+370,9,"sweep","balayer","мести","barrer","varrer",NULL
+350,9,"pour","verser","лить, наливать","vaciar, verter, derramar","verter, despejar",NULL
+343,9,"squeeze, wring","presser","выжимать","estrujar, exprimir","espremer, comprimir",NULL
+342,9,"press","presser, appuyer","нажимать, давить","apretar, oprimir","comprimir, apertar",NULL
+341,9,"hang up","suspendre","повесить","colgar","pendurar",NULL
+340,9,"spread out","étaler, éparpiller","распространять, распростроняться","extender, esparcir","estender, espalhar",NULL
+330,9,"pull","tirer","тянуть","tirar, jalar","puxar",NULL
+320,9,"stretch","étendre","тянуть, натягивать","alargar, estirar, tender","esticar",NULL
+310,9,"rub, wipe","frotter, essuyer","стереть","frotar, enjugar","esfregar",NULL
+290,9,"flay, skin","écorcher","сдирать кожу","desollar","esfolar",NULL
+280,9,"tear","déchirer","рвать","romper, rasgar","romper, rasgar",NULL
+270,9,"split","fendre","расколоть","hender, partir","fender, partir",NULL
+261,9,"broken","brisé, cassé","сломанный, разбитый","quebrado","partido, quebrado",NULL
+260,9,"break","casser, briser","разбивать","quebrar","romper, quebrar",NULL
+250,9,"ax","hache","топор","hacha","machado",NULL
+251,9,"adze","herminette","тесло","azuela","enxó",NULL
+240,9,"scissors, shears","ciseaux","ножницы","tijeras","tesoura",NULL
+230,9,"knife","couteau","нож","cuchillo (herramienta)","faca",NULL
+223,9,"stab","poignarder","заколоть","apuñalar","apunhalar",NULL
+222,9,"chop, hew","tailler, couper","рубить","tajar, picar","abater, cortar",NULL
+221,9,"cut down","abattre","сокращать","tumbar, talar","derrubar",NULL
+220,9,"cut","couper","резать","cortar","cortar",NULL
+211,9,"pound with fist","marteler de ses poing","колотить кулаком","machacar con el puño","bater com o punho",NULL
+210,9,"strike (hit, beat)","frapper, battre","бить","golpear","bater, golpear",NULL
+192,9,"knot (noun)","noeud","узел","nudo","nó",NULL
+190,9,"rope, cord","corde","веревка","cuerda, soga","corda, cordel",NULL
+180,9,"chain","chaîne","цепь","cadena","cadeia",NULL
+161,9,"untie","détacher, délier","развязывать","desatar","desatar",NULL
+160,9,"tie, bind","attacher, lier","связывать","amarrar, atar","amarrar, atar",NULL
+150,9,"fold","plier","сворачивать, складывать","doblar","dobrar",NULL
+140,9,"bend","plier, courber","сгибать","encorvar, doblar","dobrar, curvar",NULL
+120,9,"work","travailler","работа","trabajar","trabalhar",NULL
+110,9,"do, make","faire","делать","hacer","fazer",NULL
+980,8,"mushroom","champignon","гриб","hongo, seta","cogumelo",NULL
+970,8,"nettle","ortie","крапива","ortiga","urtiga",NULL
+960,8,"fish poison (root)","poison a poisson, verbascum","рыбий яд (корень)","veneno (raíz), barbasco","raízes venenosas",NULL
+941,8,"sugar cane","canne à sucre","сахарный тростник","caña de azúcar","cana de açúcar",NULL
+940,8,"bamboo","bambou","бамбук","bambú","bambu",NULL
+931,8,"pumpkin, squash","courge, potiron, citrouille","тыква","zapallo, calabaza, calabazo","abóbora",NULL
+930,8,"gourd","calebasse","бутылочная тыква (разновидность)","calabaza","cabaça",NULL
+920,8,"tapioca, manioc, cassava","manioc","тапиока (крупа), маниока","mandioca, yuca","mandioca",NULL
+912,8,"yam","igname","ямс (разн. батата)","ñame","inhame, cará",NULL
+910,8,"sweet potato","patate douce","батат","camote, batata","batata doce",NULL
+850,8,"banyan","banian (higuera de la India)","смоковница","baniano","baniana (figueira da India)",NULL
+840,8,"banana tree","bananier","банановое дерево","plátano, banano","bananeira",NULL
+830,8,"citrus fruit","citrique","цитрусовый фрукт","cítrico","fruta cítrica",NULL
+820,8,"coconut","noix de coco","кокос","coco","coco",NULL
+810,8,"palm tree","palmier","пальма","palmera","palmeira",NULL
+760,8,"sap","sève","сок растений","savia","seiva",NULL
+750,8,"bark","écorce","кора","corteza","casca",NULL
+740,8,"forked branch","branche fourchue, branche bifurquée","ветка с развилкой","rama bifurcada","rama bifurcada",NULL
+730,8,"tree trunk","tronc d'arbre","ствол дерева","tronco","tronco",NULL
+720,8,"tree stump","souche d'arbre","пень","tocón, cepa","toco",NULL
+691,8,"pipe","pipe","трубка","pipa","cachimbo",NULL
+690,8,"smoke (tobacco)","fumer","табачный дым","fumar","fumar",NULL
+680,8,"tobacco","tabac","табак","tabaco","tabaco",NULL
+670,8,"vine","vigne","виноградная лоза, ползучее растение","enredadera, bejuco, liana","vinha",NULL
+660,8,"acorn","gland","желудь","bellota","bolota",NULL
+650,8,"fir","sapin, conifère","ель, пихта","abeto","abeto",NULL
+640,8,"pine","pin","сосна","pino","pinheiro",NULL
+630,8,"birch","bouleau","береза","abedul","bétula",NULL
+620,8,"beech","hêtre","бук","haya","faia",NULL
+610,8,"oak","chêne","дуб","roble","carvalho",NULL
+600,8,"tree","arbre","дерево","árbol","árvore",NULL
+570,8,"flower","fleur","цветок","flor","flor",NULL
+560,8,"leaf","feuille","лист","hoja","folha",NULL
+550,8,"branch","branche, rameau","ветка","rama","ramo, galho",NULL
+540,8,"root","racine","корень","raíz","raiz",NULL
+531,8,"plant (vb)","planter","выращивать","plantar, sembrar","plantar, semear",NULL
+520,8,"hay","foin","сено","heno, paja","palha, feno",NULL
+530,8,"plant (noun)","plante","растение","planta","planta",NULL
+510,8,"grass","herbe","трава","hierba, pasto","erva, grama, relva",NULL
+480,8,"rice","riz","рис","arroz","arroz",NULL
+470,8,"maize, corn","maïs","кукуруза","maíz","milho",NULL
+460,8,"oats","avoine","овес","avena","aveia",NULL
+450,8,"rye","seigle","рожь","centeno","centeio",NULL
+430,8,"wheat","blé","пшеница","trigo","trigo",NULL
+440,8,"barley","orge","ячмень","cebada","cevada",NULL
+420,8,"grain (barley, oats etc)","grain, graine","зерно (ячмень, овес и др.)","grano","grão",NULL
+410,8,"crop, harvest","moisson","урожай","cosecha, siega","colheita",NULL
+350,8,"threshing-floor","aire","ток","era, lugar para trillar","eira",NULL
+340,8,"thresh","battre le blé","молотить","trillar, desgranar","debulhar",NULL
+330,8,"sickle, scythe","faux, faucille","серп, коса","hoz, guadaña","foice, gadanha",NULL
+320,8,"mow, reap","tondre, récolter","косить, жать","segar, cosechar","ceifar, segar",NULL
+311,8,"seed","graine, semence","семя","semilla","semente",NULL
+310,8,"sow","semer","сеять, засевать","sembrar, desparramar","semear",NULL
+270,8,"rake","rateau","грабли","rastro, rastrillo","ancinho",NULL
+260,8,"fork","fourche, fourchette","вилка, вилы","horqueta","forcado, forquilha",NULL
+250,8,"hoe","houe, binette","мотыга","azadón, azada","enxada",NULL
+240,8,"shovel","pelle","лопата, совок","pala","pá",NULL
+230,8,"spade","bêche","лопата","laya","pá",NULL
+212,8,"furrow","sillon","пашня, борозда","surco","sulco",NULL
+220,8,"dig","creuser, piocher","капать","excavar, cavar","cavar, escavar",NULL
+210,8,"plow","labourer, charrue","пахать","arar","arar",NULL
+170,8,"ditch","fossé","канава, ров","zanja","fosso, canal, vala",NULL
+160,8,"fence","barrière","забор","cerca, cerco","cerca",NULL
+150,8,"cultivate, till","cultiver, labourer","возделывать землю","cultivar, labrar","cultivar",NULL
+130,8,"garden","jardin","сад","jardín, huerto","jardim, horta",NULL
+120,8,"field (for cultivation)","champ","поле (для обработки)","campo (de cultivo), chacra","campo",NULL
+110,8,"farmer","fermier","фермер","labrador, ranchero","lavrador, fazendeiro",NULL
+640,7,"adobe","adobe","глинобитная постройка","adobe","adobe",NULL
+630,7,"mortar","mortier","известковый раствор","argamasa","argamassa",NULL
+620,7,"brick","brique","кирпич","ladrillo","tijolo",NULL
+580,7,"arch","arche","арка","arco","arco",NULL
+610,7,"mason","maçon","каменщик","albañil","pedreiro",NULL
+570,7,"board","planche","доска","tabla","tábua",NULL
+560,7,"post, pole","poteau, piquet","столб","poste","poste, vara",NULL
+550,7,"beam","poutre","балка, перекладина","viga","viga, trave",NULL
+540,7,"rafter","poutre, chevron","стропило, балка","viga","viga, barrote",NULL
+530,7,"ridgepole","poutre de faîte","распорка","cumbrera","espinhaço, ombreira",NULL
+520,7,"thatch","toiture de chaume","соломенная крыша","paja (para techumbre)","palha, colmo, sapé",NULL
+510,7,"roof","toit","крыша","techo","telhado, teto",NULL
+480,7,"trough","auge, abreuvoir","желоб для стока воды","batea, artesa","gamela",NULL
+470,7,"shelf","étagère","полка","repisa","prateleira",NULL
+460,7,"candle","bougie, cierge, chandelle","свеча","vela","vela",NULL
+450,7,"lamp, torch","lampe","лампа, фонарь","lámpara, antorcha","candeeiro, tocha",NULL
+440,7,"table","table","стол","mesa","mesa",NULL
+430,7,"chair","chaise, siège","стул","silla","cadeira",NULL
+422,7,"blanket","couverture","одеяло","frazada, cobija","cobertor",NULL
+421,7,"pillow","oreiller","подушка","almohada","almofada, travesseiro",NULL
+420,7,"bed","lit","кровать","cama","cama",NULL
+370,7,"ladder","échelle","лестница (приставная)","escalera","escada",NULL
+330,7,"chimney","cheminée","дымоход","chimenea","chaminé",NULL
+320,7,"stove","poêle","печь","estufa","fogão",NULL
+310,7,"fireplace","foyer","камин","fogón","lareira",NULL
+270,7,"wall","mûr","стена","pared, muro","parede",NULL
+260,7,"floor","plancher, sol","пол","suelo","chão, soalho",NULL
+250,7,"window","fenêtre","окно","ventana","janela",NULL
+240,7,"key","clef","ключ","llave","chave",NULL
+231,7,"latch, door-bolt","verrou","запор, засов","cerrojo","trinco",NULL
+230,7,"lock (noun)","serrure, cadenas","замок","cerradura, candado","fechadura, cadeado",NULL
+221,7,"doorpost, jamb","pied-droit, montant de porte","дверной косяк","jamba de puerta, larguero","umbral, ombreira da porta",NULL
+210,7,"room","piéce","комната","cuarto, pieza","quarto, peça",NULL
+220,7,"door, gate","porte","дверь, ворота","puerta","porta, portão",NULL
+180,7,"meeting house","maison de réunion","дом для собраний","casa de reunión","casa de reunião",NULL
+170,7,"cookhouse","cuisine","кухня (помещение)","cocina (lugar)","cozinha",NULL
+160,7,"men's house","maison réservée aux hommes","дом для мужчин","casa de hombres","casa de homens",NULL
+150,7,"yard, court","cour","двор","cancha, patio","quintal, pátio",NULL
+140,7,"tent","tente","палатка","toldo","tenda, barraca",NULL
+131,7,"garden-house","abri de jardin, cabane","дачный домик","casa de huerta, granja","casa de jardim",NULL
+130,7,"hut","hutte","хижина","cabaña, choza","cabana",NULL
+120,7,"house","maison","дом","casa","casa",NULL
+110,7,"dwell, live","habiter, demeurer","проживать, жить","habitar, vivir","morar, residir",NULL
+960,6,"mirror","miroir, glace","зеркало","espejo","espelho",NULL
+950,6,"soap","savon","мыло","jabón","sabão",NULL
+940,6,"ointment","pommade, onguent","мазь","ungüento","ungüento",NULL
+930,6,"razor","rasoir","бритва","navaja de afeitar","navalha de barba",NULL
+921,6,"braid","tresser","коса","trenzar","trança",NULL
+920,6,"brush","brosse","расческа","cepillo","escova",NULL
+910,6,"comb","peigne","грбень","peine","pente",NULL
+820,6,"towel","serviette","полотенце","toalla","toalha",NULL
+810,6,"handkerchief, rag","mouchoir, chiffon","носовой платок","pañuelo, trapo","lenço, trapo",NULL
+790,6,"tattoo","tatouage","татуировка","tatuaje","tatuagem",NULL
+780,6,"headband, headdress","couronne, bandeau","повязка на голову, головной убор","cinta (para la cabeza), tocado","fita para cabeça",NULL
+770,6,"earring","boucle d'oreille","сережка","arete, aro, pendiente","brinco",NULL
+760,6,"bead","graine","бусина","chaquira, abalorio","contas, miçanga",NULL
+750,6,"necklace","collier","ожерелье, бусы","collar","colar",NULL
+740,6,"bracelet","bracelet","браслет","brazalete, pulsera","bracelete, pulseira",NULL
+730,6,"ring (for finger)","bague, anneau","кольцо","anillo, sortija","anel",NULL
+720,6,"jewel","bijou, joyau","драгоценный камень, ювелирное изделие","joya","jóia",NULL
+710,6,"ornament, adornment","ornement","орнамент, украшение","adorno, ornato","adorno, enfeite",NULL
+630,6,"pin","épingle","булавка","alfiler","alfinete",NULL
+620,6,"button","bouton","пуговица","botón","botão",NULL
+610,6,"pocket","poche","карман","bolsillo","bolso",NULL
+590,6,"veil","voile","вуаль","velo","véu",NULL
+580,6,"glove","gant","перчатка","guante","luva",NULL
+570,6,"belt, girdle","ceinture, gaine","ремень","cinturón, faja","cinto",NULL
+550,6,"hat, cap","chapeau, casquette","шляпа","sombrero, gorro","chapéu, gorro, boina",NULL
+540,6,"shoemaker, cobbler","cordonnier","сапожник","zapatero","sapateiro",NULL
+510,6,"shoe","chaussure, soulier","туфель","zapato","sapato",NULL
+520,6,"boot","botte","ботинок","bota","bota",NULL
+490,6,"stocking, sock","bas, chaussette","чулок, носок","media, calcetín","meia, peúga",NULL
+480,6,"trousers","pantalon","штаны, брюки","pantalones, calzones","calças",NULL
+461,6,"grass-skirt","jupe en rafia","юбка из листьев","falda de hierbas","saia de palha/capin",NULL
+460,6,"skirt","jupe","юбка","falda","saia",NULL
+450,6,"collar","col","воротник","cuello","colarinho",NULL
+440,6,"shirt","chemise","рубашка","camisa","camisa",NULL
+430,6,"coat","manteau, pardessus","пальто","abrigo, saco","casaco",NULL
+420,6,"woman's dress","robe de femme","женское платье","vestido","vestido",NULL
+411,6,"poncho","poncho","пончо","poncho, ruana","poncho, capa",NULL
+390,6,"dye","teindre","краска","teñir","corante, tingir",NULL
+410,6,"cloak","cape","плащ","capa","capa, manto",NULL
+380,6,"thread","fil","нитка","hilo","linha, fio",NULL
+360,6,"needle","aiguille","игла","aguja","agulha",NULL
+370,6,"awl","alène","шило","punzón","sovela",NULL
+350,6,"sew","coudre","шить","coser","costurar",NULL
+340,6,"loom","métier à tisser","ткацкий станок","telar","tear",NULL
+330,6,"weave","tisser","плести","tejer","tecer",NULL
+320,6,"spindle","fuseau","веретено","huso","fuso",NULL
+310,6,"spin","filer","прясть","hilar","fiar",NULL
+290,6,"leather","cuir","кожа","cuero, piel","couro",NULL
+280,6,"fur","fourrure","мех","piel (de animal)","pele",NULL
+270,6,"felt","feutre","фетр, войлок","fieltro","feltro",NULL
+250,6,"silk","soie","шелк","seda","seda",NULL
+240,6,"cotton","coton","хлопок (хлопчатобумажная ткань)","algodón","algodão",NULL
+230,6,"linen, flax","lin","лен (льняная ткань)","lino","linho",NULL
+220,6,"wool","laine","шерсть (шерстяная ткань)","lana","lã",NULL
+210,6,"cloth","étoffe, tissu","ткань, сукно","tela","tecido, pano",NULL
+130,6,"tailor","tailleur","портной","sastre","alfaiate",NULL
+120,6,"clothing, clothes","habit, vêtement","одежда","ropa","roupa",NULL
+110,6,"put on (clothes)","porter, mettre (vêtement)","одевать","vestirse","vestir",NULL
+971,5,"egg yolk","jaune d'oeuf","желток","yema (de huevo)","gema (de ovo)",NULL
+970,5,"egg","oeuf","яйцо","huevo","ovo",NULL
+940,5,"fermented drink","boisson fermentée","брага","bebida fermentada","bebida fermentada",NULL
+930,5,"beer","bière","пиво","cerveza","cerveja",NULL
+920,5,"wine","vin","вино","vino","vinho",NULL
+910,5,"mead","hydromel","мед (напиток)","aguamiel","mulso, hidromel",NULL
+900,5,"beverage, drink","boisson","напиток","bebida","bebida",NULL
+890,5,"butter","beurre","сливочное масло","mantequilla, manteca","manteiga",NULL
+880,5,"cheese","fromage","сыр","queso","queijo",NULL
+870,5,"milk (vb)","traire","доить","ordeñar","ordenhar",NULL
+850,5,"sugar","sucre","сахар","azúcar","açúcar",NULL
+860,5,"milk (noun)","lait","молоко","leche","leite",NULL
+840,5,"honey","miel","мед","miel","mel",NULL
+821,5,"chili pepper","piment","острый перец","ají","malagueta",NULL
+820,5,"pepper","poivre","перец","pimienta","pimenta",NULL
+810,5,"salt","sel","соль","sal","sal",NULL
+791,5,"grease, fat","graisse, le gras","жир, сало","grasa","gordura",NULL
+790,5,"oil","huile","растительное масло","aceite","azeite, óleo",NULL
+780,5,"olive","olive","олива, маслина","aceituna, oliva","azeitona",NULL
+760,5,"grape","raisin","виноград","uva","uva",NULL
+770,5,"nut","noix","орех","nuez","noz",NULL
+750,5,"fig","figue","инжир, винная ягода, фига","higo","figo",NULL
+712,5,"bunch","botte","гроздь, пучок","racimo","ramo, cacho",NULL
+710,5,"fruit","fruit","фрукт","fruta","fruta",NULL
+700,5,"potato","pomme de terre","картофель","papa","batata",NULL
+660,5,"bean","haba, haricot","боб","frijol, poroto","feijão",NULL
+650,5,"vegetables","légumes","овощи","legumbres","legumes, verduras",NULL
+640,5,"soup, broth","soupe, potage","суп","sopa","sopa, caldo",NULL
+630,5,"sausage","saucisse","колбаса, сосиска","salchicha","linguiça, chouriço",NULL
+610,5,"meat","viande","мясо","carne","carne",NULL
+590,5,"pestle","pilon","пестик","mano de mortero","mão de pilão, almofariz",NULL
+580,5,"mortar","mortier","ступка, ступа","mortero","morteiro",NULL
+570,5,"mill","moulin","мельница","molino","moinho",NULL
+560,5,"crush, grind","écraser, broyer","давить, дробить","aplastar, moler","esmagar, moer",NULL
+550,5,"meal, flour","farine","мука","harina","farinha",NULL
+540,5,"knead","pétrir","месить (тесто)","amasar","amassar",NULL
+530,5,"dough","pâte","тесто","masa","massa",NULL
+510,5,"bread","pain","хлеб","pan","pão",NULL
+490,5,"stir, mix","mêler, mélanger","мешать, помешивать, смешивать","mezclar, mixturar","misturar, mexer",NULL
+480,5,"scrape","gratter, râper","скрести, тереть","raspar, rallar","raspar",NULL
+470,5,"sieve, strain","passer","просеивать, процеживать","cribar, colar, cerner","peneira, coador, coar",NULL
+460,5,"peel","peler, éplucher","чистить, отчищать (овощи, фрукты)","pelar","descascar",NULL
+450,5,"supper","souper, repas du soir","ужин","cena","jantar, ceia",NULL
+440,5,"dinner","dîner","обед","comida","jantar",NULL
+430,5,"lunch","déjeuner, repas de midi","второй завтрак","almuerzo","almoço",NULL
+420,5,"breakfast","petit déjeuner","завтрак","desayuno","café da manhã, pequeno-almoço",NULL
+410,5,"meal (a)","repas","еда, принятие пищи","comida","refeição",NULL
+391,5,"tongs","pinces","щипцы","tenazas","pinça",NULL
+390,5,"fork","fourchette","вилка","tenedor","garfo",NULL
+380,5,"knife","couteau (de table)","нож","cuchillo (para cortar comida)","faca",NULL
+370,5,"spoon","cuiller","ложка","cuchara","colher",NULL
+360,5,"saucer","soucoupe","блюдце","platillo","pires",NULL
+350,5,"cup, drinking vessel","tasse, coupe","чашка, кубок","taza, copa","xícara, chávena, copo",NULL
+330,5,"bowl","bol","чаша","tazón","bacia, tigela",NULL
+340,5,"pitcher, jug","cruche, broc","кувшин","cántaro, jarro","cântaro",NULL
+320,5,"plate","assiette","тарелка","plato","prato",NULL
+310,5,"dish","plat","блюдо, тарелка","plato, fuente","prato",NULL
+280,5,"pan","casserole","кастрюля","cacerola, cazuela","panela",NULL
+260,5,"pot, cooking vessel","casserole, marmite","горшок, котелок","olla","panela",NULL
+270,5,"kettle","bouilloire","чайник","caldera","chaleira",NULL
+240,5,"bake","cuire au four","печь (испечь)","hornear","cozer no forno",NULL
+250,5,"oven","four","печь (духовка)","horno","forno",NULL
+230,5,"roast, fry","rôtir, frire","жарить","asar, freír","assar, fritar, frigir",NULL
+220,5,"boil (vb)","bouillir","кипятить","hervir","ferver",NULL
+210,5,"cook","cuire","варить","cocinar","cozinhar",NULL
+190,5,"choke","étouffer","душить, вызывать удушье","sofocar","sufocar",NULL
+181,5,"swallow","avaler","глотать","tragar","tragar, engolir",NULL
+180,5,"chew","mastiquer, macher","жевать","masticar","mastigar, mascar",NULL
+160,5,"suck","sucer","сосать, впитывать","chupar","chupar, sugar",NULL
+150,5,"thirst","soif","жажда","sed","sede",NULL
+141,5,"famine","famine, disette","голод, голодание","hambre","fome",NULL
+140,5,"hunger","faim","голод","hambre","estar com fome",NULL
+130,5,"drink","boire","пить","beber","beber, tomar",NULL
+125,5,"rotten","pourri","гнилой","podrido","podre",NULL
+124,5,"green, unripe","vert","зеленый, неспелый, незрелый","inmaduro, no maduro, verde","verde, imaturo",NULL
+123,5,"ripe","mûr","зрелый, спелый","maduro","maduro",NULL
+122,5,"raw","cru","сырой","crudo","cru",NULL
+121,5,"cooked","cuit","варёный","cocido, cocinado","cozinhado, cozido",NULL
+120,5,"food","nourriture","пища","comida","alimento",NULL
+110,5,"eat","manger","есть, кушать","comer","comer",NULL
+990,4,"naked, bare","nu","голый, обнаженный","desnudo","despido, nu",NULL
+970,4,"blind","aveugle","слепой","ciego","cego",NULL
+980,4,"intoxicated","ivre","пьяный","ebrio","embriagado",NULL
+960,4,"mute","muet","немой","mudo","mudo",NULL
+950,4,"deaf","sourd","глухой","sordo","surdo",NULL
+930,4,"bald","chauve","лысый","calvo","calvo",NULL
+940,4,"lame","boiteux","хромать","lisiado","coxo",NULL
+920,4,"lazy","paresseux","ленивый","perezoso","preguiçoso",NULL
+912,4,"rest","se reposer","отдыхать","descansar","descansar",NULL
+910,4,"tired, weary","fatigué","усталый, утомленный","cansado","cansado, estafado",NULL
+890,4,"poison","poison","яд","veneno","veneno",NULL
+880,4,"medicine, drug","remède, médecine","лекарство, средство","medicina, remedio","medicamento, remédio",NULL
+870,4,"physician","médecin","доктор, медик","doctor, médico","médico",NULL
+860,4,"cure, heal","guérir","лечить, исцелять","sanar, curar","sarar, curar",NULL
+858,4,"scar","cicatrice","шрам, рубец","cicatriz","cicatriz",NULL
+857,4,"pus","pus","гной","pus","pus",NULL
+856,4,"boil (noun)","furoncle","нарыв, фурункул","furúnculo, forúnculo","furúnculo",NULL
+855,4,"blister","ampoule","волдырь, водяной пузырь","ampolla","empola, bolha",NULL
+854,4,"itch","démangeaison","зуд","comezón","comichão, coceira",NULL
+853,4,"swelling","bosse, enflure","опухоль","hinchazón","inchação",NULL
+852,4,"bruise","contusion, bleu","ушиб","cardenal, magulladura","ferimento",NULL
+850,4,"wound, sore","blessure, plaie","рана, язва","herida, llaga","ferida, chaga",NULL
+843,4,"cold (catarrh)","rhume","простуда","catarro","resfriado, gripe",NULL
+842,4,"goiter","goître","зоб","bocio, coto","papo, papeira",NULL
+841,4,"fever","fièvre","жар, лихорадить","fiebre","febre",NULL
+840,4,"sick, sickness","malade, maladie","больной, болезнь","enfermo, enfermedad","doente, doença",NULL
+830,4,"well, health","santé, en bonne santé","здоровый, здоровье","sano, salud","bem, saúde, são",NULL
+820,4,"weak","faible","слабый, хилый","débil","débil, fraco",NULL
+810,4,"strong, mighty, powerful","fort, puissant","сильный, могущественный","fuerte, poderoso","forte, poderoso",NULL
+790,4,"grave, tomb","tombe, tombeau","могила","sepulcro","túmulo, sepultura",NULL
+780,4,"bury (the dead)","enterrer","хоронить","sepultar","enterrar",NULL
+770,4,"corpse","cadavre","труп","cadáver","cadáver",NULL
+760,4,"kill","tuer","убивать","matar","matar",NULL
+751,4,"drowned","noyé","утонувший, утопленник","ahogado","afogado",NULL
+750,4,"die, dead","mourir, mort","умереть, скончаться, мертвый","morir, muerto","morrer, morto",NULL
+740,4,"live, living, life","vivre, vivant, vie","жить, живой, жизнь","vivir, vivo, vida","viver, vivo/a, vida",NULL
+732,4,"conceive","concevoir","зачать, забеременнеть","concebir","conceber",NULL
+730,4,"pregnant","enceinte","беременная","embarazada (mujer), preñada (hembra)","grávida (mulher), prenhe (fêmea)",NULL
+720,4,"born (to be)","né, naître","родиться","nacer","nascer",NULL
+710,4,"beget (of father)","engendrer","порождать, рождать (об отце)","engendrar","gerar, emprenhar",NULL
+690,4,"bathe","se baigner","купаться","bañar(se)","tomar banho",NULL
+680,4,"shiver","frissonner","дрожать","temblar","tiritar, tremer",NULL
+670,4,"have sexual intercourse","faire l'amour","вступать в половой контакт","tener relaciones sexuales","ter relações sexuais",NULL
+660,4,"defecate","déféquer","испражняться","defecar, excremento (noun)","defecar",NULL
+650,4,"urinate","uriner","мочиться","orinar","urinar",NULL
+640,4,"break wind","péter, pedo","освободиться от газов","ventosear, flato","peido",NULL
+630,4,"wake up","se réveiller, s'eveiller","просыпаться","despertarse","acordar",NULL
+620,4,"dream","rêver","видеть сон, мечтать","soñar","sonhar",NULL
+612,4,"snore","ronfler","храпеть","roncar","roncar, ressonar",NULL
+610,4,"sleep","dormir","спать","dormir","dormir",NULL
+591,4,"dribble","baver","пускать слюну","gotear, babear","babar",NULL
+590,4,"lick","lécher","лизать","lamer","lamber",NULL
+580,4,"bite","mordre","кусать","morder","morder",NULL
+570,4,"vomit","vomir","страдать рвотой","vomitar","vomitar",NULL
+560,4,"spit","cracher","плевать(ся), плевок","escupir (saliva [noun])","cuspir",NULL
+550,4,"perspire","transpirer, suer","потеть","sudar","suar, transpirar",NULL
+540,4,"sneeze","éternuer","чихать","estornudar","espirrar",NULL
+530,4,"cough","tousser","кашлять","toser","tossir",NULL
+521,4,"hiccough","hoqueter","икать","tener hipo","soluço",NULL
+520,4,"yawn, gape","bailler","зевать","bostezar","bocejar",NULL
+510,4,"breathe, breath","respirer, haleine","дышать, дыхание","respirar, aliento","respirar, respiração",NULL
+492,4,"penis","pénis","пенис","pene","pênis",NULL
+490,4,"testicle","testicule","тестикул (мужское яичко)","testículo","testículo",NULL
+470,4,"womb","matrice, utérus","матка, лоно","matriz, vientre","útero, ventre",NULL
+464,4,"buttocks","fesses, derrière","ягодицы","nalgas, trasero","nádegas",NULL
+463,4,"hip","hanche","бедро, ляжка","cadera","quadril, anca, cadeira",NULL
+462,4,"waist","taille","талия","cintura","cintura",NULL
+461,4,"intestines, guts","intestins, boyaux","кишечник","intestinos","intestinos, tripas",NULL
+460,4,"stomach","estomac, (malau) ventre","желудок","estómago","estômago, barriga",NULL
+452,4,"spleen","rate","селезенка","bazo","baço",NULL
+451,4,"kidney","rein","почка","riñón","rim",NULL
+450,4,"liver","foie","печень","hígado","fígado",NULL
+441,4,"lung","poumon","легкое","pulmón","pulmão",NULL
+440,4,"heart","coeur","сердце","corazón","coração",NULL
+430,4,"navel","nombril","пуп","ombligo","umbigo",NULL
+420,4,"udder","pis, mamelle","вымя","ubre","úbere",NULL
+412,4,"nipple, teat","mamelon, téton","сосок","pezón","mamilo, teta",NULL
+410,4,"breast (of woman)","sein, poitrine","грудь (женская)","seno","seio, mama",NULL
+400,4,"chest","poitrine","грудная клетка","pecho","peito",NULL
+393,4,"feather","plume","перо","pluma","pena",NULL
+392,4,"wing","aile","крыло","ala","asa",NULL
+380,4,"toe","orteil, doigt de pied","палец (ноги)","dedo del pie","dedo do pé",NULL
+374,4,"footprint","empreinte du pied","след (ноги)","huella","pegada",NULL
+372,4,"heel","talon","пятка","talón","calcanhar",NULL
+371,4,"ankle","cheville","лодыжка","tobillo","tornozelo",NULL
+370,4,"foot","pied","ступня","pie","pé",NULL
+360,4,"knee","genou","колено","rodilla","joelho",NULL
+352,4,"calf of leg","mollet","икра ноги","pantorrilla","barriga da perna",NULL
+351,4,"thigh","cuisse","бедро","muslo","coxa",NULL
+350,4,"leg","jambe","нога","pierna, pata","perna",NULL
+345,4,"claw","griffe","коготь","garra","garra",NULL
+344,4,"fingernail","ongle","ноготь","uña","unha",NULL
+342,4,"thumb","pouce","большой палец","pulgar","polegar",NULL
+340,4,"finger","doigt","палец (рука)","dedo","dedo",NULL
+331,4,"palm of hand","paume","ладонь","palma de la mano","palma de mão",NULL
+330,4,"hand","main","кисть","mano","mão",NULL
+321,4,"wrist","poignet","запястье","muñeca","pulso",NULL
+320,4,"elbow","coude","локоть","codo","cotovelo",NULL
+312,4,"armpit","aisselle","подмышка","sobaco, axila","axila, sovaco",NULL
+310,4,"arm","bras","рука","brazo","braço",NULL
+302,4,"collarbone","clavicule","ключица","clavícula","clavícula",NULL
+301,4,"shoulderblade","omoplate","лопатка","escápula, omóplato","omoplata",NULL
+300,4,"shoulder","épaule","плечо","hombro","ombro",NULL
+290,4,"throat","gorge","горло, глотка","garganta","garganta",NULL
+281,4,"nape of neck","nuque","затылок","nuca","nuca",NULL
+280,4,"neck","cou","шея","cuello","pescoço",NULL
+272,4,"molartooth","molaire","коренной зуб","molar, muela","molar",NULL
+270,4,"tooth","dent","зуб","diente","dente",NULL
+271,4,"gums","gencives","десны","encías","gengiva",NULL
+260,4,"tongue","langue","язык","lengua","língua",NULL
+250,4,"lip","lèvre","губа","labio","lábio",NULL
+241,4,"beak","bec","клюв","pico","bico",NULL
+240,4,"mouth","bouche","рот","boca","boca",NULL
+232,4,"mucus (nasal)","morve, mucus","слизь, сопля","moco","muco",NULL
+231,4,"nostril","narine","ноздря","ventana de la nariz","narina",NULL
+230,4,"nose","nez","нос","nariz","nariz",NULL
+222,4,"earwax","cèrumen, cire (d'oreille)","ушная сера","cerumen","cerume, cera",NULL
+221,4,"earlobe","lobe de l'oreille","мочка уха","lóbulo (de oreja)","lóbulo",NULL
+220,4,"ear","oreille","ухо","oreja","orelha",NULL
+215,4,"blink","cligner (de l'oeil)","щуриться","parpadear","pestanejar",NULL
+214,4,"eyelash","cil","ресница","pestaña","pestana, cílio",NULL
+213,4,"eyelid","paupière","веко","párpado","pálpebra",NULL
+212,4,"eyebrow","sourcil","бровь","ceja","sobrancelha",NULL
+210,4,"eye","oeil","глаз","ojo","olho",NULL
+208,4,"cheek","joue","щека","mejilla","bochecha",NULL
+209,4,"chin","menton","подбородок","mentón, barbilla","queixo",NULL
+205,4,"forehead","front","лоб","frente","testa, fronte",NULL
+207,4,"jaw","machoire","челюсть","mandíbula","maxila",NULL
+204,4,"face","visage","лицо","cara","rosto",NULL
+203,4,"brain","cerveau","мозг(и)","cerebro, sesos","cérebro, miolos",NULL
+201,4,"side of head, temple","tempe","висок","sien","fonte, têmpora",NULL
+202,4,"skull","crâne","череп","cráneo, calavera","crânio, caveira",NULL
+200,4,"head","tête","голова","cabeza","cabeça",NULL
+191,4,"spine","épine dorsale, colonne vertébrale","спинной хребет, позвоночник","espinazo, espina dorsal","espinha dorsal",NULL
+190,4,"back","dos","спина","espalda","costas",NULL
+180,4,"tail","queue","хвост","cola","cauda, rabo",NULL
+170,4,"horn","corne","рог","cuerno","chifre, corno",NULL
+162,4,"rib","côte","ребро","costilla","costela",NULL
+160,4,"bone","os","кость","hueso","osso",NULL
+151,4,"vein, artery","veine, artère","вена, артерия","vena, arteria","veia, artéria",NULL
+150,4,"blood","sang","кровь","sangre","sangue",NULL
+146,4,"dandruff","pellicule","перхоть","caspa","caspa",NULL
+145,4,"pubic hair","poil pubien","волос (лобковый)","pelo púbico","pêlo púbico",NULL
+144,4,"body hair","poil","волос (на теле)","vello (del cuerpo)","cabelo, pêlo",NULL
+142,4,"beard","barbe","борода","barba","barba",NULL
+140,4,"hair (head)","cheveu","волос (на голове)","cabello, pelo","cabelo",NULL
+130,4,"flesh","chair","тело, плоть","carne","carne",NULL
+120,4,"skin, hide","peau","кожа, шкура","piel, cutis, pellejo","pele, couro",NULL
+110,4,"body","corps","тело","cuerpo","corpo",NULL
+980,3,"turtle","tortue","черепаха","tortuga","tartaruga",NULL
+970,3,"crocodile, alligator","crocodile","крокодил","cocodrilo, caimán","jacaré",NULL
+960,3,"lizard","lézard","ящерица","lagartija","lagarto",NULL
+950,3,"frog","grenouille","лягушка","rana","rã",NULL
+940,3,"snail","escargot","улитка","caracol","caracol",NULL
+930,3,"grasshopper","sauterelle","кузнечик","saltamontes","gafanhoto",NULL
+920,3,"butterfly","papillon","бабочка","mariposa","borboleta",NULL
+910,3,"firefly","verluisant, luciole","светляк, светлячок","luciérnaga","pirilampo, vaga-lume",NULL
+850,3,"snake","serpent, couleuvre","змея","culebra, serpiente","cobra",NULL
+840,3,"worm","ver de terre","червяк, червь","lombriz, gusano","verme, lombriga",NULL
+832,3,"mosquito","moustique","москит (тропический комар)","mosquito","mosquito",NULL
+831,3,"sandfly (midge), gnat","moustique, moucheron","комар","jején","mosquito",NULL
+830,3,"fly","mouche","муха","mosca","mosca",NULL
+823,3,"wasp","guêpe","оса","avispa","vespa",NULL
+822,3,"beehive","ruche","улей","colmena","colmeia",NULL
+821,3,"beeswax","cire","воск","cera de abeja","cera",NULL
+820,3,"bee","abeille","пчела","abeja","abelha",NULL
+819,3,"spider web","toile d'araignée","паутина","telaraña","teia de aranha",NULL
+818,3,"spider","araignée","паук","araña","aranha",NULL
+817,3,"ant","fourmi","муравей","hormiga","formiga",NULL
+816,3,"cockroach","cafard, cancrelat","таракан","cucaracha","barata",NULL
+815,3,"scorpion","scorpion","скорпион","alacrán","escorpião",NULL
+814,3,"centipede","mille-pattes","многоножка, сороконожка","ciempiés","centopeia",NULL
+813,3,"flea","puce","блоха","pulga","pulga",NULL
+812,3,"nit (louse egg)","lente","гнида","liendre","lêndea",NULL
+811,3,"louse","pou","вошь","piojo","piolho",NULL
+810,3,"insect","insecte","насекомое","insecto","inseto",NULL
+780,3,"camel","chameau","верблюд","camello","camelo",NULL
+770,3,"elephant","éléphant","слон","elefante","elefante",NULL
+760,3,"monkey","singe","обезьяна","mono","macaco",NULL
+750,3,"deer","daim, cerf, chevreuil","олень, лань","venado, ciervo/a","veado",NULL
+740,3,"fox","renard","лиса, лисица","zorro","raposa",NULL
+730,3,"bear","ours","медведь","oso","urso",NULL
+720,3,"lion","lion","лев","león","leão",NULL
+710,3,"wolf","loup","волк","lobo","lobo",NULL
+665,3,"freshwater eel","anguille d'eau douce","пресноводный угорь","anguila de agua dulce","enguia",NULL
+664,3,"stingray","raie, pastenague","скат, морской кот","raya, pastinaca","raia, arraia",NULL
+663,3,"whale","baleine","кит","ballena","baleia",NULL
+662,3,"porpoise, dolphin","marsouin, dauphin","морская свинья, дельфин","delfín","delfim, golfinho",NULL
+661,3,"shark","requin","акула","tiburón","tubarão",NULL
+655,3,"shell","coquille, coquillage","ракушка","valva","concha",NULL
+654,3,"gill","ouïes","жабры","agalla","guelra, brânquia",NULL
+653,3,"fishscale","écaille","(рыбья) чешуя","escama","escama",NULL
+652,3,"fin (dorsal)","nageoire","плавник","aleta","barbatana",NULL
+650,3,"fish","poisson","рыба","pez, pescado","peixe",NULL
+630,3,"mouse, rat","souris, rat","мышь, крыса","ratón, rata","rato, camundongo, ratinho",NULL
+622,3,"opossum","opossum","опоссум","zarigüeya","sarigüê, gambá",NULL
+620,3,"cat","chat","кот","gato","gato",NULL
+614,3,"rabbit","lapin","кролик","conejo","coelho",NULL
+610,3,"dog","chien","собака, пес","perro","cão, cachorro",NULL
+594,3,"dove","colombe","голубь, голубка","paloma","pomba",NULL
+596,3,"owl","hibou","сова, филин","lechuza, buho","mocho, coruja",NULL
+593,3,"crow","corbeau","ворона","cuervo","corvo",NULL
+592,3,"parrot","perroquet","попугай","loro","papagaio",NULL
+591,3,"bat","chauve-souris","летучая мышь","murciélago","morcego",NULL
+586,3,"vulture","vautour","гриф","buitre","urubu, abutre",NULL
+585,3,"hawk","faucon","ястреб, сокол","gavilán, halcón","falcão",NULL
+584,3,"eagle","aigle","орел","águila","águia",NULL
+582,3,"seagull","mouette","чайка","gaviota","gaivota",NULL
+583,3,"heron","héron","цапля (больш. птица)","garza","garça",NULL
+581,3,"bird","oiseau","птица","pájaro, ave","pássaro, ave",NULL
+580,3,"nest","nid","гнездо","nido","ninho",NULL
+570,3,"duck","canard","утка","pato, ánade","pato",NULL
+560,3,"goose","oie","гусь","ganso","ganso",NULL
+550,3,"chicken","poulet","цыпленок","pollo","frango",NULL
+540,3,"hen","poule","курица","gallina","galinha",NULL
+520,3,"cock, rooster","coq","петух","gallo","galo",NULL
+470,3,"mule","mulet","мул","mulo","mulo/mula",NULL
+500,3,"fowl","volaille","домашняя птица","ave (de corral)","ave",NULL
+460,3,"ass, donkey","âne","осел","asno, burro","asno, burro",NULL
+450,3,"foal, colt","poulain","жеребенок","potro, potrillo","potro",NULL
+440,3,"mare","jument","кобыла","yegua","égua",NULL
+420,3,"stallion","étalon","жеребец","caballo padre, semental","garanhão",NULL
+410,3,"horse (equine)","cheval","лошадь, конь","caballo","cavalo",NULL
+380,3,"kid","chevreau","козленок","cabrito","cabrito",NULL
+370,3,"he-goat","bouc","козел","chivo, macho cabrío","bode",NULL
+360,3,"goat","chèvre","коза","cabra","cabra",NULL
+350,3,"pig","porc, cochon","свинья","cerdo, puerco","porco",NULL
+340,3,"sow","truie","свинья, свиноматка","puerca, cochina, cerda","porca",NULL
+320,3,"boar","sanglier","кабан, хряк","jabalí","barrão/ varrão",NULL
+290,3,"lamb","agneau","ягненок","borrego, cordero","cordeiro",NULL
+280,3,"ewe","brebis","овца","oveja","ovelha",NULL
+260,3,"ram","bélier","баран","carnero, morueco","carneiro",NULL
+250,3,"sheep","mouton","овца, баран","oveja","ovelha",NULL
+240,3,"calf","veau","теленок","becerro, ternero","bezerro",NULL
+230,3,"cow","vache","корова","vaca","vaca",NULL
+220,3,"ox","boeuf","вол","buey","boi",NULL
+210,3,"bull","taureau","бык","toro","touro",NULL
+200,3,"cattle (bovine)","bétail","крупный рогатый скот","ganado","gado",NULL
+190,3,"stable, stall","étable, écurie","конюшня, стойло","establo","cocheira, estábulo",NULL
+180,3,"herdsman","bouvier, berger, pâtre","пастух","pastor, vaquero","pastor",NULL
+160,3,"pasture","pâturage, pâture","пастбище, выгон","pradera, potrero","pasto, pastagem",NULL
+150,3,"livestock","bétail","(домашний) скот","ganado","gado",NULL
+130,3,"female (adj)","femelle","женский","femenino, hembra","feminino",NULL
+120,3,"male (adj)","mâle","мужской","masculino, macho","masculino",NULL
+110,3,"animal","animal, bête","животное","animal","animal, bicho",NULL
+960,2,"they","eux, elles","они","ellos, ellas","eles, elas",NULL
+950,2,"you (plural)","vous","вы","ustedes","vocês, vós",NULL
+942,2,"we (exclusive)","nous","мы (эксл.)","nosotros/nosotras (exclusivo)","nós",NULL
+941,2,"we (inclusive)","nous","мы (инкл.)","nosotros/nosotras (inclusivo)","nós",NULL
+940,2,"we","nous","мы","nosotros/nosotras","nós",NULL
+930,2,"he/she/it","il/elle/il","он/она/оно","él/ella/ello","ele/ela/ele (ou ela)",NULL
+920,2,"you (singular)","tu, vous","ты, вы","tú, usted","tu, você",NULL
+910,2,"I","je, moi","я","yo","eu",NULL
+820,2,"family","famille","семья","familia","família",NULL
+810,2,"relatives, kinsmen","parents","родственники","parientes, parentela","parentes",NULL
+770,2,"widower","veuf","вдовец","viudo","viúvo",NULL
+760,2,"widow","veuve","вдова","viuda","viúva",NULL
+750,2,"orphan","orphelin/orpheline","сирота","huérfano/ huérfana","órfão/órfã",NULL
+740,2,"stepdaughter","belle-fille","падчерица","hijastra","enteada",NULL
+730,2,"stepson","beau-fils","пасынок","hijastro","enteado",NULL
+720,2,"stepmother","belle-mère","мачеха","madrastra","madrasta",NULL
+710,2,"stepfather","beau-père","отчим","padrastro","padrasto",NULL
+641,2,"daughter-in-law (of a woman)","bru, belle-fille (d'une femme)","невестка","nuera (de mujer)","nora (de mulher)",NULL
+640,2,"daughter-in-law (of a man)","bru, belle-fille (d'un homme)","сноха","nuera (de hombre)","nora (de homem)",NULL
+631,2,"son-in-law (of a woman)","gendre (d'une femme)","зять (как называют женщины)","yerno (de mujer)","genro",NULL
+630,2,"son-in-law (of a man)","gendre (d'un homme)","зять (как называют мужчины)","yerno (de hombre)","genro",NULL
+621,2,"mother-in-law (of a woman)","belle-mère (d'une femme)","теща","suegra (de mujer)","sogra (de mulher)",NULL
+620,2,"mother-in-law (of a man)","belle-mère (d'un homme)","свекровь","suegra (de hombre)","sogra (de homem)",NULL
+611,2,"father-in-law (of a woman)","beau-père (d'une femme)","тесть","suegro (de mujer)","sogro (de mulher)",NULL
+610,2,"father-in-law (of a man)","beau-père (d'un homme)","свекор","suegro (de hombre)","sogro (de homem)",NULL
+570,2,"descendants","descendants","потомки","descendientes","descendentes",NULL
+560,2,"ancestors","ancêtres, aïeux","предки","antepasados","antepassados, ancestrais",NULL
+550,2,"cousin","cousin/cousine","двоюродный(ая) брат (сестра), кузен/кузина","primo/prima","primo/prima",NULL
+540,2,"niece","nièce","племянница","sobrina","sobrinha",NULL
+530,2,"nephew","neveu","племянник","sobrino","sobrinho",NULL
+522,2,"father's sister","soeur du père","тетя, сестра отца","hermana del padre","irmã (do pai)",NULL
+520,2,"aunt","tante","тетя","tía","tia",NULL
+521,2,"mother's sister","soeur de la mère","тетя, сестра матери","hermana de la madre","irmã (da mãe)",NULL
+512,2,"father's brother","frère du père","дядя, брат отца","hermano del padre","irmão (do pai)",NULL
+511,2,"mother's brother","frère de la mère","дядя, брат матери","hermano de la madre","irmão (da mãe)",NULL
+510,2,"uncle","oncle","дядя","tío","tio",NULL
+480,2,"grandson","petit-fils","внук","nieto","neto",NULL
+490,2,"granddaughter","petite-fille","внучка","nieta","neta",NULL
+471,2,"old woman","vieille femme","старуха","mujer vieja","velha",NULL
+470,2,"grandmother","grand-mère","бабушка","abuela","avó",NULL
+461,2,"old man","vieillard","старик","hombre viejo","velho",NULL
+460,2,"grandfather","grand-père","дедушка","abuelo","avô",NULL
+458,2,"twins","jumeaux","близнецы","gemelos","gêmeos",NULL
+456,2,"sibling","frère/soeur","брат/сестра","hermano/hermana","irmão, irmã",NULL
+455,2,"younger sister","soeur cadette","младшая сестра","hermana menor","irmã mais nova",NULL
+454,2,"older sister","soeur ainée","старшая сестра","hermana mayor","irmã mais velha",NULL
+450,2,"sister","soeur","сестра","hermana","irmã",NULL
+445,2,"younger brother","frère cadet","младший брат","hermano menor","irmão mais novo",NULL
+444,2,"older brother","frêre aîné","старший брат","hermano mayor","irmão mais velho",NULL
+440,2,"brother","frère","брат","hermano","irmão",NULL
+430,2,"offspring (son or daughter)","enfant","дети, потомство","hijo, hija","filhos, prole",NULL
+420,2,"daughter","fille","дочь","hija","filha",NULL
+410,2,"son","fils","сын","hijo","filho",NULL
+390,2,"married woman","femme mariée","замужняя","mujer casada","casada",NULL
+380,2,"married man","homme marié","женатый","hombre casado","casado",NULL
+370,2,"parents","parents","родители","padres","pais",NULL
+360,2,"mother","mère","мать","madre","mãe",NULL
+350,2,"father","père","отец","padre","pai",NULL
+341,2,"divorce","divorce","развод","divorcio","divórcio",NULL
+340,2,"marriage, wedding","mariage, noces","свадьба, брак","casamiento, boda","matrimônio, casamento",NULL
+330,2,"marry","se marier, épouser","жениться, выйти замуж","casarse","casar",NULL
+320,2,"wife","femme, épouse","жена","esposa","esposa, mulher",NULL
+310,2,"husband","mari, époux","муж","marido, esposo","marido",NULL
+280,2,"infant, baby","enfant, bébé","младенец","niño, bebé, nene","bebê, nenê",NULL
+270,2,"child","enfant","ребенок","niño","criança, menino",NULL
+261,2,"young woman (adolescent)","jeune fille","девушка","la joven","jovem, moça",NULL
+260,2,"girl","fille","девочка","muchacha","menina, garota",NULL
+251,2,"young man (adolescent)","jeune homme","юноша, молодой человек","el joven","jovem, rapaz",NULL
+250,2,"boy","garçon","мальчик","muchacho","menino, garoto",NULL
+240,2,"female","femelle","самка","hembra","fêmea",NULL
+230,2,"male","mâle","самец","varón, macho","macho",NULL
+220,2,"woman","femme","женщина","mujer","mulher",NULL
+210,2,"man (vs. woman)","homme","мужчина","hombre","homem",NULL
+100,2,"person, human being","personne, être humain","человек, личность","persona","pessoa, ser humano",NULL
+890,1,"charcoal","charbon de bois","(древесный) уголь","carbón","carvão",NULL
+880,1,"firewood","bois de chauffage, bûches","дрова","leña","lenha",NULL
+870,1,"match (noun)","allumette","спичка","fósforo, cerilla","fósforo",NULL
+861,1,"extinguish","éteindre","гасить, тушить","apagar","extinguir",NULL
+860,1,"light, kindle, ignite","allumer, enflammer","зажигать, воспламенять","encender","acender, atear",NULL
+852,1,"burn (vb intrans)","brûler","гореть","arder","queimar, arder",NULL
+851,1,"burn (vb trans)","brûler, se brûler","жечь","quemar, quemarse","queimar, incendiar",NULL
+841,1,"embers","braise","раскаленные угли","brasas","brasas",NULL
+840,1,"ashes","cendres","пепел","cenizas","cinzas",NULL
+830,1,"smoke (noun)","fumée","дым","humo","fumaça",NULL
+820,1,"flame (noun)","flamme","пламя","llama","chama",NULL
+810,1,"fire","feu","огонь","fuego","fogo",NULL
+780,1,"weather","temps","погода","tiempo","tempo",NULL
+770,1,"ice","glace, verglas","лед, гололед","hielo","gelo",NULL
+760,1,"snow (noun)","neige","снег","nieve","neve",NULL
+750,1,"rain (noun)","pluie","дождь","lluvia","chuva",NULL
+740,1,"fog","brume, brouillard","туман","neblina, niebla","nevoeiro, névoa",NULL
+720,1,"wind","vent","ветер","viento","vento",NULL
+730,1,"cloud","nuage","облако, туча","nube","nuvem",NULL
+710,1,"air","air","воздух","aire","ar",NULL
+640,1,"dew","rosée","роса","rocío","orvalho",NULL
+630,1,"shade, shadow","ombre","тень","sombra","sombra",NULL
+620,1,"darkness","obscurité, ténèbres","темнота, тьма, мрак","oscuridad, tinieblas","escuridão",NULL
+610,1,"light (noun)","lumière","свет","luz","luz",NULL
+590,1,"rainbow","arc-en-ciel","радуга","arco iris","arco-íris",NULL
+580,1,"storm","orage, tempête","буря, шторм","tempestad, tormenta","tempestade",NULL
+560,1,"thunder","tonnerre","гром","trueno","trovão",NULL
+570,1,"lightning (as striking)","foudre","удар молнии","rayo","raio",NULL
+550,1,"lightning","éclair","молния","relámpago","relâmpago",NULL
+540,1,"star","étoile","звезда","estrella","estrela",NULL
+530,1,"moon","lune","луна","luna","lua",NULL
+520,1,"sun","soleil","солнце","sol","sol",NULL
+510,1,"sky","ciel","небо","cielo","céu",NULL
+450,1,"earthquake","tremblement de terre, séisme","землетрясение","terremoto","terremoto",NULL
+440,1,"stone, rock","pierre, roc, rocher","камень, скала","piedra, roca","pedra, calhau, rocha",NULL
+430,1,"wood","bois","дерево (материал), древесина","madera","madeira",NULL
+420,1,"tree (cf 08.600)","arbre","дерево","árbol","árvore",NULL
+410,1,"woods, forest","bois, forêt","лес","selva","bosque, floresta",NULL
+390,1,"waterfall","chute d'eau, cascade","водопад","cascada","cachoeira, cascata",NULL
+380,1,"swamp","marais, marécage","болото","pantano","pântano, pantanal",NULL
+370,1,"spring, well","source, puits","родник, источник, колодец","manantial, pozo","nascente, poço",NULL
+362,1,"whirlpool","tourbillon (d'eau)","водоворот","remolino","remoinho, redemoinho",NULL
+360,1,"river, stream, brook","fleuve, rivière, ruisseau","река, поток, ручей","río, corriente, arroyo","rio, riacho, córrego",NULL
+354,1,"hightide","marée haute","прилив","pleamar","maré alta, preamar, praiamar",NULL
+353,1,"lowtide","marée basse","отлив","bajamar","maré baixa, maré vazia",NULL
+352,1,"tide","marée","морской прилив и отлив","marea","maré",NULL
+350,1,"wave","vague","волна","ola","onda",NULL
+343,1,"headland, point","promontoire, pointe","мыс","punta","cabo, promontório",NULL
+342,1,"reef","récif","риф","arrecife","recife",NULL
+341,1,"lagoon","lagune","лагуна","laguna","laguna",NULL
+340,1,"gulf, bay","golfe, baie","залив, бухта","golfo, bahía","baía",NULL
+330,1,"lake","lac","озеро","lago","lago",NULL
+329,1,"ocean","océan","океан","océano","oceano",NULL
+324,1,"foam","écume, mousse","пена","espuma","espuma",NULL
+323,1,"rough (of sea)","trouble, agité (mer)","бурный (о море)","agitado (mar), borrascoso","tempestuoso",NULL
+320,1,"sea","mer","море","mar","mar",NULL
+322,1,"calm (of sea)","étale","спокойный (о море)","calma","calma, calmaria",NULL
+310,1,"water","eau","вода","agua","água",NULL
+280,1,"cave","grotte","пещера","cueva","caverna, gruta",NULL
+270,1,"shore","rivage, côte, littoral","берег, побережье","ribera, playa, costa","margem, costa, praia",NULL
+260,1,"mainland","continent","континент","continente","terra firme",NULL
+250,1,"island","île","остров","isla","ilha",NULL
+240,1,"valley","vallée","долина","valle","vale",NULL
+230,1,"plain, field","plaine, campagne","равнина, поле","pampa, llanura, campo","campo, planície, savannah",NULL
+222,1,"cliff, precipice","falaise, escarpement","скала, утес, обрыв","acantilado, barranca","penhasco, precipício",NULL
+220,1,"mountain, hill","montagne, colline","гора, холм","montaña, loma","montanha, morro",NULL
+214,1,"mud","boue","грязь","lodo","lama, lodo",NULL
+215,1,"sand","sable","песок","arena","areia",NULL
+213,1,"dust","poussière","пыль","polvo","pó",NULL
+212,1,"earth=ground, soil","terre, sol","земля, почва","suelo","solo, chão",NULL
+210,1,"earth, land","terre","земля, страна","tierra","terreno",NULL
+100,1,"world","monde","мир, вселенная","mundo","mundo",NULL
+330,14,"sometimes","quelquefois","иногда","a veces","às vezes",NULL
+331,14,"soon","bientôt","скоро","pronto","em breve",NULL
+332,14,"long-time (for a)","longtemps","долгосрочный","por mucho tiempo","por muito tempo",NULL
+340,14,"never","jamais","никогда","nunca, jamás","nunca, jamais",NULL
+350,14,"again","encore","опять, снова","otra vez","outra vez, de novo",NULL
+410,14,"day","jour","день","día","dia",NULL
+420,14,"night","nuit","ночь","noche","noite",NULL
+430,14,"dawn","aube","рассвет","madrugada","alvorada, amanhecer",NULL
+440,14,"morning","matin, matinée","утро","mañana","manhã",NULL
+450,14,"noon, midday","midi","полдень","mediodía","meio dia",NULL
+451,14,"afternoon","après-midi","после полудня","tarde","tarde",NULL
+460,14,"evening","soir, soirée","вечер","vísperas, noche","noite, tardinha",NULL
+470,14,"today","aujourd'hui","сегодня","hoy","hoje",NULL
+480,14,"tomorrow","demain","завтра","mañana","amanhã",NULL
+481,14,"day-after-tomorrow","après-demain","послезавтра","pasado mañana","depois de amanhã",NULL
+490,14,"yesterday","hier","вчера","ayer","ontem",NULL
+491,14,"day-before-yesterday","avant-hier","позавчера","anteayer","anteontem",NULL
+510,14,"hour","heure","час","hora","hora",NULL
+530,14,"clock, timepiece","pendule, horloge, montre","часы","reloj","relógio",NULL
+610,14,"week","semaine","неделя","semana","semana",NULL
+620,14,"Sunday","dimanche","воскресенье","domingo","domingo",NULL
+630,14,"Monday","lundi","понедельник","lunes","segunda-feira",NULL
+640,14,"Tuesday","mardi","вторник","martes","terça-feira",NULL
+650,14,"Wednesday","mercredi","среда","miércoles","quarta-feira",NULL
+660,14,"Thursday","jeudi","четверг","jueves","quinta-feira",NULL
+670,14,"Friday","vendredi","пятница","viernes","sexta-feira",NULL
+680,14,"Saturday","samedi","суббота","sábado","sábado",NULL
+710,14,"month","mois","месяц","mes","mês",NULL
+730,14,"year","année","год","año","ano",NULL
+740,14,"winter","hiver","зима","invierno","inverno",NULL
+750,14,"spring","printemps","весна","primavera","primavera",NULL
+760,14,"summer","été","лето","verano","verão",NULL
+770,14,"autumn","automne","осень","otoño","outono",NULL
+780,14,"season","saison","время года","estación","estação",NULL
+210,15,"smell (vb intrans)","sentir","пахнуть","oler, olfatear","cheirar",NULL
+212,15,"sniff","renifler, flairer","сопеть, нюхать","husmear","fungar, farejar",NULL
+220,15,"smell (vb trans)","sentir, odeur","нюхать","oler, olfatear","cheirar",NULL
+250,15,"fragrant, good smelling","odorant, parfumé","аромат, приятный запах","fragante, bien oliente","cheiroso, fragante",NULL
+260,15,"stinking, bad smelling","puant, qui sent mauvais","вонь","hediondo","fedorento, mal cheiroso",NULL
+310,15,"taste","sentir (le goût de), goûter","вкус","gustar, saborear","sabor, gosto",NULL
+350,15,"sweet","sucré, doux","сладкий","dulce","doce",NULL
+360,15,"salty","salé","соленый","salado","salgado",NULL
+370,15,"bitter","amer, âpre","горький","amargo","amargo",NULL
+380,15,"acid, sour","âpre, acide, aigre","кислый","ácido, agrio","ácido, azedo",NULL
+390,15,"brackish","saumâtre","солоноватый","salobre","salobre",NULL
+410,15,"hear","entendre","слышать","oír","ouvir",NULL
+420,15,"listen","écouter","слушать","escuchar","escutar",NULL
+440,15,"sound, noise","son, bruit","звук, шум","ruido, sonido","ruído, barulho",NULL
+450,15,"loud","fort, sonore, bruyant, retentissant","громкий","alta (voz), ruidoso","ruidoso, barulhento",NULL
+460,15,"quiet, silence","tranquillité, silence","спокойный, тихий","silencio, tranquilo","quieto",NULL
+510,15,"see","voir","видеть","ver","ver",NULL
+520,15,"look, look at","regarder","смотреть (на)","mirar, contemplar","olhar para, fitar",NULL
+550,15,"show","montrer","показывать","mostrar, señalar","mostrar",NULL
+560,15,"shine","briller","светить","brillar","brilhar",NULL
+570,15,"bright","brillant, gai, vif","яркий","brillante, resplandor","claro, brilhante",NULL
+610,15,"color","couleur","цвет","color","cor",NULL
+620,15,"light (in color)","clair","светлый","claro","claro",NULL
+630,15,"dark (in color)","foncé","темный","oscuro","escuro",NULL
+640,15,"white","blanc","белый","blanco","branco",NULL
+650,15,"black","noir","черный","negro","preto, negro",NULL
+660,15,"red","rouge","красный","rojo","vermelho",NULL
+670,15,"blue","bleu","голубой","azul","azul",NULL
+680,15,"green","vert","зеленый","verde","verde",NULL
+690,15,"yellow","jaune","желтый","amarillo","amarelo",NULL
+710,15,"touch","toucher","трогать","tocar","tocar",NULL
+712,15,"pinch","pincer","щипать, жать","pellizcar","beliscar",NULL
+720,15,"feel","sentir","чувствовать","sentir","sentir",NULL
+740,15,"hard","dur","жесткий","duro","duro",NULL
+750,15,"soft","doux","мягкий","suave","macio, mole",NULL
+760,15,"rough","rugueux, rude","грубый","áspero","áspero",NULL
+770,15,"smooth","lisse","гладкий","suave, liso","liso, macio",NULL
+780,15,"sharp","tranchant, aiguisé","острый","afilado, aguzado, filoso","agudo, afiado",NULL
+790,15,"blunt, dull","émoussé","тупой","romo, embotado","embotado, rombudo",NULL
+810,15,"heavy","lourd","тяжелый","pesado","pesado",NULL
+820,15,"light (in weight)","léger","легкий","liviano, ligero","leve",NULL
+830,15,"wet, damp","humide","мокрый","mojado","molhado, úmido",NULL
+840,15,"dry","sec","сухой","seco","seco",NULL
+850,15,"hot","chaud","горячий","caliente","quente",NULL
+851,15,"warm","tiède, chaud, assez chaud","теплый","tibio, cálido","quente, cálido",NULL
+860,15,"cold","froid","холодный","frío","frio",NULL
+870,15,"clean","propre","чистый","limpio","limpo",NULL
+880,15,"dirty, soiled","sale, crasseux","грязный","sucio","sujo",NULL
+890,15,"wrinkled","ridé","мятый, сморщенный","arrugado","enrugado",NULL
+110,16,"soul, spirit","âme, esprit","душа, дух","alma","alma, espírito",NULL
+150,16,"surprised, astonished","étonné, surpris","удивленный","sorprendido, estupefacto","surpreso, espantado",NULL
+180,16,"good fortune, luck","chance, bonheur","удача","buena suerte","boa sorte",NULL
+190,16,"misfortune, bad luck","malheur, malchance, infortune","неудача","mala suerte","infortúnio, má sorte, azar",NULL
+230,16,"joyful, glad, happy","joyeux, heureux","счастливый, радостный","alegre, contento","feliz, contente, alegre",NULL
+250,16,"laugh","rire","смеяться","reír","rir",NULL
+251,16,"smile","sourire","улыбаться","sonreír","sorrir",NULL
+260,16,"play","jouer","играть","jugar","jogar, brincar",NULL
+270,16,"love","aimer, amour","любить","querer","amar",NULL
+290,16,"kiss","baiser, embrasser","целовать","besar","beijar",NULL
+300,16,"embrace","embrasser, étreindre","обнимать","abrazar","abraçar",NULL
+310,16,"pain","douleur","боль","dolor","dor",NULL
+320,16,"grief, sorrow, sadness","douleur, peine, chagrin","печаль, скорбь","tristeza, dolor, pena","tristeza, dor",NULL
+330,16,"anxiety, worry","anxiété","тревога","ansiedad, angustia","ansiedade, preocupação",NULL
+340,16,"regret, be sorry","regretter","сожалеть","lamentar, sentir","ter pena",NULL
+350,16,"pity","pitié, compassion","жалость","compasión, lástima","pena, compaixão",NULL
+370,16,"cry, weep","pleurer","плакать, всхлипывать","llorar","chorar",NULL
+380,16,"tear (noun)","larme","слеза","lágrima","lágrima",NULL
+390,16,"groan","grogner","стонать","gemir","gemer",NULL
+410,16,"hate","haïr","ненавидеть","odiar","odiar",NULL
+420,16,"anger","colère","гнев, злость","enojo","raiva, ira",NULL
+440,16,"envy, jealousy","envie, jalousie","зависть, ревность","envidia, celos","inveja, ciúme",NULL
+450,16,"shame (noun)","honte","стыд","vergüenza","vergonha",NULL
+480,16,"proud","fier","гордый","orgulloso","orgulhoso",NULL
+510,16,"dare","oser","смельчак","osar, atreverse","ousar",NULL
+520,16,"brave","courageux","смелый","valiente","corajoso, bravo",NULL
+530,16,"fear, fright","peur, crainte","страх","miedo","medo, susto",NULL
+540,16,"danger","danger","опасность","peligro","perigo",NULL
+620,16,"desire, want","vouloir, désirer","желание","anhelar, desear","desejo",NULL
+622,16,"choose","choisir","выбирать","escoger, elegir","escolher",NULL
+630,16,"hope","espoir","надеяться","esperanza","esperança",NULL
+650,16,"faithful","fidèle","преданный, верный","fiel","leal",NULL
+660,16,"true","vrai","настоящий","verdadero","verdadeiro",NULL
+670,16,"lie, tell lies","mentir","лгать","mentir","mentir",NULL
+680,16,"deceit","tromperie","обманывать","engaño","engano",NULL
+690,16,"forgive","pardonner","прощать","perdonar","perdoar",NULL
+710,16,"good","bon","хороший","bueno","bom",NULL
+720,16,"bad","mauvais","плохой","malo","mau",NULL
+730,16,"right, correct","juste, correct","правильный","correcto","correto",NULL
+740,16,"wrong","incorrect","неправильный","incorrecto, falso","errado",NULL
+760,16,"fault","faute","проступок","culpa","falta, culpa",NULL
+770,16,"mistake, error","erreur, faute","ошибка","equivocación, error","erro",NULL
+780,16,"blame","blâme","обвинять","culpa, censura","culpa",NULL
+790,16,"praise","louange, éloge","хвалить","exaltar, alabar","elogiar",NULL
+810,16,"beautiful","beau, joli","красивый","hermoso, bonito","bonito, belo",NULL
+820,16,"ugly","laid","уродливый","feo","feio",NULL
+830,16,"greedy","avide, glouton, gourmand","жадный","codicioso, voraz","cobiçoso, ávido",NULL
+840,16,"clever","intelligent, habile","умный","hábil, capaz","esperto, hábil",NULL
+110,17,"mind","pensée, avis","разум","mente, pensamiento","mente",NULL
+130,17,"think (= reflect)","penser","думать, размышлять","pensar","pensar",NULL
+140,17,"think (= be of the opinion)","croire","думать, считать","creer, suponer","achar, acreditar",NULL
+150,17,"believe","croire","верить","creer","crer",NULL
+160,17,"understand","comprendre","понимать","entender","compreender",NULL
+170,17,"know","savoir","знать","saber","saber",NULL
+171,17,"guess","deviner","полагать","adivinar, acertar","adivinhar, conjeturar",NULL
+172,17,"imitate","imiter","имитировать","imitar","imitar",NULL
+180,17,"seem","sembler","казаться","parecer","parecer",NULL
+190,17,"idea, notion","idée","идея, понятие","idea, concepto","idéia",NULL
+210,17,"wise","sage, savant, érudit","мудрый","sabio","sábio",NULL
+220,17,"foolish, stupid","bête, stupide","глупый","necio, estúpido","tolo",NULL
+230,17,"insane, crazy","fou, insensé, idiot","безумный","loco, insano","louco, maluco",NULL
+240,17,"learn","apprendre","узнавать, учить(ся)","aprender","aprender",NULL
+242,17,"study","étudier","учить, изучать","estudiar","estudar",NULL
+250,17,"teach","enseigner","учить","enseñar","ensinar",NULL
+260,17,"pupil","élève","ученик","alumno","aluno",NULL
+270,17,"teacher","professeur","учитель","profesor, maestro","professor",NULL
+280,17,"school","école","школа","escuela, colegio","escola",NULL
+310,17,"remember","se souvenir","помнить","recordar, acordarse","lembrar-se",NULL
+320,17,"forget","oublier","забывать","olvidar","esquecer-se",NULL
+340,17,"clear, plain","évident, simple, clair","ясный","claro","claro, evidente",NULL
+350,17,"obscure","obscur","непонятный","obscuro","obscuro",NULL
+360,17,"secret","secret","секрет","secreto","segredo",NULL
+370,17,"sure, certain","sûr, certain","уверенный","seguro","seguro, certo",NULL
+380,17,"explain","expliquer","объснять","explicar","explicar",NULL
+410,17,"intention, purpose","but","намерение, цель","propósito","intenção",NULL
+420,17,"cause","causer, provoquer","причина","causar","causa",NULL
+430,17,"doubt","douter","сомнение","dudar","duvidar",NULL
+440,17,"suspect","soupçonner","подозревать","sospechar","suspeitar",NULL
+441,17,"betray","trahir","предавать","traicionar","trair",NULL
+450,17,"need, necessity","besoin, nécessité","необходимость","necesidad","precisar, necessidade",NULL
+460,17,"easy","facile","легкий","fácil","fácil",NULL
+470,17,"difficult","difficile","трудный","difícil","difícil",NULL
+480,17,"try, attempt","essayer, tenter","попытка","tratar, probar","tentar, provar",NULL
+490,17,"way, manner","façon, manière","способ","modo, manera","maneira",NULL
+510,17,"and","et","и","y","e",NULL
+520,17,"because","parce que","потому что","porque","porque",NULL
+530,17,"if","si","если","si","se",NULL
+540,17,"or","ou","или","o","ou",NULL
+550,17,"yes, affirmative","oui, affirmatif","да","sí, afirmativo","sim, afirmativo",NULL
+560,17,"no, negative","non, négatif","нет","no, negativo","não, negativo",NULL
+610,17,"how?","comment?","как?","¿cómo?","como?",NULL
+620,17,"how many?","combien?","сколько (счётные)?","¿cuántos?","quantos?",NULL
+630,17,"how much?","combien?","сколько (несчётные)?","¿cuánto?","quanto?",NULL
+640,17,"what?","quoi?","что?","¿qué?","que?",NULL
+650,17,"when?","quand?","когда?","¿cuándo?","quando?",NULL
+660,17,"where?","oú?","где? откуда?","¿dónde?","onde?",NULL
+670,17,"which?","quel? lequel?","какой?","¿cuál?","qual?",NULL
+680,17,"who?","qui?","кто?","¿quién?","quem?",NULL
+690,17,"why?","pourquoi?","почему?","¿por qué?","por quê?",NULL
+110,18,"voice","voix","голос","voz","voz",NULL
+120,18,"sing","chanter","петь","cantar","cantar",NULL
+130,18,"shout, cry out","crier, écrier","кричать","gritar","gritar",NULL
+150,18,"whisper","chuchoter","шептать","cuchichear","cochichar",NULL
+160,18,"mumble","marmonner, bredouiller","бормотать","barbotar, hablar entre dientes","murmurar",NULL
+170,18,"whistle","siffler","свистеть","silbar, chiflar","assobiar",NULL
+180,18,"shriek, screech","hurler","визжать","chillar","guinchar",NULL
+190,18,"howl","ululer","выть","aullar","uivar",NULL
+210,18,"speak, talk","parler","говорить, разговаривать","hablar","falar",NULL
+211,18,"stutter, stammer","bégayer, balbutier","заикаться, запинаться","tartamudear, balbucear","gaguejar",NULL
+220,18,"say","dire","сказать","decir","dizer",NULL
+221,18,"tell story","raconter, narrer","рассказывать историю","narrar, contar","contar, relatar",NULL
+222,18,"speech (make a)","discours (faire une)","речь (сделать)","pronunciar un discurso","discursar",NULL
+230,18,"silent (be)","(rester) silencieux","молчать","callarse","ficar em silêncio",NULL
+240,18,"language","langue, langage","язык","lengua, idioma","língua",NULL
+260,18,"word","mot, parole","слово","palabra","palavra",NULL
+280,18,"name","nom","название, имя","nombre","nome",NULL
+310,18,"ask (question, inquire)","poser une question, demander","спрашивать","preguntar","perguntar",NULL
+320,18,"answer","répondre","отвечать","contestar","responder",NULL
+330,18,"admit, confess","admettre, avouer","признавать(ся)","admitir, confesar, reconocer","admitir, confessar",NULL
+340,18,"deny","nier","отрицать","negar","negar",NULL
+350,18,"ask, request","demander","просить","pedir","pedir",NULL
+360,18,"promise","promettre","обещать","prometer","prometer",NULL
+370,18,"refuse","refuser","отказывать","rehusar","recusar",NULL
+380,18,"forbid","interdire","запрещать","prohibir","proibir",NULL
+390,18,"rebuke, scold","réprimander, gronder, blâmer","ругать","reprender","repreender",NULL
+410,18,"call (=summon)","appeler, héler","звать, вызывать","llamar","chamar",NULL
+420,18,"call (=name)","s'appeler","называть (по имени)","llamarse","nomear, chamar-se",NULL
+430,18,"announce","annoncer, proclamer","объявлять","anunciar, avisar","anunciar",NULL
+440,18,"threaten","menacer","угрожать","amenazar","ameaçar",NULL
+450,18,"boast","se vanter","хвастаться","jactarse","jactar-se, gabar-se",NULL
+510,18,"write","écrire","писать","escribir","escrever",NULL
+520,18,"read","lire","читать","leer","ler",NULL
+560,18,"paper","papier","бумага","papel","papel",NULL
+570,18,"pen","plume","ручка","pluma","caneta",NULL
+610,18,"book","livre","книга","libro","livro",NULL
+670,18,"poet","poète","поэт","poeta","poeta",NULL
+710,18,"flute","flûte","флейта","flauta","flauta",NULL
+720,18,"drum","tambour","барабан","bombo, tambor","tambor",NULL
+730,18,"horn, trumpet","cor, trompette","труба","trompeta, trompa","corneta, trombeta",NULL
+740,18,"rattle","hochet","погремушка","matraca, cascabel","guizo, matraca",NULL
+110,19,"country","pays","страна","país","país",NULL
+120,19,"one's native country","patrie","родная страна","patria","pátria",NULL
+150,19,"city, town","cité, ville","город","ciudad","cidade",NULL
+160,19,"village","village","деревня","pueblo","aldeia",NULL
+170,19,"boundary","frontière, limite","граница","límite, frontera","fronteira",NULL
+210,19,"people (populace)","gens","народ","pueblo, gente","povo",NULL
+230,19,"tribe, clan","tribu, clan","племя","tribu, clan","tribo, clã",NULL
+240,19,"chief, chieftain","chef","вождь","jefe, cacique","chefe, cacique",NULL
+250,19,"staff, walking stick","canne","посох","bastón, bordón","bastão, bengala",NULL
+310,19,"rule, govern","régner, gouverner","править","gobernar","governar",NULL
+320,19,"king, ruler","roi","король, правитель","rey, gobernante","rei, governante",NULL
+330,19,"queen","reine","королева","reina","rainha",NULL
+360,19,"noble, nobleman","noble","благородный","noble","nobre",NULL
+370,19,"citizen, subject","citoyen, sujet","гражданин","ciudadano, súbdito","cidadão, súdito",NULL
+410,19,"master","maître","господин, хозяин","amo, dueño","senhor, patrão, dono",NULL
+420,19,"slave","esclave","раб","esclavo","escravo",NULL
+430,19,"servant","domestique, serviteur","слуга","sirviente","criado, servo",NULL
+440,19,"freeman","homme libre","свободный человек","hombre libre","homem livre",NULL
+450,19,"command, order","commander, ordonner","приказывать","mandar","mandar, dar ordem",NULL
+460,19,"obey","obéir","повиноваться","obedecer","obedecer",NULL
+470,19,"let, permit","permettre","разрешать","permitir, dejar","deixar, permitir",NULL
+510,19,"friend, companion","ami, compagnon","друг","amigo, compañero","amigo, companheiro",NULL
+520,19,"enemy","ennemi","враг","enemigo","inimigo",NULL
+540,19,"neighbor","voisin","сосед","vecino","vizinho",NULL
+550,19,"stranger","étranger","незнакомец","extranjero, forastero","estranho, forasteiro",NULL
+560,19,"guest","invité","гость","huésped","convidado, hóspede",NULL
+570,19,"host","hôte","хозяин","huésped, hospedero","hospedeiro, anfitrião",NULL
+580,19,"help, aid","aider","помощь","ayudar","ajudar",NULL
+590,19,"hinder, prevent","empêcher","мешать, препятствовать","impedir, estorbar","impedir, estorvar",NULL
+610,19,"custom","coutume","обычай","costumbre","costume, hábito",NULL
+620,19,"strife, quarrel","lutte, querelle","ссора","lucha, pleito","disputa, luta",NULL
+630,19,"conspiracy, plot","conspiration, complot","заговор","conspiración","conspiração",NULL
+650,19,"meet","rencontrer","встречать(ся)","encontrar","encontrar",NULL
+720,19,"prostitute","prostituée","проститутка","prostituta","prostituta",NULL
+110,20,"fight (vb)","se battre","драться, сражаться","pelear","lutar",NULL
+130,20,"war, battle","guerre, bataille","война, битва","guerra, batalla","guerra, batalha",NULL
+140,20,"peace","paix","мир","paz","paz",NULL
+150,20,"army","armée","армия","ejército, tropas","exército",NULL
+170,20,"soldier","soldat","солдат","soldado","soldado",NULL
+210,20,"weapons, arms","armes","оружие","armas","armas",NULL
+220,20,"club","casse-tête","дубина","macana, garrote","porrete, cacete",NULL
+222,20,"battle-ax","hache de guerre","боевой топор","hacha de combate","machado, acha",NULL
+230,20,"sling","fronde","праща","honda","funda, estilingue",NULL
+240,20,"bow","arc","лук","arco","arco",NULL
+250,20,"arrow","flèche","стрела","flecha","flecha",NULL
+260,20,"spear","épieu, lance","копье","lanza","lança",NULL
+270,20,"sword","épée","меч","espada","espada",NULL
+280,20,"gun, cannon","fusil, canon","ружье, пушка","escopeta, cañón","arma, pistola, canhão",NULL
+310,20,"armor (defensive)","armure","доспехи","armadura","armadura",NULL
+330,20,"helmet","casque","шлем","yelmo","elmo, capacete",NULL
+340,20,"shield","bouclier","щит","escudo","escudo",NULL
+350,20,"fortress","château-fort, forteresse","крепость","fortaleza, castillo","fortaleza",NULL
+360,20,"tower","tour","башня","torre","torre",NULL
+410,20,"victory","victoire","победа","victoria","vitória",NULL
+420,20,"defeat","défaite, déroute","поражение","derrota","derrota",NULL
+430,20,"attack","attaquer","атаковать","atacar","atacar",NULL
+440,20,"defend","défendre","обороняться","defender","defender",NULL
+450,20,"retreat","fuir, battre en retraite","отступать","huir, retirarse","retirar-se",NULL
+460,20,"surrender","céder, se rendre","сдаваться","rendirse","capitular, render-se",NULL
+470,20,"captive, prisoner","prisonnier, captit","пленник, заключенный","cautivo, preso","cativo, prisioneiro",NULL
+471,20,"guard, sentinel","garde, sentinelle","стража","guardia, centinela","guarda, sentinela",NULL
+480,20,"booty, spoils","butin, dépouilles","наргабленное добро","botín","pilhagem",NULL
+490,20,"ambush","guet-apens, embuscade","устраивать засаду","acechar, emboscar","emboscada",NULL
+510,20,"fisherman","pêcheur","рыбак","pescador","pescador",NULL
+520,20,"fishhook","hameçon","рыболовный крючок","anzuelo","anzol",NULL
+530,20,"fishing line","ligne (pour pêcher)","леса","cuerda de pescar","linha de pesca, corda",NULL
+540,20,"fishnet","filet de pêche","рыбацкая сеть","red, atarraya","rede",NULL
+550,20,"fish trap","nasse","ловушка для рыбы","nasa","nassa, armadilha de peixa",NULL
+560,20,"bait","appât","приманка","cebo, carnada","isca",NULL
+610,20,"hunt","chasser","охотиться","cazar","caçar",NULL
+620,20,"shoot","tirer, fusiller","стрелять","tirar, disparar","disparar, fuzilar",NULL
+630,20,"miss (target)","rater, manquer","промахнуться","errar, fallar","falhar, errar, não acertar",NULL
+640,20,"trap (noun)","piège","ловушка","trampa","cilada, armadilha",NULL
+650,20,"trap (vb)","prendre au piège","ловить (ловушкой)","atrapar","armar uma cilada, pegar em armadilha",NULL
+110,21,"law","loi, droit","закон","ley","lei",NULL
+150,21,"court","cour","суд","tribunal","tribunal",NULL
+160,21,"judge (vb)","juger","судить","juzgar","julgar",NULL
+170,21,"judgment","jugement","решение суда","juicio","julgamento",NULL
+180,21,"judge (noun)","juge","судья","juez","juiz",NULL
+210,21,"plaintiff","plaignant","истец","demandante","queixoso",NULL
+220,21,"defendant","accusé","ответчик","acusado","réu, acusado",NULL
+230,21,"witness","témoin","свидетель","testigo","testemunha",NULL
+240,21,"swear","jurer","клясться","jurar","jurar",NULL
+250,21,"oath","serment","клятва","juramento","juramento",NULL
+310,21,"accuse","accuser","обвинять","acusar, denunciar","acusar",NULL
+320,21,"condemn","condamner","осуждать","condenar","condenar",NULL
+330,21,"convict (vb)","inculper","объявлять виновным","inculpar, condenar","sentenciar, condenar",NULL
+340,21,"acquit","acquitter","оправдывать","absolver, exculpar","absolver",NULL
+350,21,"guilty","coupable","виновный","culpable","culpado",NULL
+360,21,"innocent","innocent","невиновный","inocente","inocente",NULL
+370,21,"penalty, punishment","punition","наказание","castigo","punição, castigo",NULL
+380,21,"fine","amende","денежный штраф","multa","multa",NULL
+390,21,"prison, jail","prison","тюрьма","cárcel","prisão",NULL
+420,21,"murder","meurtre","убийство","asesinar","assassinar",NULL
+430,21,"adultery","adultère","прелюбодеяние","adulterio","adultério",NULL
+440,21,"rape","viol","изнасилование","violación","violação, estupro",NULL
+460,21,"arson","incendie volontaire","поджог","incendio premeditado","incêndio culposo",NULL
+470,21,"perjury","parjure","лжесвидетельство","perjurio","perjúrio",NULL
+510,21,"steal","voler, dérober","воровать","robar","roubar",NULL
+520,21,"thief","voleur","вор","ladrón","ladrão",NULL
+110,22,"religion","religion","религия","religión","religião",NULL
+120,22,"God","Dieu","Бог","Dios","Deus",NULL
+130,22,"temple, church","temple, église","храм, церковь","iglesia","templo, igreja",NULL
+140,22,"altar","autel","алтарь","altar","altar",NULL
+150,22,"sacrifice, offering","sacrifice, offrande","жертва","ofrenda","sacrifício, oferenda",NULL
+160,22,"worship","vénérer, adorer","поклоняться","adorar, culto","adorar",NULL
+170,22,"pray","prier","молить(ся)","orar","orar, rezar",NULL
+180,22,"priest","prêtre, curé","священник","cura, presbítero","sacerdote",NULL
+190,22,"holy, sacred","sacré, saint","священный","sagrado","santo, sagrado",NULL
+220,22,"preach","prêcher","проповедовать","predicar","pregar",NULL
+230,22,"bless","bénir","благословлять","bendecir","abençoar",NULL
+240,22,"curse","maudire","проклинать","maldecir","amaldiçoar",NULL
+260,22,"fast (vb)","jeûner","поститься","ayunar","jejuar",NULL
+310,22,"heaven","ciel, cieux","небеса, рай","cielo, paraíso","céu",NULL
+320,22,"hell","enfer","ад","infierno","inferno",NULL
+350,22,"demon (evil spirit)","démon, diable","демон, злой дух","demonio","demônio",NULL
+370,22,"idol","idole","идол","ídolo","ídolo",NULL
+420,22,"magic, witchcraft, sorcery","magie, sorcellerie","волшебство, колдовство","brujería, hechicería","magia, feitiçaria",NULL
+430,22,"sorcerer, witch","sorcier, sorcière","колдунья, ведьма","brujo/bruja, hechicero","feiticeiro, bruxo/bruxa",NULL
+440,22,"fairy, elf","fée","фея, yльф","hada, duende","fada",NULL
+450,22,"ghost, phantom","fantôme, esprit, revenant","призрак","fantasma","fantasma",NULL
+470,22,"omen, portent","présage, augure","знамение","agüero, presagio","agouro, presságio",NULL
