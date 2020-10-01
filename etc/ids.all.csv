@@ -1,0 +1,658 @@
+entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
+11,12,319,фæс-,NULL,NULL,NULL,NULL,(префикс)
+11,12,319,"фæстæ, фæдыл, фале",NULL,NULL,NULL,NULL,NULL
+11,12,319,раз,NULL,NULL,NULL,NULL,(перед, около)
+11,12,319,цур,NULL,NULL,NULL,NULL,(перед, около)
+11,12,319,уæлхъус,NULL,NULL,NULL,NULL,(перед, около)
+100,2,220,mutum,NULL,NULL,NULL,NULL,(masc.)
+100,2,220,mutuniya; ɗan Adam,NULL,NULL,NULL,NULL,(fem.)
+100,2,220,ɗan Adam,NULL,NULL,NULL,NULL,
+104,13,410,sa:w.1 nɨŋ.4,NULL,NULL,NULL,NULL,(sa:w.1 = 20)
+105,13,410,pa:k.2 nɨŋ.4,NULL,NULL,NULL,NULL,(pa:k.2 = 100)
+106,13,410,he:ŋ.3 nɨŋ.4,NULL,NULL,NULL,NULL,(he:ŋ.3 = 1000)
+107,13,319,нымайын,NULL,NULL,NULL,NULL,NULL
+107,13,319,хынцын,NULL,NULL,NULL,NULL,(о счёте)
+110,10,211,car- (carati); ṛ- (ṛcchati),NULL,NULL,NULL,NULL,
+110,11,319,мæнæн ис,NULL,NULL,NULL,NULL,(у меня есть)
+110,11,319,бар мын ис,NULL,NULL,NULL,NULL,(имею право)
+110,16,319,уд,NULL,NULL,NULL,NULL,NULL
+110,16,319,зæрдæ,NULL,NULL,NULL,NULL,(букв. сердце)
+110,16,319,ныфс,NULL,NULL,NULL,NULL,(состоян. морал.)
+110,16,408,win.1-ja:n.1,NULL,NULL,NULL,NULL,(Pali)
+110,17,411,sam.1,NULL,NULL,NULL,NULL,(heart)
+110,17,411,ho.2,NULL,NULL,NULL,NULL,(throat)
+110,21,408,kɔt.1 ma:j.3; ʔu.1-pa.1-te:.2,NULL,NULL,NULL,NULL,(Burm?)
+110,22,408,sa:.3-sa.1-na:.1,NULL,NULL,NULL,NULL,(Pali)
+110,22,824,ton.1 ṛaw.4,NULL,NULL,NULL,NULL,(< Viet>)
+120,19,188,ēθel,NULL,NULL,NULL,NULL,
+120,19,188,ēθelturf,NULL,NULL,NULL,NULL,
+120,19,188,fæder ēθel,NULL,NULL,NULL,NULL,
+120,3,319,"лæджы-, нæлгоймаджы-",NULL,NULL,NULL,NULL,NULL
+120,3,319,нæлон мыггаг,NULL,NULL,NULL,NULL,(мужской род)
+120,3,411,tak.2,NULL,NULL,NULL,NULL,
+120,3,411,pu.4,NULL,NULL,NULL,NULL,(bird)
+120,3,835,chmô:l,NULL,NULL,NULL,NULL,(animal)
+120,3,836,chmo:l,NULL,NULL,NULL,NULL,(animal)
+120,4,319,царм,NULL,NULL,NULL,NULL,NULL
+120,4,319,маскуы,NULL,NULL,NULL,NULL,(фабричная)
+120,8,319,быдыр,NULL,NULL,NULL,NULL,NULL
+120,8,319,хуым,NULL,NULL,NULL,NULL,(пашня)
+120,8,824,na.2,NULL,NULL,NULL,NULL,(< Thai)
+122,5,319,уымæл,NULL,NULL,NULL,NULL,(влажный)
+122,5,319,"лæхъир, мæцъæл",NULL,NULL,NULL,NULL,NULL
+122,5,319,хом,NULL,NULL,NULL,NULL,(не вареный)
+130,22,408,ʔu.2-bo:.1-sɔt.1; wat.5,NULL,NULL,NULL,NULL,(Pali)
+130,3,319,"сылгоймаджы-, сылгоймæгты-",NULL,NULL,NULL,NULL,NULL
+130,3,319,сылон мыггаг,NULL,NULL,NULL,NULL,(женский род)
+130,3,835,mi:,NULL,NULL,NULL,NULL,(animal)
+130,3,836,mi:,NULL,NULL,NULL,NULL,(animal)
+131,7,824,ńa.2 mat.4,NULL,NULL,NULL,NULL,(< Viet)
+140,10,211,vī- (vyā-) (vyayati),NULL,NULL,NULL,NULL,
+140,10,211,vī- (vye-) (vyayati),NULL,NULL,NULL,NULL,
+140,10,211,ā-veṣṭ- (āveṣṭate),NULL,NULL,NULL,NULL,"This form indicates 'covering, enveloping'."
+140,22,825,nə:j.33 sə.33,NULL,NULL,NULL,NULL,
+140,22,826,--,NULL,NULL,NULL,NULL,
+145,4,835,mi:h kda,NULL,NULL,NULL,NULL,(of man)
+150,11,319,хæцын; дарын,NULL,NULL,NULL,NULL,NULL
+150,11,319,къухтæй хæцын,NULL,NULL,NULL,NULL,(держать в руках)
+150,16,319,дис кæны,NULL,NULL,NULL,NULL,"(удивляется, изумляется, дивится)"
+150,17,319,"æууæндын, уырнын",NULL,NULL,NULL,NULL,NULL
+150,17,319,ныфсджфн уæвын,NULL,NULL,NULL,NULL,(быть уверенным)
+150,21,824,tu̯a.2 ʔan.4,NULL,NULL,NULL,NULL,(< Viet>)
+150,3,824,za.1 suk.4,NULL,NULL,NULL,NULL,(< Viet)
+150,9,319,здахын,NULL,NULL,NULL,NULL,(поворачивать)
+150,9,319,тухын,NULL,NULL,NULL,NULL,(платье)
+150,9,319,амайын,NULL,NULL,NULL,NULL,NULL
+150,9,319,æвæрын,NULL,NULL,NULL,NULL,(друг над другом)
+150,9,319,аразын,NULL,NULL,NULL,NULL,(сооружать)
+160,10,319,тæдзын,NULL,NULL,NULL,NULL,NULL
+160,10,319,лæдæрсын,NULL,NULL,NULL,NULL,(стекать)
+160,10,319,"тæдзын, æртæхтæ кæнын",NULL,NULL,NULL,NULL,NULL
+160,10,319,æртæхтæ æппарын,NULL,NULL,NULL,NULL,(накапать)
+160,13,319,"стырдæр, дынджырдæр",NULL,NULL,NULL,NULL,NULL
+160,13,319,фылдæр,NULL,NULL,NULL,NULL,(об много)
+160,21,824,sɨ.3 ʔan.4,NULL,NULL,NULL,NULL,(< Viet>)
+170,21,824,sɨ.5 sɛt.4 sɨ.3,NULL,NULL,NULL,NULL,(< Viet>)
+172,17,824,mɔ.1 fɔŋ.3,NULL,NULL,NULL,NULL,(< Viet>)
+172,17,824,pə̆t.4 ṭiək.4,NULL,NULL,NULL,NULL,
+180,14,836,rnɛh,NULL,NULL,NULL,NULL,(to do) now
+180,17,411,lum.3 nau.2,NULL,NULL,NULL,NULL,(inside + throat)
+180,18,319,цъæхахст кæнын,NULL,NULL,NULL,NULL,(о человеке)
+180,18,319,хъыллист кæнын,NULL,NULL,NULL,NULL,(о животном)
+180,21,824,thə̆m.3 fan.4,NULL,NULL,NULL,NULL,(< Viet>)
+180,22,408,pha.5 saŋ.3-kha.5,NULL,NULL,NULL,NULL,(Pali)
+180,22,824,thə̆j.2 tw.1,NULL,NULL,NULL,NULL,(< Viet>)
+180,3,319,фыййау,NULL,NULL,NULL,NULL,NULL
+180,3,319,хъомгæс,NULL,NULL,NULL,NULL,круп.рог. скота
+180,4,220,jela,NULL,NULL,NULL,NULL,(fem.)
+180,4,220,bindi,NULL,NULL,NULL,NULL,(masc.)
+180,4,220,wutsiya,NULL,NULL,NULL,NULL,
+181,13,319,цалдæр,NULL,NULL,NULL,NULL,NULL
+181,13,319,чысыл,NULL,NULL,NULL,NULL,(немного, чуть-чуть)
+190,16,107,талихІкъеиʼ,taliħqʼeiʼ,NULL,NULL,NULL,NULL
+190,17,824,khaj.4 niəm.5,NULL,NULL,NULL,NULL,(< Viet>)
+190,17,824,ʔj.4 kiən.4,NULL,NULL,NULL,NULL,
+190,22,408,wi.5-se:t.2,NULL,NULL,NULL,NULL,(Pali)
+190,4,319,чъылдым; фæсонтæ,NULL,NULL,NULL,NULL,NULL
+190,4,319,æккой,NULL,NULL,NULL,NULL,(при ношении груза)
+190,9,319,бæндæн,NULL,NULL,NULL,NULL,NULL
+190,9,319,синæг,NULL,NULL,NULL,NULL,(тонкая)
+190,9,319,рæтæн,NULL,NULL,NULL,NULL,(толстая)
+20,12,319,"фæрсмæ, уæлхъус, фæрсæй-фæрстæм; цур, æввахс, раз",NULL,NULL,NULL,NULL,NULL
+20,12,319,фæрсмæ,NULL,NULL,NULL,NULL,(послеслоги)
+210,10,237,e fitina; e hiti ia; e piki ia,NULL,NULL,NULL,NULL,
+210,11,211,dā- (dadāti); rā- (rāti),NULL,NULL,NULL,NULL,
+210,12,319,æмбырд кæнын,NULL,NULL,NULL,NULL,NULL
+210,12,319,тонын,NULL,NULL,NULL,NULL, (ягоды и пр.)
+210,21,824,mɔn.5 kaw.5,NULL,NULL,NULL,NULL,(< Viet>)
+210,3,319,"гал, богъ",NULL,NULL,NULL,NULL,NULL
+210,3,319,куыр,NULL,NULL,NULL,NULL,(молодой)
+210,6,319,фæсмын,NULL,NULL,NULL,NULL,(домотканное)
+210,6,319,тын,NULL,NULL,NULL,NULL,(отрез)
+210,6,319,"хъуымац, уæфтаг, уæфт",NULL,NULL,NULL,NULL,NULL
+210,6,319,сгæллад,NULL,NULL,NULL,NULL,(фабричное)
+210,8,416,kwai.1,NULL,NULL,NULL,NULL,(noun)
+210,8,416,kha:i.5,NULL,NULL,NULL,NULL,(vb)
+213,12,829,tháp thə:n,NULL,NULL,NULL,NULL,
+213,12,829,pâl,NULL,NULL,NULL,NULL,= mix
+213,4,319,уæлтъыфал,NULL,NULL,NULL,NULL,(верхнее)
+213,4,319,дæлтъыфал,NULL,NULL,NULL,NULL,(нижнее)
+220,22,408,te:.1-sa.1-na:.1,NULL,NULL,NULL,NULL,(Pali)
+222,18,319,ныхас,NULL,NULL,NULL,NULL,NULL
+222,18,319,разныхас,NULL,NULL,NULL,NULL,(вступление)
+220,6,319,къуымбил,NULL,NULL,NULL,NULL,NULL
+220,6,319,фæсмын,NULL,NULL,NULL,NULL,(ткань)
+220,6,824,lɛn.1,NULL,NULL,NULL,NULL,(< Viet)
+220,7,185,dyrr,NULL,NULL,NULL,NULL,(plural)
+220,7,185,hurð; hlið; grind,NULL,NULL,NULL,NULL,
+220,9,53,бухада,NULL,NULL,NULL,NULL,(животнос)
+220,9,53,личΙа,NULL,NULL,NULL,NULL,(предмет-дерево)
+220,9,319,"лыг кæнын, кæрдын",NULL,NULL,NULL,NULL,NULL
+220,9,319,æргæвдын,NULL,NULL,NULL,NULL,(убивать)
+220,9,840,la:c.7,NULL,NULL,NULL,NULL,
+220,9,840,pa:t.7 ji:.6,NULL,NULL,NULL,NULL,(grass)
+220,9,840,δa:k.7,NULL,NULL,NULL,NULL,
+222,1,225,k-ōšax,NULL,NULL,NULL,NULL,Respectively: 'NOMZR.-ridged'; 'mountain (stone) 3.POS.-front'.
+222,1,225,ʔast īšk,NULL,NULL,NULL,NULL,< ʔast i-ašk; Respectively: 'NOMZR.-ridged'; 'mountain (stone) 3.POS.-front'.
+222,18,200,(proiznásjam) réč,NULL,NULL,NULL,NULL,"Fem., lit. 'pronounce a speech' from roots nas-/ nes, 'carry'; prefixes pro- + iz- 'through+out of'."
+222,18,200,(proiznesá) réč,NULL,NULL,NULL,NULL,"Fem., lit. 'utter a speech' from roots nas-/ nes, 'carry'; prefixes pro- + iz- 'through+out of'."
+222,9,319,калын,NULL,NULL,NULL,NULL,(деревья)
+222,9,319,сæттын,NULL,NULL,NULL,NULL,(дрова)
+222,9,319,кæрдын,NULL,NULL,NULL,NULL,NULL
+222,9,319,лыгтæ кæнын,NULL,NULL,NULL,NULL,(измельчать)
+223,9,319,"ныррæхойын, аргæвдын",NULL,NULL,NULL,NULL,NULL
+223,9,319,ныссадзын,NULL,NULL,NULL,NULL,волосы
+230,10,319,хауын,NULL,NULL,NULL,NULL,NULL
+230,10,319,згъæлын,NULL,NULL,NULL,NULL,(листья)
+230,10,319,æвзийын,NULL,NULL,NULL,NULL,(о волосах)
+230,2,411,sa:i.1,NULL,NULL,NULL,NULL,(person)
+230,2,411,tak.2,NULL,NULL,NULL,NULL,(animal)
+230,21,824,mɔn.5 ṭɨŋ.4 kw.4,NULL,NULL,NULL,NULL,(???)
+230,22,824,ṛaŋ.4 fuk.4,NULL,NULL,NULL,NULL,(< Viet>)
+230,6,824,lań.1,NULL,NULL,NULL,NULL,(< Viet)
+240,2,411,ʔbɨk.5,NULL,NULL,NULL,NULL,(person)
+240,2,411,me.6,NULL,NULL,NULL,NULL,(animal)
+240,21,410,kin.2; la:.2,NULL,NULL,NULL,NULL,(Burmese)
+242,17,824,hɔk.4,NULL,NULL,NULL,NULL,
+242,17,824,ŋiən.1 kɨw.5,NULL,NULL,NULL,NULL,(< Viet>)
+250,1,824,"daw.2, kw.2 law.2",NULL,NULL,NULL,NULL,(< Viet)
+250,16,319,худын,NULL,NULL,NULL,NULL,NULL
+250,16,319,цæгъдын,NULL,NULL,NULL,NULL,(на инструменте)
+250,21,408,kam.1 sa:.3-ba:n.1; kam.1 sat.1-ca.1,NULL,NULL,NULL,NULL,(Pali)
+250,21,410,phɨ:n.3 kin.2; phɨ:n.3 ca:m.1,NULL,NULL,NULL,NULL,(Burmese)
+250,3,319,фыр; фыс,NULL,NULL,NULL,NULL,NULL
+250,3,319,тохъыл,NULL,NULL,NULL,NULL,откормленный
+250,6,319,зæлдаг,NULL,NULL,NULL,NULL,NULL
+250,6,319,цъыллæ,NULL,NULL,NULL,NULL,(сырец)
+250,6,824,luə.4,NULL,NULL,NULL,NULL,(< Viet)
+250,6,824,tə.1,NULL,NULL,NULL,NULL,(< Viet)
+250,8,416,laʔ.7 kau.1,NULL,NULL,NULL,NULL,(noun)
+250,8,416,kuəʔ.7,NULL,NULL,NULL,NULL,(vb)
+252,14,408,ʔɔt.1; khan.3-ti:.3,NULL,NULL,NULL,NULL,(Pali)
+260,17,840,pə̂:.1 ʔa:.1 mat.7,NULL,NULL,NULL,NULL,(of an eye)
+260,17,840,hɔk.8 δi:ń.1,NULL,NULL,NULL,NULL,
+260,3,319,фыр,NULL,NULL,NULL,NULL,NULL
+260,3,319,нæлфыс,NULL,NULL,NULL,NULL,(холощённый)
+260,9,319,сæттын,NULL,NULL,NULL,NULL,NULL
+260,9,319,пырх кæнын,NULL,NULL,NULL,NULL,(врата)
+260,9,319,хæйттæ кæнын,NULL,NULL,NULL,NULL,(делить)
+270,11,199,(po)gubiti; (iz)gubiti; razoriti,NULL,NULL,NULL,NULL,
+270,2,220,yaro,NULL,NULL,NULL,NULL,(masc.)
+270,2,220,yarinya,NULL,NULL,NULL,NULL,(fem.)
+270,6,824,fət.5,NULL,NULL,NULL,NULL,(< Viet)
+270,6,824,nj.3,NULL,NULL,NULL,NULL,(< Viet)
+280,11,319,зиан раттын,NULL,NULL,NULL,NULL,NULL
+280,11,319,зиан хæссын,NULL,NULL,NULL,NULL,(причинить ущерб)
+280,2,319,дзидзидай,NULL,NULL,NULL,NULL,(грудной)
+280,2,319,"саби, сывæллон",NULL,NULL,NULL,NULL,NULL
+280,3,319,фыс,NULL,NULL,NULL,NULL,NULL
+280,3,319,далыс, куыст,NULL,NULL,NULL,NULL,годовалая
+280,4,319,къубал; æфцæг,NULL,NULL,NULL,NULL,NULL
+280,4,319,бæрзæй,NULL,NULL,NULL,NULL,(сзади)
+280,4,319,хъуыр,NULL,NULL,NULL,NULL,(спереди)
+280,9,319,"тонын, скъуынын, рæдувын",NULL,NULL,NULL,NULL,NULL
+280,9,319,рæмудзын,NULL,NULL,NULL,NULL,(срывать)
+280,9,319,скъуыдтæ кæнын,NULL,NULL,NULL,NULL,NULL
+290,14,319,"цæттæ, рæвдз, ивтонг",NULL,NULL,NULL,NULL,NULL
+290,14,319,разы,NULL,NULL,NULL,NULL,(согласный)
+290,16,824,hon.1,NULL,NULL,NULL,NULL,(< Viet>)
+290,6,319,царм,NULL,NULL,NULL,NULL,NULL
+290,6,319,мæскуы,NULL,NULL,NULL,NULL,фабричное
+30,12,319,"ныллæгдæр;дæлдæр;дæлейæ, дæлдæр",NULL,NULL,NULL,NULL,NULL
+310,15,319,ад,NULL,NULL,NULL,NULL,NULL
+310,15,319,æнкъарæн,NULL,NULL,NULL,NULL,(в моём вкусе)
+310,2,319,мой,NULL,NULL,NULL,NULL,NULL
+310,2,319,лæг,NULL,NULL,NULL,NULL,(супруг)
+310,5,319,тæбæгъ,NULL,NULL,NULL,NULL,(послуда)
+310,5,319,хæринаг,NULL,NULL,NULL,NULL,(кушанье)
+312,4,319,дæларм,NULL,NULL,NULL,NULL,NULL
+312,4,319,дæлæрмттæ,NULL,NULL,NULL,NULL,(мн.ч.)
+320,1,230,"topˀał, topˀał-",NULL,NULL,NULL,NULL,
+320,10,319,"уайын, цæуын, кæлын; тæдзын, мизын",NULL,NULL,NULL,NULL,NULL
+320,10,319,хъарын,NULL,NULL,NULL,NULL,(протекать)
+320,14,319,арæх,NULL,NULL,NULL,NULL,NULL
+320,14,319,тагъд-тагъд улæфыд,NULL,NULL,NULL,NULL,(часто дышал)
+320,2,230,mˀaʔoˑ̆ł; mˀaʔoˑ̆ł-",NULL,NULL,NULL,NULL,Secondary wife
+320,2,319,бинойнаг,NULL,NULL,NULL,NULL,NULL
+320,2,319,ус,NULL,NULL,NULL,NULL,(супруга)
+320,21,319,фауын,NULL,NULL,NULL,NULL,NULL
+320,21,319,зылын кæнын,NULL,NULL,NULL,NULL,на суде
+320,21,319,тæрхон хæссын,NULL,NULL,NULL,NULL,NULL
+320,3,319,хъæддаг хуы,NULL,NULL,NULL,NULL,(дикий)
+320,3,319,нæл хуы,NULL,NULL,NULL,NULL,(самец, домашняя свинья)
+320,3,319,джир,NULL,NULL,NULL,NULL,(нехолощённый)
+320,8,319,кæрдын,NULL,NULL,NULL,NULL,NULL
+320,8,319,хос кæрдын,NULL,NULL,NULL,NULL,(сено)
+323,1,824,măt.4 rak.5 ɣən.5 lăn tăn,NULL,NULL,NULL,NULL,(no rec)
+329,1,402,ma.3 ha:.10 sa.3 mut.8,NULL,NULL,NULL,NULL,(Bangkok)
+330,11,824,v...t.5,NULL,NULL,NULL,NULL,(???)
+330,13,824,dən.1 dok.5,NULL,NULL,NULL,NULL,(< Viet)
+330,13,824,moc.4 ṭuə.3,NULL,NULL,NULL,NULL,
+330,19,408,pha.1 ma.2-he:.3-si:.3,NULL,NULL,NULL,NULL,(Pali)
+330,21,824,ket.4 ʔan.4,NULL,NULL,NULL,NULL,(< Viet>)
+330,6,319,бийын,NULL,NULL,NULL,NULL,NULL
+330,6,319,кæнын,NULL,NULL,NULL,NULL,NULL
+330,6,319,хизгонд кæнын,NULL,NULL,NULL,NULL,(плести кружева)
+340,1,824,viń.5,NULL,NULL,NULL,NULL,(no rec) (< Viet)
+340,18,319,«нæ» кæнын,NULL,NULL,NULL,NULL,NULL
+340,18,319,аххосыл нæ сæттын,NULL,NULL,NULL,NULL,(отрицать свою вину)
+340,21,824,tha.1 boŋ.3,NULL,NULL,NULL,NULL,(< Viet>)
+340,3,198,svint'an,NULL,NULL,NULL,NULL,Phonemicization based on orthographic swintian in the Elbing Vocabulary.
+340,3,198,sk'aurē,NULL,NULL,NULL,NULL,(fem.); Phonemicization based on orthographic skewre in the Elbing Vocabulary.
+340,5,319,"дурын, хъуырау",NULL,NULL,NULL,NULL,NULL
+340,5,319,быркуы,NULL,NULL,NULL,NULL,(большой)
+341,1,824,fa.4,NULL,NULL,NULL,NULL,(no rec) (< Viet)
+341,2,411,tiŋ.5 kua:n.1,NULL,NULL,NULL,NULL,(of a lady)
+341,2,411,tiŋ.5ya.6,NULL,NULL,NULL,NULL,(of a man)
+342,1,829,hmɔ̂:,NULL,NULL,NULL,NULL,(stone)
+342,9,824,pɔp.4,NULL,NULL,NULL,NULL,
+342,9,824,nɛn.4,NULL,NULL,NULL,NULL,
+342,9,824,ʔə̆n.4,NULL,NULL,NULL,NULL,
+342,9,824,kɛp.5,NULL,NULL,NULL,NULL,
+342,9,824,tɛ.2,NULL,NULL,NULL,NULL,(press down)
+350,10,319,доныл цæуын,NULL,NULL,NULL,NULL,(на судне)
+350,20,824,thań.2 ṭj.2,NULL,NULL,NULL,NULL,(< Viet>)
+350,4,319,"къах, фад",NULL,NULL,NULL,NULL,NULL
+350,4,319,зæнг,NULL,NULL,NULL,NULL,(голень)
+350,8,319,мус,NULL,NULL,NULL,NULL,(для молотьбы)
+351,4,319,агъд,NULL,NULL,NULL,NULL,NULL
+351,4,319,син,NULL,NULL,NULL,NULL,(наружняя сторона)
+352,12,409,lɛ:m.3,NULL,NULL,NULL,NULL,(l ̃ lj)
+353,12,319,кæрон,NULL,NULL,NULL,NULL,конец
+353,12,319,"был, тигъ",NULL,NULL,NULL,NULL,NULL
+353,12,319,бæстæ,NULL,NULL,NULL,NULL,(страна)
+360,1,319,"дон, цæугæдон",NULL,NULL,NULL,NULL,NULL
+360,1,319,фурд,NULL,NULL,NULL,NULL,(большая)
+360,1,319,"къада, къададон, гуылфæн, лæсæн; къада, мæсчъыдон",NULL,NULL,NULL,NULL,NULL
+360,1,411,ta.6,NULL,NULL,NULL,NULL,(river)
+360,1,411,vi.3,NULL,NULL,NULL,NULL,(brook)
+360,1,416,ni.1,NULL,NULL,NULL,NULL,(river)
+360,1,416,ćui.3,NULL,NULL,NULL,NULL,(stream)
+360,1,417,nja.1,NULL,NULL,NULL,NULL,(river)
+360,1,417,nja.1 niŋ.5,NULL,NULL,NULL,NULL,(stream)
+360,9,407,soi.6,NULL,NULL,NULL,NULL,check p.20
+360,9,407,sak.8; sa.1; la:ŋ.4; ʔa:p.9,NULL,NULL,NULL,NULL,
+360,9,407,na:.3,NULL,NULL,NULL,NULL,check p.20
+360,9,407,phak.7,NULL,NULL,NULL,NULL,check p.20
+360,9,407,sak.8 (sə:.3),NULL,NULL,NULL,NULL,check p.20
+360,9,407,sa.1 (ho:.1),NULL,NULL,NULL,NULL,check p.20
+360,9,407,la:ŋ.4 (va:n.5),NULL,NULL,NULL,NULL,check p.20
+360,9,407,ʔa:p.9 (nam.4),NULL,NULL,NULL,NULL,check p.20
+370,1,416,nam.3 uʔ.7,NULL,NULL,NULL,NULL, (spring)
+370,1,416,ʔbən.6,NULL,NULL,NULL,NULL,(well)
+370,1,417,man.5,NULL,NULL,NULL,NULL,(spring)
+370,1,417,pɛ.3,NULL,NULL,NULL,NULL,(well)
+370,13,319,"дыууæ, фæлыст",NULL,NULL,NULL,NULL,NULL
+370,13,319,къай,NULL,NULL,NULL,NULL,(двое)
+370,17,411,ka:m.3 nau.2,NULL,NULL,NULL,NULL,(dare say)
+370,21,410,pan.3 ta:m.2; pɔ:.5 ta:m.2,NULL,NULL,NULL,NULL,(Burmese)
+380,10,319,дымын,NULL,NULL,NULL,NULL,(о ветре, ртом)
+380,10,319,фу кæнын",NULL,NULL,NULL,NULL,(ртом)
+380,15,410,so:m.4; tha:t.4 som.4,NULL,NULL,NULL,NULL,(Pali)
+380,17,408,ʔa.1-thi.1-ba:j.1,NULL,NULL,NULL,NULL,(Pali)
+380,17,411,nau.2,NULL,NULL,NULL,NULL,(say)
+380,2,401,phu:.3-cha:j.1,NULL,NULL,NULL,NULL,(na:j.1 + name)
+380,2,402,na:j.3,NULL,NULL,NULL,NULL,(+ name)
+380,2,829,pê:n̄,NULL,NULL,NULL,NULL,+ name (elderly man)
+380,3,319,сæныкк,NULL,NULL,NULL,NULL,NULL
+380,3,319,дæркъ,NULL,NULL,NULL,NULL,(от 0,5 до 1 года)
+380,3,319,цæукъа,NULL,NULL,NULL,NULL,(самец)
+390,15,829,kalɛ̂m,NULL,NULL,NULL,NULL,
+390,15,829,patîək,NULL,NULL,NULL,NULL,= tasteless
+390,2,401,phu:.3-jiŋ.5,NULL,NULL,NULL,NULL,(na:ŋ.1+name)
+390,2,402,na:ŋ.3,NULL,NULL,NULL,NULL,(+ name)
+390,2,829,jɔ:ŋ,NULL,NULL,NULL,NULL,+ name (elderly woman)
+391,5,319,æртыскæн,NULL,NULL,NULL,NULL,(для углей)
+393,4,319,сис,NULL,NULL,NULL,NULL,(птичье)
+40,12,319,"раз, размæ, агъоммæ, разæй",NULL,NULL,NULL,NULL,NULL
+40,12,319,разы,NULL,NULL,NULL,NULL,(послелоги)
+40,12,319,"онг, кæронмæ",NULL,NULL,NULL,NULL,NULL
+40,12,319,агъоммæ,NULL,NULL,NULL,NULL,(прежде)
+41,12,319,размæ,NULL,NULL,NULL,NULL,Предлог- сихоры размæ (перед обедом)
+41,12,319,раз,NULL,NULL,NULL,NULL,хæдзары раз (перед домом)
+410,1,172,ihča,NULL,NULL,NULL,NULL,"(/ih-ya/) - Also iye mataka, behind the trees."
+440,1,319,"дур; къæдзæх, къæхæн",NULL,NULL,NULL,NULL,NULL
+440,1,319,айнæг,NULL,NULL,NULL,NULL,(отвесная)
+410,17,408,taŋ.6 caj.3; ce:.3-ta.1-na:.1,NULL,NULL,NULL,NULL,(Pali)
+410,17,839,ma.31 mɛ.55,NULL,NULL,NULL,NULL,(???)
+410,18,319,сидын,NULL,NULL,NULL,NULL,NULL
+410,18,319,сайын,NULL,NULL,NULL,NULL,(возбуждать)
+410,19,319,æлдар; хицау,NULL,NULL,NULL,NULL,NULL
+410,19,319,фысым,NULL,NULL,NULL,NULL,(в отнош. гостя)
+410,20,836,chniəh,NULL,NULL,NULL,NULL,(to win)
+410,20,840,ʔɔ:.1 tɔ:.3,NULL,NULL,NULL,NULL,(to win)
+420,8,824,hot.5,NULL,NULL,NULL,NULL,
+420,8,824,ŋw.1 kok.4,NULL,NULL,NULL,NULL,(< Viet)
+430,14,237,e popouí kehukehu; e éhuéhu; maéhuéhu,NULL,NULL,NULL,NULL,
+430,2,829,kûən,NULL,NULL,NULL,NULL,
+430,2,829,pɔ̂:ŋ,NULL,NULL,NULL,NULL,"(older, female)"
+430,2,829,ʔɨntcî:ʔ,NULL,NULL,NULL,NULL,"(younger, female)"
+430,22,211,abhicāraka-; abhicārin-,NULL,NULL,NULL,NULL,
+430,22,211,abhicāraṇī-,NULL,NULL,NULL,NULL,(fem.)
+430,22,211,māyāvin-; māyin-,NULL,NULL,NULL,NULL,
+430,22,211,māyinī-,NULL,NULL,NULL,NULL,(fem.)
+440,10,319,кафын,NULL,NULL,NULL,NULL,NULL
+440,10,319,симын,NULL,NULL,NULL,NULL,(массовый танец)
+440,16,408,ʔi:.1-cha:.3; hɨŋ.3,NULL,NULL,NULL,NULL,(Pali)
+440,21,411,kam.6,NULL,NULL,NULL,NULL,
+440,21,411,si.3,NULL,NULL,NULL,NULL,(fuck)
+440,22,836,tî:wda,NULL,NULL,NULL,NULL,"(an angel, heavenly spirit)"
+440,8,410,khaw.4 mu:.4 jɔ:.1,NULL,NULL,NULL,NULL,
+440,8,410,khaw.4 ba:.2-le:.2,NULL,NULL,NULL,NULL,(English)
+450,10,319,цæуын,NULL,NULL,NULL,NULL,NULL
+450,10,319,рацу-бацу кæнын,NULL,NULL,NULL,NULL,(многократное)
+450,16,319,"æфсарм, æфсæрм",NULL,NULL,NULL,NULL,NULL
+450,16,319,худинаг,NULL,NULL,NULL,NULL,(позор)
+460,17,319,"æнцон, æнцонвадат",NULL,NULL,NULL,NULL,NULL
+460,17,319,рог,NULL,NULL,NULL,NULL,(о грузе)
+460,2,319,фыдыфыд,NULL,NULL,NULL,NULL,(со стороны отца)
+460,2,319,мады фыд,NULL,NULL,NULL,NULL,(матери)
+460,5,319,"цъар стигъын",NULL,NULL,NULL,NULL,(овощи, фрукты)
+460,5,319,æхсæдын,NULL,NULL,NULL,NULL,NULL
+470,19,408,ʔa:.1-nu.1-ja:t.3,NULL,NULL,NULL,NULL,(Pali)
+470,2,319,стыр мад,NULL,NULL,NULL,NULL,NULL
+470,2,319,нана,NULL,NULL,NULL,NULL,(при обращении)
+470,20,204,plennyj; plennik,NULL,NULL,NULL,NULL,
+470,22,408,la:ŋ.1; ni.5-mit.5,NULL,NULL,NULL,NULL,(Pali)
+470,22,410,na-mik.4,NULL,NULL,NULL,NULL,(Pali)
+470,4,319,"зæнæгдон; риу",NULL,NULL,NULL,NULL,NULL
+470,4,319,хъæбыс,NULL,NULL,NULL,NULL,(уст. поэт.)
+471,2,189,old-e,NULL,NULL,NULL,NULL,
+471,2,189,olde quene,NULL,NULL,NULL,NULL,"In MED, term is filed under old-e, adj."
+471,2,189,olde wif,NULL,NULL,NULL,NULL,"In MED, term is filed under old-e, adj."
+471,2,189,olde womman,NULL,NULL,NULL,NULL,"In MED, term is filed under old-e, adj."
+480,12,310,a'oney-,NULL,NULL,NULL,NULL,(< [a'oni-])
+480,2,319,фыртыфырт,NULL,NULL,NULL,NULL,(сын сына)
+480,2,319,чызджыфырт,NULL,NULL,NULL,NULL,(сын дочери)
+480,20,824,ciən.4 ləj.5 fə̆m.3,NULL,NULL,NULL,NULL,(< Viet>)
+480,6,204,štany; pantalony; brjuki,NULL,NULL,NULL,NULL,
+480,9,415,ću.5,NULL,NULL,NULL,NULL,(v.n.)
+490,17,408,ʔa:.1-ka:n.3,NULL,NULL,NULL,NULL,(Pali)
+490,2,319,фыртычызг,NULL,NULL,NULL,NULL,(дочь сына)
+490,2,319,чызджычызг,NULL,NULL,NULL,NULL,(дочь дочери)
+940,8,422,--,NULL,NULL,NULL,NULL,
+490,9,415,ʔnon.5,NULL,NULL,NULL,NULL,(v.)
+490,9,415,cui.2 śət.7,NULL,NULL,NULL,NULL,(n.)
+500,3,824,za.1 kə̆m.2,NULL,NULL,NULL,NULL,(< Viet)
+510,11,408,sat.1-the:.1; sat.1-thi:.3,NULL,NULL,NULL,NULL,(Pali)
+510,15,319,уынын; зынын,NULL,NULL,NULL,NULL,NULL
+510,15,319,цæстытыл уайын,NULL,NULL,NULL,NULL,(представляться)
+510,19,204,drug; prijatel ́,NULL,NULL,NULL,NULL,
+510,20,410,tam.2 ŋa:.4,NULL,NULL,NULL,NULL,(Burmese)
+510,5,319,дзул,NULL,NULL,NULL,NULL,(пшеничный)
+510,5,319,кæрдзын,NULL,NULL,NULL,NULL,(кукурузный)
+510,6,319,туфлитæ,NULL,NULL,NULL,NULL,(мн.ч.)
+510,8,237,mutie; punie; teita; éita,NULL,NULL,NULL,NULL,
+511,2,835,pu:,NULL,NULL,NULL,NULL,(mother's younger brother)
+511,2,836,pu:,NULL,NULL,NULL,NULL,(mother's younger brother)
+512,2,407,pɔ\.6 loŋ.1,NULL,NULL,NULL,NULL,
+512,2,835,pu:,NULL,NULL,NULL,NULL,(father's younger brother)
+512,2,835,ʔom,NULL,NULL,NULL,NULL,(father's elder brother)
+512,2,836,pu:,NULL,NULL,NULL,NULL,(father's younger brother)
+512,2,836,ʔom,NULL,NULL,NULL,NULL,(father's elder brother)
+520,10,319,фæдыл цæуын,NULL,NULL,NULL,NULL,(за кем-нибудь)
+520,10,319,æмбæлын,NULL,NULL,NULL,NULL,(полагаться)
+520,19,204,vrag; neprijatel ́; nedrug,NULL,NULL,NULL,NULL,
+520,19,408,kha:.6 sɨk.1; sat.1-thu:.3,NULL,NULL,NULL,NULL,(Pali)
+520,6,319,ботинкæтæ,NULL,NULL,NULL,NULL,(мн.ч.)
+522,2,411,pa.3,NULL,NULL,NULL,NULL,(elder)
+522,2,411,ńiaŋ.3,NULL,NULL,NULL,NULL,(younger)
+521,2,835,paj,NULL,NULL,NULL,NULL,(mother's younger sister)
+521,2,836,paj,NULL,NULL,NULL,NULL,(mother's younger sister)
+522,2,835,paj,NULL,NULL,NULL,NULL,(father's younger sister)
+522,2,835,ʔom,NULL,NULL,NULL,NULL,(father's elder sister)
+522,2,836,mi:ń,NULL,NULL,NULL,NULL,(father's younger sister)
+522,2,836,ʔom,NULL,NULL,NULL,NULL,(father's elder sister)
+530,1,710,zla,,,,,
+530,1,710,sla,,,,,(OT)
+530,12,319,рæзын,NULL,NULL,NULL,NULL,NULL
+530,12,319,зайын,NULL,NULL,NULL,NULL,произрастать
+530,14,319,сахат,NULL,NULL,NULL,NULL,NULL
+530,14,319,къулы сахат,NULL,NULL,NULL,NULL,(стенные часы)
+530,14,319,цонджы сахат,NULL,NULL,NULL,NULL,(руч. часы)
+530,2,319,æфсымæры лæппу,NULL,NULL,NULL,NULL,(сын брата)
+530,2,319,хæрæфырт,NULL,NULL,NULL,NULL,(сестры)
+530,20,202,vlas,NULL,NULL,NULL,NULL,(=šňůra k udici)
+530,8,829,tam chû:,NULL,NULL,NULL,NULL,(tree)
+531,8,192,[pflanzōn],NULL,NULL,NULL,NULL,form from Latin 'planta'.
+531,8,192,sez(z)en,NULL,NULL,NULL,NULL,
+531,8,192,(sāwen),NULL,NULL,NULL,NULL,
+531,8,192,(sā(j)en),NULL,NULL,NULL,NULL,
+540,16,408,ʔɔn.1-ta.1-la:j.1,NULL,NULL,NULL,NULL,(Pali)
+540,2,319,æфсымæры чызг,NULL,NULL,NULL,NULL,(дочь брата)
+540,2,319,хойы чызг,NULL,NULL,NULL,NULL,(дочь сестры)
+540,20,840,jɛ:.4,NULL,NULL,NULL,NULL,(with floats)
+541,12,411,hup.2,NULL,NULL,NULL,NULL,(finger span)
+541,12,411,sɔm.1,NULL,NULL,NULL,NULL,(arm spread)
+550,2,201,brat od strica,NULL,NULL,NULL,NULL,'male cousin'
+550,2,201,brat od tetke,NULL,NULL,NULL,NULL,'male cousin'
+550,2,201,brat od ujaka,NULL,NULL,NULL,NULL,'male cousin'
+550,2,201,sestra od strica,NULL,NULL,NULL,NULL,'female cousin'
+550,2,201,sestra od tetke,NULL,NULL,NULL,NULL,'female cousin'
+550,2,201,sestra od ujaka,NULL,NULL,NULL,NULL,'female cousin'
+550,2,201,bratučed,NULL,NULL,NULL,NULL,'male cousin'
+550,2,201,bratučeda,NULL,NULL,NULL,NULL,'female cousin'
+550,2,201,rodjak,NULL,NULL,NULL,NULL,'male cousin'
+550,2,201,rodjaka,NULL,NULL,NULL,NULL,'female cousin'
+550,2,201,"rodjakinja, rodica",NULL,NULL,NULL,NULL,
+550,2,319,дыууæ æфсымæры зæнæг,NULL,NULL,NULL,NULL,(дети двух братьев)
+550,2,319,дыууæ хойы зæнæг,NULL,NULL,NULL,NULL,(дети двух сестёр)
+550,2,319,хо æмæ æфсымæры зæнæг,NULL,NULL,NULL,NULL,(дети брата и сестры)
+550,7,314,ʔipaḳ,NULL,NULL,NULL,NULL,(masc.)
+550,20,824,pə̆j.1 ka.4,NULL,NULL,NULL,NULL,(< Viet>)
+560,20,836,nui,NULL,NULL,NULL,NULL,(for fishing)
+560,4,319,ту кæнын,NULL,NULL,NULL,NULL,NULL
+560,4,319,ту,NULL,NULL,NULL,NULL,(плевок)
+560,5,829,bɔ́t,NULL,NULL,NULL,NULL,(T)̲
+560,7,314,ʔipaḳ,NULL,NULL,NULL,NULL,(masc)
+570,19,319,хицау,NULL,NULL,NULL,NULL,NULL
+570,19,319,фысым,NULL,NULL,NULL,NULL,(для гостя)
+570,2,319,байзæддаг,NULL,NULL,NULL,NULL,NULL
+570,2,319,байзæддæгтæ,NULL,NULL,NULL,NULL,(мн.)
+570,4,319,омын,NULL,NULL,NULL,NULL,(рвота)
+570,4,319,удхар кæнын,NULL,NULL,NULL,NULL,NULL
+570,7,314,ʔipaḳ,NULL,NULL,NULL,NULL,(masc)
+540,7,319,æрæф,NULL,NULL,NULL,NULL,(стропило)
+540,7,319,"аххæрæг, уæладзæн, хъайван",NULL,NULL,NULL,NULL,NULL
+582,3,824,haj.2 ʔə̆w.1,NULL,NULL,NULL,NULL,(< Viet)
+585,3,319,"хъæрццыгъа; уари",NULL,NULL,NULL,NULL,NULL
+585,3,319,лацин,NULL,NULL,NULL,NULL,сокол
+586,3,824,ken.2 ken.2,NULL,NULL,NULL,NULL,(< Viet)
+592,3,829,ʔɨncîəm kɛ̂:w,NULL,NULL,NULL,NULL,(T
+593,3,319,халон,NULL,NULL,NULL,NULL,NULL
+593,3,319,сынт,NULL,NULL,NULL,NULL,ворон
+594,3,319,æхсинæг,NULL,NULL,NULL,NULL,(дикий)
+594,3,319,бæлон,NULL,NULL,NULL,NULL,(домашний)
+594,3,319,сыл бæлон,NULL,NULL,NULL,NULL,(голубка)
+60,13,230,nˀopo,NULL,NULL,NULL,NULL,< nˀop-po
+600,8,314,ʔipaḳ,NULL,NULL,NULL,NULL,(fem.)
+610,1,305,nalkii,NULL,NULL,NULL,NULL,Respectively: verbal form; natural light ('brillant').
+610,1,305,kooxo,NULL,NULL,NULL,NULL,(f/m.) - Respectively: verbal form; natural light ('brillant').
+610,17,183,penaoz?; peseurt mod?,NULL,NULL,NULL,NULL,
+610,17,214,če[towr]?; če[ǰur]?,NULL,NULL,NULL,NULL,
+610,19,408,pa.1-we:.1-ni:.1,NULL,NULL,NULL,NULL,(Pali)
+610,3,220,kare,NULL,NULL,NULL,NULL,(masc.)
+610,3,220,karya,NULL,NULL,NULL,NULL,(fem.)
+613,10,168,meta'fero ('ston 'omo),NULL,NULL,NULL,NULL,
+613,10,168,meta'fero (stin 'plati),NULL,NULL,NULL,NULL,
+614,10,411,kɨat šo.5 kɨn.2 cau.3 tuŋ.2,NULL,NULL,NULL,NULL,CHECK
+620,1,319,"талынг, тар",NULL,NULL,NULL,NULL,NULL
+620,1,319,мæйдар,NULL,NULL,NULL,NULL,(ночная)
+620,1,319,"талынг, тар",NULL,NULL,NULL,NULL,NULL
+620,17,193,wie manege?; wie vile?,NULL,NULL,NULL,NULL,
+630,1,411,lam.6,NULL,NULL,NULL,NULL,(shade)
+630,1,411,ŋau.2,NULL,NULL,NULL,NULL,(shadow)
+630,17,207,"inčkan?; vorčap?, vorkan?",NULL,NULL,NULL,NULL,
+630,17,214,čænd?; čeqædr?,NULL,NULL,NULL,NULL,
+630,19,319,сусæгвæнд,NULL,NULL,NULL,NULL,NULL
+630,19,319,арфæ,NULL,NULL,NULL,NULL,заклинание
+630,5,824,suk.4 sic.4,NULL,NULL,NULL,NULL,(< Viet)
+630,7,824,ho.2,NULL,NULL,NULL,NULL,
+630,7,824,sj.2 măŋ.1,NULL,NULL,NULL,NULL,(< Viet)
+630,7,824,vɨə.2,NULL,NULL,NULL,NULL,
+640,17,214,če?; či?,NULL,NULL,NULL,NULL,
+640,2,237,hunona vehine (e hukona vehine),NULL,NULL,NULL,NULL,
+640,2,237,hunona vehine (e huóna vehine),NULL,NULL,NULL,NULL,
+640,5,302,noose 'l-iʔi,NULL,NULL,NULL,NULL,(< no'wasek) Cf. 'liquid' iʔi.
+640,8,835,m-nɨəh,NULL,NULL,NULL,NULL,CHECK
+640,8,836,mnɨəh,NULL,NULL,NULL,NULL,CHECK
+641,2,285,ul-čaɬ,NULL,NULL,NULL,NULL,
+650,11,319,фидын,NULL,NULL,NULL,NULL,NULL
+650,11,319,хæстæ фидын,NULL,NULL,NULL,NULL,(платить долги)
+650,17,183,pegoulz?; peur?; pevare?; pedavare?,NULL,NULL,NULL,NULL,
+650,17,214,key?; če[væqt]?,NULL,NULL,NULL,NULL,
+650,17,310,'kenoš,NULL,NULL,NULL,NULL,< ['kenus]
+650,3,319,кæсаг,NULL,NULL,NULL,NULL,NULL
+650,3,319,кæф,NULL,NULL,NULL,NULL,(крупная рыба)
+655,3,840,dɔ:.2 ju:a.6,NULL,NULL,NULL,NULL,(egg)
+655,3,840,dɔ:.2 ʔa:.1 vɔ:.3,NULL,NULL,NULL,NULL,
+655,3,840,ja:.2 pɔ:k.7,NULL,NULL,NULL,NULL,
+660,16,319,æцæг",NULL,NULL,NULL,NULL,NULL
+660,16,319,ныры-,NULL,NULL,NULL,NULL,о времени
+660,16,319,"ацы, нырыккон",NULL,NULL,NULL,NULL,NULL
+660,17,177,on?; a on?,NULL,NULL,NULL,NULL,
+660,17,193,wā?,NULL,NULL,NULL,NULL,"This term refers to location."
+660,17,193,war?,NULL,NULL,NULL,NULL,"This term refers to motion."
+660,17,202,kde?; kam?,NULL,NULL,NULL,NULL,
+660,17,319,кæм?; кæцæй?,NULL,NULL,NULL,NULL,NULL
+660,4,185,skīta; drīta,NULL,NULL,NULL,NULL,
+660,4,185,drit,NULL,NULL,NULL,NULL,(noun)
+660,4,185,skītr,NULL,NULL,NULL,NULL,(noun)
+660,4,185,myki,NULL,NULL,NULL,NULL,(noun)
+660,4,185,skarn,NULL,NULL,NULL,NULL,(noun)
+660,9,836,spɨən,NULL,NULL,NULL,NULL,(copper or brass)
+661,3,824,ka.4 mə̆p.4,NULL,NULL,NULL,NULL,(< Viet)
+662,3,824,ka.4 hɛw.1,NULL,NULL,NULL,NULL,(< Viet)
+670,15,829,hɨncɔ́k,NULL,NULL,NULL,NULL,(+green)
+670,15,829,ʔɨncɔ́k,NULL,NULL,NULL,NULL,(+green)
+670,17,171,quel?; lequel?,NULL,NULL,NULL,NULL,
+670,17,214,kodɑm?; kædɑm?,NULL,NULL,NULL,NULL,East Persian.
+670,4,409,ho:m.4 ka:.3-ma.1 kan.3,NULL,NULL,NULL,NULL,(Polite)
+670,4,53,бососсе,NULL,NULL,NULL,NULL,(люди)
+670,4,53,кΙикΙизе,NULL,NULL,NULL,NULL,(тивотноге)
+680,17,214,ki?; če kæsi?,NULL,NULL,NULL,NULL,
+690,17,183,perag?; abelamour de betra?,NULL,NULL,NULL,NULL,
+690,17,214,čerɑ?; bærɑye-či?,NULL,NULL,NULL,NULL,
+690,17,319,цæмæн?; цæй тыххæй?,NULL,NULL,NULL,NULL,NULL
+690,8,410,lut.2,NULL,NULL,NULL,NULL,
+690,8,410,ja:.4 lut.2,NULL,NULL,NULL,NULL,(tobacco)
+690,8,410,lut.2 ja:.4,NULL,NULL,NULL,NULL,(to smoke)
+70,12,319,бын,NULL,NULL,NULL,NULL,(послелог)
+70,12,319,бæласы бын,NULL,NULL,NULL,NULL,(под деревом)
+70,12,319,æввахс,NULL,NULL,NULL,NULL,(приблизительно)
+70,12,319,агъоммæ,NULL,NULL,NULL,NULL,(накануне)
+710,6,824,ṭaŋ.1 sɨk.4,NULL,NULL,NULL,NULL,(< Viet)
+710,6,824,ṭaŋ.1 tiəm.3,NULL,NULL,NULL,NULL,(< Viet)
+712,15,319,æлхыскъ кæнын,NULL,NULL,NULL,NULL,NULL
+712,15,319,æлхысчъытæ кæнын,NULL,NULL,NULL,NULL,(кого-то)
+712,15,319,тонын,NULL,NULL,NULL,NULL,(траву)
+720,10,836,phl̂w,NULL,NULL,NULL,NULL,(a path)
+720,4,204,rodit ́sja,NULL,NULL,NULL,NULL,
+720,4,204,roždënnyj,NULL,NULL,NULL,NULL,(= né)
+720,4,710,bltams vi,,,,,(HON)
+730,1,319,"мигъ, æврагъ; мигъ",NULL,NULL,NULL,NULL,NULL
+730,1,319,саувадыг,NULL,NULL,NULL,NULL,(грозовая)
+730,4,835,puəh thɔm,NULL,NULL,NULL,NULL,(polite)
+730,4,836,thmuən puəhs,NULL,NULL,NULL,NULL,(polite)
+730,8,319,зæнг,NULL,NULL,NULL,NULL,(бæрзы зæнг – ствол березы)
+730,8,319,хъæд,NULL,NULL,NULL,NULL,NULL
+740,15,319,"хъæбæр, дæрзæг; хъисыг",NULL,NULL,NULL,NULL,NULL
+740,15,319,тызмæг,NULL,NULL,NULL,NULL,(переносн.)
+740,4,408,ci:.1-wit.1,NULL,NULL,NULL,NULL,(Pali)
+750,15,319,"фæлмæн, хæмпус; фæлмæн",NULL,NULL,NULL,NULL,NULL
+750,15,319,фæлмас,NULL,NULL,NULL,NULL,(характер)
+750,2,220,maraya,NULL,NULL,NULL,NULL,(masc.)
+750,2,220,marainiya,NULL,NULL,NULL,NULL,(fem.)
+750,5,208,hassikka-,NULL,NULL,NULL,NULL,? - Ali HTT 127; Sumerogram GISH/ MA 'fig'; Puh rejects precise identification of the Hittite word for this tree and its fruit.
+760,12,319,къуым,NULL,NULL,NULL,NULL,(в комнате)
+760,12,319,"фисын, тигъ",NULL,NULL,NULL,NULL,NULL
+760,5,319,сæнæфсир,NULL,NULL,NULL,NULL,(ягоды)
+760,6,177,gra,NULL,NULL,NULL,NULL,(de rosari/ de collaret)
+760,9,319,къалати,NULL,NULL,NULL,NULL,(маленькая)
+760,9,319,къуту,NULL,NULL,NULL,NULL,NULL
+760,9,319,куыф,NULL,NULL,NULL,NULL,(большая)
+760,9,319,тæскъ,NULL,NULL,NULL,NULL,(для ношения на спине)
+770,15,319,"лæгъз; æнцон",NULL,NULL,NULL,NULL,NULL
+770,15,319,æнæхъинцъ,NULL,NULL,NULL,NULL,(перенос.)
+770,5,319,æхсæр,NULL,NULL,NULL,NULL,(лесной)
+770,5,319,æнгуз,NULL,NULL,NULL,NULL,(грецкий)
+780,5,824,ʔo.1 liw.1,NULL,NULL,NULL,NULL,(< Viet)
+780,9,305,tinax (m.); -eɬkukiʔ (f.),NULL,NULL,NULL,NULL,"Respectively: bolsa de arpillera; b. de caraguatá. Also -kekiʔ (f.), b. de cuero de ñandú; -ɬuk (m.), b. de red para llevar el cántaro; tanxeptileʔ (f.), b. antigua; moc̷ʔoc̷kiʔ (f.), b. que se ata a la cintura."
+780,9,319,хызын,NULL,NULL,NULL,NULL,(сетчатая)
+780,9,319,дзæкъул,NULL,NULL,NULL,NULL,(сумка)
+790,15,319,"къуымых; гуылмыз; хуырым",NULL,NULL,NULL,NULL,NULL
+790,15,319,гуымыдза,NULL,NULL,NULL,NULL,(о человеке)
+791,5,319,"сой, сойаг; фиу, нард",NULL,NULL,NULL,NULL,NULL
+791,5,319,гам,NULL,NULL,NULL,NULL,(подкожный)
+791,9,201,(duvati), (duhati),NULL,NULL,NULL,NULL,These terms actually mean 'to blow'.
+80,12,319,сæрмæ,NULL,NULL,NULL,NULL,NULL
+80,12,319,уæлейæ,NULL,NULL,NULL,NULL,(послелоги)
+80,12,319,истæуыл худын,NULL,NULL,NULL,NULL,мест. внеш. п. на -ыл; (над чем-то смеяться)
+810,1,319,"зынг, арт, цæхæр",NULL,NULL,NULL,NULL,NULL
+810,1,319,рухс,NULL,NULL,NULL,NULL,(огни погасли в домах)
+810,15,319,уæззау,NULL,NULL,NULL,NULL,(по весу)
+810,5,208,puti-,NULL,NULL,NULL,NULL,? - CHD. Means 'lump (of salt)' with determinative MUN: MUN/-. Sumerogram MUN 'salt'.
+810,5,230,"topˀał, topˀał-",NULL,NULL,NULL,NULL,
+810,9,319,"слыг кæнын; ралыг кæнын, ракæнын; ныццæгъдын",NULL,NULL,NULL,NULL,NULL
+810,9,319,сæргæвдын,NULL,NULL,NULL,NULL,(истребить)
+820,15,319,рог,NULL,NULL,NULL,NULL,(по весу)
+820,5,319,бырц,NULL,NULL,NULL,NULL,(черный)
+820,8,319,кокос-бæлас,NULL,NULL,NULL,NULL,NULL
+820,8,319,кокос-æнгуз,NULL,NULL,NULL,NULL,(плод)
+821,5,319,цывзы,NULL,NULL,NULL,NULL,(красный)
+821,5,829,pakɛ:w phɔ̂ŋ,NULL,NULL,NULL,NULL,
+821,5,829,phana:ʔ,NULL,NULL,NULL,NULL,(=chilli pasta)
+830,3,208,watkuwar,NULL,NULL,NULL,NULL,"? - Rosenkranz nr. 48. See watku- 'jump, leap' 10.430."
+840,3,319,"зулкъ, къуыдыргалм",NULL,NULL,NULL,NULL,NULL
+840,3,319,уаллон,NULL,NULL,NULL,NULL,(дождевой)
+850,3,196,gyvãtė; angìs; žaltỹs,NULL,NULL,NULL,NULL,
+850,5,824,dɨəŋ.2,NULL,NULL,NULL,NULL,(< Viet)
+851,15,319,хъарм,NULL,NULL,NULL,NULL,NULL
+851,15,319,хъæрмуст,NULL,NULL,NULL,NULL,(о воде)
+851,15,319,донсаст,NULL,NULL,NULL,NULL,(о воде)
+856,4,237,fefe; kohe; toópuku; hopetue,NULL,NULL,NULL,NULL,
+860,11,410,sum.5 sjɛ:ŋ.2; sum.5 sɛ:ŋ.2 kha:j.3 kho:.1,NULL,NULL,NULL,NULL,(Burmese)
+860,4,408,hak.1-sa:.3,NULL,NULL,NULL,NULL,(pali)
+880,5,824,fɔ.5 mat.5,NULL,NULL,NULL,NULL,(< Viet)
+890,1,230,"tom-is-, tomiˑs",NULL,NULL,NULL,NULL,(prob. <tom-mis)
+890,5,824,lə.1,NULL,NULL,NULL,NULL,(< Viet)
+920,11,319,барын,NULL,NULL,NULL,NULL,NULL
+920,11,319,цас,NULL,NULL,NULL,NULL,(сколько)
+920,11,319,цал,NULL,NULL,NULL,NULL,(сколько)
+920,11,409,ja:.2-dʒu:.2,NULL,NULL,NULL,NULL,(ʒ - ALT +B)
+920,2,220,kai,NULL,NULL,NULL,NULL,(masc.)
+920,2,220,ke,NULL,NULL,NULL,NULL,(fem.)
+920,2,227,"táa, táŋ",NULL,NULL,NULL,NULL,"JRS da, dAɲ. WFT&GMD-I tungā. WFT&GMD-II dun-ga."
+920,2,227,táanaa,NULL,NULL,NULL,NULL,"(táaŋaa (?)) - JRS da, dAɲ. WFT&GMD-I tungā. WFT&GMD-II dun-ga."
+920,2,319,"ды, сымах",NULL,NULL,NULL,NULL,(нет формы обращения на «вы»)
+920,2,710,khyed,,,,,(HON)
+920,2,710,khyod,,,,,
+920,8,408,man.1 kɛ:w.3 la:w.1,NULL,NULL,NULL,NULL,(la:w.1 = Laos)
+921,6,319,дзыкку,NULL,NULL,NULL,NULL,(волосы)
+921,6,417,fja.1,NULL,NULL,NULL,NULL,(v. & n.)
+930,2,220,shi,NULL,NULL,NULL,NULL,(masc.)
+930,2,220,ita,NULL,NULL,NULL,NULL,(fem.)
+930,2,226,--,NULL,NULL,NULL,NULL,
+930,2,824,ha.1,NULL,NULL,NULL,NULL,
+930,2,824,maŋ.5 ṛj.4,NULL,NULL,NULL,NULL,(she)
+930,2,824,ʔɛŋ.1 ṛj.4,NULL,NULL,NULL,NULL,(he)
+931,8,835,rpəw,NULL,NULL,NULL,NULL,
+931,8,835,caʔ,NULL,NULL,NULL,NULL,(cucumber)
+931,8,835,khlô:ʔ,NULL,NULL,NULL,NULL,
+931,8,836,rpə̂w,NULL,NULL,NULL,NULL,(pumkin)
+931,8,836,caʔ,NULL,NULL,NULL,NULL,
+931,8,836,mnɛ:p,NULL,NULL,NULL,NULL,
+942,2,305,yekheweliɬ,NULL,NULL,NULL,NULL,(m/f)
+950,2,710,khyed tsho,,,,,(HON)
+950,2,710,khyod tsho,,,,,
+950,3,411,kɔ:p.5,NULL,NULL,NULL,NULL,(big)
+950,3,411,kwɛ.3,NULL,NULL,NULL,NULL,(small)
+950,3,416,kəp.7,NULL,NULL,NULL,NULL,(big)
+950,3,416,kwai.3,NULL,NULL,NULL,NULL,(small)
+950,3,417,kap.7,NULL,NULL,NULL,NULL,(big)
+950,3,417,kwai.3,NULL,NULL,NULL,NULL,(small)
+950,6,824,sa.2 fɔŋ.2,NULL,NULL,NULL,NULL,(< Viet)
+960,3,215,smāmītā,NULL,NULL,NULL,NULL,(??) Perhaps just a type of lizard. There are many are words for specific types.
+960,3,319,мæкъулæг,NULL,NULL,NULL,NULL,(серая)
+960,3,319,гæккуыри,NULL,NULL,NULL,NULL,(зеленая)
+960,8,201,riblja trava; riblji otrov,NULL,NULL,NULL,NULL,

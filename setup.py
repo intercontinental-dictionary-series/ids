@@ -14,7 +14,20 @@ setup(
     py_modules=["lexibank_ids"],
     include_package_data=True,
     zip_safe=False,
-    entry_points={"lexibank.dataset": ["ids=lexibank_ids:Dataset"]},
-    install_requires=["pylexibank>=2.1"],
-    extras_require={"test": ["pytest-cldf"]},
+    entry_points={
+        "lexibank.dataset": [
+            "ids=lexibank_ids:Dataset"
+        ]
+    },
+    install_requires=[
+        "pylexibank>=2.7.1",
+        "clldutils>=3.5.2",
+        "csvw>=1.8.0",
+        "idspy>=0.1",
+    ],
+    extras_require={
+        "test": [
+            "pytest-cldf"
+        ]
+    },
 )

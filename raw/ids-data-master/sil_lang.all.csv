@@ -1,0 +1,255 @@
+id,sil_code,sil_name
+1,agx,Aghul
+2,akv,Akhvakh
+3,ani,Andi
+4,arb,"Arabic, Standard"
+5,aqc,Archi
+6,ava,Avar
+7,azb,"Azerbaijani, South"
+8,azj,"Azerbaijani, North"
+9,kva,Bagvalal
+10,bph,Botlikh
+11,bdk,Budukh
+12,cji,Chamalal
+13,che,Chechen
+14,dar,Dargwa
+15,myv,Erzya
+16,est,Estonian
+17,fin,Finnish
+18,gdo,Ghodoberi
+19,gin,Hinukh
+20,hun,Hungarian
+21,huz,Hunzib
+22,kpt,Karata
+23,kca,Khanty
+24,kjj,Khinalugh
+25,khv,Khvarshi
+26,kpv,Komi-Zyrian
+27,kum,Kumyk
+28,lbe,Lak
+29,sme,"Saami, North"
+30,lez,Lezgi
+31,mns,Mansi
+32,mhr,"Mari, Eastern"
+33,yrk,Nenets
+34,nog,Nogai
+35,rut,Rutul
+36,sel,Selkup
+37,tab,Tabassaran
+38,jdt,Judeo-Tat
+39,tin,Tindi
+40,tkr,Tsakhur
+41,ddo,Dido
+42,udi,Udi
+43,udm,Udmurt
+44,kap,Bezhta
+46,grc,"Greek, Ancient"
+47,ell,Greek
+48,lat,Latin
+49,ita,Italian
+50,fra,French
+51,pbh,Eñepa
+52,mbc,Macushi
+53,mch,Maquiritari
+54,waw,Waiwai
+55,spa,Spanish
+56,cat,Catalan-Valencian-Balear
+57,por,Portuguese
+58,ron,Romanian
+59,sga,Irish (Old)
+60,gle,"Gaelic, Irish"
+61,cym,Welsh
+62,bre,Breton
+63,got,Gothic
+64,non,Norse (Old)
+65,dan,Danish
+66,swe,Swedish
+67,ang,English (Old)
+68,enm,English (Middle)
+69,eng,English
+70,nld,Dutch
+71,goh,German (Old High)
+72,gmh,German (Middle High)
+73,deu,"German, Standard"
+74,ydd,"Yiddish, Eastern"
+75,lit,Lithuanian
+76,lav,Latvian
+77,prg,Prussian
+78,chu,"Slavonic, Old Church"
+79,bul,Bulgarian
+80,sout1528,Serbo-Croatian
+81,ces,Czech
+82,pol,Polish
+83,rus,Russian
+84,als,"Albanian, Tosk"
+85,hye,Armenian
+86,hit,Hittite
+87,xto,Tokharian A
+88,txb,Tokharian B
+89,san,Sanskrit
+90,rmy,"Romani, Vlax"
+91,ave,Avestan
+92,pes,"Farsi, Western"
+93,olda1245,Aramaic (Ancient)
+94,elx,Elamite
+95,dcr,Negerhollands
+96,jam,Jamaican Creole English
+97,eus,Basque
+98,hau,Hausa
+99,plj,Polci
+100,azz,"Nahuatl, Highland Puebla"
+101,ctz,"Chatino, Zacatepec"
+102,kyh,Karok
+103,sei,Seri
+104,zun,Zuni
+105,hdn,"Haida, Northern"
+106,tli,Tlingit
+107,tsi,Tsimshian
+108,noo,Nootka
+109,blc,Bella Coola
+110,cjh,"Chehalis, Upper"
+111,aust1307,Proto Austronesian
+112,haw,Hawaiian
+113,mri,Maori
+114,mrq,"Marquesan, North"
+115,mqm,"Marquesan, South"
+116,rap,Rapa Nui
+117,rtm,Rotuman
+118,ton,Tongan
+119,pmt,Tuamotuan
+120,poly1242,Proto Polynesian
+121,mot,Barí
+122,chb,Chibcha
+123,pbb,Páez
+124,cbi,Chachi
+125,cof,Colorado
+126,emp,"Emberá, Northern"
+127,sja,Epena
+128,pui,Puinave
+129,yau,Yuwana
+130,yae,Pumé
+131,shb,Ninam
+132,wca,Yanomámi
+133,con,Cofán
+134,auc,Waorani
+135,snn,Siona
+136,tue,Tuyuca
+137,agr,Aguaruna
+138,jiv,Shuar
+139,yad,Yagua
+140,brg,Baure
+141,guc,Wayuu
+142,ign,Ignaciano
+143,cuj,Mashco Piro
+144,trn,Trinitario
+145,wap,Wapishana
+146,wau,Waurá
+147,yvt,Yavitero
+148,ayr,"Aymara, Central"
+149,cap,Chipaya
+150,cas,Tsimané
+151,aro,Araona
+152,cav,Cavineña
+153,ese,Ese Ejja
+154,tna,Tacana
+155,cbr,Cashibo-Cacataibo
+156,knt,"Katukína, Panoan"
+157,cao,Chácobo
+158,pcp,Pacahuara
+159,shp,Shipibo-Conibo
+160,yaa,Yaminahua
+161,cyb,Cayubaba
+162,ito,Itonama
+163,mzp,Movima
+164,pav,Pakaásnovos
+165,myu,Mundurukú
+166,guq,Aché
+167,gui,"Guaraní, Eastern Bolivian"
+168,gug,"Guaraní, Paraguayan"
+169,srq,Sirionó
+170,oym,Wayampi
+171,ram,Canela
+172,kgp,Kaingáng
+173,kpj,Karajá
+174,tpy,Trumaí
+175,ayo,Ayoreo
+176,sap,Sanapaná
+177,leg,Lengua
+178,moc,Mocoví
+179,plg,Pilagá
+180,crt,"Chorote, Iyojwa'ja"
+181,mca,Maca
+182,mzh,Wichí Lhamtés Güisnay
+183,cag,Nivaclé
+184,kuz,Kunza
+185,arn,Mapudungun
+186,teh,Tehuelche
+187,ona,Ona
+188,pue,Puelche
+189,alc,Qawasqar
+190,tob,Toba
+191,yag,Yámana
+192,ghl,Ghulfan
+193,inh,Ingush
+194,kry,Kryts
+195,bbl,Bats
+196,tha,Thai
+198,sou,"Thai, Southern"
+200,nod,"Thai, Northern"
+201,tdd,Tai Nüa
+202,huj,"Miao, Northern Guiyang"
+203,khb,Lü
+204,kkh,Khün
+205,shn,Shan
+207,zgn,"Zhuang, Guibian"
+209,nut,Nung
+210,zzj,"Zhuang, Zuojiang"
+211,swi,Sui
+212,mmd,Maonan
+213,mlm,Mulam
+214,cdy,Chadong
+215,kmc,"Dong, Southern"
+216,lbc,Lakkia
+217,lic,Hlai
+218,yzg,"Buyang, E’ma"
+219,yln,"Buyang, Langnian"
+220,giq,"Gelao, Green"
+221,gqu,Qau
+222,oss,Ossetic
+301,ben,Bengali
+302,hin,Hindi
+303,kha,Khasi
+304,bfz,Mahasu Pahari
+305,mar,Marathi
+306,nep,Nepali
+307,pnb,Punjabi
+308,tam,Tamil
+309,tel,Telugu
+310,bod,Tibetan
+311,manm1238,
+312,blan1242,
+313,huuu1240,
+314,nucl1290,
+315,ruma1248,
+316,pray1239,
+317,bitt1240,
+318,boly1239,
+319,pala1336,
+320,mlab1235,
+321,cuoi1242,
+322,viet1252,
+323,nort2683,
+324,phon1246,
+325,rucc1239,
+326,khap1242,
+327,mali1278,
+328,aheu1239,
+329,nyah1250,
+330,pear1247,
+331,suoy1242,
+332,samr1245,
+333,chon1284,
+334,west2394,
+335,suri1265,
+336,oduu1239,
+337,mang1378,
