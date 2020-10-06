@@ -2,9 +2,10 @@ import os
 import re
 import pathlib
 import pylexibank
+import unicodedata
 from idspy import IDSDataset, IDSEntry
 from clldutils.misc import nfilter
-from clldutils.text import split_text_with_context
+from clldutils.text import split_text_with_context, strip_brackets
 from collections import defaultdict
 from csvw import dsv
 from itertools import groupby
@@ -16,6 +17,7 @@ GLOTTOCODE_UPDATES = {"sana1281": "sana1298", "pray1239": "phai1238", "samr1245"
 SOURCE_UPDATES = {"key1958-1964": "key19581964"}
 
 empty = re.compile(r'^\s*(NULL|∅|[\s\-]*)$')
+wrapped_in_brackets = re.compile(r'^[\(\[][^\[\]\(\)]+?[\)\]]$')
 
 
 class Dataset(IDSDataset):
@@ -23,6 +25,7 @@ class Dataset(IDSDataset):
     IDSDataset.form_spec.missing_data = (
         '?', '∅', '-', '--', '- -', '???', '', '-666', '666', '\u2014', '\u02bc')
     IDSDataset.form_spec.separators = ';,/~'
+    IDSDataset.form_spec.brackets = {"(": ")", "[": "]"}
 
     dir = pathlib.Path(__file__).parent
     id = "ids"
@@ -45,11 +48,21 @@ class Dataset(IDSDataset):
         return dsv.reader(fname, namedtuples=True)
 
     def split_counterparts(self, c):
+        if wrapped_in_brackets.search(c):
+            c = c[1:-1].strip()
         for word in split_text_with_context(
                 c, separators=self.form_spec.separators, brackets=self.form_spec.brackets):
             word = word.strip()
             if word and word not in self.form_spec.missing_data:
-                yield word
+                if wrapped_in_brackets.search(word):
+                    word = word[1:-1].strip()
+                n_split = list(split_text_with_context(
+                    word, separators=self.form_spec.separators, brackets=self.form_spec.brackets))
+                if len(n_split) > 0:
+                    for w in n_split:
+                        yield w.strip()
+                else:
+                    yield word
 
     def cmd_makecldf(self, args):
 
@@ -169,9 +182,16 @@ class Dataset(IDSDataset):
             desc = data_desc.get(lg_id, {})
             words = defaultdict(list)
             entries_list = list(entries)
-            last_entry = entries_list[-1]
 
-            for lg in entries_list:
+            # find last valid entry
+            last_entry_idx = None
+            for m, lg in enumerate(entries_list[::-1]):
+                if empty.match(lg.data_1) or '{0}-{1}'.format(lg.chap_id, lg.entry_id) not in entry_ids:
+                    continue
+                last_entry_idx = len(entries_list) - m - 1
+                break
+
+            for m, lg in enumerate(entries_list):
 
                 if empty.match(lg.data_1):
                     continue
@@ -230,18 +250,39 @@ class Dataset(IDSDataset):
                         reprs = [desc.get('1')]
                         if alt_trans:
                             reprs.append(alt_trans)
-                        args.writer.add_forms_from_value(
-                            Language_ID=lg.lg_id,
-                            Parameter_ID=entry_id,
-                            Value=w,
-                            Comment=com,
-                            Source=sources.get(lg.lg_id, ''),
-                            Transcriptions=reprs,
-                            AlternativeValues=[alt_val],
-                        )
+
+                        f = w
+                        if wrapped_in_brackets.search(w):
+                            f = w[1:-1].strip()
+                        if ' [' in f or '] ' in f or ']-' in f or '-[' in f or re.search(r'\[.\]', f):
+                            f = f.replace('[', '')
+                            f = f.replace(']', '')
+                        if lg.lg_id == '234':
+                            if '<' in f and '>' in f:
+                                f = f.replace('>', '')
+                                f = f.replace('<', '')
+                        f = strip_brackets(f, brackets=self.form_spec.brackets)
+                        f = re.sub(r'\s{2,}', ' ', f)
+
+                        if wrapped_in_brackets.search(alt_val):
+                            alt_val = alt_val[1:-1].strip()
+                        alt_val = strip_brackets(alt_val, brackets=self.form_spec.brackets)
+                        alt_val = re.sub(r'\s{2,}', ' ', alt_val)
+
+                        if f and not empty.match(f):
+                            args.writer.add_form(
+                                Language_ID=lg.lg_id,
+                                Parameter_ID=entry_id,
+                                Value=f,
+                                Form=unicodedata.normalize(self.form_spec.normalize_unicode, f),
+                                Comment=com,
+                                Source=sources.get(lg.lg_id, ''),
+                                Transcriptions=reprs,
+                                AlternativeValues=[alt_val],
+                            )
 
                 # add possible remaining corrected entries (mostly splitted ones)
-                if lg == last_entry:
+                if m == last_entry_idx:
                     for k, v in etc_ids[lg.lg_id].items():
                         if len(v) > 0:
                             entries_list.extend(v)

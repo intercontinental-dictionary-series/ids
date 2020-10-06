@@ -21,6 +21,7 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 110,16,408,win.1-ja:n.1,NULL,NULL,NULL,NULL,(Pali)
 110,17,411,sam.1,NULL,NULL,NULL,NULL,(heart)
 110,17,411,ho.2,NULL,NULL,NULL,NULL,(throat)
+110,21,215,dīnā; dattā; ʔawraytā; [nēmōsā ~ nāmōsā],NULL,NULL,NULL,NULL,
 110,21,408,kɔt.1 ma:j.3; ʔu.1-pa.1-te:.2,NULL,NULL,NULL,NULL,(Burm?)
 110,22,408,sa:.3-sa.1-na:.1,NULL,NULL,NULL,NULL,(Pali)
 110,22,824,ton.1 ṛaw.4,NULL,NULL,NULL,NULL,(< Viet>)
@@ -113,6 +114,7 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 210,6,319,сгæллад,NULL,NULL,NULL,NULL,(фабричное)
 210,8,416,kwai.1,NULL,NULL,NULL,NULL,(noun)
 210,8,416,kha:i.5,NULL,NULL,NULL,NULL,(vb)
+212,15,39,"ссуваᴴлъа, хьваᴴй га̄лъа","s̄uwaⁿɬa, x̌ʷaⁿy gāɬa",NULL,NULL,NULL,NULL
 213,12,829,tháp thə:n,NULL,NULL,NULL,NULL,
 213,12,829,pâl,NULL,NULL,NULL,NULL,= mix
 213,4,319,уæлтъыфал,NULL,NULL,NULL,NULL,(верхнее)
@@ -145,6 +147,7 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 230,10,319,хауын,NULL,NULL,NULL,NULL,NULL
 230,10,319,згъæлын,NULL,NULL,NULL,NULL,(листья)
 230,10,319,æвзийын,NULL,NULL,NULL,NULL,(о волосах)
+230,14,172,peʔɲe,NULL,NULL,NULL,NULL,(+ verb)
 230,2,411,sa:i.1,NULL,NULL,NULL,NULL,(person)
 230,2,411,tak.2,NULL,NULL,NULL,NULL,(animal)
 230,21,824,mɔn.5 ṭɨŋ.4 kw.4,NULL,NULL,NULL,NULL,(???)
@@ -168,6 +171,7 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 250,6,824,tə.1,NULL,NULL,NULL,NULL,(< Viet)
 250,8,416,laʔ.7 kau.1,NULL,NULL,NULL,NULL,(noun)
 250,8,416,kuəʔ.7,NULL,NULL,NULL,NULL,(vb)
+252,10,27,хьвеле,x̌ʷele,NULL,NULL,NULL,NULL
 252,14,408,ʔɔt.1; khan.3-ti:.3,NULL,NULL,NULL,NULL,(Pali)
 260,17,840,pə̂:.1 ʔa:.1 mat.7,NULL,NULL,NULL,NULL,(of an eye)
 260,17,840,hɔk.8 δi:ń.1,NULL,NULL,NULL,NULL,
@@ -221,6 +225,7 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 320,3,319,хъæддаг хуы,NULL,NULL,NULL,NULL,(дикий)
 320,3,319,нæл хуы,NULL,NULL,NULL,NULL,(самец, домашняя свинья)
 320,3,319,джир,NULL,NULL,NULL,NULL,(нехолощённый)
+320,8,29,"бесзи, хъвази, бакІарзи, кІатІзи","beszi, qʷazi, bakʼarzi, kʼatʼzi",NULL,NULL,NULL,NULL
 320,8,319,кæрдын,NULL,NULL,NULL,NULL,NULL
 320,8,319,хос кæрдын,NULL,NULL,NULL,NULL,(сено)
 323,1,824,măt.4 rak.5 ɣən.5 lăn tăn,NULL,NULL,NULL,NULL,(no rec)
@@ -313,14 +318,17 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 410,1,172,ihča,NULL,NULL,NULL,NULL,"(/ih-ya/) - Also iye mataka, behind the trees."
 440,1,319,"дур; къæдзæх, къæхæн",NULL,NULL,NULL,NULL,NULL
 440,1,319,айнæг,NULL,NULL,NULL,NULL,(отвесная)
+410,12,30,кумараб (рахъ),kumarab (raq),NULL,NULL,NULL,NULL
 410,17,408,taŋ.6 caj.3; ce:.3-ta.1-na:.1,NULL,NULL,NULL,NULL,(Pali)
 410,17,839,ma.31 mɛ.55,NULL,NULL,NULL,NULL,(???)
 410,18,319,сидын,NULL,NULL,NULL,NULL,NULL
 410,18,319,сайын,NULL,NULL,NULL,NULL,(возбуждать)
+410,19,33,"минарекІва, хxважаини","minarekʼʷa, x̄ʷažaini",NULL,NULL,NULL,NULL
 410,19,319,æлдар; хицау,NULL,NULL,NULL,NULL,NULL
 410,19,319,фысым,NULL,NULL,NULL,NULL,(в отнош. гостя)
 410,20,836,chniəh,NULL,NULL,NULL,NULL,(to win)
 410,20,840,ʔɔ:.1 tɔ:.3,NULL,NULL,NULL,NULL,(to win)
+420,12,30,мекъаб (рахъ),meqʼab (raq),NULL,NULL,NULL,NULL
 420,8,824,hot.5,NULL,NULL,NULL,NULL,
 420,8,824,ŋw.1 kok.4,NULL,NULL,NULL,NULL,(< Viet)
 430,14,237,e popouí kehukehu; e éhuéhu; maéhuéhu,NULL,NULL,NULL,NULL,
@@ -349,6 +357,7 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 460,2,319,мады фыд,NULL,NULL,NULL,NULL,(матери)
 460,5,319,"цъар стигъын",NULL,NULL,NULL,NULL,(овощи, фрукты)
 460,5,319,æхсæдын,NULL,NULL,NULL,NULL,NULL
+462,4,39,гъвакьи макІва,ɣʷaƛ̄ʼi makʼʷa,NULL,NULL,NULL,NULL
 470,19,408,ʔa:.1-nu.1-ja:t.3,NULL,NULL,NULL,NULL,(Pali)
 470,2,319,стыр мад,NULL,NULL,NULL,NULL,NULL
 470,2,319,нана,NULL,NULL,NULL,NULL,(при обращении)
@@ -370,6 +379,7 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 490,17,408,ʔa:.1-ka:n.3,NULL,NULL,NULL,NULL,(Pali)
 490,2,319,фыртычызг,NULL,NULL,NULL,NULL,(дочь сына)
 490,2,319,чызджычызг,NULL,NULL,NULL,NULL,(дочь дочери)
+490,2,33,"вашо яше, яшо вашо","wašo yaš, yašo wašo",NULL,NULL,NULL,NULL
 940,8,422,--,NULL,NULL,NULL,NULL,
 490,9,415,ʔnon.5,NULL,NULL,NULL,NULL,(v.)
 490,9,415,cui.2 śət.7,NULL,NULL,NULL,NULL,(n.)
@@ -394,7 +404,9 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 520,10,319,æмбæлын,NULL,NULL,NULL,NULL,(полагаться)
 520,19,204,vrag; neprijatel ́; nedrug,NULL,NULL,NULL,NULL,
 520,19,408,kha:.6 sɨk.1; sat.1-thu:.3,NULL,NULL,NULL,NULL,(Pali)
+520,2,32,"имуй йоцци (йецци), илулІи йоцци (йецци)","imuy yoc̄i (yec̄i), iluƛi yoc̄i (yec̄i)",NULL,NULL,NULL,NULL
 520,6,319,ботинкæтæ,NULL,NULL,NULL,NULL,(мн.ч.)
+522,2,27,энсол (инсол) ясс,ensol (insol) yas̄,NULL,NULL,NULL,NULL
 522,2,411,pa.3,NULL,NULL,NULL,NULL,(elder)
 522,2,411,ńiaŋ.3,NULL,NULL,NULL,NULL,(younger)
 521,2,835,paj,NULL,NULL,NULL,NULL,(mother's younger sister)
@@ -476,6 +488,7 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 613,10,168,meta'fero ('ston 'omo),NULL,NULL,NULL,NULL,
 613,10,168,meta'fero (stin 'plati),NULL,NULL,NULL,NULL,
 614,10,411,kɨat šo.5 kɨn.2 cau.3 tuŋ.2,NULL,NULL,NULL,NULL,CHECK
+615,10,39,гъвакьи баччва̄лъа,ɣʷaƛ̄ʼi bač̄ʷāɬa,NULL,NULL,NULL,NULL
 620,1,319,"талынг, тар",NULL,NULL,NULL,NULL,NULL
 620,1,319,мæйдар,NULL,NULL,NULL,NULL,(ночная)
 620,1,319,"талынг, тар",NULL,NULL,NULL,NULL,NULL
@@ -574,6 +587,7 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 760,9,319,тæскъ,NULL,NULL,NULL,NULL,(для ношения на спине)
 770,15,319,"лæгъз; æнцон",NULL,NULL,NULL,NULL,NULL
 770,15,319,æнæхъинцъ,NULL,NULL,NULL,NULL,(перенос.)
+770,4,172,(object +) usuka-sa,NULL,NULL,NULL,NULL,"For ex. eʔɲapa usuka-sa, 'person dead'. Also koʔkin usuka-sa, 'lemon dead (rotten lemon)'."
 770,5,319,æхсæр,NULL,NULL,NULL,NULL,(лесной)
 770,5,319,æнгуз,NULL,NULL,NULL,NULL,(грецкий)
 780,5,824,ʔo.1 liw.1,NULL,NULL,NULL,NULL,(< Viet)
@@ -596,6 +610,7 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 810,9,319,"слыг кæнын; ралыг кæнын, ракæнын; ныццæгъдын",NULL,NULL,NULL,NULL,NULL
 810,9,319,сæргæвдын,NULL,NULL,NULL,NULL,(истребить)
 820,15,319,рог,NULL,NULL,NULL,NULL,(по весу)
+820,2,210,[kottär],NULL,NULL,NULL,NULL,Indic loanwords - B[kottär].
 820,5,319,бырц,NULL,NULL,NULL,NULL,(черный)
 820,8,319,кокос-бæлас,NULL,NULL,NULL,NULL,NULL
 820,8,319,кокос-æнгуз,NULL,NULL,NULL,NULL,(плод)
@@ -605,8 +620,11 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 830,3,208,watkuwar,NULL,NULL,NULL,NULL,"? - Rosenkranz nr. 48. See watku- 'jump, leap' 10.430."
 840,3,319,"зулкъ, къуыдыргалм",NULL,NULL,NULL,NULL,NULL
 840,3,319,уаллон,NULL,NULL,NULL,NULL,(дождевой)
+850,10,62,раххан,rax̄an,NULL,NULL,NULL,NULL
 850,3,196,gyvãtė; angìs; žaltỹs,NULL,NULL,NULL,NULL,
 850,5,824,dɨəŋ.2,NULL,NULL,NULL,NULL,(< Viet)
+851,10,26,раххан,rax̄an,NULL,NULL,NULL,NULL
+851,10,62,раххан,rax̄an,NULL,NULL,NULL,NULL
 851,15,319,хъарм,NULL,NULL,NULL,NULL,NULL
 851,15,319,хъæрмуст,NULL,NULL,NULL,NULL,(о воде)
 851,15,319,донсаст,NULL,NULL,NULL,NULL,(о воде)
@@ -656,3 +674,790 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 960,3,319,мæкъулæг,NULL,NULL,NULL,NULL,(серая)
 960,3,319,гæккуыри,NULL,NULL,NULL,NULL,(зеленая)
 960,8,201,riblja trava; riblji otrov,NULL,NULL,NULL,NULL,
+212,1,216,muru-,NULL,NULL,NULL,NULL,Source: EW 954.
+212,1,216,mu-ru-it,NULL,NULL,NULL,NULL,OE Source: EW 954.
+212,1,216,mu-ru-un,NULL,NULL,NULL,NULL,"ME, NE, AchE Source: EW 954."
+213,1,216,su-uk-ma,NULL,NULL,NULL,NULL,ME Source: EW 1105.
+220,1,216,am-ni,NULL,NULL,NULL,NULL,ME Source: EW 55; also proper name: Am(?)-nu.
+270,1,216,šà-ri-ut,NULL,NULL,NULL,NULL,AchE Source: EW 1138.
+280,1,216,du-ráš,NULL,NULL,NULL,NULL,NE Source: EW 367.
+310,1,216,zul,NULL,NULL,NULL,NULL,Source: EW 1315.
+310,1,216,zu-ul,NULL,NULL,NULL,NULL,ME Source: EW 1315.
+320,1,216,kam,NULL,NULL,NULL,NULL,AchE Source: EW 423.
+370,1,216,zu-ul.la-li,NULL,NULL,NULL,NULL,OE Source: EW 1314.
+420,1,216,husa,NULL,NULL,NULL,NULL,"Sources: EW 702. Also OE, ME hu-sa-me 'Hain', orig. 'Stamm, Stange' (EW 703)."
+420,1,216,hu-sa,NULL,NULL,NULL,NULL,"NE, AchE Sources: EW 702. Also OE, ME hu-sa-me 'Hain', orig. 'Stamm, Stange' (EW 703)."
+420,1,216,hu-sa-a,NULL,NULL,NULL,NULL,"ME Sources: EW 702. Also OE, ME hu-sa-me 'Hain', orig. 'Stamm, Stange' (EW 703)."
+430,1,216,hu-h-qat,NULL,NULL,NULL,NULL,"NE Sources: EW 686; also OE proper name: Hu-uk, EW 714; EW 864."
+430,1,216,hu-uk,NULL,NULL,NULL,NULL,"NE Sources: EW 686; also OE proper name: Hu-uk, EW 714; EW 864."
+430,1,216,ma-lu,NULL,NULL,NULL,NULL,"ME, NE, AchE Sources: EW 686; also OE proper name: Hu-uk, EW 714; EW 864."
+440,1,216,har,NULL,NULL,NULL,NULL,AchE Sources: EW 623; also ú-hi-im-ma; ú-h-in-na EW 1202.
+440,1,216,ú-h-um-ma,NULL,NULL,NULL,NULL,NE Sources: EW 623; also ú-hi-im-ma; ú-h-in-na EW 1202.
+520,1,216,na-h-hu-un-te,NULL,NULL,NULL,NULL,ME Sources: EW 979 (*na(n)-hun.te 'Tag-beleuchter'. EW 980.
+520,1,216,na-hi-ti,NULL,NULL,NULL,NULL,OE nahiti; Sources: EW 979 (*na(n)-hun.te 'Tag-beleuchter'. EW 980.
+520,1,216,na-hu-te,NULL,NULL,NULL,NULL,OE Sources: EW 979 (*na(n)-hun.te 'Tag-beleuchter'. EW 980.
+530,1,216,na-ap[-ir(?)],NULL,NULL,NULL,NULL,"OE Source: EW 971, 986-987. See 'Gott' 22.120."
+530,1,216,na-pir,NULL,NULL,NULL,NULL,"NE Source: EW 971, 986-987. See 'Gott' 22.120."
+540,1,216,mar-du(-ú),NULL,NULL,NULL,NULL,NE Source: EW 879.
+550,1,216,luk,NULL,NULL,NULL,NULL,Source: EW 844.
+550,1,216,lu-uk,NULL,NULL,NULL,NULL,"OE, ME Source: EW 844."
+590,1,216,ma-an-za-at,NULL,NULL,NULL,NULL,"OE, ME, NE Source: EW 853."
+610,1,216,hun,NULL,NULL,NULL,NULL,Sources: EW 717; EW 697. See 'Lampe' 07.450.
+610,1,216,hu-un,NULL,NULL,NULL,NULL,"OE, ME Sources: EW 717; EW 697. See 'Lampe' 07.450."
+610,1,216,hu-ni-in,NULL,NULL,NULL,NULL,ME Sources: EW 717; EW 697. See 'Lampe' 07.450.
+630,1,216,šad-da-ku,NULL,NULL,NULL,NULL,NE Source: EW 1119.
+710,1,216,si-me-in,NULL,NULL,NULL,NULL,OE Source: EW 1083. GS interprets it as si + me-n 'avant + arrière'.
+750,1,216,te-ip,NULL,NULL,NULL,NULL,NE Source: EW 311.
+810,1,216,lim,NULL,NULL,NULL,NULL,Source: EW 822.
+810,1,216,li-im,NULL,NULL,NULL,NULL,ME Source: EW 822.
+852,1,216,lim-,NULL,NULL,NULL,NULL,Sources: EW 823; EW 843.
+852,1,216,lum-,NULL,NULL,NULL,NULL,Sources: EW 823; EW 843.
+852,1,216,li-im-ma-áš-pi,NULL,NULL,NULL,NULL,ME Sources: EW 823; EW 843.
+852,1,216,li-im-ma-ak,NULL,NULL,NULL,NULL,ME Sources: EW 823; EW 843.
+852,1,216,lu-mu-un-ra,NULL,NULL,NULL,NULL,ME Sources: EW 823; EW 843.
+210,2,216,bali,NULL,NULL,NULL,NULL,"Sources: EW 131; EW 1044, 1049."
+210,2,216,ba-li-be,NULL,NULL,NULL,NULL,"ME Sources: EW 131; EW 1044, 1049."
+210,2,216,ru-h,NULL,NULL,NULL,NULL,"AchE Sources: EW 131; EW 1044, 1049."
+210,2,216,ru-ú,NULL,NULL,NULL,NULL,"AchE Sources: EW 131; EW 1044, 1049."
+230,2,216,ba-li-na,NULL,NULL,NULL,NULL,AchE Source: EW 132.
+240,2,216,mu-h-ti-ir-ri,NULL,NULL,NULL,NULL,ME Sources: EW 948; EW 962.
+240,2,216,mu-h-ti-be,NULL,NULL,NULL,NULL,NE Sources: EW 948; EW 962.
+240,2,216,mu-tur,NULL,NULL,NULL,NULL,AchE Sources: EW 948; EW 962.
+251,2,216,pu-hu,NULL,NULL,NULL,NULL,AchE Source: EW 230.
+261,2,216,pu-h(u),NULL,NULL,NULL,NULL,AchE Source: EW 229-230.
+270,2,216,pu-hi-e,NULL,NULL,NULL,NULL,OE Sources EW 229; EW 903.
+270,2,216,ma-ul(-la),NULL,NULL,NULL,NULL,AchE Sources EW 229; EW 903.
+270,2,216,ma-ul-li,NULL,NULL,NULL,NULL,AchE Sources EW 229; EW 903.
+280,2,216,zin,NULL,NULL,NULL,NULL,Source: EW 1291.
+280,2,216,zí-in,NULL,NULL,NULL,NULL,AchE Source: EW 1291.
+320,2,216,ir-ti-ri,NULL,NULL,NULL,NULL,AchE Sources: EW 784; EW 1042; EW 1049; EW 961.
+320,2,216,ri-tu,NULL,NULL,NULL,NULL,ME Sources: EW 784; EW 1042; EW 1049; EW 961.
+320,2,216,ri-ti,NULL,NULL,NULL,NULL,NE Sources: EW 784; EW 1042; EW 1049; EW 961.
+320,2,216,ru-tu,NULL,NULL,NULL,NULL,ME Sources: EW 784; EW 1042; EW 1049; EW 961.
+320,2,216,ru-tú,NULL,NULL,NULL,NULL,NE Sources: EW 784; EW 1042; EW 1049; EW 961.
+320,2,216,mu-tar,NULL,NULL,NULL,NULL,AchE Sources: EW 784; EW 1042; EW 1049; EW 961.
+320,2,216,mu-ti,NULL,NULL,NULL,NULL,AchE Sources: EW 784; EW 1042; EW 1049; EW 961.
+350,2,216,atta,NULL,NULL,NULL,NULL,Sources: EW 26; EW 95.
+350,2,216,ad-da,NULL,NULL,NULL,NULL,"OE, NE, AchE Sources: EW 26; EW 95."
+350,2,216,at-ta,NULL,NULL,NULL,NULL,ME Sources: EW 26; EW 95.
+360,2,216,amma,NULL,NULL,NULL,NULL,
+360,2,216,am-ma,NULL,NULL,NULL,NULL,"OE, ME, NE, AchE"
+410,2,216,pu-hu,NULL,NULL,NULL,NULL,"OE form is linear script of 23rd mill. BC, EW 229. Sources: EW 1044; EW 1110-1111."
+410,2,216,ru-hu,NULL,NULL,NULL,NULL,"ME, AchE "
+410,2,216,šak,NULL,NULL,NULL,NULL,
+410,2,216,ša-ak,NULL,NULL,NULL,NULL,"ME, NE"
+410,2,216,šá-ak,NULL,NULL,NULL,NULL,AchE
+410,2,216,šá-ag-gi,NULL,NULL,NULL,NULL,AchE
+420,2,216,pak,NULL,NULL,NULL,NULL,Source: EW 105.
+420,2,216,pa-ak,NULL,NULL,NULL,NULL,ME Source: EW 105.
+430,2,216,puhu,NULL,NULL,NULL,NULL,Source: EW 230.
+430,2,216,pu-hu,NULL,NULL,NULL,NULL,"ME, NE, AchE Source: EW 230."
+440,2,216,i-gi,NULL,NULL,NULL,NULL,ME Source: EW 743.
+450,2,216,šutu,NULL,NULL,NULL,NULL,Source: EW 1186.
+450,2,216,šu-tú,NULL,NULL,NULL,NULL,"ME, NE Source: EW 1186."
+480,2,216,ru-hu.šá-ak-ri,NULL,NULL,NULL,NULL,NE Source: EW 1046.
+510,2,216,eri,NULL,NULL,NULL,NULL,"Sources: cf. i-ri(-ri) in onomastics (EW 401, 774)."
+510,2,216,e-ri-ri,NULL,NULL,NULL,NULL,"OE Sources: cf. i-ri(-ri) in onomastics (EW 401, 774)."
+550,2,216,iza,NULL,NULL,NULL,NULL,Source: EW 797.
+550,2,216,i-za,NULL,NULL,NULL,NULL,OE Source: EW 797.
+631,2,216,iš-ti-ri,NULL,NULL,NULL,NULL,AchE Source: EW 793.
+810,2,216,a-a-ni-ip,NULL,NULL,NULL,NULL,"OE, ME Ex. is plural. Source: EW 15. See 'house' 07.120."
+810,2,216,a-a-ni-ri,NULL,NULL,NULL,NULL,ME Source: EW 15. See 'house' 07.120.
+910,2,216,u,NULL,NULL,NULL,NULL,"OE Also 'mir, mich, mir': ME, NE, AchE ú; ME, NE, AchE un EW 1234. GS reconstructs: u, u-n."
+910,2,216,ù,NULL,NULL,NULL,NULL,"OE, ME Also 'mir, mich, mir': ME, NE, AchE ú; ME, NE, AchE un EW 1234. GS reconstructs: u, u-n."
+920,2,216,ni,NULL,NULL,NULL,NULL,"ME Sources: EW 996; EW 1004. GS reconstructs: ni/ nu, nu-n."
+920,2,216,nu,NULL,NULL,NULL,NULL,"ME, NE, AchE Sources: EW 996; EW 1004. GS reconstructs: ni/ nu, nu-n."
+942,2,216,ni-ka,NULL,NULL,NULL,NULL,OE Sources: EW 1000; EW 1008.
+942,2,216,nu-ku,NULL,NULL,NULL,NULL,"NE, AchE Sources: EW 1000; EW 1008."
+950,2,216,nu-mi,NULL,NULL,NULL,NULL,"AchE Source: EW 1010. GS reconstructs: num, num-n."
+110,3,216,kun,NULL,NULL,NULL,NULL,Source: EW 563; cf. mu-úh-te-ir.ku-un EW 962.
+110,3,216,ku-un,NULL,NULL,NULL,NULL,NE Source: EW 563; cf. mu-úh-te-ir.ku-un EW 962.
+150,3,216,áš,NULL,NULL,NULL,NULL,ME, NE, AchE Sources: EW 84; EW 489.
+150,3,216,ki-ti,NULL,NULL,NULL,NULL,AchE Sources: EW 84; EW 489.
+160,3,216,ahiš,NULL,NULL,NULL,NULL,Sources: EW 34; EW 460.
+160,3,216,a-h-iš,NULL,NULL,NULL,NULL,NE Sources: EW 34; EW 460.
+160,3,216,ki-bat,NULL,NULL,NULL,NULL,AchE Sources: EW 34; EW 460.
+180,3,216,ba-at (?)-ir,NULL,NULL,NULL,NULL,AchE Sources: EW 111; EW 499.
+180,3,216,ku-dúr,NULL,NULL,NULL,NULL,NE Sources: EW 111; EW 499.
+200,3,216,kutu,NULL,NULL,NULL,NULL,Source: EW 549.
+200,3,216,ku-tu,NULL,NULL,NULL,NULL,NE Source: EW 549.
+220,3,216,pu-up-hi-in,NULL,NULL,NULL,NULL,ME Source: EW 241.
+240,3,216,tila,NULL,NULL,NULL,NULL,"Source: EW 329; originally perhaps 'klein, jung' EW 388."
+240,3,216,ti-la,NULL,NULL,NULL,NULL,"AchE Source: EW 329; originally perhaps 'klein, jung' EW 388."
+250,3,216,hidu,NULL,NULL,NULL,NULL,Source: EW 656.
+250,3,216,hi-du,NULL,NULL,NULL,NULL,"ME, AchE Source: EW 656."
+260,3,216,ráp-du,NULL,NULL,NULL,NULL,AchE Source: EW 1028-1029.
+260,3,216,ráp-tam,NULL,NULL,NULL,NULL,AchE Source: EW 1028-1029.
+290,3,216,kari,NULL,NULL,NULL,NULL,"Sources: EW 441; cf. kar-li, kar-ri EW 442, 445."
+290,3,216,qa-ri,NULL,NULL,NULL,NULL,"AchE Sources: EW 441; cf. kar-li, kar-ri EW 442, 445."
+290,3,216,qa-ri-ri,NULL,NULL,NULL,NULL,"AchE Sources: EW 441; cf. kar-li, kar-ri EW 442, 445."
+350,3,216,pap-pi,NULL,NULL,NULL,NULL,NE Source: EW 139.
+360,3,216,kipšu,NULL,NULL,NULL,NULL,"Source: EW 468, 504. Coll. ki-ip-ši-na, ku-ip-šu-na. EW 1121."
+360,3,216,kupši,NULL,NULL,NULL,NULL,"Source: EW 468, 504. Coll. ki-ip-ši-na, ku-ip-šu-na. EW 1121."
+360,3,216,ki-ip-ši,NULL,NULL,NULL,NULL,"AchE Source: EW 468, 504. Coll. ki-ip-ši-na, ku-ip-šu-na. EW 1121."
+360,3,216,ki-ip-šu,NULL,NULL,NULL,NULL,"AchE Source: EW 468, 504. Coll. ki-ip-ši-na, ku-ip-šu-na. EW 1121."
+360,3,216,ku-ip-šu,NULL,NULL,NULL,NULL,"AchE Source: EW 468, 504. Coll. ki-ip-ši-na, ku-ip-šu-na. EW 1121."
+360,3,216,šá-h-ši-ik-me-me,NULL,NULL,NULL,NULL,"NE Source: EW 468, 504. Coll. ki-ip-ši-na, ku-ip-šu-na. EW 1121."
+370,3,216,kumaš,NULL,NULL,NULL,NULL,Source: EW 512.
+370,3,216,ku-maš,NULL,NULL,NULL,NULL,"ME, NE Source: EW 512."
+380,3,216,pitu,NULL,NULL,NULL,NULL,"Source: EW 225, 237."
+380,3,216,pi-tú,NULL,NULL,NULL,NULL,"AchE Source: EW 225, 237."
+380,3,216,pi-tu,NULL,NULL,NULL,NULL,"AchE Source: EW 225, 237."
+410,3,216,lakpilan,NULL,NULL,NULL,NULL,Source: EW 812.
+410,3,216,lak-pi-la-an,NULL,NULL,NULL,NULL,NE Source: EW 812.
+450,3,216,dud(d)u,NULL,NULL,NULL,NULL,Source: EW 345; 379.
+450,3,216,du-du,NULL,NULL,NULL,NULL,AchE Source: EW 345; 379.
+450,3,216,du-ud-du,NULL,NULL,NULL,NULL,AchE Source: EW 345; 379.
+460,3,216,du-ip,NULL,NULL,NULL,NULL,AchE Sources: EW 349; EW 794; EW 1170.
+460,3,216,(i)tranku,NULL,NULL,NULL,NULL,Sources: EW 349; EW 794; EW 1170.
+460,3,216,it-ra-an-ku,NULL,NULL,NULL,NULL,AchE Sources: EW 349; EW 794; EW 1170.
+460,3,216,ši-ši,NULL,NULL,NULL,NULL,Sources: AchE EW 349; EW 794; EW 1170.
+470,3,216,paha,NULL,NULL,NULL,NULL,Source: EW 119.
+470,3,216,pa-ha,NULL,NULL,NULL,NULL,AchE Source: EW 119.
+500,3,216,zamama,NULL,NULL,NULL,NULL,Source: EW 1280.
+500,3,216,za-ma-ma,NULL,NULL,NULL,NULL,AchE Source: EW 1280.
+540,3,216,rum,NULL,NULL,NULL,NULL,Source: EW 1049.
+540,3,216,ru-um,NULL,NULL,NULL,NULL,ME Source: EW 1049.
+560,3,216,hi-pu-ur,NULL,NULL,NULL,NULL,"AchE Source: EW 668, 765."
+560,3,216,ip-pu-ur,NULL,NULL,NULL,NULL,"AchE Source: EW 668, 765."
+570,3,216,šu-da-ba(-h),NULL,NULL,NULL,NULL,AchE Source: EW 1173-1174.
+580,3,216,hu-pi-e,NULL,NULL,NULL,NULL,"vSource: EW 699, later meant 'Heimstatt'."
+581,3,216,ti-ut,NULL,NULL,NULL,NULL,AchE Source: EW 342.
+584,3,216,ba-zi-zi,NULL,NULL,NULL,NULL,OE Sources: EW 177; 127.
+584,3,216,ba-iz-zí-zí,NULL,NULL,NULL,NULL,NE Sources: EW 177; 127.
+592,3,216,qa-iš-ba-h,NULL,NULL,NULL,NULL,AchE Source: EW 418.
+610,3,216,hal-ki-ni,NULL,NULL,NULL,NULL,AchE Means 'Welpen' (EW 599).
+710,3,216,duma,NULL,NULL,NULL,NULL,Source: EW 356.
+710,3,216,du-ma,NULL,NULL,NULL,NULL,AchE Source: EW 356.
+780,3,216,zibbaru,NULL,NULL,NULL,NULL,Source: EW 1288.
+780,3,216,zib-ba-ru,NULL,NULL,NULL,NULL,AchE Source: EW 1288.
+815,3,216,lahi,NULL,NULL,NULL,NULL,Source: EW 809.
+815,3,216,la-hi,NULL,NULL,NULL,NULL,(?) NE Source: EW 809.
+840,3,216,za-na-bu-na,NULL,NULL,NULL,NULL,ME Source: EW 1282.
+850,3,216,šin,NULL,NULL,NULL,NULL,Source EW 1158 (plural form); EW 1165.
+850,3,216,ši-in-pi,NULL,NULL,NULL,NULL,OE Source EW 1158 (plural form); EW 1165.
+850,3,216,šim-bi,NULL,NULL,NULL,NULL,OE Source EW 1158 (plural form); EW 1165.
+120,4,216,ha-te-en,NULL,NULL,NULL,NULL,NE Source: EW 646.
+130,4,216,i-iš-ti,NULL,NULL,NULL,NULL,NE Source: EW 746.
+140,4,216,*ku-na,NULL,NULL,NULL,NULL,Sources: EW 513; EW 1147.
+140,4,216,še-e,NULL,NULL,NULL,NULL,NE Sources: EW 513; EW 1147.
+150,4,216,san,NULL,NULL,NULL,NULL,Source: EW 1053.
+150,4,216,sa-an,NULL,NULL,NULL,NULL,NE Source: EW 1053.
+170,4,216,kassu,NULL,NULL,NULL,NULL,Sources: EW 409; EW 449. OE proper name Ga-az-zu EW 411.
+170,4,216,qa-as-su,NULL,NULL,NULL,NULL,"ME, NE Sources: EW 409; EW 449. OE proper name Ga-az-zu EW 411."
+170,4,216,kás-su,NULL,NULL,NULL,NULL,NE Sources: EW 409; EW 449. OE proper name Ga-az-zu EW 411.
+200,4,216,ukku,NULL,NULL,NULL,NULL,Source: EW 1209-1210.
+200,4,216,uk-ku,NULL,NULL,NULL,NULL,ME Source: EW 1209-1210.
+200,4,216,uk-gi,NULL,NULL,NULL,NULL,"NE, AchE uk-gi = ukku.e; Source: EW 1209-1210."
+200,4,216,ukku.e,NULL,NULL,NULL,NULL,"NE, AchE uk-gi = ukku.e; Source: EW 1209-1210."
+210,4,216,el(t),NULL,NULL,NULL,NULL,Sources: EW 396; 393.
+210,4,216,el-ti,NULL,NULL,NULL,NULL,ME Sources: EW 396; 393.
+210,4,216,el,NULL,NULL,NULL,NULL,"NE, AchE Sources: EW 396; 393."
+220,4,216,siri,NULL,NULL,NULL,NULL,Source: EW 1089.
+220,4,216,si-ri,NULL,NULL,NULL,NULL,"NE, AchE Source: EW 1089."
+230,4,216,ši-um-me,NULL,NULL,NULL,NULL,AchE ši-um-me = šim.e; Source: EW 1171.
+230,4,216,šim.e,NULL,NULL,NULL,NULL,AchE ši-um-me = šim.e; Source: EW 1171.
+260,4,216,tit(-me),NULL,NULL,NULL,NULL,Source: EW 342.
+260,4,216,ti-ut(-me),NULL,NULL,NULL,NULL,AchE Source: EW 342.
+270,4,216,sihha[n],NULL,NULL,NULL,NULL,"Source: EW 1070-1071. Also OE Si-h-ha-an, proper name."
+270,4,216,si-h-ha,NULL,NULL,NULL,NULL,"ME Source: EW 1070-1071. Also OE Si-h-ha-an, proper name."
+280,4,216,ti-pi,NULL,NULL,NULL,NULL,(?) NE Source: EW 333.
+330,4,216,kir-,NULL,NULL,NULL,NULL,"Source: EW 469, 529."
+330,4,216,kur-,NULL,NULL,NULL,NULL,"Source: EW 469, 529."
+330,4,216,ki-ir-pi,NULL,NULL,NULL,NULL,"ME Source: EW 469, 529."
+330,4,216,kur-pi,NULL,NULL,NULL,NULL,"AchE Source: EW 469, 529."
+344,4,216,pur,NULL,NULL,NULL,NULL,Source: EW 241.
+344,4,216,pu-ur,NULL,NULL,NULL,NULL,NE Source: EW 241.
+370,4,216,pat,NULL,NULL,NULL,NULL,Source: EW 111.
+370,4,216,ba-at,NULL,NULL,NULL,NULL,"ME, NE Source: EW 111."
+370,4,216,pa-at,NULL,NULL,NULL,NULL,ME Source: EW 111.
+393,4,216,putmaš,NULL,NULL,NULL,NULL,Source: EW 243.
+393,4,216,pu-ut-ma-áš,NULL,NULL,NULL,NULL,NE Source: EW 243.
+440,4,216,buni,NULL,NULL,NULL,NULL,Source: EW 234.
+440,4,216,bu-ni,NULL,NULL,NULL,NULL,ME Source: EW 234.
+450,4,216,ru-el-pa-mín,NULL,NULL,NULL,NULL,NE Source: EW 1043.
+490,4,216,ruku,NULL,NULL,NULL,NULL,Source: EW 1047.
+490,4,216,ru-ku,NULL,NULL,NULL,NULL,NE Source: EW 1047.
+720,4,216,kuši-,NULL,NULL,NULL,NULL,Source: EW 541; cf. 'bauen'.
+720,4,216,ku-ši-in,NULL,NULL,NULL,NULL,ME Source: EW 541; cf. 'bauen'.
+720,4,216,ku-ši-iš,NULL,NULL,NULL,NULL,AchE Source: EW 541; cf. 'bauen'.
+732,4,216,du-,NULL,NULL,NULL,NULL,"Sources: EW 346, 350; EW 351."
+732,4,216,du-h,NULL,NULL,NULL,NULL,"OE, ME, NE Sources: EW 346, 350; EW 351."
+732,4,216,du-iš,NULL,NULL,NULL,NULL,"NE, AchE Sources: EW 346, 350; EW 351."
+732,4,216,duk,NULL,NULL,NULL,NULL,"OE Sources: EW 346, 350; EW 351."
+740,4,216,ta-ak-me,NULL,NULL,NULL,NULL,"OE, ME Sources: EW 250, 249. Also kata-: AchE qa-da-qa, qa-taš EW 414, 453."
+740,4,216,da-ak-ki-me,NULL,NULL,NULL,NULL,"ME, NE Sources: EW 250, 249. Also kata-: AchE qa-da-qa, qa-taš EW 414, 453."
+740,4,216,ta-ak-ki-me,NULL,NULL,NULL,NULL,"ME Sources: EW 250, 249. Also kata-: AchE qa-da-qa, qa-taš EW 414, 453."
+750,4,216,halpi-,NULL,NULL,NULL,NULL,Sources: EW 605; EW 808.
+750,4,216,hal-pi-ik,NULL,NULL,NULL,NULL,"NE, AchE Sources: EW 605; EW 808."
+750,4,216,hal-pi-ip,NULL,NULL,NULL,NULL,AchE Sources: EW 605; EW 808.
+750,4,216,la-ha-an,NULL,NULL,NULL,NULL,NE Sources: EW 605; EW 808.
+810,4,216,ib-ba(?)-ak,NULL,NULL,NULL,NULL,AchE Sources: EW 738; EW 1162; EW 1156-1157.
+810,4,216,šilha-,NULL,NULL,NULL,NULL,Sources: EW 738; EW 1162; EW 1156-1157.
+810,4,216,šil-ha-h,NULL,NULL,NULL,NULL,NE Sources: EW 738; EW 1162; EW 1156-1157.
+810,4,216,ši-il-ha-ak,NULL,NULL,NULL,NULL,OE Sources: EW 738; EW 1162; EW 1156-1157.
+810,4,216,ši-il(?)-me,NULL,NULL,NULL,NULL,OE Sources: EW 738; EW 1162; EW 1156-1157.
+820,4,216,iš-tuk-ra,NULL,NULL,NULL,NULL,AchE Source: EW 793.
+852,4,216,ha-pi,NULL,NULL,NULL,NULL,AchE Source: EW 619.
+860,4,216,si-it-ti,NULL,NULL,NULL,NULL,ME Source: EW 1079.
+860,4,216,si-it-me,NULL,NULL,NULL,NULL,ME Source: EW 1079.
+880,4,216,qa(?)-pu(?)-ur,NULL,NULL,NULL,NULL,AchE Source: EW 437.
+120,5,216,ab-be-be,NULL,NULL,NULL,NULL,AchE Source: EW 22.
+230,5,216,kura-,NULL,NULL,NULL,NULL,Source: EW 518.
+230,5,216,ku-ra-at,NULL,NULL,NULL,NULL,ME Source: EW 518.
+230,5,216,ku-ra-ak,NULL,NULL,NULL,NULL,"OE, ME Source: EW 518."
+340,5,216,piti,NULL,NULL,NULL,NULL,Source: EW 224.
+340,5,216,pi-ti,NULL,NULL,NULL,NULL,NE Source: EW 224.
+370,5,216,ki-mal-tam,NULL,NULL,NULL,NULL,NE Source: EW 475.
+380,5,216,du-šu-um-ya,NULL,NULL,NULL,NULL,ME Source: EW 377.
+380,5,216,du-ši-um,NULL,NULL,NULL,NULL,NE Source: EW 377.
+380,5,216,du-ši-um-ir-ra,NULL,NULL,NULL,NULL,NE Source: EW 377.
+510,5,216,ši-ip-ru-um,NULL,NULL,NULL,NULL,ME Source: EW 1159.
+510,5,216,ši-ip-ri-um,NULL,NULL,NULL,NULL,AchE Source: EW 1159.
+550,5,216,e-ul,NULL,NULL,NULL,NULL,NE Sources: EW 403; EW 1223.
+550,5,216,u-ma-ma,NULL,NULL,NULL,NULL,AchE Sources: EW 403; EW 1223.
+710,5,216,hurpi,NULL,NULL,NULL,NULL,Sources: EW 723; EW 1288.
+710,5,216,hu-ur-pi,NULL,NULL,NULL,NULL,ME Sources: EW 723; EW 1288.
+710,5,216,zib-ba,NULL,NULL,NULL,NULL,AchE Sources: EW 723; EW 1288.
+750,5,216,pi-ut-(-ti),NULL,NULL,NULL,NULL,AchE Source: EW 227.
+760,5,216,šá-ap-pan-na,NULL,NULL,NULL,NULL,"AchE Source: EW 1115, 1132."
+760,5,216,šap(-pi),NULL,NULL,NULL,NULL,"AchE Source: EW 1115, 1132."
+790,5,216,appi,NULL,NULL,NULL,NULL,Source: EW 73.
+790,5,216,ap-pi,NULL,NULL,NULL,NULL,AchE Source: EW 73.
+791,5,216,abba,NULL,NULL,NULL,NULL,Source: EW 18.
+791,5,216,ab-ba,NULL,NULL,NULL,NULL,OE Source: EW 18.
+810,5,216,anzi,NULL,NULL,NULL,NULL,Source: EW 68.
+810,5,216,an-zí,NULL,NULL,NULL,NULL,AchE Source: EW 68.
+840,5,216,hal (?)-la (?)-ki,NULL,NULL,NULL,NULL,AchE Source: EW 600.
+860,5,216,sir-na,NULL,NULL,NULL,NULL,AchE Source: EW 1091.
+880,5,216,pa,NULL,NULL,NULL,NULL,"NE, AchE Source: EW 104."
+940,5,216,an-na-in,NULL,NULL,NULL,NULL,AchE Source: EW 60.
+130,6,216,šá-h-ši-ik-ra,NULL,NULL,NULL,NULL,NE Source: EW 1121.
+210,6,216,tam-ši-um,NULL,NULL,NULL,NULL,NE Sources: EW 280; EW 750.
+210,6,216,ik-tin,NULL,NULL,NULL,NULL,AchE Sources: EW 280; EW 750.
+220,6,216,tuk-ki-me,NULL,NULL,NULL,NULL,"NE Sources: Ew 353, 354; EW 754."
+220,6,216,tuk-na,NULL,NULL,NULL,NULL,"NE Sources: Ew 353, 354; EW 754."
+220,6,216,im-na,NULL,NULL,NULL,NULL,"NE Sources: Ew 353, 354; EW 754."
+230,6,216,zali,NULL,NULL,NULL,NULL,Source: EW 1279.
+230,6,216,za-li,NULL,NULL,NULL,NULL,AchE Source: EW 1279.
+240,6,216,qa-li-tam,NULL,NULL,NULL,NULL,NE Source: EW 421.
+270,6,216,da-bar-ri-um,NULL,NULL,NULL,NULL,NE Source EW 260. Cf. Akkadian tabarru 'Wolle'.
+290,6,216,šá-ir-šá-at-ti,NULL,NULL,NULL,NULL,NE Means 'Büffelfell' EW 1123.
+330,6,216,kurza-,NULL,NULL,NULL,NULL,Source: EW 537.
+330,6,216,kur-za-iš,NULL,NULL,NULL,NULL,NE Source: EW 537.
+330,6,216,kur-za-qa,NULL,NULL,NULL,NULL,NE Source: EW 537.
+410,6,216,uk-ku-(h-)la-ki,NULL,NULL,NULL,NULL,NE Source: EW 1211.
+430,6,216,hu-el-ip,NULL,NULL,NULL,NULL,NE Source: EW 684.
+510,6,216,ha-šá-ir,NULL,NULL,NULL,NULL,NE Source: EW 641.
+550,6,216,uk-ku.ba-ti,NULL,NULL,NULL,NULL,NE Source: EW 1211. See 'Kopf' 04.200.
+580,6,216,kur-ip,NULL,NULL,NULL,NULL,"NE Source: EW 523, means 'Handschuh'."
+710,6,216,qa-ar-ra-h,NULL,NULL,NULL,NULL,ME Source: EW 409.
+710,6,216,qa-ar-ra-ha,NULL,NULL,NULL,NULL,ME Source: EW 409.
+730,6,216,šà-mi,NULL,NULL,NULL,NULL,"NE Sources: EW 623, 1130; EW 1083."
+730,6,216,si-mi-it-tum,NULL,NULL,NULL,NULL,"ME Sources: EW 623, 1130; EW 1083."
+910,6,216,ah-hu-um,NULL,NULL,NULL,NULL,ME Source: EW 33.
+910,6,216,a-h-hu-im,NULL,NULL,NULL,NULL,NE Source: EW 33.
+940,6,216,hasu,NULL,NULL,NULL,NULL,Sources: EW 640; EW 923.
+940,6,216,ha-su-ip,NULL,NULL,NULL,NULL,"NE, AchE Sources: EW 640; EW 923."
+940,6,216,mi-ir-ri-h,NULL,NULL,NULL,NULL,ME Sources: EW 640; EW 923.
+960,6,216,šu-(ú-)ha,NULL,NULL,NULL,NULL,"ME Source: EW 1175, 1176."
+960,6,216,šu-ha.zi-la,NULL,NULL,NULL,NULL,"OE Source: EW 1175, 1176."
+120,7,216,a-a-in,NULL,NULL,NULL,NULL,"NE Sources: EW 13, 34, 573; EW 14. See 'relatives, kinsmen' 02.810."
+120,7,216,a-hi-in,NULL,NULL,NULL,NULL,"NE Sources: EW 13, 34, 573; EW 14. See 'relatives, kinsmen' 02.810."
+120,7,216,ha-a-in,NULL,NULL,NULL,NULL,"NE Sources: EW 13, 34, 573; EW 14. See 'relatives, kinsmen' 02.810."
+120,7,216,a-i-in,NULL,NULL,NULL,NULL,"ME Sources: EW 13, 34, 573; EW 14. See 'relatives, kinsmen' 02.810."
+120,7,216,a-a-ni,NULL,NULL,NULL,NULL,"ME Sources: EW 13, 34, 573; EW 14. See 'relatives, kinsmen' 02.810."
+150,7,216,tu-uš,NULL,NULL,NULL,NULL,ME Source: EW 387; EW 1217.
+150,7,216,ulhi,NULL,NULL,NULL,NULL,Source: EW 387; EW 1217.
+150,7,216,ul-hi,NULL,NULL,NULL,NULL,NE Source: EW 387; EW 1217.
+150,7,216,ul-hi,NULL,NULL,NULL,NULL,AchE Source: EW 387; EW 1217.
+220,7,216,hu-el,NULL,NULL,NULL,NULL,"ME, NE, AchE Sources: EW 683; EW 657; EW 393, 391; EW 403; EW 1201; EW 840. Also s/zip: ME, NE si-ip, EW 1075; AchE zí-ip, EW 1291; NE zip, EW 1302."
+220,7,216,hi-el,NULL,NULL,NULL,NULL,"ME, NE Sources: EW 683; EW 657; EW 393, 391; EW 403; EW 1201; EW 840. Also s/zip: ME, NE si-ip, EW 1075; AchE zí-ip, EW 1291; NE zip, EW 1302."
+220,7,216,el,NULL,NULL,NULL,NULL,"ME Sources: EW 683; EW 657; EW 393, 391; EW 403; EW 1201; EW 840. Also s/zip: ME, NE si-ip, EW 1075; AchE zí-ip, EW 1291; NE zip, EW 1302."
+220,7,216,e-el,NULL,NULL,NULL,NULL,"AchE Sources: EW 683; EW 657; EW 393, 391; EW 403; EW 1201; EW 840. Also s/zip: ME, NE si-ip, EW 1075; AchE zí-ip, EW 1291; NE zip, EW 1302."
+220,7,216,e-ul,NULL,NULL,NULL,NULL,"AchE Sources: EW 683; EW 657; EW 393, 391; EW 403; EW 1201; EW 840. Also s/zip: ME, NE si-ip, EW 1075; AchE zí-ip, EW 1291; NE zip, EW 1302."
+220,7,216,ú-el,NULL,NULL,NULL,NULL,"NE Sources: EW 683; EW 657; EW 393, 391; EW 403; EW 1201; EW 840. Also s/zip: ME, NE si-ip, EW 1075; AchE zí-ip, EW 1291; NE zip, EW 1302."
+220,7,216,lu-gu-ú,NULL,NULL,NULL,NULL,"ME Sources: EW 683; EW 657; EW 393, 391; EW 403; EW 1201; EW 840. Also s/zip: ME, NE si-ip, EW 1075; AchE zí-ip, EW 1291; NE zip, EW 1302."
+221,7,216,hal-ti,NULL,NULL,NULL,NULL,"ME Source: EW 610, 576."
+221,7,216,ha-al-te-te,NULL,NULL,NULL,NULL,"ME Source: EW 610, 576."
+250,7,216,ku-un-nir,NULL,NULL,NULL,NULL,NE Source: EW 564.
+270,7,216,te-ip-ta,NULL,NULL,NULL,NULL,ME Sources: EW 312; EW 688.
+270,7,216,hu-hu-un,NULL,NULL,NULL,NULL,ME Sources: EW 312; EW 688.
+320,7,216,ku-ra-am-ma,NULL,NULL,NULL,NULL,ME Source: EW 518-519.
+320,7,216,ku-ra-na,NULL,NULL,NULL,NULL,ME Source: EW 518-519.
+422,7,216,gi-ut-máš-te,NULL,NULL,NULL,NULL,NE Source: EW 494.
+422,7,216,gi-ut-máš-ti,NULL,NULL,NULL,NULL,NE Source: EW 494.
+450,7,216,hun,NULL,NULL,NULL,NULL,Sources: EW 697; EW 720. See 'light' 01.610.
+450,7,216,hu-ni-ir,NULL,NULL,NULL,NULL,ME Sources: EW 697; EW 720. See 'light' 01.610.
+450,7,216,hu-un-pu,NULL,NULL,NULL,NULL,ME Sources: EW 697; EW 720. See 'light' 01.610.
+510,7,216,a-ri,NULL,NULL,NULL,NULL,Sources: EW 83; EW 553; EW 915.
+510,7,216,ku-uk,NULL,NULL,NULL,NULL,"ME, NE Sources: EW 83; EW 553; EW 915."
+510,7,216,me-nu-me,NULL,NULL,NULL,NULL,NE Sources: EW 83; EW 553; EW 915.
+550,7,216,te-ti(-in),NULL,NULL,NULL,NULL,ME Source: EW 320.
+560,7,216,šali,NULL,NULL,NULL,NULL,Source: EW 1127.
+560,7,216,ša-li,NULL,NULL,NULL,NULL,"OE, ME Source: EW 1127."
+570,7,216,šil-tur,NULL,NULL,NULL,NULL,NE Source: EW 1165.
+620,7,216,e-ri-en-tum,NULL,NULL,NULL,NULL,"ME, NE Sources: EW 399-400; EW 1246; EW 724; EW 1240."
+620,7,216,ú-ri-en-tu,NULL,NULL,NULL,NULL,ME Sources: EW 399-400; EW 1246; EW 724; EW 1240.
+620,7,216,hu-us-si-ip,NULL,NULL,NULL,NULL,ME Sources: EW 399-400; EW 1246; EW 724; EW 1240.
+620,7,216,ú-pa-at,NULL,NULL,NULL,NULL,ME Sources: EW 399-400; EW 1246; EW 724; EW 1240.
+120,8,216,hal-la,NULL,NULL,NULL,NULL,NE Source: EW 600.
+130,8,216,ya-ad-da,NULL,NULL,NULL,NULL,NE Source: EW 1261.
+210,8,216,āpi-,NULL,NULL,NULL,NULL,Source: EW 15.
+210,8,216,a-a-pi-h,NULL,NULL,NULL,NULL,OE Source: EW 15.
+240,8,216,atti,NULL,NULL,NULL,NULL,Sources: EW 99; EW 1190.
+240,8,216,at-ti,NULL,NULL,NULL,NULL,AchE Sources: EW 99; EW 1190.
+240,8,216,šullu,NULL,NULL,NULL,NULL,Sources: EW 99; EW 1190.
+240,8,216,šu-ul-lu,NULL,NULL,NULL,NULL,AchE Sources: EW 99; EW 1190.
+250,8,216,at-ti,NULL,NULL,NULL,NULL,AchE Source: EW 99.
+311,8,216,par,NULL,NULL,NULL,NULL,Source: EW 109.
+311,8,216,pa-ar,NULL,NULL,NULL,NULL,ME Source: EW 109.
+410,8,216,hal-te-me,NULL,NULL,NULL,NULL,"NE Respectively: 'Boden-Segen' EW 610; 'Getreidestand, Kornernte' EW 1178."
+410,8,216,šu-lu-um,NULL,NULL,NULL,NULL,"AchE Respectively: 'Boden-Segen' EW 610; 'Getreidestand, Kornernte' EW 1178."
+420,8,216,tarmi,NULL,NULL,NULL,NULL,Sources: EW 292; EW 955.
+420,8,216,tarmu,NULL,NULL,NULL,NULL,Sources: EW 292; EW 955.
+420,8,216,tar-mi,NULL,NULL,NULL,NULL,AchE Sources: EW 292; EW 955.
+420,8,216,tar-mu,NULL,NULL,NULL,NULL,AchE Sources: EW 292; EW 955.
+420,8,216,mu-ša-al(?)-lu,NULL,NULL,NULL,NULL,ME Sources: EW 292; EW 955.
+430,8,216,ši-man,NULL,NULL,NULL,NULL,"ME, AchE Source: EW 1165."
+440,8,216,kur-ru-sa(-am/-an),NULL,NULL,NULL,NULL,"< Median *xvarða- and kur-ru-šá < Old Persian *xvarša-, originally 'Speise', EW 533. EW 1004."
+440,8,216,nu,NULL,NULL,NULL,NULL,"ME, NE Sources: EW 533. EW 1004."
+570,8,216,mi-ik-ki-ma,NULL,NULL,NULL,NULL,ME Source: EW 921.
+760,8,216,in-na-in,NULL,NULL,NULL,NULL,"AchE Sources: EW 758; EW 963; EW 921, 941."
+760,8,216,mu-ul-li,NULL,NULL,NULL,NULL,"OE Sources: EW 758; EW 963; EW 921, 941."
+760,8,216,mi-el,NULL,NULL,NULL,NULL,"NE Sources: EW 758; EW 963; EW 921, 941."
+760,8,216,mi-ul,NULL,NULL,NULL,NULL,"AchE Sources: EW 758; EW 963; EW 921, 941."
+110,9,216,hut(t)a-,NULL,NULL,NULL,NULL,"Sources: EW 708; EW 705; EW 705; EW 729, 732."
+110,9,216,hu-ud-da,NULL,NULL,NULL,NULL,"AchE Sources: EW 708; EW 705; EW 705; EW 729, 732."
+110,9,216,hu-taš,NULL,NULL,NULL,NULL,"OE, AchE Sources: EW 708; EW 705; EW 705; EW 729, 732."
+110,9,216,hu-tan(?)-ki,NULL,NULL,NULL,NULL,"OE Sources: EW 708; EW 705; EW 705; EW 729, 732."
+110,9,216,hu-ut-táh,NULL,NULL,NULL,NULL,"ME, NE Sources: EW 708; EW 705; EW 705; EW 729, 732."
+110,9,216,hu-ut-te-eš,NULL,NULL,NULL,NULL,"OE Sources: EW 708; EW 705; EW 705; EW 729, 732."
+160,9,216,rabba-,NULL,NULL,NULL,NULL,Sources: EW 1018; EW 1022.
+160,9,216,ra-ab-ba-h,NULL,NULL,NULL,NULL,ME Sources: EW 1018; EW 1022.
+160,9,216,ráb-ba-qa,NULL,NULL,NULL,NULL,AchE Sources: EW 1018; EW 1022.
+190,9,216,šá-am,NULL,NULL,NULL,NULL,"NE, AchE Source: EW 1113."
+210,9,216,halpi-,NULL,NULL,NULL,NULL,"Source: EW 607. Cf. 'die, dead' 04.750."
+210,9,216,halpu-,NULL,NULL,NULL,NULL,"Source: EW 607. Cf. 'die, dead' 04.750."
+210,9,216,hal-pu-h,NULL,NULL,NULL,NULL,"ME, NE Source: EW 607. Cf. 'die, dead' 04.750."
+210,9,216,hal-pi-ya,NULL,NULL,NULL,NULL,"AchE Source: EW 607. Cf. 'die, dead' 04.750."
+220,9,216,máš-áš,NULL,NULL,NULL,NULL,NE Sources: EW 893; EW 1122.
+220,9,216,šahši-,NULL,NULL,NULL,NULL,Sources: EW 893; EW 1122.
+220,9,216,šá-h-ši-qa,NULL,NULL,NULL,NULL,NE Sources: EW 893; EW 1122.
+250,9,216,(h)ipiš,NULL,NULL,NULL,NULL,"Source: EW 764, 668."
+250,9,216,i-pi-iš,NULL,NULL,NULL,NULL,"NE Source: EW 764, 668."
+250,9,216,hi-pi-is,NULL,NULL,NULL,NULL,"AchE Source: EW 764, 668."
+330,9,216,sa-,NULL,NULL,NULL,NULL,Source: EW 1058.
+330,9,216,sa-h,NULL,NULL,NULL,NULL,"ME, NE Source: EW 1058."
+430,9,216,be-la-ti-ra,NULL,NULL,NULL,NULL,NE Sources: EW 184; EW 486.
+430,9,216,kiš-ki-ip-man-na,NULL,NULL,NULL,NULL,NE Sources: EW 184; EW 486.
+440,9,216,kuši-,NULL,NULL,NULL,NULL,Sources: EW 537-539.
+440,9,216,ku-ši-ha,NULL,NULL,NULL,NULL,ME Sources: EW 537-539.
+440,9,216,ku-si-iš,NULL,NULL,NULL,NULL,ME Sources: EW 537-539.
+440,9,216,ku-ši-ik,NULL,NULL,NULL,NULL,ME Sources: EW 537-539.
+460,9,216,du-li-ib-be,NULL,NULL,NULL,NULL,AchE Means 'Bohrer'; source: EW 356.
+480,9,216,el-pi,NULL,NULL,NULL,NULL,AchE Source: EW 395.
+490,9,216,sa-el,NULL,NULL,NULL,NULL,NE Source: EW 1057.
+500,9,216,sikti,NULL,NULL,NULL,NULL,Sources: EW 1072; EW 1298.
+500,9,216,zikti,NULL,NULL,NULL,NULL,Sources: EW 1072; EW 1298.
+500,9,216,si-ik-ti,NULL,NULL,NULL,NULL,ME Sources: EW 1072; EW 1298.
+500,9,216,zik-ti-ip,NULL,NULL,NULL,NULL,NE Sources: EW 1072; EW 1298.
+600,9,216,kás-zí-ra,NULL,NULL,NULL,NULL,NE Source: EW 450.
+610,9,216,kassa-,NULL,NULL,NULL,NULL,Sources: EW 409; EW 411.
+610,9,216,kassi-,NULL,NULL,NULL,NULL,Sources: EW 409; EW 411.
+610,9,216,kazza-,NULL,NULL,NULL,NULL,Sources: EW 409; EW 411.
+610,9,216,kazzi-,NULL,NULL,NULL,NULL,Sources: EW 409; EW 411.
+610,9,216,qa-as-si-it-ri,NULL,NULL,NULL,NULL,ME Sources: EW 409; EW 411.
+610,9,216,qa-az-za-ak,NULL,NULL,NULL,NULL,ME Sources: EW 409; EW 411.
+630,9,216,šari-,NULL,NULL,NULL,NULL,Source: EW 1137.
+630,9,216,ša-ri-h,NULL,NULL,NULL,NULL,ME Source: EW 1137.
+640,9,216,la-an-si-ti-e,NULL,NULL,NULL,NULL,"ME Sources: EW 803; EW 501, 805."
+640,9,216,la-áš-da,NULL,NULL,NULL,NULL,"AchE Sources: EW 803; EW 501, 805."
+650,9,216,lani,NULL,NULL,NULL,NULL,"Source: EW 802, 815."
+650,9,216,la(?)-a-ni,NULL,NULL,NULL,NULL,"OE Source: EW 802, 815."
+660,9,216,[e-ri-ni],NULL,NULL,NULL,NULL,"NE; < Akkadian erû, source EW 401. EW 1058; EW 1071. Also zubar: OE, ME za-bar; NE za-bar-ru; ME zu-ba-ar, zu-bar; EW 1273; EW 1310. Also used in 'arrow' 20.250."
+660,9,216,sa-h,NULL,NULL,NULL,NULL,"NE; source EW 401. EW 1058; EW 1071. Also zubar: OE, ME za-bar; NE za-bar-ru; ME zu-ba-ar, zu-bar; EW 1273; EW 1310. Also used in 'arrow' 20.250."
+660,9,216,sa-hi-i,NULL,NULL,NULL,NULL,"OE, ME; source EW 401. EW 1058; EW 1071. Also zubar: OE, ME za-bar; NE za-bar-ru; ME zu-ba-ar, zu-bar; EW 1273; EW 1310. Also used in 'arrow' 20.250."
+660,9,216,si-hi-kak,NULL,NULL,NULL,NULL,"NE; source EW 401. EW 1058; EW 1071. Also zubar: OE, ME za-bar; NE za-bar-ru; ME zu-ba-ar, zu-bar; EW 1273; EW 1310. Also used in 'arrow' 20.250."
+670,9,216,har-gi,NULL,NULL,NULL,NULL,"NE Source: EW 627, 630."
+670,9,216,har-ki-an-na,NULL,NULL,NULL,NULL,"NE Source: EW 627, 630."
+680,9,216,ri-kur,NULL,NULL,NULL,NULL,NE Source: EW 1038.
+690,9,216,[a-na-ku],NULL,NULL,NULL,NULL,"< Akkadian anāku, EW 57. Also NE an-nu-kur-ir-na, EW 61."
+730,9,216,halat,NULL,NULL,NULL,NULL,Source: EW 594.
+730,9,216,ha-la-at,NULL,NULL,NULL,NULL,"OE, AchE Source: EW 594."
+760,9,216,še-ri-it,NULL,NULL,NULL,NULL,ME Source: EW 1153.
+771,9,216,za-ba-ar,NULL,NULL,NULL,NULL,ME Source: EW 1272.
+890,9,216,karsu-,NULL,NULL,NULL,NULL,Source: EW 445-446.
+890,9,216,kar-su-iš-da,NULL,NULL,NULL,NULL,AchE Source: EW 445-446.
+890,9,216,kar-su-qa,NULL,NULL,NULL,NULL,AchE Source: EW 445-446.
+252,10,216,mari-),NULL,NULL,NULL,NULL,Source: EW 881.
+252,10,216,ma-ri-h,NULL,NULL,NULL,NULL,NE Source: EW 881.
+252,10,216,ma-ri-en-t(a),NULL,NULL,NULL,NULL,ME Source: EW 881.
+450,10,216,pari-,NULL,NULL,NULL,NULL,"Cf. ME pa-ri-h 'ich ging, zog, verfolgte', source: EW 148. Source: EW 1258."
+450,10,216,uzzu-,NULL,NULL,NULL,NULL,"Cf. ME pa-ri-h 'ich ging, zog, verfolgte', source: EW 148. Source: EW 1258."
+450,10,216,uz-zu-un,NULL,NULL,NULL,NULL,"ME Cf. ME pa-ri-h 'ich ging, zog, verfolgte', source: EW 148. Source: EW 1258."
+450,10,216,uz-zu-un-ta,NULL,NULL,NULL,NULL,"ME Cf. ME pa-ri-h 'ich ging, zog, verfolgte', source: EW 148. Source: EW 1258."
+480,10,216,izzi-,NULL,NULL,NULL,NULL,"Source: EW 798; cf. uzzu- 'gehen'. Also NE, AchE ši-in-nu-qa; OE ši-ni-ra; ši(?)-ni-ki-en; ME ši-ni-ik EW 1168."
+480,10,216,iz-zí-iš,NULL,NULL,NULL,NULL,"NE, AchE Source: EW 798; cf. uzzu- 'gehen'. Also NE, AchE ši-in-nu-qa; OE ši-ni-ra; ši(?)-ni-ki-en; ME ši-ni-ik EW 1168."
+480,10,216,šinni-,NULL,NULL,NULL,NULL,"Source: EW 798; cf. uzzu- 'gehen'. Also NE, AchE ši-in-nu-qa; OE ši-ni-ra; ši(?)-ni-ki-en; ME ši-ni-ik EW 1168."
+480,10,216,šinnu-,NULL,NULL,NULL,NULL,"Source: EW 798; cf. uzzu- 'gehen'. Also NE, AchE ši-in-nu-qa; OE ši-ni-ra; ši(?)-ni-ki-en; ME ši-ni-ik EW 1168."
+480,10,216,ši-in-nu-ik,NULL,NULL,NULL,NULL,"AchE Source: EW 798; cf. uzzu- 'gehen'. Also NE, AchE ši-in-nu-qa; OE ši-ni-ra; ši(?)-ni-ki-en; ME ši-ni-ik EW 1168."
+480,10,216,ši-in-nu,NULL,NULL,NULL,NULL,"AchE Source: EW 798; cf. uzzu- 'gehen'. Also NE, AchE ši-in-nu-qa; OE ši-ni-ra; ši(?)-ni-ki-en; ME ši-ni-ik EW 1168."
+610,10,216,kuti-,NULL,NULL,NULL,NULL,Source: EW 547. See 'bring' 10.620.
+610,10,216,ku-ti-na,NULL,NULL,NULL,NULL,NE Source: EW 547. See 'bring' 10.620.
+610,10,216,ku-ti-šá,NULL,NULL,NULL,NULL,AchE Source: EW 547. See 'bring' 10.620.
+620,10,216,tela-,NULL,NULL,NULL,NULL,Sources: EW 316-317. Also kuti-: AchE ku-ti-iš EW 546-547. See also 'carry' 10.610.
+620,10,216,te-la-ak-ni,NULL,NULL,NULL,NULL,"ME, NE Sources: EW 316-317. Also kuti-: AchE ku-ti-iš EW 546-547. See also 'carry' 10.610."
+620,10,216,te-la-ni-li,NULL,NULL,NULL,NULL,OE Sources: EW 316-317. Also kuti-: AchE ku-ti-iš EW 546-547. See also 'carry' 10.610.
+630,10,216,da-,NULL,NULL,NULL,NULL,Sources: EW 252; EW 263.
+630,10,216,da-an-da,NULL,NULL,NULL,NULL,AchE Sources: EW 252; EW 263.
+630,10,216,da-h,NULL,NULL,NULL,NULL,"NE, AchE Sources: EW 252; EW 263."
+660,10,216,te-li-nu-ip,NULL,NULL,NULL,NULL,AchE Source: EW 317.
+710,10,216,ba-u,NULL,NULL,NULL,NULL,AchE Sources: EW 147; EW 706.
+710,10,216,bar-du,NULL,NULL,NULL,NULL,AchE Sources: EW 147; EW 706.
+710,10,216,hu-te(-e),NULL,NULL,NULL,NULL,ME Sources: EW 147; EW 706.
+780,10,216,za-ap-pan,NULL,NULL,NULL,NULL,NE Source: EW 1271.
+130,11,216,duma,NULL,NULL,NULL,NULL,Source: EW 356-357.
+130,11,216,du-ma,NULL,NULL,NULL,NULL,AchE Source: EW 356-357.
+130,11,216,du-ma-iš,NULL,NULL,NULL,NULL,AchE Source: EW 356-357.
+210,11,216,duna-,NULL,NULL,NULL,NULL,Source: EW 361-364; EW 821-822.
+210,11,216,duni-,NULL,NULL,NULL,NULL,Source: EW 361-364; EW 821-822.
+210,11,216,du-ni-h,NULL,NULL,NULL,NULL,"ME, NE Source: EW 361-364; EW 821-822."
+210,11,216,du-ni-ha,NULL,NULL,NULL,NULL,ME Source: EW 361-364; EW 821-822.
+210,11,216,du-na-áš,NULL,NULL,NULL,NULL,AchE Source: EW 361-364; EW 821-822.
+210,11,216,du-na-qa,NULL,NULL,NULL,NULL,AchE Source: EW 361-364; EW 821-822.
+210,11,216,li-,NULL,NULL,NULL,NULL,AchE Source: EW 361-364; EW 821-822.
+210,11,216,li-h,NULL,NULL,NULL,NULL,"OE, ME, NE Source: EW 361-364; EW 821-822."
+210,11,216,li-ik,NULL,NULL,NULL,NULL,"NE, AchE Source: EW 361-364; EW 821-822."
+240,11,216,kutu-,NULL,NULL,NULL,NULL,Source: EW 551.
+240,11,216,ku-tu-un,NULL,NULL,NULL,NULL,"ME, NE Source: EW 551."
+240,11,216,ku-tu-uš-li,NULL,NULL,NULL,NULL,OE Source: EW 551.
+270,11,216,sari-,NULL,NULL,NULL,NULL,Source: EW 1065.
+270,11,216,sa-ri-h,NULL,NULL,NULL,NULL,"ME, NE Source: EW 1065."
+270,11,216,sa-ri-in-ti,NULL,NULL,NULL,NULL,AchE Source: EW 1065.
+320,11,216,bakka-,NULL,NULL,NULL,NULL,Source: EW 106.
+320,11,216,ba-ak-qa-h,NULL,NULL,NULL,NULL,(?) ME Source: EW 106.
+510,11,216,sir,NULL,NULL,NULL,NULL,NE Source: EW 1087.
+640,11,216,a-h-da-a,NULL,NULL,NULL,NULL,NE Source: EW 33.
+650,11,216,un-sa-ha,NULL,NULL,NULL,NULL,NE Sources: EW 1238. Cf. za-ag-gi; za-ak 'Wert'; za-ak-me 'Preis' (EW 1266).
+650,11,216,un-sa-iš,NULL,NULL,NULL,NULL,AchE Sources: EW 1238. Cf. za-ag-gi; za-ak 'Wert'; za-ak-me 'Preis' (EW 1266).
+650,11,216,za-ag-gi-iš,NULL,NULL,NULL,NULL,AchE Sources: EW 1238. Cf. za-ag-gi; za-ak 'Wert'; za-ak-me 'Preis' (EW 1266).
+780,11,216,te-um-be,NULL,NULL,NULL,NULL,AchE Sources: EW 320; EW 618.
+780,11,216,ha-nu,NULL,NULL,NULL,NULL,NE, AchE Sources: EW 320; EW 618.
+870,11,216,šá-ak-ki-me,NULL,NULL,NULL,NULL,AchE Sources: EW 1111; EW 1120.
+870,11,216,šá-ak-ki-mi,NULL,NULL,NULL,NULL,AchE Sources: EW 1111; EW 1120.
+870,11,216,šá-gi-me,NULL,NULL,NULL,NULL,AchE Sources: EW 1111; EW 1120.
+11,12,216,ki-ik,NULL,NULL,NULL,NULL,AchE Sources: EW 465; EW 913-914.
+11,12,216,me-mi,NULL,NULL,NULL,NULL,"NE, AchE Sources: EW 465; EW 913-914."
+11,12,216,me-ni,NULL,NULL,NULL,NULL,AchE Sources: EW 465; EW 913-914.
+40,12,216,tibbe,NULL,NULL,NULL,NULL,Source: EW 323.
+40,12,216,ti-ib-ba,NULL,NULL,NULL,NULL,"ME, NE Source: EW 323."
+41,12,216,ti-ib-ba,NULL,NULL,NULL,NULL,"ME, NE Sources: EW 323; EW 1081."
+41,12,216,si-ma,NULL,NULL,NULL,NULL,OE Sources: EW 323; EW 1081.
+41,12,216,si-ma,NULL,NULL,NULL,NULL,"ME, NE Sources: EW 323; EW 1081."
+50,12,216,a-ti-in,NULL,NULL,NULL,NULL,"OE Source: EW 94, 647."
+50,12,216,a-ti-ra,NULL,NULL,NULL,NULL,"ME Source: EW 94, 647."
+50,12,216,ha-ti,NULL,NULL,NULL,NULL,"AchE Source: EW 94, 647."
+60,12,216,ki-du-ú-ya,NULL,NULL,NULL,NULL,ME Sources: EW 463.
+60,12,216,ki-du-ur,NULL,NULL,NULL,NULL,ME Sources: EW 463.
+60,12,216,ki-du-um-ma,NULL,NULL,NULL,NULL,ME Sources: EW 463.
+60,12,216,ki-du,NULL,NULL,NULL,NULL,AchE Sources: EW 463.
+70,12,216,šá-ra,NULL,NULL,NULL,NULL,"NE, AchE Source: EW 1133."
+110,12,216,kate,NULL,NULL,NULL,NULL,Source: EW 453.
+110,12,216,qa-te,NULL,NULL,NULL,NULL,AchE Source: EW 453.
+110,12,216,qa-te-ma,NULL,NULL,NULL,NULL,AchE Source: EW 453.
+120,12,216,bela-,NULL,NULL,NULL,NULL,"Sources: EW 183, 179; EW 255, EW 262."
+120,12,216,pela-,NULL,NULL,NULL,NULL,"Sources: EW 183, 179; EW 255, EW 262."
+120,12,216,be-la,NULL,NULL,NULL,NULL,"AchE Sources: EW 183, 179; EW 255, EW 262."
+120,12,216,be-ip-la,NULL,NULL,NULL,NULL,"AchE Sources: EW 183, 179; EW 255, EW 262."
+120,12,216,da-,NULL,NULL,NULL,NULL,"Sources: EW 183, 179; EW 255, EW 262."
+120,12,216,ta-,NULL,NULL,NULL,NULL,"Sources: EW 183, 179; EW 255, EW 262."
+120,12,216,ta-at,NULL,NULL,NULL,NULL,"ME Sources: EW 183, 179; EW 255, EW 262."
+120,12,216,da-h,NULL,NULL,NULL,NULL,"ME Sources: EW 183, 179; EW 255, EW 262."
+220,12,216,ta-r[í-ir],NULL,NULL,NULL,NULL,OE
+220,12,216,ta-ri-ip,NULL,NULL,NULL,NULL,OE is plural form. Source: EW 290.
+240,12,216,te-iš,NULL,NULL,NULL,NULL,ME Sources: EW 315; EW 383.
+240,12,216,tu-um-ba-h,NULL,NULL,NULL,NULL,"ME, NE Sources: EW 315; EW 383."
+250,12,216,kappa-,NULL,NULL,NULL,NULL,Source: EW 435.
+250,12,216,kap-pa-iš,NULL,NULL,NULL,NULL,NE Source: EW 435.
+440,12,216,šá-da-ni-qa,NULL,NULL,NULL,NULL,AchE Source: EW 1119.
+450,12,216,ha-tin,NULL,NULL,NULL,NULL,NE Source: EW 647-648.
+450,12,216,ha-te-um-me,NULL,NULL,NULL,NULL,NE Source: EW 647-648.
+460,12,216,šu-tin,NULL,NULL,NULL,NULL,NE Source: EW 1186.
+550,12,216,azza-,NULL,NULL,NULL,NULL,"Sources: EW 103, 592, 653. EW 779-780; EW 1041. See 'much, many' 13.150."
+550,12,216,hazza-,NULL,NULL,NULL,NULL,"Sources: EW 103, 592, 653. EW 779-780; EW 1041. See 'much, many' 13.150."
+550,12,216,az-za-qa,NULL,NULL,NULL,NULL,"NE, AchE Sources: EW 103, 592, 653. EW 779-780; EW 1041. See 'much, many' 13.150."
+550,12,216,ha-iz-za-ik-qa,NULL,NULL,NULL,NULL,"AchE Sources: EW 103, 592, 653. EW 779-780; EW 1041. See 'much, many' 13.150."
+550,12,216,ha-za-qa,NULL,NULL,NULL,NULL,"AchE Sources: EW 103, 592, 653. EW 779-780; EW 1041. See 'much, many' 13.150."
+550,12,216,rša-,NULL,NULL,NULL,NULL,"Sources: EW 103, 592, 653. EW 779-780; EW 1041. See 'much, many' 13.150."
+550,12,216,ir-šá-(an-)na,NULL,NULL,NULL,NULL,"AchE Sources: EW 103, 592, 653. EW 779-780; EW 1041. See 'much, many' 13.150."
+550,12,216,ri-ša-ar,NULL,NULL,NULL,NULL,"ME Sources: EW 103, 592, 653. EW 779-780; EW 1041. See 'much, many' 13.150."
+560,12,216,tila,NULL,NULL,NULL,NULL,Source: EW 388.
+560,12,216,ti-la,NULL,NULL,NULL,NULL,(?) AchE Source: EW 388.
+650,12,216,zikki,NULL,NULL,NULL,NULL,Source: EW 1296.
+650,12,216,zik-ki,NULL,NULL,NULL,NULL,NE Source: EW 1296.
+670,12,216,du-šá-ra-ma,NULL,NULL,NULL,NULL,AchE Source: EW 377.
+710,12,216,ma-šu-um,NULL,NULL,NULL,NULL,ME Source: EW 896.
+730,12,216,iš-tur-rák-qa,NULL,NULL,NULL,NULL,AchE Source: EW 793.
+810,12,216,irpi,NULL,NULL,NULL,NULL,Source: EW 778.
+810,12,216,ir-pi,NULL,NULL,NULL,NULL,ME Source: EW 778.
+820,12,216,pur,NULL,NULL,NULL,NULL,Source EW 241.
+820,12,216,pu-ur,NULL,NULL,NULL,NULL,ME Source EW 241.
+830,12,216,še-be,NULL,NULL,NULL,NULL,ME Source: EW 1146.
+10,13,216,ki,NULL,NULL,NULL,NULL,"Sources: EW 465, 467; EW 468."
+10,13,216,ki-ik(-ki/-qa),NULL,NULL,NULL,NULL,"AchE Sources: EW 465, 467; EW 468."
+10,13,216,ki-ir,NULL,NULL,NULL,NULL,"OE, AchE Sources: EW 465, 467; EW 468."
+20,13,216,mar,NULL,NULL,NULL,NULL,"(AchE) Source: EW 860, 876, 884."
+20,13,216,ma-ir,NULL,NULL,NULL,NULL,"NE Source: EW 860, 876, 884."
+20,13,216,mar-ra,NULL,NULL,NULL,NULL,"NE Source: EW 860, 876, 884."
+30,13,216,ziti,NULL,NULL,NULL,NULL,Source: EW 1305.
+30,13,216,zí-ti,NULL,NULL,NULL,NULL,AchE Source: EW 1305.
+50,13,216,*tu-ku,NULL,NULL,NULL,NULL,"(?) AchE Source: EW 356—reconstructed on the basis of the unit tu-ku-ku = 5 QA, i.e. 'Fünferchen'."
+140,13,216,un-ra,NULL,NULL,NULL,NULL,AchE Source: EW 1237.
+150,13,216,ir-še-ik-ki,NULL,NULL,NULL,NULL,AchE Source: EW 780. See 'large' 12.550.
+170,13,216,ha-ri-ik-ki,NULL,NULL,NULL,NULL,AchE Source: EW 628.
+210,13,216,huh,NULL,NULL,NULL,NULL,Source: EW 714. Also hu-úh-me.
+210,13,216,hu-úh,NULL,NULL,NULL,NULL,OE Source: EW 714. Also hu-úh-me.
+230,13,216,áš,NULL,NULL,NULL,NULL,AchE Source: EW 84.
+240,13,216,pír-ni,NULL,NULL,NULL,NULL,ME Source: EW 211-212.
+240,13,216,pír-nu-šu,NULL,NULL,NULL,NULL,ME Source: EW 211-212.
+240,13,216,pír-nu-ba,NULL,NULL,NULL,NULL,ME Source: EW 211-212.
+340,13,216,ap-pu-qa-na,NULL,NULL,NULL,NULL,AchE Source: EW 78.
+370,13,216,tuk,NULL,NULL,NULL,NULL,"NE Originally, 'Stück' EW 351."
+110,14,216,da-la-ri,NULL,NULL,NULL,NULL,AchE Source: EW 273.
+110,14,216,dalar.e,NULL,NULL,NULL,NULL,AchE Source: EW 273.
+140,14,216,puhu.na,NULL,NULL,NULL,NULL,"Source: EW 231, 240."
+140,14,216,pu-hu-na,NULL,NULL,NULL,NULL,"AchE Source: EW 231, 240."
+140,14,216,pu-u-na,NULL,NULL,NULL,NULL,"AchE Source: EW 231, 240."
+140,14,216,pu-un-na,NULL,NULL,NULL,NULL,"AchE Source: EW 231, 240."
+150,14,216,kara,NULL,NULL,NULL,NULL,Source: EW 437.
+150,14,216,qa-ra,NULL,NULL,NULL,NULL,AchE Source: EW 437.
+160,14,216,irpi,NULL,NULL,NULL,NULL,Sources: EW 778; EW 1247; EW 78.
+160,14,216,urpu-,NULL,NULL,NULL,NULL,Sources: EW 778; EW 1247; EW 78.
+160,14,216,ir-pi,NULL,NULL,NULL,NULL,AchE Sources: EW 778; EW 1247; EW 78.
+160,14,216,ur-pu-ub-ba,NULL,NULL,NULL,NULL,ME Sources: EW 778; EW 1247; EW 78.
+160,14,216,ap-pu-qa,NULL,NULL,NULL,NULL,AchE Sources: EW 778; EW 1247; EW 78.
+170,14,216,maš-šá,NULL,NULL,NULL,NULL,"AchE Source: EW 894, 916."
+170,14,216,me-šá,NULL,NULL,NULL,NULL,"AchE Source: EW 894, 916."
+180,14,216,a-am,NULL,NULL,NULL,NULL,ME Sources: EW 14; EW 48.
+180,14,216,am,NULL,NULL,NULL,NULL,"ME, NE, AchE Sources: EW 14; EW 48."
+260,14,216,mur,NULL,NULL,NULL,NULL,AchE Source: EW 952.
+270,14,216,tar-ma,NULL,NULL,NULL,NULL,AchE Source: EW 291.
+270,14,216,tar-maš,NULL,NULL,NULL,NULL,AchE Source: EW 291.
+310,14,216,a-ka-da,NULL,NULL,NULL,NULL,OE Source: EW 37.
+332,14,216,me-ul-li(-ik),NULL,NULL,NULL,NULL,AchE Source: EW 918.
+350,14,216,ki-qa,NULL,NULL,NULL,NULL,"ME, NE Source: EW 480."
+410,14,216,na,NULL,NULL,NULL,NULL,"Sources: EW 969; OE (linear script) na-ma = nan.ma EW 983. Also AchE na-ir-da, na-ra-an-ti EW 981, 991; OE, ME ša-at-me; ME ša-at-ti-me EW 1117."
+410,14,216,nan:,NULL,NULL,NULL,NULL,"Sources: EW 969; OE (linear script) na-ma = nan.ma EW 983. Also AchE na-ir-da, na-ra-an-ti EW 981, 991; OE, ME ša-at-me; ME ša-at-ti-me EW 1117."
+410,14,216,na-an-me,NULL,NULL,NULL,NULL,"AchE Sources: EW 969; OE (linear script) na-ma = nan.ma EW 983. Also AchE na-ir-da, na-ra-an-ti EW 981, 991; OE, ME ša-at-me; ME ša-at-ti-me EW 1117."
+410,14,216,na-an-na,NULL,NULL,NULL,NULL,"AchE Sources: EW 969; OE (linear script) na-ma = nan.ma EW 983. Also AchE na-ir-da, na-ra-an-ti EW 981, 991; OE, ME ša-at-me; ME ša-at-ti-me EW 1117."
+420,14,216,ši-ut-ma-na,NULL,NULL,NULL,NULL,AchE Sources: EW 1171; EW 1193-1194.
+420,14,216,šu-ut-me,NULL,NULL,NULL,NULL,OE, ME Sources: EW 1171; EW 1193-1194.
+420,14,216,šu-ut-ti-me,NULL,NULL,NULL,NULL,ME Sources: EW 1171; EW 1193-1194.
+460,14,216,te-man,NULL,NULL,NULL,NULL,AchE Respectively: Cf. te-man (?)-na(?)-na 'abendlich' (EW 317); EW 468.
+460,14,216,ki-in-na-ra,NULL,NULL,NULL,NULL,NE Respectively: Cf. te-man (?)-na(?)-na 'abendlich' (EW 317); EW 468.
+710,14,216,na(?)-na-me-n[a(?)],NULL,NULL,NULL,NULL,AchE Sources: EW 984; EW 1074.
+710,14,216,si-in (?),NULL,NULL,NULL,NULL,ME Sources: EW 984; EW 1074.
+730,14,216,pi-el,NULL,NULL,NULL,NULL,"ME Source: EW 191, 188."
+730,14,216,be-ul,NULL,NULL,NULL,NULL,"AchE Source: EW 191, 188."
+350,15,216,tena,NULL,NULL,NULL,NULL,Sources: EW 317; EW 599.
+350,15,216,te-na,NULL,NULL,NULL,NULL,AchE Sources: EW 317; EW 599.
+350,15,216,hal-ki,NULL,NULL,NULL,NULL,"OE, ME, NE Sources: EW 317; EW 599."
+350,15,216,tena,NULL,NULL,NULL,NULL,Sources: EW 317; EW 599.
+350,15,216,te-na,NULL,NULL,NULL,NULL,AchE Sources: EW 317; EW 599.
+350,15,216,halki,NULL,NULL,NULL,NULL,Sources: EW 317; EW 599.
+350,15,216,hal-ki,NULL,NULL,NULL,NULL,"OE, ME, NE Sources: EW 317; EW 599."
+380,15,216,lu-lu-ki,NULL,NULL,NULL,NULL,AchE Source: EW 842.
+380,15,216,lu-lu-qa,NULL,NULL,NULL,NULL,AchE Source: EW 842.
+410,15,216,hap-,NULL,NULL,NULL,NULL,Source: EW 578-579.
+410,15,216,ha-ap-hu,NULL,NULL,NULL,NULL,"OE, ME Source: EW 578-579."
+410,15,216,ha-ap-ti,NULL,NULL,NULL,NULL,"OE, ME Source: EW 578-579."
+460,15,216,šà-na,NULL,NULL,NULL,NULL,NE Source: EW 1131.
+510,15,216,siya-,NULL,NULL,NULL,NULL,Source: EW 1096.
+510,15,216,ziya-,NULL,NULL,NULL,NULL,Source: EW 1096.
+510,15,216,si-ya-nu-un,NULL,NULL,NULL,NULL,NE Source: EW 1096.
+510,15,216,si-ya-h,NULL,NULL,NULL,NULL,ME Source: EW 1096.
+510,15,216,si-ya-áš-na,NULL,NULL,NULL,NULL,ME Source: EW 1096.
+510,15,216,zí-ya,NULL,NULL,NULL,NULL,AchE Source: EW 1096.
+550,15,216,šammi-,NULL,NULL,NULL,NULL,Source: EW 1114-1115.
+550,15,216,ša-am-me-iš,NULL,NULL,NULL,NULL,ME Source: EW 1114-1115.
+550,15,216,ša-am-mi-iš-ta,NULL,NULL,NULL,NULL,ME Source: EW 1114-1115.
+640,15,216,ši-mi-ut,NULL,NULL,NULL,NULL,AchE Source: EW 1166.
+670,15,216,da-ban-ti-na,NULL,NULL,NULL,NULL,NE Source: EW 260.
+680,15,216,hu-la-ap-na,NULL,NULL,NULL,NULL,"NE Source: EW 690, 701."
+680,15,216,hu-ra-ap-na,NULL,NULL,NULL,NULL,"NE Source: EW 690, 701."
+690,15,216,šu-un-ti-na,NULL,NULL,NULL,NULL,NE Source: EW 1192.
+810,15,216,ab-ba-ra,NULL,NULL,NULL,NULL,AchE Source: EW 21.
+840,15,216,zí-ti-qa,NULL,NULL,NULL,NULL,AchE Source: EW 1305.
+180,16,216,šá-da,NULL,NULL,NULL,NULL,Source: EW 1119: Old Persian syata-. Sources: EW 1169; EW 1182.
+180,16,216,šá-ud-da,NULL,NULL,NULL,NULL,Source: EW 1119: Old Persian syata-. Sources: EW 1169; EW 1182.
+180,16,216,ši-ri,NULL,NULL,NULL,NULL,"NE, AchE Source: EW 1119: Old Persian syata-. Sources: EW 1169; EW 1182."
+180,16,216,šu-ru,NULL,NULL,NULL,NULL,ME Source: EW 1119: Old Persian syata-. Sources: EW 1169; EW 1182.
+180,16,216,šu-ri-na,NULL,NULL,NULL,NULL,OE Source: EW 1119: Old Persian syata-. Sources: EW 1169; EW 1182.
+230,16,216,tan-na-am-me,NULL,NULL,NULL,NULL,NE Source: EW 283.
+270,16,216,hani-,NULL,NULL,NULL,NULL,Sources: EW 616-617; EW 618.
+270,16,216,ha-ni-eš,NULL,NULL,NULL,NULL,OE Sources: EW 616-617; EW 618.
+270,16,216,ha-ni-ik,NULL,NULL,NULL,NULL,"ME, NE Sources: EW 616-617; EW 618."
+270,16,216,ha-ni-in,NULL,NULL,NULL,NULL,OE Sources: EW 616-617; EW 618.
+270,16,216,ha(?)-ni-me,NULL,NULL,NULL,NULL,OE Sources: EW 616-617; EW 618.
+510,16,216,qa-du-uk-qa,NULL,NULL,NULL,NULL,AchE Source: EW 414.
+530,16,216,ipši,NULL,NULL,NULL,NULL,Source: EW 766.
+530,16,216,ip-ši-ip,NULL,NULL,NULL,NULL,AchE Source: EW 766.
+530,16,216,ip-ši-iš,NULL,NULL,NULL,NULL,AchE Source: EW 766.
+650,16,216,ha-mi-ti,NULL,NULL,NULL,NULL,"OE, NE Source: EW 614."
+650,16,216,ha-mi-it,NULL,NULL,NULL,NULL,ME Source: EW 614.
+660,16,216,siri,NULL,NULL,NULL,NULL,Source: EW 1089. Cf. 'Ohr'.
+660,16,216,si-ri,NULL,NULL,NULL,NULL,"NE AchE Source: EW 1089. Cf. 'Ohr'."
+670,16,216,tit-,NULL,NULL,NULL,NULL,"Sources: EW 340, 342."
+670,16,216,ti-ti-ip,NULL,NULL,NULL,NULL,"AchE Sources: EW 340, 342."
+670,16,216,ti-ut-ki-um-me,NULL,NULL,NULL,NULL,"AchE Sources: EW 340, 342."
+710,16,216,a-a,NULL,NULL,NULL,NULL,"OE, NE Sources: EW 13; EW 119."
+710,16,216,ba-ha,NULL,NULL,NULL,NULL,"OE, ME, NE Sources: EW 13; EW 119."
+720,16,216,muš-nu-ik,NULL,NULL,NULL,NULL,AchE Source: EW 960.
+790,16,216,hi-šá,NULL,NULL,NULL,NULL,NE Source: EW 669. Cf. 'Name'.
+810,16,216,ši-iš-ni,NULL,NULL,NULL,NULL,AchE Source: EW 1160.
+130,17,216,lma-,NULL,NULL,NULL,NULL,Sources: EW 395; EW 1221.
+130,17,216,el-ma,NULL,NULL,NULL,NULL,AchE Sources: EW 395; EW 1221.
+130,17,216,el-man-da,NULL,NULL,NULL,NULL,AchE Sources: EW 395; EW 1221.
+130,17,216,el-man-ti,NULL,NULL,NULL,NULL,AchE Sources: EW 395; EW 1221.
+130,17,216,ul-ma,NULL,NULL,NULL,NULL,AchE Sources: EW 395; EW 1221.
+150,17,216,uri-,NULL,NULL,NULL,NULL,"Cf. ME ú-ri-ip, EW 1246."
+150,17,216,u-ri-iš,NULL,NULL,NULL,NULL,"AchE Cf. ME ú-ri-ip, EW 1246."
+170,17,216,turna-,NULL,NULL,NULL,NULL,Source: EW 370-371.
+170,17,216,tur-nah,NULL,NULL,NULL,NULL,NE Source: EW 370-371.
+170,17,216,tur-na-u-ut,NULL,NULL,NULL,NULL,AchE Source: EW 370-371.
+450,17,216,me-en,NULL,NULL,NULL,NULL,"OE, ME, AchE Source: EW 909."
+510,17,216,ayak,NULL,NULL,NULL,NULL,Sources: EW 13; EW 1261.
+510,17,216,a-ak,NULL,NULL,NULL,NULL,"ME, NE, AchE Sources: EW 13; EW 1261."
+510,17,216,ya-ak,NULL,NULL,NULL,NULL,ME Sources: EW 13; EW 1261.
+520,17,216,appa,NULL,NULL,NULL,NULL,Source: EW 72.
+520,17,216,ap-pa,NULL,NULL,NULL,NULL,AchE Source: EW 72.
+530,17,216,an-ka,NULL,NULL,NULL,NULL,"ME Source: EW 59, 62."
+530,17,216,an-qa,NULL,NULL,NULL,NULL,"NE, AchE Source: EW 59, 62."
+560,17,216,in-gi,NULL,NULL,NULL,NULL,"OE, ME, NE Source: EW 754."
+560,17,216,in-na,NULL,NULL,NULL,NULL,"NE, AchE Source: EW 754."
+560,17,216,im-ma,NULL,NULL,NULL,NULL,"ME, NE Source: EW 754."
+560,17,216,in-ni,NULL,NULL,NULL,NULL,"ME, NE Source: EW 754."
+610,17,216,ap-pa,NULL,NULL,NULL,NULL,AchE Source: EW 72.
+640,17,216,appa,NULL,NULL,NULL,NULL,Source: EW 71.
+640,17,216,ap-pa,NULL,NULL,NULL,NULL,"ME, NE, AchE Source: EW 71."
+660,17,216,mur,NULL,NULL,NULL,NULL,Source: EW 963.
+660,17,216,mu-ur,NULL,NULL,NULL,NULL,"ME, NE Source: EW 963."
+670,17,216,akka,NULL,NULL,NULL,NULL,"Source: EW 30, 36."
+670,17,216,ag-ga,NULL,NULL,NULL,NULL,"ME Source: EW 30, 36."
+670,17,216,ak-ka,NULL,NULL,NULL,NULL,"ME Source: EW 30, 36."
+670,17,216,ak-qa,NULL,NULL,NULL,NULL,"ME, NE, AchE Source: EW 30, 36."
+210,18,216,turi,NULL,NULL,NULL,NULL,Source: EW 372-373. See 'say' 18.220.
+210,18,216,turu-,NULL,NULL,NULL,NULL,Source: EW 372-373. See 'say' 18.220.
+210,18,216,tu-ru-nu-un-ki,NULL,NULL,NULL,NULL,ME Source: EW 372-373. See 'say' 18.220.
+210,18,216,tu-ru-h,NULL,NULL,NULL,NULL,NE Source: EW 372-373. See 'say' 18.220.
+210,18,216,tur-ri-qa,NULL,NULL,NULL,NULL,AchE Source: EW 372-373. See 'say' 18.220.
+220,18,216,tiri-,NULL,NULL,NULL,NULL,"Source: EW 336, 375. See 'speak' 18.210."
+220,18,216,turu-,NULL,NULL,NULL,NULL,"Source: EW 336, 375. See 'speak' 18.210."
+220,18,216,ti-ri-in-ri,NULL,NULL,NULL,NULL,"ME Source: EW 336, 375. See 'speak' 18.210."
+220,18,216,ti-ri,NULL,NULL,NULL,NULL,"AchE Source: EW 336, 375. See 'speak' 18.210."
+220,18,216,tu-ru-uk,NULL,NULL,NULL,NULL,"ME, NE Source: EW 336, 375. See 'speak' 18.210."
+220,18,216,tu-ru-un,NULL,NULL,NULL,NULL,"ME, NE Source: EW 336, 375. See 'speak' 18.210."
+260,18,216,šukkit,NULL,NULL,NULL,NULL,Source: EW 1189.
+260,18,216,šu-uk-ki-it,NULL,NULL,NULL,NULL,NE Source: EW 1189.
+280,18,216,hiš,NULL,NULL,NULL,NULL,Source: EW 662.
+280,18,216,hi-iš,NULL,NULL,NULL,NULL,"ME, NE, AchE Source: EW 662."
+360,18,216,kulla-,NULL,NULL,NULL,NULL,Source: EW 561.
+360,18,216,ku-ul-la-h,NULL,NULL,NULL,NULL,"OE, ME Source: EW 561."
+410,18,216,kulla-,NULL,NULL,NULL,NULL,Source: EW 561-562.
+410,18,216,ku-ul-la-h,NULL,NULL,NULL,NULL,"OE, ME Source: EW 561-562."
+410,18,216,ku-ul-la-hu",NULL,NULL,NULL,NULL,ME Source: EW 561-562.
+510,18,216,dallu-,NULL,NULL,NULL,NULL,Sources: EW 251; also ME ta-li-in EW 274; OE te-bi EW 304; NE tup-pi-me EW 365.
+510,18,216,tallu-,NULL,NULL,NULL,NULL,Sources: EW 251; also ME ta-li-in EW 274; OE te-bi EW 304; NE tup-pi-me EW 365.
+510,18,216,ta-al-lu-h,NULL,NULL,NULL,NULL,ME Sources: EW 251; also ME ta-li-in EW 274; OE te-bi EW 304; NE tup-pi-me EW 365.
+510,18,216,da-al-lu-ha,NULL,NULL,NULL,NULL,ME Sources: EW 251; also ME ta-li-in EW 274; OE te-bi EW 304; NE tup-pi-me EW 365.
+510,18,216,ta-al-lu-h-šu,NULL,NULL,NULL,NULL,ME Sources: EW 251; also ME ta-li-in EW 274; OE te-bi EW 304; NE tup-pi-me EW 365.
+520,18,216,bera-,NULL,NULL,NULL,NULL,"Source: EW 185, 179."
+520,18,216,pera-,NULL,NULL,NULL,NULL,"Source: EW 185, 179."
+520,18,216,be-ra-an,NULL,NULL,NULL,NULL,"AchE Source: EW 185, 179."
+520,18,216,be-ip-ra-an-ti,NULL,NULL,NULL,NULL,"AchE Source: EW 185, 179."
+520,18,216,be-ip-rák,NULL,NULL,NULL,NULL,"AchE Source: EW 185, 179."
+110,19,216,hal,NULL,NULL,NULL,NULL,(OE) Sources: EW 593; originally 'Boden'; EW 574.
+110,19,216,ha-al,NULL,NULL,NULL,NULL,"OE, ME Sources: EW 593; originally 'Boden'; EW 574."
+150,19,216,[a-al],NULL,NULL,NULL,NULL,< Akkadian ālu EW 14.
+210,19,216,taš-šu(?)-up,NULL,NULL,NULL,NULL,ME Sources: EW 297; EW 722.
+210,19,216,taš-šu-íp,NULL,NULL,NULL,NULL,"NE, AchE Sources: EW 297; EW 722."
+210,19,216,hu-úr-du,NULL,NULL,NULL,NULL,"OE, ME Sources: EW 297; EW 722."
+230,19,216,ah-pi,NULL,NULL,NULL,NULL,ME Source: EW 35.230,19,216,ME ah-pi; NE a-h-pi,NULL,NULL,NULL,NULL,Source: EW 35.
+230,19,216,a-h-pi,NULL,NULL,NULL,NULL,NE Source: EW 35.230,19,216,ME ah-pi; NE a-h-pi,NULL,NULL,NULL,NULL,Source: EW 35.
+320,19,216,sunki,NULL,NULL,NULL,NULL,"Sources: EW 1098, 1101; also ME, NE su-un-ki-ik; OE zu-kir; OE, ME zu-un-ki-ir; EW 1106-1107; EW 1310."
+320,19,216,zunki,NULL,NULL,NULL,NULL,"Sources: EW 1098, 1101; also ME, NE su-un-ki-ik; OE zu-kir; OE, ME zu-un-ki-ir; EW 1106-1107; EW 1310."
+320,19,216,su-gìr,NULL,NULL,NULL,NULL,"ME, NE Sources: EW 1098, 1101; also ME, NE su-un-ki-ik; OE zu-kir; OE, ME zu-un-ki-ir; EW 1106-1107; EW 1310."
+320,19,216,su-kip,NULL,NULL,NULL,NULL,"NE Sources: EW 1098, 1101; also ME, NE su-un-ki-ik; OE zu-kir; OE, ME zu-un-ki-ir; EW 1106-1107; EW 1310."
+320,19,216,su-un-gìr,NULL,NULL,NULL,NULL,"ME Sources: EW 1098, 1101; also ME, NE su-un-ki-ik; OE zu-kir; OE, ME zu-un-ki-ir; EW 1106-1107; EW 1310."
+320,19,216,su-un-ki-ir,NULL,NULL,NULL,NULL,"ME Sources: EW 1098, 1101; also ME, NE su-un-ki-ik; OE zu-kir; OE, ME zu-un-ki-ir; EW 1106-1107; EW 1310."
+320,19,216,su-un-ki-ip,NULL,NULL,NULL,NULL,"ME Sources: EW 1098, 1101; also ME, NE su-un-ki-ik; OE zu-kir; OE, ME zu-un-ki-ir; EW 1106-1107; EW 1310."
+320,19,216,su-un-ki-kip,NULL,NULL,NULL,NULL,"ME Sources: EW 1098, 1101; also ME, NE su-un-ki-ik; OE zu-kir; OE, ME zu-un-ki-ir; EW 1106-1107; EW 1310."
+410,19,216,ðimpti,NULL,NULL,NULL,NULL,"Sources: EW 1073; EW 308, 313; EW 962-963."
+410,19,216,si-im-it,NULL,NULL,NULL,NULL,"OE Sources: EW 1073; EW 308, 313; EW 962-963."
+410,19,216,te-im-ti,NULL,NULL,NULL,NULL,"OE, ME Sources: EW 1073; EW 308, 313; EW 962-963."
+410,19,216,te-ip-ti,NULL,NULL,NULL,NULL,"ME, NE Sources: EW 1073; EW 308, 313; EW 962-963."
+410,19,216,mu-uk-ti,NULL,NULL,NULL,NULL,"NE Sources: EW 1073; EW 308, 313; EW 962-963."
+420,19,216,li-ba-um-me,NULL,NULL,NULL,NULL,AchE Sources: EW 819; EW 1143-1144
+420,19,216,šá-u-lu(-um)-be,NULL,NULL,NULL,NULL,AchE Sources: EW 819; EW 1143-1144; form is plural.
+430,19,216,liba-,NULL,NULL,NULL,NULL,Source: EW 819.
+430,19,216,li-ba-ir,NULL,NULL,NULL,NULL,AchE Source: EW 819.
+440,19,216,šalu.r,NULL,NULL,NULL,NULL,Source: EW 1128.
+440,19,216,šá-lu-ur,NULL,NULL,NULL,NULL,AchE Source: EW 1128.
+450,19,216,me-el,NULL,NULL,NULL,NULL,ME Sources: EW 467; EW 908; EW 1151.
+450,19,216,gi-il,NULL,NULL,NULL,NULL,ME Sources: EW 467; EW 908; EW 1151.
+450,19,216,šera-,NULL,NULL,NULL,NULL,NE Sources: EW 467; EW 908; EW 1151.
+450,19,216,še-ra-h,NULL,NULL,NULL,NULL,NE Sources: EW 467; EW 908; EW 1151.
+450,19,216,še-ra-h-ši,NULL,NULL,NULL,NULL,NE Sources: EW 467; EW 908; EW 1151.
+510,19,216,duk-ti-ir,NULL,NULL,NULL,NULL,OE Sources: EW 355; EW 431.
+510,19,216,kán-ir-ra,NULL,NULL,NULL,NULL,NE Sources: EW 355; EW 431.
+520,19,216,beti,NULL,NULL,NULL,NULL,"Source: Ew 187, 183."
+520,19,216,bi-ti-ir,NULL,NULL,NULL,NULL,"OE Source: Ew 187, 183."
+520,19,216,pi-ti-ir,NULL,NULL,NULL,NULL,"ME Source: Ew 187, 183."
+520,19,216,be-ti,NULL,NULL,NULL,NULL,"NE Source: Ew 187, 183."
+520,19,216,be-it-ra,NULL,NULL,NULL,NULL,"NE Source: Ew 187, 183."
+580,19,216,ta-,NULL,NULL,NULL,NULL,Sources: EW 294; EW 264.
+580,19,216,taš,NULL,NULL,NULL,NULL,OE Sources: EW 294; EW 264.
+580,19,216,táh-ha-an-ta,NULL,NULL,NULL,NULL,ME Sources: EW 294; EW 264.
+580,19,216,táh-ha-an-te,NULL,NULL,NULL,NULL,ME Sources: EW 294; EW 264.
+110,20,216,be-ut,NULL,NULL,NULL,NULL,AchE Means 'Kämpfe' EW 188.
+140,20,216,gugu,NULL,NULL,NULL,NULL,Source: EW 401.
+140,20,216,gu-gu,NULL,NULL,NULL,NULL,OE Source: EW 401.
+150,20,216,hi-it,NULL,NULL,NULL,NULL,"OE, ME, NE Source EW 665."
+210,20,216,ul-ki-na,NULL,NULL,NULL,NULL,NE Source: EW 1218.
+220,20,216,šá-li-mi,NULL,NULL,NULL,NULL,NE Source: EW 1127.
+240,20,216,qa-am-ban,NULL,NULL,NULL,NULL,NE Means 'Bogensehne'; source: EW 406.
+250,20,216,ti-ut-ti-um,NULL,NULL,NULL,NULL,"NE Sources: EW 343; EW 664; EW 1058, cf. 'Bronze' sa-h."
+250,20,216,hi-iš-ki,NULL,NULL,NULL,NULL,"NE Sources: EW 343; EW 664; EW 1058, cf. 'Bronze' sa-h."
+250,20,216,sa-h,NULL,NULL,NULL,NULL,"NE Sources: EW 343; EW 664; EW 1058, cf. 'Bronze' sa-h."
+260,20,216,[šu-kur-ru-um],NULL,NULL,NULL,NULL,Akkadian; EW 1177.
+330,20,216,kar-ik,NULL,NULL,NULL,NULL,NE Source: EW 441.
+410,20,216,me-te(-en),NULL,NULL,NULL,NULL,OE Source: EW 917.
+480,20,216,pu-uk-ri-ir,NULL,NULL,NULL,NULL,ME Source: EW 239.
+110,21,216,šu-du-ur,NULL,NULL,NULL,NULL,"ME Sources: EW 1175; EW 11175, 1187."
+110,21,216,šu-tur,NULL,NULL,NULL,NULL,"AchE Sources: EW 1175; EW 11175, 1187."
+230,21,216,gini,NULL,NULL,NULL,NULL,Source: EW 477-479.
+230,21,216,ginu,NULL,NULL,NULL,NULL,Source: EW 477-479.
+230,21,216,gi-ni-ip,NULL,NULL,NULL,NULL,OE Source: EW 477-479.
+230,21,216,gi-ni-pi,NULL,NULL,NULL,NULL,NE Source: EW 477-479.
+230,21,216,gi-nu-ip,NULL,NULL,NULL,NULL,NE Source: EW 477-479.
+240,21,216,gi-ri-ip,NULL,NULL,NULL,NULL,OE Source: EW 480-481.
+240,21,216,gi-ri,NULL,NULL,NULL,NULL,ME Source: EW 480-481.
+520,21,216,tu-uš-šu(?)-íp,NULL,NULL,NULL,NULL,ME Source: EW 388.
+120,22,216,nap,NULL,NULL,NULL,NULL,"(OE, ME, NE, AchE) Sources: EW 984; EW 970, 966; EW 971; EW 977. Included plural forms. See 'moon' 01.530."
+120,22,216,nab,NULL,NULL,NULL,NULL,"Sources: EW 984; EW 970, 966; EW 971; EW 977. Included plural forms. See 'moon' 01.530."
+120,22,216,na-ap,NULL,NULL,NULL,NULL,"AchE Sources: EW 984; EW 970, 966; EW 971; EW 977. Included plural forms. See 'moon' 01.530."
+120,22,216,na-ab-ba,NULL,NULL,NULL,NULL,"AchE Sources: EW 984; EW 970, 966; EW 971; EW 977. Included plural forms. See 'moon' 01.530."
+120,22,216,na-ap-pi,NULL,NULL,NULL,NULL,"ME, NE Sources: EW 984; EW 970, 966; EW 971; EW 977. Included plural forms. See 'moon' 01.530."
+120,22,216,na-bí-ip,NULL,NULL,NULL,NULL,"OE Sources: EW 984; EW 970, 966; EW 971; EW 977. Included plural forms. See 'moon' 01.530."
+150,22,216,dala,NULL,NULL,NULL,NULL,Source: EW 273.
+150,22,216,da-la,NULL,NULL,NULL,NULL,NE Source: EW 273.
+180,22,216,šà-ti,NULL,NULL,NULL,NULL,"OE Source: EW 1140-1142, plural forms: -be; šá-tam-be."
+180,22,216,šá-tin,NULL,NULL,NULL,NULL,"NE, AchE Source: EW 1140-1142, plural forms: -be; šá-tam-be."
+180,22,216,šá-tan,NULL,NULL,NULL,NULL,"AchE Source: EW 1140-1142, plural forms: -be; šá-tam-be."
+190,22,216,ak-pi,NULL,NULL,NULL,NULL,ME Source: EW 40.
+190,22,216,ak-pi-ip,NULL,NULL,NULL,NULL,(?) ME Source: EW 40.
+310,22,216,kik,NULL,NULL,NULL,NULL,"OE Source: EW 465, 473."
+310,22,216,ki-ki-in,NULL,NULL,NULL,NULL,"OE Source: EW 465, 473."
+310,22,216,ki-ki-ip,NULL,NULL,NULL,NULL,"OE, ME, NE Source: EW 465, 473."
+310,22,216,ki-ik,NULL,NULL,NULL,NULL,"ME Source: EW 465, 473."
