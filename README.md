@@ -21,7 +21,7 @@ Conceptlists in Concepticon:
 
 - **Varieties:** 329
 - **Concepts:** 1,310
-- **Lexemes:** 453,948
+- **Lexemes:** 453,950
 - **Sources:** 95
 - **Synonymy:** 1.28
 
@@ -29,7 +29,7 @@ Conceptlists in Concepticon:
 
 
 
-- Entries missing sources: 352100/453948 (77.56%)
+- Entries missing sources: 352102/453950 (77.56%)
 
 # Contributors
 
