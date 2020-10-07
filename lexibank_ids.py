@@ -23,7 +23,7 @@ wrapped_in_brackets = re.compile(r'^[\(\[][^\[\]\(\)]+?[\)\]]$')
 class Dataset(IDSDataset):
 
     IDSDataset.form_spec.missing_data = (
-        '?', '∅', '-', '--', '- -', '???', '', '-666', '666', '\u2014', '\u02bc')
+        '?', '∅', '-', '--', '- -', '––', '???', '', '-666', '666', '\u2014', '\u02bc')
     IDSDataset.form_spec.separators = ';,/~'
     IDSDataset.form_spec.brackets = {"(": ")", "[": "]"}
 
@@ -214,7 +214,11 @@ class Dataset(IDSDataset):
                 if lg.comment and not empty.match(lg.comment.strip()):
                     com = lg.comment.strip()
 
-                trans1 = list(self.split_counterparts(lg.data_1))
+                lgdata_1 = lg.data_1
+                if lg.lg_id == '318':
+                    lgdata_1 = lgdata_1.replace(' || ', ';')
+                    lgdata_1 = lgdata_1.replace(' | ', ';')
+                trans1 = list(self.split_counterparts(lgdata_1))
                 trans2 = None if empty.match(lg.data_2) else list(self.split_counterparts(lg.data_2))
                 if trans2:
                     if len(trans2) != len(trans1):

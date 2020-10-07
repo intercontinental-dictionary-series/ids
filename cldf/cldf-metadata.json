@@ -18,7 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/intercontinental-dictionary-series/ids",
-            "dc:created": "v3.0-11-g2e781cd"
+            "dc:created": "v3.0-12-g8562d9d"
         },
         {
             "rdf:type": "prov:Entity",
@@ -57,7 +57,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 453950,
+            "dc:extent": 454087,
             "tableSchema": {
                 "columns": [
                     {
