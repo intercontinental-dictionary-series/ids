@@ -25,7 +25,8 @@ class Dataset(IDSDataset):
     IDSDataset.form_spec.missing_data = (
         '?', '∅', '-', '--', '- -', '––', '???', '', '-666', '666', '\u2014', '\u02bc')
     IDSDataset.form_spec.separators = ';,/~'
-    IDSDataset.form_spec.brackets = {"(": ")", "[": "]"}
+    IDSDataset.form_spec.replacements = [('[', ''), (']', ''), ('<', ''), ('>', '')]
+    IDSDataset.form_spec.strip_inside_brackets = True
 
     dir = pathlib.Path(__file__).parent
     id = "ids"
@@ -60,7 +61,8 @@ class Dataset(IDSDataset):
                     word, separators=self.form_spec.separators, brackets=self.form_spec.brackets))
                 if len(n_split) > 0:
                     for w in n_split:
-                        yield w.strip()
+                        if w.strip() and w.strip() not in self.form_spec.missing_data:
+                            yield w.strip()
                 else:
                     yield word
 
@@ -162,7 +164,7 @@ class Dataset(IDSDataset):
         problems = defaultdict(list)
         misaligned = []
         counterparts = set()
-        wrds = {}
+        wrds = defaultdict(int)
 
         etc_ids = defaultdict(lambda: defaultdict(list))
         corrected_rows_filename = self.etc_dir / 'ids.all.csv'
@@ -215,9 +217,10 @@ class Dataset(IDSDataset):
                     com = lg.comment.strip()
 
                 lgdata_1 = lg.data_1
+                # lg 318 makes additionally usage of | separators (in other lgs is it a click)
                 if lg.lg_id == '318':
-                    lgdata_1 = lgdata_1.replace(' || ', ';')
-                    lgdata_1 = lgdata_1.replace(' | ', ';')
+                    lgdata_1 = lgdata_1.replace(' || ', ';').replace(' | ', ';')
+
                 trans1 = list(self.split_counterparts(lgdata_1))
                 trans2 = None if empty.match(lg.data_2) else list(self.split_counterparts(lg.data_2))
                 if trans2:
@@ -229,8 +232,6 @@ class Dataset(IDSDataset):
                         trans2 = None
 
                 for i, word in enumerate(trans1):
-                    if lg_entry_id not in wrds:
-                        wrds[lg_entry_id] = 0
                     wrds[lg_entry_id] += 1
                     cid = '{0}-{1}'.format(lg_entry_id, str(wrds[lg_entry_id]))
 
@@ -239,7 +240,7 @@ class Dataset(IDSDataset):
                         alt_val, com = self.preprocess_form_comment(
                                                         trans2[i], desc.get('2'),
                                                         lg.lg_id, com, entry_id)
-                        alt_trans = desc.get('2')
+                        alt_trans = desc.get('2', '').strip()
                         if alt_val and empty.match(alt_val):
                             alt_val, alt_trans = '', ''
 
@@ -251,34 +252,34 @@ class Dataset(IDSDataset):
                             counterparts.add(cid)
                         else:
                             print(cid)
-                        reprs = [desc.get('1')]
+                        reprs = [desc.get('1', '').strip()]
                         if alt_trans:
                             reprs.append(alt_trans)
 
-                        f = w
                         if wrapped_in_brackets.search(w):
-                            f = w[1:-1].strip()
-                        if ' [' in f or '] ' in f or ']-' in f or '-[' in f or re.search(r'\[.\]', f):
-                            f = f.replace('[', '')
-                            f = f.replace(']', '')
-                        if lg.lg_id == '234':
-                            if '<' in f and '>' in f:
-                                f = f.replace('>', '')
-                                f = f.replace('<', '')
-                        f = strip_brackets(f, brackets=self.form_spec.brackets)
-                        f = re.sub(r'\s{2,}', ' ', f)
+                            w = w[1:-1].strip()
 
-                        if wrapped_in_brackets.search(alt_val):
-                            alt_val = alt_val[1:-1].strip()
-                        alt_val = strip_brackets(alt_val, brackets=self.form_spec.brackets)
-                        alt_val = re.sub(r'\s{2,}', ' ', alt_val)
+                        if lg_id == '838':
+                            # tone markers are wrapped in ()
+                            w = re.sub(r'\((\d+)\)', '\\1', w)
+                        if lg_id == '282':
+                            # trailing ' [...]' is a pronunciation comment
+                            w = re.sub(r'\s+\[[^\]]+?\]\s*$', '', w).strip()
 
-                        if f and not empty.match(f):
+                        w = self.form_spec.clean(w)
+                        w = re.sub(r'\-{2,}', '-', w)
+
+                        if alt_val:
+                            if wrapped_in_brackets.search(alt_val):
+                                alt_val = alt_val[1:-1].strip()
+                            alt_val = self.form_spec.clean(alt_val)
+
+                        if w and not empty.match(w):
                             args.writer.add_form(
                                 Language_ID=lg.lg_id,
                                 Parameter_ID=entry_id,
-                                Value=f,
-                                Form=unicodedata.normalize(self.form_spec.normalize_unicode, f),
+                                Value=w,
+                                Form=unicodedata.normalize(self.form_spec.normalize_unicode, w),
                                 Comment=com,
                                 Source=sources.get(lg.lg_id, ''),
                                 Transcriptions=reprs,

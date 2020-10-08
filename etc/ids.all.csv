@@ -113,6 +113,7 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 180,4,220,jela,NULL,NULL,NULL,NULL,(fem.)
 180,4,220,bindi,NULL,NULL,NULL,NULL,(masc.)
 180,4,220,wutsiya,NULL,NULL,NULL,NULL,
+180,9,263,[karena]pi; [kalena]pi,NULL,NULL,NULL,NULL,From Span. 'cadena'.
 181,13,319,цалдæр,NULL,NULL,NULL,NULL,NULL
 181,13,319,чысыл,NULL,NULL,NULL,NULL,"(немного, чуть-чуть)"
 190,16,107,талихІкъеиʼ,taliħqʼeiʼ,NULL,NULL,NULL,NULL
@@ -164,9 +165,9 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 220,9,53,личΙа,NULL,NULL,NULL,NULL,(предмет-дерево)
 220,9,319,"лыг кæнын, кæрдын",NULL,NULL,NULL,NULL,NULL
 220,9,319,æргæвдын,NULL,NULL,NULL,NULL,(убивать)
+220,9,840,δa:k.7,NULL,NULL,NULL,NULL,
 220,9,840,la:c.7,NULL,NULL,NULL,NULL,
 220,9,840,pa:t.7 ji:.6,NULL,NULL,NULL,NULL,(grass)
-220,9,840,δa:k.7,NULL,NULL,NULL,NULL,
 222,1,225,k-ōšax,NULL,NULL,NULL,NULL,Respectively: 'NOMZR.-ridged'; 'mountain (stone) 3.POS.-front'.
 222,1,225,ʔast īšk,NULL,NULL,NULL,NULL,< ʔast i-ašk; Respectively: 'NOMZR.-ridged'; 'mountain (stone) 3.POS.-front'.
 222,18,200,(proiznásjam) réč,NULL,NULL,NULL,NULL,"Fem., lit. 'pronounce a speech' from roots nas-/ nes, 'carry'; prefixes pro- + iz- 'through+out of'."
@@ -405,6 +406,7 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 410,20,840,ʔɔ:.1 tɔ:.3,NULL,NULL,NULL,NULL,(to win)
 420,12,30,мекъаб (рахъ),meqʼab (raq),NULL,NULL,NULL,NULL
 420,13,175,-ɨnhɨrɨ,NULL,NULL,NULL,NULL,...-ɨnhɨrɨ - The number '3' precedes.
+420,17,244,k-...-ʔh-;kaa-...-ʔh-,NULL,NULL,NULL,NULL,Verb is added to construction.
 420,8,824,hot.5,NULL,NULL,NULL,NULL,
 420,8,824,ŋw.1 kok.4,NULL,NULL,NULL,NULL,(< Viet)
 430,14,237,e popouí kehukehu; e éhuéhu; maéhuéhu,NULL,NULL,NULL,NULL,
@@ -433,6 +435,7 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 455,2,831,nɔŋ.49,NULL,NULL,NULL,NULL,???
 460,17,319,"æнцон, æнцонвадат",NULL,NULL,NULL,NULL,NULL
 460,17,319,рог,NULL,NULL,NULL,NULL,(о грузе)
+460,2,318,ábaŋkortu / abáŋkuru || abaŋkoro || abaŋkoru | ábaŋ / abáŋ,NULL,NULL,NULL,NULL,
 460,2,319,фыдыфыд,NULL,NULL,NULL,NULL,(со стороны отца)
 460,2,319,мады фыд,NULL,NULL,NULL,NULL,(матери)
 460,5,319,"цъар стигъын",NULL,NULL,NULL,NULL,"(овощи, фрукты)"
@@ -572,6 +575,7 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 585,3,319,"хъæрццыгъа; уари",NULL,NULL,NULL,NULL,NULL
 585,3,319,лацин,NULL,NULL,NULL,NULL,сокол
 586,3,824,ken.2 ken.2,NULL,NULL,NULL,NULL,(< Viet)
+591,4,318,áɖu,NULL,NULL,NULL,NULL,minimal pair with adu – ‘leaf’
 592,3,829,ʔɨncîəm kɛ̂:w,NULL,NULL,NULL,NULL,(T
 593,3,319,халон,NULL,NULL,NULL,NULL,NULL
 593,3,319,сынт,NULL,NULL,NULL,NULL,ворон
@@ -702,7 +706,7 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 730,1,319,саувадыг,NULL,NULL,NULL,NULL,(грозовая)
 730,1,833,ʔic.A ju:r.B,NULL,NULL,NULL,NULL,+sky
 730,4,835,puəh thɔm,NULL,NULL,NULL,NULL,(polite)
-730,4,836,thmuən puəhs,NULL,NULL,NULL,NULL,(polite)
+730,4,836,thmuən puəh,NULL,NULL,NULL,NULL,(polite)
 730,8,319,зæнг,NULL,NULL,NULL,NULL,(бæрзы зæнг – ствол березы)
 730,8,319,хъæд,NULL,NULL,NULL,NULL,NULL
 740,14,832,rɨdu:.A sɛc.A,NULL,NULL,NULL,NULL,T+
@@ -712,6 +716,7 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 750,1,234,PPN *ʔuha; <*quha>; *timu,NULL,NULL,NULL,NULL,"PPN *lolo 'flood, heavy r'. PPN *kofu; *kapu'mist'. PCP *qovu'mist'. PCP *kabu, *kavu; *quza. 'Raindrop' *pata."
 750,1,274,ena,NULL,NULL,NULL,NULL,
 750,1,274,pwehi,NULL,NULL,NULL,NULL,?
+750,1,296,kʔauixu (kʔawixu); kʔauixukla,NULL,NULL,NULL,NULL,Latter is verbal form.
 750,15,319,"фæлмæн, хæмпус; фæлмæн",NULL,NULL,NULL,NULL,NULL
 750,15,319,фæлмас,NULL,NULL,NULL,NULL,(характер)
 750,2,220,maraya,NULL,NULL,NULL,NULL,(masc.)
@@ -723,6 +728,8 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 760,12,319,"фисын, тигъ",NULL,NULL,NULL,NULL,NULL
 760,5,319,сæнæфсир,NULL,NULL,NULL,NULL,(ягоды)
 760,6,177,gra,NULL,NULL,NULL,NULL,(de rosari/ de collaret)
+760,6,192,[gimma],NULL,NULL,NULL,NULL,(?) from Latin 'gemma'
+760,6,192,[berla]; [per(a)la],NULL,NULL,NULL,NULL,(?) from 'Vulgar' Latin '*perla'
 760,9,319,къалати,NULL,NULL,NULL,NULL,(маленькая)
 760,9,319,къуту,NULL,NULL,NULL,NULL,NULL
 760,9,319,куыф,NULL,NULL,NULL,NULL,(большая)
