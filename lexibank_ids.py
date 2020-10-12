@@ -141,7 +141,8 @@ class Dataset(IDSDataset):
             gl = GLOTTOCODE_UPDATES.get(gl, gl)
             reprs = [data_desc[lg_id].get('1')]
             if data_desc[lg_id].get('2', ''):
-                reprs.append(data_desc[lg_id].get('2'))
+                if lg_id != '194':  # ignore 2. repr - it's in comment
+                    reprs.append(data_desc[lg_id].get('2'))
             args.writer.add_language(
                 ID=lg_id,
                 Name=lg_name.strip(),
@@ -173,6 +174,8 @@ class Dataset(IDSDataset):
                 if lg.lg_id in ids_lgs_ids and '{0}-{1}'.format(lg.chap_id, lg.entry_id) in entry_ids:
                     etc_ids[lg.lg_id]['{0}-{1}'.format(lg.chap_id, lg.entry_id)].append(lg)
 
+        leave_org_values = list([703, 708, 709] + list(range(800, 813)) + list(range(814, 841)))
+
         args.log.info("grouping forms ...")
         for lg_id, entries in pylexibank.progressbar(groupby(
                     sorted(self.ids_raw_read('ids'), key=lambda t: t.lg_id),
@@ -183,6 +186,7 @@ class Dataset(IDSDataset):
 
             desc = data_desc.get(lg_id, {})
             words = defaultdict(list)
+            lg_org_value = defaultdict(str)
             entries_list = list(entries)
 
             # find last valid entry
@@ -203,6 +207,11 @@ class Dataset(IDSDataset):
                     continue
 
                 lg_entry_id = '{0}-{1}'.format(lg.lg_id, entry_id)
+
+                if int(lg.lg_id) in leave_org_values:
+                    lg_org_value[lg_entry_id] = lg.data_1
+                elif not lg_org_value[lg_entry_id]:
+                    lg_org_value[lg_entry_id] = lg.data_1
 
                 # check for corrected data set
                 if lg.lg_id in etc_ids and entry_id in etc_ids[lg.lg_id]:
@@ -278,7 +287,7 @@ class Dataset(IDSDataset):
                             args.writer.add_form(
                                 Language_ID=lg.lg_id,
                                 Parameter_ID=entry_id,
-                                Value=w,
+                                Value=lg_org_value[lg_entry_id],
                                 Form=unicodedata.normalize(self.form_spec.normalize_unicode, w),
                                 Comment=com,
                                 Source=sources.get(lg.lg_id, ''),
