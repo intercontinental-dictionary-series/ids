@@ -182,6 +182,7 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 230,10,319,згъæлын,NULL,NULL,NULL,NULL,(листья)
 230,10,319,æвзийын,NULL,NULL,NULL,NULL,(о волосах)
 230,14,172,peʔɲe,NULL,NULL,NULL,NULL,(+ verb)
+230,14,228,wootl;di-wootl,NULL,NULL,NULL,NULL,
 230,2,411,sa:i.1,NULL,NULL,NULL,NULL,(person)
 230,2,411,tak.2,NULL,NULL,NULL,NULL,(animal)
 230,21,824,mɔn.5 ṭɨŋ.4 kw.4,NULL,NULL,NULL,NULL,(???)
@@ -297,6 +298,7 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 330,6,319,бийын,NULL,NULL,NULL,NULL,NULL
 330,6,319,кæнын,NULL,NULL,NULL,NULL,NULL
 330,6,319,хизгонд кæнын,NULL,NULL,NULL,NULL,(плести кружева)
+331,4,234,--,NULL,NULL,NULL,NULL,
 332,14,832,we:.C la:.C kɔ:i.D,NULL,NULL,NULL,NULL,T+
 340,1,824,viń.5,NULL,NULL,NULL,NULL,(no rec) (< Viet)
 340,13,832,ʔandap.E mo:i.C,NULL,NULL,NULL,NULL,T+
@@ -426,6 +428,7 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 440,22,836,tî:wda,NULL,NULL,NULL,NULL,"(an angel, heavenly spirit)"
 440,8,410,khaw.4 mu:.4 jɔ:.1,NULL,NULL,NULL,NULL,
 440,8,410,khaw.4 ba:.2-le:.2,NULL,NULL,NULL,NULL,(English)
+440,9,278,a-,NULL,NULL,NULL,NULL,"The type of building must be stated first; the a- means 'do, make' 09.110."
 445,2,223,taʔa,NULL,NULL,NULL,NULL,
 450,10,319,цæуын,NULL,NULL,NULL,NULL,NULL
 450,10,319,рацу-бацу кæнын,NULL,NULL,NULL,NULL,(многократное)
@@ -566,6 +569,7 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 570,19,319,фысым,NULL,NULL,NULL,NULL,(для гостя)
 570,2,319,байзæддаг,NULL,NULL,NULL,NULL,NULL
 570,2,319,байзæддæгтæ,NULL,NULL,NULL,NULL,(мн.)
+570,3,413,pat.7,NULL,NULL,NULL,NULL,
 570,4,319,омын,NULL,NULL,NULL,NULL,(рвота)
 570,4,319,удхар кæнын,NULL,NULL,NULL,NULL,NULL
 570,7,314,ʔipaḳ,NULL,NULL,NULL,NULL,(masc)
@@ -583,6 +587,7 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 594,3,319,бæлон,NULL,NULL,NULL,NULL,(домашний)
 594,3,319,сыл бæлон,NULL,NULL,NULL,NULL,(голубка)
 60,13,230,nˀopo,NULL,NULL,NULL,NULL,< nˀop-po
+60,13,424,mjaŋ.#,NULL,NULL,NULL,NULL,.~́
 600,8,314,ʔipaḳ,NULL,NULL,NULL,NULL,(fem.)
 610,1,241,aho; auīna (ao); hēraka; rako; huru,NULL,NULL,NULL,NULL,
 610,1,305,nalkii,NULL,NULL,NULL,NULL,Respectively: verbal form; natural light ('brillant').
@@ -607,6 +612,7 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 620,1,319,мæйдар,NULL,NULL,NULL,NULL,(ночная)
 620,1,319,"талынг, тар",NULL,NULL,NULL,NULL,NULL
 620,11,832,lo:m.C jɨ:m.B,NULL,NULL,NULL,NULL,+T V?
+620,15,249,heu,NULL,NULL,NULL,NULL,Particular color is added to construction.
 620,15,832,si:.F po:t.D,NULL,NULL,NULL,NULL,T+
 620,17,193,wie manege?; wie vile?,NULL,NULL,NULL,NULL,
 620,17,420,saŋ.5 łoŋ.1,NULL,NULL,NULL,NULL,?
@@ -734,6 +740,7 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 760,9,319,къуту,NULL,NULL,NULL,NULL,NULL
 760,9,319,куыф,NULL,NULL,NULL,NULL,(большая)
 760,9,319,тæскъ,NULL,NULL,NULL,NULL,(для ношения на спине)
+770,1,424,ŋaŋ.31 lai.31 haŋ.#,NULL,NULL,NULL,NULL,.~̄
 770,15,319,"лæгъз; æнцон",NULL,NULL,NULL,NULL,NULL
 770,15,319,æнæхъинцъ,NULL,NULL,NULL,NULL,(перенос.)
 770,4,172,(object +) usuka-sa,NULL,NULL,NULL,NULL,"For ex. eʔɲapa usuka-sa, 'person dead'. Also koʔkin usuka-sa, 'lemon dead (rotten lemon)'."

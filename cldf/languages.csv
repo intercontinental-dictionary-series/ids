@@ -87,7 +87,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 191,Dutch,dutc1256,Dutch,nld,Eurasia,52.0,5.0,Indo-European,Bernard Bichakjian;Hendrikje Hettema,Jessica Ellis,,StandardOrth,Hollands;Nederlands,2007-09-20
 192,Old High German,oldh1241,Old High German (ca. 750-1050),goh,Eurasia,52.0,10.0,Indo-European,Vincent Miller,Vincent Miller;Mackayla Infante-Wong,,StandardOrth,German (Old High),2007-09-20
 193,Middle High German,midd1343,Middle High German,gmh,Eurasia,48.254,10.599,Indo-European,William C. Crossgrove,Mackayla Infante-Wong;William C. Crossgrove,,StandardOrth,German (Middle High),2007-09-20
-194,German,stan1295,German,deu,Eurasia,48.649,12.4676,Indo-European,Meredith Lee,Mary Ritchie Key,,StandardOrth;Original (M. R. Key),Deutsch,2014-01-25
+194,German,stan1295,German,deu,Eurasia,48.649,12.4676,Indo-European,Meredith Lee,Mary Ritchie Key,,StandardOrth,Deutsch,2014-01-25
 195,Yiddish,east2295,Eastern Yiddish,ydd,Eurasia,51.75,19.42,Indo-European,Paul Glasser,Mackayla Infante-Wong,,Phonemic,Jiddisch;Judeo-German,2007-09-20
 196,Lithuanian,lith1251,Lithuanian,lit,Eurasia,55.1429,23.9601,Indo-European,Ramutė Plioplys,Mackayla Infante-Wong,S. J. Juozas Vaišnys;Sigita Plioplys;Kazimieras Plečkaitis;William R. Schmalsteig,StandardOrthTone,Lietuvi;Lietuviskai;Litauische;Litewski;Litovskiy,2007-09-20
 197,Latvian,latv1249,Latvian,lav,Eurasia,56.826108,24.309118,Indo-European,Juris Cibuļs,Mary Ritchie Key,,StandardOrth,Lettish,2007-09-20
