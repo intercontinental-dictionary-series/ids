@@ -33,7 +33,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 66,Rutul,rutu1240,Rutul,rut,Eurasia,41.6187,47.3244,Nakh-Daghestanian,Madzhid Khalilov,Stefan Lange,,CyrillTrans;Phonemic,Chal;Mukhad;Mykhanidy;Rutal;Rutultsy;Rutuly,2014-01-26
 67,Tabasaran (Northern dialect Khanag subdialect),taba1259,Tabasaran,tab,Eurasia,42.0198,47.8379,Nakh-Daghestanian,Madzhid Khalilov,Stefan Lange,,CyrillTrans;Phonemic,Dialect;Ghumghum;Khanag;North;Tabasaran;Tabasarantsy;Tabassaran,2014-01-26
 68,Tabasaran (Southern dialect),sout2752,South Tabasaran,tab,Eurasia,,,Nakh-Daghestanian,Madzhid Khalilov,Stefan Lange,,CyrillTrans;Phonemic,Dialect;Ghumghum;South;Tabasaran;Tabasarantsy;Tabassaran,2014-01-26
-69,Khinalug,khin1240,Khinalugh,kjj,Eurasia,41.1801,48.0571,Nakh-Daghestanian,Madzhid Khalilov,Stefan Lange,,CyrillTrans;Phonemic,Khinalugh;Khinalugi;Xinalug,2014-01-26
+69,Khinalug,khin1240,Khinalug,kjj,Eurasia,41.1801,48.0571,Nakh-Daghestanian,Madzhid Khalilov,Stefan Lange,,CyrillTrans;Phonemic,Khinalugh;Khinalugi;Xinalug,2014-01-26
 70,Tsakhur,tsak1249,Tsakhur,tkr,Eurasia,41.5916,46.8858,Nakh-Daghestanian,Madzhid Khalilov,Stefan Lange,,CyrillTrans;Phonemic,Caxur;Sakhur;Tsakhury;Tsaxur,2014-01-26
 71,Azerbaijani,nort2697,North Azerbaijani,azj,Eurasia,40.9777,46.4737,Turkic,Madzhid Khalilov,Stefan Lange,,CyrillTrans;Phonemic,Azerbaijan;Azerbaydzhani;Azeri;Torki;Turk,2014-01-24
 72,Kumyk,kumy1244,Kumyk,kum,Eurasia,43.0,47.0,Turkic,Madzhid Khalilov,Stefan Lange,,CyrillTrans;Phonemic,Kumuk;Kumuklar;Kumyki,2014-01-26
@@ -67,7 +67,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 171,French,stan1290,French,fra,Eurasia,48.0,2.0,Indo-European,various,Mary Ritchie Key,,StandardOrth,Français,2007-07-20
 172,Panare,enap1235,Panare,pbh,South America,6.95035,-65.8483,Cariban,Jana Price,Mary Ritchie Key,,Phonemic,Abira;Eye;Eñepa;Panari,2007-08-30
 173,Macushi,macu1259,Macushi,mbc,South America,4.31861,-60.2209,Cariban,Miriam Abbott;Patrick Foster,Mary Ritchie Key,,Phonemic,Macusi;Makushi;Makusi;Makuxi;Teueia;Teweya,2007-08-30
-174,De'kwana,maqu1238,Maquiritari,mch,South America,4.70705,-64.3877,Cariban,Katherine Hall,Mary Ritchie Key,,Phonemic,Carib (De'kwana);Cunuana;De'cuana;De'kwana Carib;Maiongong;Maquiritai;Maquiritare;Maquiritari;Pawana;Soto;Ye'cuana;Yekuana,2007-08-30
+174,De'kwana,maqu1238,Ye'kwana,mch,South America,4.70705,-64.3877,Cariban,Katherine Hall,Mary Ritchie Key,,Phonemic,Carib (De'kwana);Cunuana;De'cuana;De'kwana Carib;Maiongong;Maquiritai;Maquiritare;Maquiritari;Pawana;Soto;Ye'cuana;Yekuana,2007-08-30
 175,Wai Wai,waiw1244,Waiwai,waw,South America,1.50881,-59.1417,Cariban,Robert E. Hawkins,Mary Ritchie Key,,Phonemic,Ouayeone;Uaieue;Uaiuai;Waiwai,2007-08-30
 176,Spanish,stan1288,Spanish,spa,Eurasia,40.4414,-1.11788,Indo-European,Joan Rafel;various,Mary Ritchie Key,,Phonemic,Castellano;Castilian;Español,2007-08-31
 177,Catalan,stan1289,Catalan,cat,Eurasia,41.453,1.569,Indo-European,Joan Rafel,Mary Ritchie Key,Native speaker,StandardOrth,Bacavès;Catalonian;Català;Catalán,2007-08-31
@@ -153,14 +153,14 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 257,Tuyuca,tuyu1244,Tuyuca,tue,South America,0.39441,-70.043515,Tucanoan,Janet Barnes,Mary Ritchie Key,,Phonemic,Dochkafuara;Tejuca;Tuyuka,2007-10-30
 258,Aguaruna,agua1253,Aguaruna,agr,South America,-5.30044,-77.9218,Chicham,Gerardo Wipio Deicat,Mary Ritchie Key,,Phonemic,Aguajun;Ahuajun,2007-10-30
 260,Yagua,yagu1244,Yagua,yad,South America,-3.42913,-72.2186,Peba-Yagua,Esther Powlison;Paul S. Powlison,Mary Ritchie Key,,Phonemic,Llagua;Nijyamïï Nikyejaada;Yahua;Yava;Yegua,2007-10-30
-261,Baure,baur1253,Baure,brg,South America,-13.1278,-64.1838,Arawakan,Mary Ritchie Key,Mary Ritchie Key,,Phonemic,,2007-10-30
+261,Baure,baur1253,Baure,brg,South America,-13.61,-63.68,Arawakan,Mary Ritchie Key,Mary Ritchie Key,,Phonemic,,2007-10-30
 262,Goajiro,wayu1243,Wayuu,guc,South America,11.395566,-72.199791,Arawakan,Jesús Olza Zubiri;Miguel Angel Jusayú;José Alvarez (commentary),Mary Ritchie Key,,Phonemic,Guajira;Guajiro;Wayuu,2007-10-30
 263,Ignaciano,igna1246,Ignaciano,ign,South America,-15.1188,-65.3993,Arawakan,Mary Ritchie Key;Mary Ritchie Key,Mary Ritchie Key;Mary Ritchie Key,"Ott's material, and Ott correspondence",Phonemic,Mojo;Mojos;Moxo;Moxos,2007-10-30
 264,Mashco Piro,mash1270,Mashco Piro,cuj,South America,-11.4745,-70.7953,Arawakan,Mary Ritchie Key,Mary Ritchie Key,,Phonemic,Cujareno;Cujareño,2007-10-30
 265,Trinitario,trin1274,Trinitario-Javeriano-Loretano,trn,South America,-15.3331,-65.4096,Arawakan,Wayne Gill;Ruth Gill,Mary Ritchie Key,,Phonemic,Mojos;Moxos,2007-10-30
 266,Wapishana,wapi1253,Wapishana,wap,South America,2.58744,-59.8021,Arawakan,Frances V. Tracy;Colette Melville;Olive Williams,Mary Ritchie Key,,Phonemic,Uapixana;Vapidiana;Wapichan;Wapichana;Wapisana;Wapishshiana;Wapisiana;Wapitxana;Wapixana,2007-10-30
 267,Waurá,waur1244,Waurá,wau,South America,-13.296,-53.6971,Arawakan,Joan Richards,Mary Ritchie Key,,Phonemic,Aura;Uaura;Waura,2007-10-30
-268,Yavitero,yavi1244,Yavitero,yvt,South America,2.800281,-68.084219,Arawakan,Mary Ritchie Key,Mary Ritchie Key,Jorge Carlos Mosonyi,Phonemic,Paraene,2007-10-30
+268,Yavitero,yavi1244,Yavitero-Pareni,yvt,South America,2.924844,-67.438886,Arawakan,Mary Ritchie Key,Mary Ritchie Key,Jorge Carlos Mosonyi,Phonemic,Paraene,2007-10-30
 269,Aymara,cent2142,Central Aymara,ayr,South America,-17.0,-68.5,Aymaran,Félix Layme Pairumani,Mary Ritchie Key,,Phonemic,Aymara Central,2007-10-30
 270,Chipaya,chip1262,Chipaya,cap,South America,-18.73951,-67.89633,Uru-Chipaya,Frances Olson;Ronald D. Olson,Mary Ritchie Key,,Phonemic,Puquina,2007-10-30
 271,Mosetén,mose1249,Mosetén-Chimané,cas,South America,-14.64448,-67.83756,Mosetén-Chimané,Andrés A. Pérez Diez,Mary Ritchie Key,,Phonemic,Chimane;Chimané;Moseten;Tsimane;Tsimané,2007-10-30

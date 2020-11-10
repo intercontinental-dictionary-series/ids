@@ -15,7 +15,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1-280,cave,1155,CAVE
 1-310,water,948,WATER
 1-320,sea,1474,SEA
-1-322,calm (of sea),258,CALM
+1-322,calm (of sea),,
 1-323,rough (of sea),259,ROUGH (OF SEA)
 1-324,foam,1768,FOAM
 1-329,ocean,645,OCEAN
@@ -301,7 +301,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 4-344,fingernail,1258,FINGERNAIL
 4-345,claw,72,CLAW
 4-350,leg,1297,LEG
-4-351,thigh,800,THIGH
+4-351,thigh,471,UPPER LEG (THIGH)
 4-352,calf of leg,498,CALF OF LEG
 4-360,knee,1371,KNEE
 4-370,foot,1301,FOOT
@@ -702,7 +702,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 9-771,rug,292,RUG
 9-780,netbag,293,NETBAG
 9-790,fan (noun),1971,FAN (OBJECT)
-9-791,fan (vb),360,FAN ACTION
+9-791,fan (vb),360,FAN (ACTION)
 9-810,carve,228,CARVE
 9-820,sculptor,914,SCULPTOR
 9-830,statue,1002,STATUE
