@@ -5,18 +5,20 @@
         "cldf:Wordlist",
         "linguistics"
     ],
-    "creators": [
-        {
-            "name": "Robert Forkel"
-        },
-        {
-            "name": "Christoph Rzymski"
-        },
-        {
-            "name": "Hans-J\u00f6rg Bibiko"
-        }
-    ],
+    "creators": [],
     "contributors": [
+        {
+            "name": "Robert Forkel",
+            "type": "Other"
+        },
+        {
+            "name": "Christoph Rzymski",
+            "type": "Other"
+        },
+        {
+            "name": "Hans-J\u00f6rg Bibiko",
+            "type": "Other"
+        },
         {
             "name": "Mary Ritchie Key",
             "type": "Editor"

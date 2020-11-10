@@ -18,19 +18,19 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/intercontinental-dictionary-series/ids",
-            "dc:created": "v3.0-17-g8f7e08d"
+            "dc:created": "v3.0-19-gd301f89"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.2.1"
+            "dc:created": "v4.3"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.4.0-rc.1-39-gd5655c3"
+            "dc:created": "v2.4.0"
         },
         {
             "rdf:type": "prov:Entity",

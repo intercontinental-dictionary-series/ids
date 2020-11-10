@@ -4,7 +4,7 @@ Cite the source dataset as
 
 > Key, Mary Ritchie & Comrie, Bernard (eds.) 2015. The Intercontinental Dictionary Series. Leipzig: Max Planck Institute for Evolutionary Anthropology.
 
-This dataset is licensed under a https://creativecommons.org/licenses/by/4.0/ license
+This dataset is licensed under a CC-BY-4.0 license
 
 Available online at https://ids.clld.org
 
@@ -35,9 +35,9 @@ Conceptlists in Concepticon:
 
 Name               | GitHub user  | Description                          | Role
 ---                | ---          | ---                                  | ---
-Robert Forkel | @xrotwang   | digitization        | Author
-Christoph Rzymski        | @chrzyki       | patron     | Author
-Hans-Jörg Bibiko         | @Bibiko       | maintainer     | Author
+Robert Forkel | @xrotwang   | digitization        | Other
+Christoph Rzymski        | @chrzyki       | patron     | Other
+Hans-Jörg Bibiko         | @Bibiko       | maintainer     | Other
 Mary Ritchie Key | | Founding Editor | Editor
 Bernard Comrie | | General Editor | Editor
 
