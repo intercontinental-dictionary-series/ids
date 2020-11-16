@@ -23,7 +23,7 @@ setup(
         "pylexibank>=2.7.1",
         "clldutils>=3.5.2",
         "csvw>=1.8.0",
-        "idspy>=0.1",
+        "idspy>=0.2",
     ],
     extras_require={
         "test": [
