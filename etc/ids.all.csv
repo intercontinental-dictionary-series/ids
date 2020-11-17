@@ -58,12 +58,15 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 130,3,319,сылон мыггаг,NULL,NULL,NULL,NULL,(женский род)
 130,3,835,mi:,NULL,NULL,NULL,NULL,(animal)
 130,3,836,mi:,NULL,NULL,NULL,NULL,(animal)
+130,5,826,cu:ŋ#.13,NULL,NULL,NULL,NULL,
+130,5,826,cu:ŋ#.434,NULL,NULL,NULL,NULL,
 131,7,824,ńa.2 mat.4,NULL,NULL,NULL,NULL,(< Viet)
 140,10,211,vī- (vyā-) (vyayati),NULL,NULL,NULL,NULL,
 140,10,211,vī- (vye-) (vyayati),NULL,NULL,NULL,NULL,
 140,10,211,ā-veṣṭ- (āveṣṭate),NULL,NULL,NULL,NULL,"This form indicates 'covering, enveloping'."
 140,17,215,ʔeχad,NULL,NULL,NULL,NULL,lit. 'hold'
-140,22,825,nə:j.33 sə.33,NULL,NULL,NULL,NULL,
+140,22,827,--,NULL,NULL,NULL,NULL,
+140,22,825,--,NULL,NULL,NULL,NULL,
 140,22,826,--,NULL,NULL,NULL,NULL,
 145,4,239,lev-leva,NULL,NULL,NULL,NULL,??
 145,4,835,mi:h kda,NULL,NULL,NULL,NULL,(of man)
@@ -142,11 +145,12 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 210,6,319,сгæллад,NULL,NULL,NULL,NULL,(фабричное)
 210,8,416,kwai.1,NULL,NULL,NULL,NULL,(noun)
 210,8,416,kha:i.5,NULL,NULL,NULL,NULL,(vb)
+210,8,826,kan.33,NULL,NULL,NULL,NULL,
 211,18,832,ńa:j.A bəʔ.A,NULL,NULL,NULL,NULL,+T
 212,1,208,tekan-; [tagn-],NULL,NULL,NULL,NULL,"HEG 292-300:  'earth, ground'; place for dead bodies. dagan-zipa (originally) 'earth spirit' came to be a synonym for tekan-. See also 'field' 01.230; 08.120 and 'pasture' 03.160 for 'land' relative to agricultural uses."
 212,15,39,"ссуваᴴлъа, хьваᴴй га̄лъа","s̄uwaⁿɬa, x̌ʷaⁿy gāɬa",NULL,NULL,NULL,NULL
 213,12,829,tháp thə:n,NULL,NULL,NULL,NULL,
-213,12,829,pâl,NULL,NULL,NULL,NULL,= mix
+213,12,829,pâl,NULL,NULL,NULL,NULL,#NAME?
 213,4,319,уæлтъыфал,NULL,NULL,NULL,NULL,(верхнее)
 213,4,319,дæлтъыфал,NULL,NULL,NULL,NULL,(нижнее)
 215,4,800,hat.33 ŋai.#,NULL,NULL,NULL,NULL,
@@ -168,6 +172,7 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 220,9,840,δa:k.7,NULL,NULL,NULL,NULL,
 220,9,840,la:c.7,NULL,NULL,NULL,NULL,
 220,9,840,pa:t.7 ji:.6,NULL,NULL,NULL,NULL,(grass)
+221,18,826,(ʔi:n.33) ʔw.33 cɨ̯i:e:n.51ʔ,NULL,NULL,NULL,NULL,
 222,1,225,k-ōšax,NULL,NULL,NULL,NULL,Respectively: 'NOMZR.-ridged'; 'mountain (stone) 3.POS.-front'.
 222,1,225,ʔast īšk,NULL,NULL,NULL,NULL,< ʔast i-ašk; Respectively: 'NOMZR.-ridged'; 'mountain (stone) 3.POS.-front'.
 222,18,200,(proiznásjam) réč,NULL,NULL,NULL,NULL,"Fem., lit. 'pronounce a speech' from roots nas-/ nes, 'carry'; prefixes pro- + iz- 'through+out of'."
@@ -211,7 +216,7 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 250,7,708,jaṉṉal,,,,,
 250,8,416,laʔ.7 kau.1,NULL,NULL,NULL,NULL,(noun)
 250,8,416,kuəʔ.7,NULL,NULL,NULL,NULL,(vb)
-252,10,27,хьвеле,x̌ʷele,NULL,NULL,NULL,NULL,
+252,10,27,хьвеле,x̌ʷele,NULL,NULL,NULL,NULL
 260,14,250,-te + bai,NULL,NULL,NULL,NULL,(action) + -te + bai
 252,14,408,ʔɔt.1; khan.3-ti:.3,NULL,NULL,NULL,NULL,(Pali)
 260,12,234,PPN *kofu; *kafu; *hafu(t); *ʔufi; <*qufi>; *puni; *puipui: *kapu; *kapi; *poki; *uta; *həb; *kəpi,NULL,NULL,NULL,NULL,"PPN *puului; *fuke'uncover'. PNP *poki; (ʔ)uta. PEP *puʔa; *puuroku, 'cover head'. PCP *'u(bv)i. PCP *pu(u)ru'shelter, shield, protect'."
@@ -284,7 +289,7 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 320,8,29,"бесзи, хъвази, бакІарзи, кІатІзи","beszi, qʷazi, bakʼarzi, kʼatʼzi",NULL,NULL,NULL,NULL
 320,8,319,кæрдын,NULL,NULL,NULL,NULL,NULL
 320,8,319,хос кæрдын,NULL,NULL,NULL,NULL,(сено)
-320,9,703,"ban ñiad","","","","",""
+320,9,703,ban ñiad,,,,,
 323,1,824,măt.4 rak.5 ɣən.5 lăn tăn,NULL,NULL,NULL,NULL,(no rec)
 329,1,402,ma.3 ha:.10 sa.3 mut.8,NULL,NULL,NULL,NULL,(Bangkok)
 330,11,824,v...t.5,NULL,NULL,NULL,NULL,(???)
@@ -298,6 +303,8 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 330,6,319,бийын,NULL,NULL,NULL,NULL,NULL
 330,6,319,кæнын,NULL,NULL,NULL,NULL,NULL
 330,6,319,хизгонд кæнын,NULL,NULL,NULL,NULL,(плести кружева)
+331,14,824,ṭăŋ.1 paw.1 lo.1 nɨə.2,NULL,NULL,NULL,NULL,
+331,14,824,ṭăŋ.1 paw.1 lo.1 nɨə.3,NULL,NULL,NULL,NULL,
 331,4,234,--,NULL,NULL,NULL,NULL,
 332,14,832,we:.C la:.C kɔ:i.D,NULL,NULL,NULL,NULL,T+
 340,1,824,viń.5,NULL,NULL,NULL,NULL,(no rec) (< Viet)
@@ -323,6 +330,8 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 350,10,319,доныл цæуын,NULL,NULL,NULL,NULL,(на судне)
 350,14,175,ša hara,NULL,NULL,NULL,NULL,... + ša hara - Verb precedes.
 350,20,824,thań.2 ṭj.2,NULL,NULL,NULL,NULL,(< Viet>)
+350,20,831,kun.42ʔ thań.42ʔ,NULL,NULL,NULL,NULL,
+350,20,831,kun.42ʔ thań.24ʔ,NULL,NULL,NULL,NULL,
 350,4,319,"къах, фад",NULL,NULL,NULL,NULL,NULL
 350,4,319,зæнг,NULL,NULL,NULL,NULL,(голень)
 350,8,319,мус,NULL,NULL,NULL,NULL,(для молотьбы)
@@ -375,16 +384,19 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 380,18,306,'nʔoyeh; 'nʔoyešuʔ,NULL,NULL,NULL,NULL,> 'noyeh + luʔ - Means 'prohibited'.
 380,2,401,phu:.3-cha:j.1,NULL,NULL,NULL,NULL,(na:j.1 + name)
 380,2,402,na:j.3,NULL,NULL,NULL,NULL,(+ name)
+380,2,415,mba:n.1; ʔa.3 mba:n.1,NULL,NULL,NULL,NULL,
 380,2,829,pê:n̄,NULL,NULL,NULL,NULL,+ name (elderly man)
 380,3,319,сæныкк,NULL,NULL,NULL,NULL,NULL
 380,3,319,дæркъ,NULL,NULL,NULL,NULL,"(от 0,5 до 1 года)"
 380,3,319,цæукъа,NULL,NULL,NULL,NULL,(самец)
 390,15,829,kalɛ̂m,NULL,NULL,NULL,NULL,
-390,15,829,patîək,NULL,NULL,NULL,NULL,= tasteless
+390,15,829,patîək,NULL,NULL,NULL,NULL,#NAME?
 390,2,401,phu:.3-jiŋ.5,NULL,NULL,NULL,NULL,(na:ŋ.1+name)
 390,2,402,na:ŋ.3,NULL,NULL,NULL,NULL,(+ name)
 390,2,829,jɔ:ŋ,NULL,NULL,NULL,NULL,+ name (elderly woman)
 391,5,319,æртыскæн,NULL,NULL,NULL,NULL,(для углей)
+392,4,811,phiu.55,NULL,NULL,NULL,NULL,
+392,4,811,phiu.51,NULL,NULL,NULL,NULL,
 393,4,319,сис,NULL,NULL,NULL,NULL,(птичье)
 40,12,175,-hn-aw,NULL,NULL,NULL,NULL,... + -hn-aw - Lit. '(verb stem) not being-when'.
 40,12,319,"раз, размæ, агъоммæ, разæй",NULL,NULL,NULL,NULL,NULL
@@ -394,6 +406,7 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 41,12,319,размæ,NULL,NULL,NULL,NULL,Предлог- сихоры размæ (перед обедом)
 41,12,319,раз,NULL,NULL,NULL,NULL,хæдзары раз (перед домом)
 410,1,172,ihča,NULL,NULL,NULL,NULL,"(/ih-ya/) - Also iye mataka, behind the trees."
+420,10,840,ta:t.7 lu:t.7,NULL,NULL,NULL,NULL,
 440,1,319,"дур; къæдзæх, къæхæн",NULL,NULL,NULL,NULL,NULL
 440,1,319,айнæг,NULL,NULL,NULL,NULL,(отвесная)
 410,12,30,кумараб (рахъ),kumarab (raq),NULL,NULL,NULL,NULL
@@ -406,6 +419,8 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 410,19,319,фысым,NULL,NULL,NULL,NULL,(в отнош. гостя)
 410,20,836,chniəh,NULL,NULL,NULL,NULL,(to win)
 410,20,840,ʔɔ:.1 tɔ:.3,NULL,NULL,NULL,NULL,(to win)
+420,12,811,ri.55 vɛ.ʔ55,NULL,NULL,NULL,NULL,
+420,12,811,kha.33 kəve.35,NULL,NULL,NULL,NULL,
 420,12,30,мекъаб (рахъ),meqʼab (raq),NULL,NULL,NULL,NULL
 420,13,175,-ɨnhɨrɨ,NULL,NULL,NULL,NULL,...-ɨnhɨrɨ - The number '3' precedes.
 420,17,244,k-...-ʔh-;kaa-...-ʔh-,NULL,NULL,NULL,NULL,Verb is added to construction.
@@ -441,8 +456,10 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 460,2,318,ábaŋkortu / abáŋkuru || abaŋkoro || abaŋkoru | ábaŋ / abáŋ,NULL,NULL,NULL,NULL,
 460,2,319,фыдыфыд,NULL,NULL,NULL,NULL,(со стороны отца)
 460,2,319,мады фыд,NULL,NULL,NULL,NULL,(матери)
-460,5,319,"цъар стигъын",NULL,NULL,NULL,NULL,"(овощи, фрукты)"
+460,5,319,цъар стигъын,NULL,NULL,NULL,NULL,"(овощи, фрукты)"
 460,5,319,æхсæдын,NULL,NULL,NULL,NULL,NULL
+461,4,826,ɣu:̯əc.33,NULL,NULL,NULL,NULL,
+461,4,826,ɣu:̯əc.14,NULL,NULL,NULL,NULL,
 462,4,39,гъвакьи макІва,ɣʷaƛ̄ʼi makʼʷa,NULL,NULL,NULL,NULL
 470,12,832,thit.A nɨə.A,NULL,NULL,NULL,NULL,+T
 470,19,298,apkiɬtimoi,NULL,NULL,NULL,NULL,apkiɬtimoi + ... - Used with a following verb.
@@ -452,7 +469,7 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 470,20,204,plennyj; plennik,NULL,NULL,NULL,NULL,
 470,22,408,la:ŋ.1; ni.5-mit.5,NULL,NULL,NULL,NULL,(Pali)
 470,22,410,na-mik.4,NULL,NULL,NULL,NULL,(Pali)
-470,4,319,"зæнæгдон; риу",NULL,NULL,NULL,NULL,NULL
+470,4,319,зæнæгдон; риу,NULL,NULL,NULL,NULL,NULL
 470,4,319,хъæбыс,NULL,NULL,NULL,NULL,(уст. поэт.)
 470,5,318,ača,NULL,NULL,NULL,NULL,Arabic loan: karba:la/karba:lanú | Arabic loan: mʊsfa/mʊsfanú
 471,2,189,old-e,NULL,NULL,NULL,NULL,
@@ -542,6 +559,7 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 541,12,411,hup.2,NULL,NULL,NULL,NULL,(finger span)
 541,12,411,sɔm.1,NULL,NULL,NULL,NULL,(arm spread)
 550,19,832,kasɨm.D plɛ:k.B ŋa:l.A,NULL,NULL,NULL,NULL,+T+
+550,19,839,tcɔ.55 ha.55,NULL,NULL,NULL,NULL,
 550,2,201,brat od strica,NULL,NULL,NULL,NULL,'male cousin'
 550,2,201,brat od tetke,NULL,NULL,NULL,NULL,'male cousin'
 550,2,201,brat od ujaka,NULL,NULL,NULL,NULL,'male cousin'
@@ -576,10 +594,11 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 540,7,319,æрæф,NULL,NULL,NULL,NULL,(стропило)
 540,7,319,"аххæрæг, уæладзæн, хъайван",NULL,NULL,NULL,NULL,NULL
 582,3,824,haj.2 ʔə̆w.1,NULL,NULL,NULL,NULL,(< Viet)
-585,3,319,"хъæрццыгъа; уари",NULL,NULL,NULL,NULL,NULL
+585,3,319,хъæрццыгъа; уари,NULL,NULL,NULL,NULL,NULL
 585,3,319,лацин,NULL,NULL,NULL,NULL,сокол
 586,3,824,ken.2 ken.2,NULL,NULL,NULL,NULL,(< Viet)
 591,4,318,áɖu,NULL,NULL,NULL,NULL,minimal pair with adu – ‘leaf’
+591,4,415,lo.6 śu.1,NULL,NULL,NULL,NULL,
 592,3,829,ʔɨncîəm kɛ̂:w,NULL,NULL,NULL,NULL,(T
 593,3,319,халон,NULL,NULL,NULL,NULL,NULL
 593,3,319,сынт,NULL,NULL,NULL,NULL,ворон
@@ -612,6 +631,8 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 620,1,319,мæйдар,NULL,NULL,NULL,NULL,(ночная)
 620,1,319,"талынг, тар",NULL,NULL,NULL,NULL,NULL
 620,11,832,lo:m.C jɨ:m.B,NULL,NULL,NULL,NULL,+T V?
+620,12,831,cɛk.44,NULL,NULL,NULL,NULL,
+620,12,831,cɛk.33,NULL,NULL,NULL,NULL,
 620,15,249,heu,NULL,NULL,NULL,NULL,Particular color is added to construction.
 620,15,832,si:.F po:t.D,NULL,NULL,NULL,NULL,T+
 620,17,193,wie manege?; wie vile?,NULL,NULL,NULL,NULL,
@@ -656,8 +677,8 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 660,16,319,ныры-,NULL,NULL,NULL,NULL,о времени
 660,16,319,"ацы, нырыккон",NULL,NULL,NULL,NULL,NULL
 660,17,177,on?; a on?,NULL,NULL,NULL,NULL,
-660,17,193,wā?,NULL,NULL,NULL,NULL,"This term refers to location."
-660,17,193,war?,NULL,NULL,NULL,NULL,"This term refers to motion."
+660,17,193,wā?,NULL,NULL,NULL,NULL,This term refers to location.
+660,17,193,war?,NULL,NULL,NULL,NULL,This term refers to motion.
 660,17,202,kde?; kam?,NULL,NULL,NULL,NULL,
 660,17,319,кæм?; кæцæй?,NULL,NULL,NULL,NULL,NULL
 660,17,420,tei.4 na.6,NULL,NULL,NULL,NULL,?
@@ -711,6 +732,8 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 730,1,319,"мигъ, æврагъ; мигъ",NULL,NULL,NULL,NULL,NULL
 730,1,319,саувадыг,NULL,NULL,NULL,NULL,(грозовая)
 730,1,833,ʔic.A ju:r.B,NULL,NULL,NULL,NULL,+sky
+730,4,831,thɔ.55 nam.55 nui̯.33,NULL,NULL,NULL,NULL,
+730,4,831,thɔ.55 nam.55 nui̯.44,NULL,NULL,NULL,NULL,
 730,4,835,puəh thɔm,NULL,NULL,NULL,NULL,(polite)
 730,4,836,thmuən puəh,NULL,NULL,NULL,NULL,(polite)
 730,8,319,зæнг,NULL,NULL,NULL,NULL,(бæрзы зæнг – ствол березы)
@@ -728,6 +751,8 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 750,2,220,maraya,NULL,NULL,NULL,NULL,(masc.)
 750,2,220,marainiya,NULL,NULL,NULL,NULL,(fem.)
 750,5,208,hassikka-,NULL,NULL,NULL,NULL,? - Ali HTT 127; Sumerogram GISH/ MA 'fig'; Puh rejects precise identification of the Hittite word for this tree and its fruit.
+750,9,831,cec.44,NULL,NULL,NULL,NULL,
+750,9,831,cec.33,NULL,NULL,NULL,NULL,
 760,1,401,hi.1-ma.1,NULL,NULL,NULL,NULL,
 760,12,304,-yoteʔ,NULL,NULL,NULL,NULL,(f.)
 760,12,319,къуым,NULL,NULL,NULL,NULL,(в комнате)
@@ -741,7 +766,7 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 760,9,319,куыф,NULL,NULL,NULL,NULL,(большая)
 760,9,319,тæскъ,NULL,NULL,NULL,NULL,(для ношения на спине)
 770,1,424,ŋaŋ.31 lai.31 haŋ.#,NULL,NULL,NULL,NULL,.~̄
-770,15,319,"лæгъз; æнцон",NULL,NULL,NULL,NULL,NULL
+770,15,319,лæгъз; æнцон,NULL,NULL,NULL,NULL,NULL
 770,15,319,æнæхъинцъ,NULL,NULL,NULL,NULL,(перенос.)
 770,4,172,(object +) usuka-sa,NULL,NULL,NULL,NULL,"For ex. eʔɲapa usuka-sa, 'person dead'. Also koʔkin usuka-sa, 'lemon dead (rotten lemon)'."
 770,5,319,æхсæр,NULL,NULL,NULL,NULL,(лесной)
@@ -754,7 +779,7 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 780,9,319,хызын,NULL,NULL,NULL,NULL,(сетчатая)
 780,9,319,дзæкъул,NULL,NULL,NULL,NULL,(сумка)
 790,11,832,ʔi:n.A ra:i.C dai.E,NULL,NULL,NULL,NULL,+ T
-790,15,319,"къуымых; гуылмыз; хуырым",NULL,NULL,NULL,NULL,NULL
+790,15,319,къуымых; гуылмыз; хуырым,NULL,NULL,NULL,NULL,NULL
 790,15,319,гуымыдза,NULL,NULL,NULL,NULL,(о человеке)
 791,5,319,"сой, сойаг; фиу, нард",NULL,NULL,NULL,NULL,NULL
 791,5,319,гам,NULL,NULL,NULL,NULL,(подкожный)
@@ -779,6 +804,8 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 820,5,319,бырц,NULL,NULL,NULL,NULL,(черный)
 820,8,319,кокос-бæлас,NULL,NULL,NULL,NULL,NULL
 820,8,319,кокос-æнгуз,NULL,NULL,NULL,NULL,(плод)
+821,3,826,kə:ɣa:p.34,NULL,NULL,NULL,NULL,
+821,3,826,kə:ɣa:p.434,NULL,NULL,NULL,NULL,
 821,5,319,цывзы,NULL,NULL,NULL,NULL,(красный)
 821,5,829,pakɛ:w phɔ̂ŋ,NULL,NULL,NULL,NULL,
 821,5,829,phana:ʔ,NULL,NULL,NULL,NULL,(=chilli pasta)
@@ -1490,7 +1517,7 @@ entry_id,chap_id,lg_id,data_1,data_2,data_3,data_4,data_5,comment
 650,16,216,ha-mi-ti,NULL,NULL,NULL,NULL,"OE, NE Source: EW 614."
 650,16,216,ha-mi-it,NULL,NULL,NULL,NULL,ME Source: EW 614.
 660,16,216,siri,NULL,NULL,NULL,NULL,Source: EW 1089. Cf. 'Ohr'.
-660,16,216,si-ri,NULL,NULL,NULL,NULL,"NE AchE Source: EW 1089. Cf. 'Ohr'."
+660,16,216,si-ri,NULL,NULL,NULL,NULL,NE AchE Source: EW 1089. Cf. 'Ohr'.
 670,16,216,tit-,NULL,NULL,NULL,NULL,"Sources: EW 340, 342."
 670,16,216,ti-ti-ip,NULL,NULL,NULL,NULL,"AchE Sources: EW 340, 342."
 670,16,216,ti-ut-ki-um-me,NULL,NULL,NULL,NULL,"AchE Sources: EW 340, 342."
