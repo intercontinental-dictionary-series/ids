@@ -17,12 +17,16 @@ setup(
     entry_points={
         "lexibank.dataset": [
             "ids=lexibank_ids:Dataset"
+        ],
+        "cldfbench.commands": [
+            "ids=ids_subcommands",
         ]
     },
     install_requires=[
-        "pylexibank>=2.7.1",
+        "pylexibank>=2.8.2",
+        "openpyxl>=3.0.5",
         "clldutils>=3.5.2",
-        "csvw>=1.8.0",
+        "csvw>=1.8.1",
         "idspy>=0.2",
     ],
     extras_require={
