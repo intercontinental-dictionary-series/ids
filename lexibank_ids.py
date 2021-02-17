@@ -53,6 +53,12 @@ class Dataset(IDSDataset):
                     zipf.extract(fileName, str(self.raw_dir))
         os.remove(dname)
 
+        edited_path = self.raw_dir / 'edited'
+        for xlsx_file in edited_path.glob('*.xlsx'):
+            edited_path.xlsx2csv(xlsx_file)['Sheet'].rename(xlsx_file.with_suffix('.csv'))
+            if not xlsx_file.with_suffix('.md').exists():
+                args.log.warn('No contributor file found for {}'.format(xlsx_file))
+
     def ids_raw_read(self, table):
         raw_dir = self.raw_dir / "ids-data-master"
         fname = raw_dir / (table + ".all.csv")
