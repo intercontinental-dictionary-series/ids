@@ -28,7 +28,7 @@ numpy==1.19.2
 openpyxl==3.0.5
 pluggy==0.13.1
 purl==1.5
-py==1.9.0
+py==1.10.0
 pybtex==0.23.0
 pycldf==1.17.0
 pyclts==2.1.3
