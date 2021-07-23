@@ -11,8 +11,8 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 35,Bagvalal,bagv1239,Bagvalal,kva,Eurasia,42.3966,46.1041,Nakh-Daghestanian,Madzhid Khalilov,Stefan Lange,,CyrillTrans;Phonemic,Bagulal;Bagvalin;Bagwalal;Barbalin;Kvanada;Kvanadin,2014-01-24
 37,Botlikh,botl1242,Botlikh,bph,Eurasia,42.665,46.22,Nakh-Daghestanian,Madzhid Khalilov,Stefan Lange,,CyrillTrans;Phonemic,Botlix,2014-01-24
 38,Godoberi,ghod1238,Godoberi,gdo,Eurasia,42.7428,46.2252,Nakh-Daghestanian,Madzhid Khalilov,Stefan Lange,,CyrillTrans;Phonemic,Ghodoberi;Ghodoberin;Godoberin,2014-01-25
-39,Karata,kara1474,Karata,kpt,Eurasia,42.6501,46.3151,Nakh-Daghestanian,Madzhid Khalilov,Claudia Schmidt;Stefan Lange,,CyrillTrans;Phonemic,Karatai;Karatin;Kirdi,2014-01-26
-40,Karata (Tokitin dialect),toki1238,Tokita,kpt,Eurasia,,,Nakh-Daghestanian,Madzhid Khalilov,Stefan Lange,,CyrillTrans;Phonemic,Karata;Karatai;Karatin;Kirdi;Tokita;Tokitin,2014-01-26
+39,Karata,kara1474,Karata-Tukita,kpt,Eurasia,42.6501,46.3151,Nakh-Daghestanian,Madzhid Khalilov,Claudia Schmidt;Stefan Lange,,CyrillTrans;Phonemic,Karatai;Karatin;Kirdi,2014-01-26
+40,Karata (Tokitin dialect),toki1238,Tokita,kpt,Eurasia,42.5727,46.3724,Nakh-Daghestanian,Madzhid Khalilov,Stefan Lange,,CyrillTrans;Phonemic,Karata;Karatai;Karatin;Kirdi;Tokita;Tokitin,2014-01-26
 41,Khwarshi (Khwarshi dialect),xvar1237,Xvarshi,khv,Eurasia,,,Nakh-Daghestanian,Madzhid Khalilov,Stefan Lange,,CyrillTrans;Phonemic,Khvarsh;Khvarshi;Xvarshi;Xvarshik,2014-01-26
 42,Hinuq,hinu1240,Hinuq,gin,Eurasia,42.4502,45.8064,Nakh-Daghestanian,Madzhid Khalilov,Stefan Lange,,CyrillTrans;Phonemic,Ginukh;Ginukhtsy;Ginux;Hinukh;Hinux,2014-01-26
 50,Tindi,tind1238,Tindi,tin,Eurasia,42.3316,45.9227,Nakh-Daghestanian,Madzhid Khalilov,Stefan Lange,,CyrillTrans;Phonemic,Tindal;Tindin,2014-01-26
@@ -106,7 +106,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 210,Tocharian B,tokh1243,Tokharian B,txb,Eurasia,41.65,82.9,Indo-European,Douglas Q. Adams,Mary Ritchie Key;Mackayla Infante-Wong,,Phonemic,Tocharian;Tokharian,2007-09-27
 211,Sanskrit,sans1269,Sanskrit,san,Eurasia,20.0,77.0,Indo-European,James A. Santucci,James A. Santucci,,LatinTrans,saṃskṛtam;संस्कृतम्,2007-09-27
 212,Romani,vlax1238,Vlax Romani,rmy,Eurasia,46.09,18.16,Indo-European,Donald Kenrick,Mackayla D. Infante-Wong,,Phonemic,Romany;Tsigene;Vlax;rromani ćhib,2007-09-27
-213,Avestan,aves1237,Avestan,ave,Eurasia,31.541,53.633,Indo-European,Mary Ritchie Key,Mary Ritchie Key,,Phonemic,Avesta;Pazend,2007-09-27
+213,Avestan,aves1237,Avestan,ave,Eurasia,34.217,62.112,Indo-European,Mary Ritchie Key,Mary Ritchie Key,,Phonemic,Avesta;Pazend,2007-09-27
 214,Persian,west2369,Western Farsi,pes,Eurasia,32.9,53.3,Indo-European,John R. Perry,Mary Ritchie Key,Herbert H. Paper,Phonemic,Farsi,2007-09-27
 215,Ancient Aramaic,olda1245,Old Aramaic-Sam'alian,oar,Eurasia,32.84,37.0,Afro-Asiatic,Stephen A. Kaufman,Stephen A. Kaufman,Comprehensive Aramaic Lexicon data files,Phonemic,Aramaic (Ancient),2007-10-25
 216,Elamite,elam1244,Elamite,elx,Eurasia,31.1833,48.2333,Elamite,Václav Blazek,Mary Ritchie Key,,Phonemic,,2007-10-25
@@ -143,7 +143,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 247,Embera,nort2972,Northern Emberá,emp,South America,7.12761,-77.574,Chocoan,Mauricio Pardo Rojas,Mary Ritchie Key,,Phonemic,Atrato;Cholo;Darien;Ebera Bedea;Eerã;Emberá;Emberá Northern;Empera,2007-10-30
 248,Epena,epen1239,Epena,sja,South America,4.25877,-77.3566,Chocoan,Phillip Lee Harms;Eladio Quiro Dura,Mary Ritchie Key,,Phonemic,Cholo;Embera-Saija;Emberá-Saija;Epena Pedee;Epená;Epéna Pedée;Saija;Southern Embera;Southern Empera,2007-10-30
 249,Puinave,puin1248,Puinave,pui,South America,3.92974,-67.6886,Puinave,Larry A. Richardson,Mary Ritchie Key,,Phonemic,Puinabe,2007-10-30
-250,Yuwana,yuwa1244,Hoti,yau,South America,5.63879,-65.4267,Jodi-Saliban,Sue Rodman;David Rodman,Mary Ritchie Key,Rodmans' field notes,Phonemic,Chicano;Chikano;Hoti;Jodi;Joti;Jotí;Waruwaru;Yoana;Yuana,2007-10-30
+250,Yuwana,yuwa1244,Hoti,yau,South America,5.63879,-65.4267,Hoti,Sue Rodman;David Rodman,Mary Ritchie Key,Rodmans' field notes,Phonemic,Chicano;Chikano;Hoti;Jodi;Joti;Jotí;Waruwaru;Yoana;Yuana,2007-10-30
 251,Yaruro,pume1238,Pumé,yae,South America,7.10677,-67.5996,Pumé,Teresa Ann Dyck;Merrill Dyck,Mary Ritchie Key,,Phonemic,Llaruro;Pume;Pumé;Yaruru;Yuapín,2007-10-30
 252,Ninam (Shirishana variety),nina1238,Ninam,shb,South America,4.03894,-62.7801,Yanomamic,Carole Swain,Mary Ritchie Key,,Phonemic,Crichana;Jawaperi;Jawari;Kasrapai;Ninam;Shiriana;Shirishana;Xirianá;Yanam,2007-10-30
 253,Yanomámi,yano1262,Yanomám,wca,South America,2.48999,-62.8522,Yanomamic,Jacques Lizot,Mary Ritchie Key,,Phonemic,Parahuri;Surara;Waicá;Waiká;Xurima;Yanoam;Yanomam;Yanomame;Yanomami;Yanomamé;Yanomamí,2007-10-30
@@ -310,9 +310,9 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 820,Phong,phon1246,Phong-Kniang,,Eurasia,19.9622,104.088,Austroasiatic,Ilya Peiros,,,phonetic,,2016-01-31
 821,TUL,,,,,,,,Ilya Peiros,,,phonetic,,2016-01-31
 822,Tum,cuoi1242,Cuoi,,,,,Austroasiatic,Ilya Peiros,,,phonetic,,2016-01-31
-823,Chut (Ruc variety),rucc1239,Ruc,,Eurasia,,,Austroasiatic,Ilya Peiros,,,phonetic,,2016-01-31
+823,Chut (Ruc variety),rucc1239,Ruc,,Eurasia,17.68293,105.7841,Austroasiatic,Ilya Peiros,,,phonetic,,2016-01-31
 824,Phu Tho M (PHU),,,,,,,,Ilya Peiros,,,phonetic,,2016-01-31
-825,Kha Poong,khap1242,Kha Phong,,Eurasia,,,Austroasiatic,Ilya Peiros,,,phonetic,,2016-01-31
+825,Kha Poong,khap1242,Kha Phong,,Eurasia,18.25,105.0,Austroasiatic,Ilya Peiros,,,phonetic,,2016-01-31
 826,Malieng,mali1278,Malieng,,Eurasia,,,Austroasiatic,Ilya Peiros,,,phonetic,,2016-01-31
 827,Ahlao (Thavung),aheu1239,Thavung,thm,Eurasia,17.7655,104.229,Austroasiatic,Ilya Peiros,,,phonetic,,2016-01-31
 828,Thavung So,aheu1239,Thavung,,Eurasia,17.7655,104.229,Austroasiatic,Ilya Peiros,,,phonetic,,2016-01-31

@@ -15,34 +15,38 @@
     "dcat:accessURL": "https://github.com/intercontinental-dictionary-series/ids",
     "prov:wasDerivedFrom": [
         {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Repository",
             "rdf:about": "https://github.com/intercontinental-dictionary-series/ids",
-            "dc:created": "v3.0-22-gd1fcca7"
+            "rdf:type": "prov:Entity",
+            "dc:created": "v4.0-2-ge1d5f38",
+            "dc:title": "Repository"
         },
         {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.3"
+            "rdf:type": "prov:Entity",
+            "dc:created": "v4.4",
+            "dc:title": "Glottolog"
         },
         {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.4.0"
+            "rdf:type": "prov:Entity",
+            "dc:created": "v2.5.0",
+            "dc:title": "Concepticon"
         },
         {
-            "rdf:type": "prov:Entity",
-            "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts",
-            "dc:created": "v1.4"
+            "rdf:type": "prov:Entity",
+            "dc:created": "v2.1.0",
+            "dc:title": "CLTS"
         }
     ],
     "prov:wasGeneratedBy": [
         {
+            "dc:title": "lingpy-rcParams",
+            "dc:relation": "lingpy-rcParams.json"
+        },
+        {
             "dc:title": "python",
-            "dc:description": "3.8.5"
+            "dc:description": "3.8.10"
         },
         {
             "dc:title": "python-packages",
@@ -206,8 +210,8 @@
                     {
                         "datatype": {
                             "base": "decimal",
-                            "minimum": -90,
-                            "maximum": 90
+                            "minimum": "-90",
+                            "maximum": "90"
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
                         "required": false,
@@ -216,8 +220,8 @@
                     {
                         "datatype": {
                             "base": "decimal",
-                            "minimum": -180,
-                            "maximum": 180
+                            "minimum": "-180",
+                            "maximum": "180"
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
                         "required": false,
