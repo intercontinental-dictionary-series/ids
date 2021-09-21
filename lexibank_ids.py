@@ -114,9 +114,12 @@ class Dataset(IDSDataset):
         ids_lgs = [lg for lg in self.ids_raw_read("lang") if lg.status == "0"]
         ids_lgs_ids = [lg.lg_id for lg in ids_lgs]
 
+        # read edited core IDS data via csv files generated during cmd 'download' out of XLSX files
         edited_data = {}
+        # edited_data := {file: csv_file_name, md: md_file_name, date: edit_date}
         edited_path = self.raw_dir / 'edited'
         for edited_data_filename in edited_path.glob('*.csv'):
+            # XLSX file name must have a valid IDS language ID in it {foo-ID.csv}
             ed_lg_id = re.match(r'^.+?\-(\d+)', edited_data_filename.stem).group(1)
             if ed_lg_id not in ids_lgs_ids:
                 args.log.warn('ID {} not known for edited data file {}'.format(
@@ -124,7 +127,9 @@ class Dataset(IDSDataset):
                 continue
             edited_data[ed_lg_id] = {}
             edited_data[ed_lg_id]['file'] = edited_data_filename
+            # {foo-ID.md contains the meta data on the contributors}
             edited_data[ed_lg_id]['md'] = edited_data_filename.with_suffix('.md')
+            # get the edit date out of the XLSX or md file
             try:
                 edited_data[ed_lg_id]['date'] = datetime.fromtimestamp(
                     edited_data_filename.with_suffix('.xlsx').stat().st_mtime).strftime('%Y-%m-%d')
@@ -138,6 +143,7 @@ class Dataset(IDSDataset):
                 continue
             lname = SOURCE_UPDATES.get(lc.name, lc.name)
             if lc.lg_id in edited_data:
+                # edited data's md file contains structured data as in global 'CONTRIBUTORS.md'
                 p = self.get_personnel(args, edited_data[lc.lg_id]['md'])
                 personnel["1"][lc.lg_id] = p['data entry']
                 personnel["2"][lc.lg_id] = p['author']
@@ -153,6 +159,8 @@ class Dataset(IDSDataset):
         for ld in self.ids_raw_read("x_lg_data"):
             lid = ld.lg_id.strip()
             if lid in edited_data:
+                # edited data come with a clean csv structure;
+                # additional column names are taken as representations
                 edited_data[lid]['data'] = edited_path.read_csv(edited_data[lid]['file'], dicts=True)
                 header = [h for h in edited_data[lid]['data'][0].keys()
                           if h.strip().lower() not in ['chapter', 'entry', 'english', 'comment']]
@@ -256,6 +264,7 @@ class Dataset(IDSDataset):
             lg_org_value = defaultdict(str)
             entries_list = list(entries)
 
+            # read forms of edited data as they are since they must be clean without any exceptions
             if lg_id in edited_data:
                 for row in edited_data[lg_id]['data']:
 
