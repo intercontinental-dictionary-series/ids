@@ -1,4 +1,4 @@
-# CLDF dataset derived from Key and Comrie’s "Intercontinental Dictionary Series" from 2015
+# CLDF dataset derived from Key and Comrie’s "Intercontinental Dictionary Series" from 2021
 
 [![CLDF validation](https://github.com/intercontinental-dictionary-series/ids/workflows/CLDF-validation/badge.svg)](https://github.com/intercontinental-dictionary-series/ids/actions?query=workflow%3ACLDF-validation)
 
@@ -6,7 +6,7 @@
 
 If you use these data please cite
 - the original source
-  > Key, Mary Ritchie & Comrie, Bernard (eds.) 2015. The Intercontinental Dictionary Series. Leipzig: Max Planck Institute for Evolutionary Anthropology.
+  > Key, Mary Ritchie & Comrie, Bernard (eds.) 2021. The Intercontinental Dictionary Series. Leipzig: Max Planck Institute for Evolutionary Anthropology.
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description

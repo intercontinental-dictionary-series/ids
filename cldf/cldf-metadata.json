@@ -1,7 +1,7 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": "https://ids.clld.org/values/{ID}",
-    "dc:bibliographicCitation": "Key, Mary Ritchie & Comrie, Bernard (eds.) 2015. The Intercontinental Dictionary Series. Leipzig: Max Planck Institute for Evolutionary Anthropology.",
+    "dc:bibliographicCitation": "Key, Mary Ritchie & Comrie, Bernard (eds.) 2021. The Intercontinental Dictionary Series. Leipzig: Max Planck Institute for Evolutionary Anthropology.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:format": [
         "http://concepticon.clld.org/contributions/Key-2016-1310"
@@ -11,13 +11,13 @@
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset derived from Key and Comrie\u2019s \"Intercontinental Dictionary Series\" from 2015",
+    "dc:title": "CLDF dataset derived from Key and Comrie\u2019s \"Intercontinental Dictionary Series\" from 2021",
     "dcat:accessURL": "https://github.com/intercontinental-dictionary-series/ids",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/intercontinental-dictionary-series/ids",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.0-2-ge1d5f38",
+            "dc:created": "v4.1-7-gf59d564",
             "dc:title": "Repository"
         },
         {
@@ -46,7 +46,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.8.10"
+            "dc:description": "3.9.5"
         },
         {
             "dc:title": "python-packages",

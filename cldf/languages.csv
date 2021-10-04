@@ -44,7 +44,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 81,Avar (Kusur dialect),avar1256,Avar,ava,Eurasia,41.7047,46.558,Nakh-Daghestanian,Madzhid Khalilov,Stefan Lange,,CyrillTrans;Phonemic,Avar;Kusur,2014-01-24
 107,Avar,avar1256,Avar,ava,Eurasia,41.7047,46.558,Nakh-Daghestanian,Madzhid Khalilov,Claudia Schmidt;Hagen Jung;Stefan Lange,,CyrillTrans;Phonemic,Avaro;Dagestani,2014-01-24
 126,Erzya Mordvin,erzy1239,Erzya,myv,Eurasia,52.8548,45.3901,Uralic,Olga Erina,Piret Klesment,,Phonemic,Eriza;Eryza;Erza;Mordvin;Mordvin-Erzya,2007-09-27
-127,Estonian,esto1258,Estonian,est,Eurasia,58.55,25.82,Uralic,Margit Kuusk;Ago Künnap,Iris Audova,,Phonemic,Eesti;Viro,2007-09-27
+127,Estonian,esto1258,Estonian,est,Eurasia,58.55,25.82,Uralic,Margit Kuusk;Ago Künnap;Leon Cosgrove,Leon Cosgrove;Iris Audova,,Phonemic;StandOrth,Eesti;Viro,2021-08-23
 128,Finnish,finn1318,Finnish,fin,Eurasia,64.7628,25.5577,Uralic,Margit Kuusk,Piret Klesment,Anja  Pihlajaniemi,Phonemic,Suomea;Suomi,2007-09-27
 131,Hungarian,hung1274,Hungarian,hun,Eurasia,46.9068585714,19.6555271429,Uralic,Péter Pomozi;Sirje Volmre,Iris Audova,,Standard;Phonemic,Magyar,2007-09-27
 135,Khanty,khan1273,Kazym-Berezover-Suryskarer Khanty,kca,Eurasia,62.4308,66.1218,Uralic,Nataliya Kochkareva;Nina Lyskova,Piret Klesment,,Phonemic,Hanty;Khanti;Obdorski;Ostjak;Ostyak;Xanty,2007-09-27

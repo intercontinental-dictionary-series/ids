@@ -20,10 +20,11 @@ setup(
         ]
     },
     install_requires=[
-        "pylexibank>=2.7.1",
-        "clldutils>=3.5.2",
-        "csvw>=1.8.0",
-        "idspy>=0.2",
+        "cldfbench>=1.7.2"
+        "pylexibank>=3.3.0",
+        "clldutils>=3.9.0",
+        "csvw>=1.11.0",
+        "idspy>=0.3.0",
     ],
     extras_require={
         "test": [
