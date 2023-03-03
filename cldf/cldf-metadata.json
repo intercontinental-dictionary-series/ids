@@ -1,7 +1,7 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": "https://ids.clld.org/values/{ID}",
-    "dc:bibliographicCitation": "Key, Mary Ritchie & Comrie, Bernard (eds.) 2021. The Intercontinental Dictionary Series. Leipzig: Max Planck Institute for Evolutionary Anthropology.",
+    "dc:bibliographicCitation": "Key, Mary Ritchie & Comrie, Bernard (eds.) 2023. The Intercontinental Dictionary Series. Leipzig: Max Planck Institute for Evolutionary Anthropology.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:format": [
         "http://concepticon.clld.org/contributions/Key-2016-1310"
@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/intercontinental-dictionary-series/ids",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.2",
+            "dc:created": "v4.2-3-g65074c6",
             "dc:title": "Repository"
         },
         {
