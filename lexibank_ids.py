@@ -111,8 +111,11 @@ class Dataset(IDSDataset):
 
         personnel = {"1": defaultdict(list), "2": defaultdict(list), "3": defaultdict(list)}
 
+        # see https://github.com/intercontinental-dictionary-series/ids/issues/30
+        excluded_lg_ids = set(['701', '702', '703', '704', '705', '706', '707', '708', '709', '710'])
+
         ids_lgs = [lg for lg in self.ids_raw_read("lang") if lg.status == "0"]
-        ids_lgs_ids = [lg.lg_id for lg in ids_lgs]
+        ids_lgs_ids = [lg.lg_id for lg in ids_lgs if lg.lg_id not in excluded_lg_ids]
 
         # read edited core IDS data via csv files generated during cmd 'download' out of XLSX files
         edited_data = {}
@@ -138,6 +141,7 @@ class Dataset(IDSDataset):
                     edited_data_filename.stat().st_mtime).strftime('%Y-%m-%d')
 
         sources = defaultdict(list)
+
         for lc in self.ids_raw_read("lang_compilers"):
             if lc.lg_id not in ids_lgs_ids or lc.name == "BIBIKO":
                 continue

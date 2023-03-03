@@ -35,16 +35,16 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 68,Tabasaran (Southern dialect),sout2752,South Tabasaran,tab,Eurasia,,,Nakh-Daghestanian,Madzhid Khalilov,Stefan Lange,,CyrillTrans;Phonemic,Dialect;Ghumghum;South;Tabasaran;Tabasarantsy;Tabassaran,2014-01-26
 69,Khinalug,khin1240,Khinalug,kjj,Eurasia,41.1801,48.0571,Nakh-Daghestanian,Madzhid Khalilov,Stefan Lange,,CyrillTrans;Phonemic,Khinalugh;Khinalugi;Xinalug,2014-01-26
 70,Tsakhur,tsak1249,Tsakhur,tkr,Eurasia,41.5916,46.8858,Nakh-Daghestanian,Madzhid Khalilov,Stefan Lange,,CyrillTrans;Phonemic,Caxur;Sakhur;Tsakhury;Tsaxur,2014-01-26
-71,Azerbaijani,nort2697,North Azerbaijani,azj,Eurasia,40.9777,46.4737,Turkic,Madzhid Khalilov,Stefan Lange,,CyrillTrans;Phonemic,Azerbaijan;Azerbaydzhani;Azeri;Torki;Turk,2014-01-24
+71,Azerbaijani,nort2697,North Azerbaijani,azj,Eurasia,40.97768,46.4737,Turkic,Madzhid Khalilov,Stefan Lange,,CyrillTrans;Phonemic,Azerbaijan;Azerbaydzhani;Azeri;Torki;Turk,2014-01-24
 72,Kumyk,kumy1244,Kumyk,kum,Eurasia,43.0,47.0,Turkic,Madzhid Khalilov,Stefan Lange,,CyrillTrans;Phonemic,Kumuk;Kumuklar;Kumyki,2014-01-26
-73,Nogai,noga1249,Nogai,nog,Eurasia,43.5917,46.6618,Turkic,Madzhid Khalilov,Stefan Lange,,CyrillTrans;Phonemic,Nogaitsy;Nogalar;Nogay;Noghai;Noghay;Noghaylar,2014-01-26
+73,Nogai,noga1249,Nogai,nog,Eurasia,44.89776,43.1656,Turkic,Madzhid Khalilov,Stefan Lange,,CyrillTrans;Phonemic,Nogaitsy;Nogalar;Nogay;Noghai;Noghay;Noghaylar,2014-01-26
 74,Judeo-Tat,jude1256,Judeo-Tat,jdt,Eurasia,42.068306,48.264749,Indo-European,Madzhid Khalilov,Stefan Lange,,CyrillTrans;Phonemic,Bik;Dzhuhuric;Jewish;Judeo-Tatic;Juhuri;Juwri;Tat;Tats,2014-01-26
 75,Chechen,chec1245,Chechen,che,Eurasia,43.5,45.5,Nakh-Daghestanian,Madzhid Khalilov,Stefan Lange,,CyrillTrans;Phonemic,Galancho;Muott;Nokchiin;Nokhchiin,2014-01-25
 80,Udi,udii1243,Udi,udi,Eurasia,40.9,47.7236,Nakh-Daghestanian,Madzhid Khalilov,Stefan Lange,,CyrillTrans;Phonemic,Udin;Uti,2014-01-26
 81,Avar (Kusur dialect),avar1256,Avar,ava,Eurasia,41.7047,46.558,Nakh-Daghestanian,Madzhid Khalilov,Stefan Lange,,CyrillTrans;Phonemic,Avar;Kusur,2014-01-24
 107,Avar,avar1256,Avar,ava,Eurasia,41.7047,46.558,Nakh-Daghestanian,Madzhid Khalilov,Claudia Schmidt;Hagen Jung;Stefan Lange,,CyrillTrans;Phonemic,Avaro;Dagestani,2014-01-24
 126,Erzya Mordvin,erzy1239,Erzya,myv,Eurasia,52.8548,45.3901,Uralic,Olga Erina,Piret Klesment,,Phonemic,Eriza;Eryza;Erza;Mordvin;Mordvin-Erzya,2007-09-27
-127,Estonian,esto1258,Estonian,est,Eurasia,58.55,25.82,Uralic,Margit Kuusk;Ago Künnap;Leon Cosgrove,Leon Cosgrove;Iris Audova,,Phonemic;StandOrth,Eesti;Viro,2021-08-23
+127,Estonian,esto1258,Estonian,est,Eurasia,58.55,25.82,Uralic,Margit Kuusk;Ago Künnap;Leon Cosgrove,Leon Cosgrove;Iris Audova,,Phonemic;StandOrth,Eesti;Viro,2023-03-03
 128,Finnish,finn1318,Finnish,fin,Eurasia,64.7628,25.5577,Uralic,Margit Kuusk,Piret Klesment,Anja  Pihlajaniemi,Phonemic,Suomea;Suomi,2007-09-27
 131,Hungarian,hung1274,Hungarian,hun,Eurasia,46.9068585714,19.6555271429,Uralic,Péter Pomozi;Sirje Volmre,Iris Audova,,Standard;Phonemic,Magyar,2007-09-27
 135,Khanty,khan1273,Kazym-Berezover-Suryskarer Khanty,kca,Eurasia,62.4308,66.1218,Uralic,Nataliya Kochkareva;Nina Lyskova,Piret Klesment,,Phonemic,Hanty;Khanti;Obdorski;Ostjak;Ostyak;Xanty,2007-09-27
@@ -59,8 +59,8 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 162,Tsez (Mokok dialect),dido1241,Tsez,ddo,Eurasia,42.2646,45.8096,Nakh-Daghestanian,Madzhid Khalilov,Stefan Lange,,CyrillTrans;Phonemic,Cez;Dialect;Dido;Didoi;Mokok;Tsez;Tsezy;Tsuntin,2014-01-26
 164,Dargwa (Muiri dialect),darg1241,North-Central Dargwa,dar,Eurasia,42.4257,47.4388,Nakh-Daghestanian,Madzhid Khalilov,Stefan Lange,,CyrillTrans;Phonemic,Dargwa;Dialect;Muiri,2014-01-25
 165,Lezgian (Quba dialect),quba1246,Quba (Lezgian),lez,Eurasia,,,Nakh-Daghestanian,Madzhid Khalilov,Stefan Lange,,CyrillTrans;Phonemic,Dialect;Kuba;Lezgi,2014-01-26
-166,Azerbaijani (Terekeme dialect),nort2697,North Azerbaijani,azj,Eurasia,40.9777,46.4737,Turkic,Madzhid Khalilov,Stefan Lange,,CyrillTrans;Phonemic,Azerbaijan;Dialect;Terekeme,2014-01-24
-167,Ancient Greek,anci1242,Ancient Greek,grc,Eurasia,39.8155,21.9129,Indo-European,Fotis A. Kavoukopoulos,Mary Ritchie Key,,LatinTrans,"Classical Greek;Greek;Greek (Ancient);Greek, Ancient",2007-07-18
+166,Azerbaijani (Terekeme dialect),nort2697,North Azerbaijani,azj,Eurasia,40.97768,46.4737,Turkic,Madzhid Khalilov,Stefan Lange,,CyrillTrans;Phonemic,Azerbaijan;Dialect;Terekeme,2014-01-24
+167,Ancient Greek,anci1242,Ionic-Attic Ancient Greek,grc,Eurasia,39.8155,21.9129,Indo-European,Fotis A. Kavoukopoulos,Mary Ritchie Key,,LatinTrans,"Classical Greek;Greek;Greek (Ancient);Greek, Ancient",2007-07-18
 168,Modern Greek,mode1248,Modern Greek,ell,Eurasia,38.36,23.13,Indo-European,Maria Tsigou,Mary Ritchie Key,,LatinTrans,"Ellinika;Graecae;Grec;Greco;Greek;Greek (Modern);Greek, Modern;Neo-Hellenic",2007-07-18
 169,Latin,lati1261,Latin,lat,Eurasia,41.9026,12.4502,Indo-European,Philip Baldi,Mary Ritchie Key;Mackayla Infante-Wong,,StandardOrth,Latina,2007-07-20
 170,Italian,ital1282,Italian,ita,Eurasia,43.0464,12.6489,Indo-European,Martin Maiden,Mary Ritchie Key,,StandardOrth,Italiano,2007-07-20
@@ -114,7 +114,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 218,Jamaican Creole (Limonese Creole dialect),jama1262,Jamaican Creole English,jam,North America,18.13,-77.2612,Indo-European,Anita Hertzfeld;Franklin Perry,Robin Sabino,,Phonemic,Limonese Creole;Limón Creole English;Mekatelyu,2007-10-25
 219,Basque,basq1248,Basque,eus,Eurasia,43.2787,-1.31622,Basque,Jean-Baptiste Coyos,Mary Ritchie Key,Etchebarne-Harrixuri family;Etchebarne Battitta family;Estécahandy-Halbide family;Mrs. Coyos (mother of J.-B. Coyos),Phonemic,Euskera;Vascuense,2007-10-25
 220,Hausa,haus1257,Hausa,hau,Africa,11.1513,8.7804,Afro-Asiatic,Ronald Cosper,George B. Loveridge;Hilary Young,Garba Mohammed Gital,Phonemic,Abakwariga;Habe;Haoussa;Hausawa;Kado;Mgbakpa,2007-10-25
-221,Polci,polc1243,Polci,plj,Africa,10.0258,9.53362,Afro-Asiatic,Ronald Cosper,George B. Loveridge;Hilary Young,Musa Waje;Abdu Sabo,Phonemic,Palchi;Palci;Polchi,2007-10-25
+221,Polci,polc1243,Pesse,plj,Africa,10.1346,9.5961,Afro-Asiatic,Ronald Cosper,George B. Loveridge;Hilary Young,Musa Waje;Abdu Sabo,Phonemic,Palchi;Palci;Polchi,2007-10-25
 222,Nahuatl (Sierra de Zacapoaxtla variety),high1278,Highland Puebla Nahuatl,azz,North America,20.1554,-97.5556,Uto-Aztecan,Mary Ritchie Key,Mary Ritchie Key,Field work: 1948-1955,Phonemic,"Aztec Zacapoaxtla;Nahuatl, Highland Puebla;Náhuat de la Sierra de Puebla;Sierra Aztec;Zacapoaxtla Náhuat",2007-10-25
 223,Chatino (Zacatepec variety),zaca1242,Zacatepec Chatino,ctz,North America,16.08,-97.3069,Otomanguean,Leslie G. Pride and Kitty Pride,Mary Ritchie Key,,Phonemic,"Chatino de San Marcos Zacatepec;Chatino, Zacatepec",2007-10-25
 224,Karok,karo1304,Karok,kyh,North America,41.8228,-123.315,Karok,William Bright,Iris Audova;Piret Klesment,,Phonemic,Karuk,2007-10-29
@@ -212,7 +212,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 318,Uncunwee,ghul1238,Uncunwee,ghl,Africa,11.6432,29.8122,Nubian,Robert Williams,Robert Williams,,IPA,Ghulfan;Gulfan;Hill;Nubian;Nubian (Hill);Wunci;Wuncimbe,2012-09-25
 319,Ossetic,iron1242,Iron Ossetian,oss,Eurasia,42.98,44.61,Indo-European,Madzhid Khalilov,,,CyrillTrans,Osetin;Ossete;Ossetian;Ирон æвзаг,2015-01-22
 320,Avar (Araderikh dialect),avar1256,Avar,ava,Eurasia,41.7047,46.558,Nakh-Daghestanian,Madzhid Khalilov,,,CyrillTrans,,2015-01-22
-321,Avar (Khunzakh dialect),kunz1243,Kunzakh,ava,Eurasia,,,Nakh-Daghestanian,Madzhid Khalilov,,,CyrillTrans,,2015-01-22
+321,Avar (Khunzakh dialect),kunz1243,Xunzax,ava,Eurasia,,,Nakh-Daghestanian,Madzhid Khalilov,,,CyrillTrans,,2015-01-22
 322,Avar (East Gergebil dialect),avar1256,Avar,ava,Eurasia,41.7047,46.558,Nakh-Daghestanian,Madzhid Khalilov,,,CyrillTrans,,2015-01-27
 323,Avar (Ansalta dialect),avar1256,Avar,ava,Eurasia,41.7047,46.558,Nakh-Daghestanian,Madzhid Khalilov,,,CyrillTrans,,2015-01-27
 324,Avar (Salatav dialect),sala1265,Salatav,ava,Eurasia,,,Nakh-Daghestanian,Madzhid Khalilov,,,CyrillTrans,,2015-01-27
@@ -277,16 +277,6 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 532,Tsakhur (Gelmets dialect),tsak1249,Tsakhur,tkr,Eurasia,41.5916,46.8858,Nakh-Daghestanian,Madzhid Khalilov,,,CyrillTrans;Phonemic,,2014-01-26
 533,Tsova-Tush,bats1242,Bats,bbl,Eurasia,42.1806,45.344,Nakh-Daghestanian,Madzhid Khalilov,,,CyrillTrans;Phonemic,,2014-01-26
 534,Archi (variety 2),arch1244,Archi,aqc,Eurasia,42.3239,46.8267,Nakh-Daghestanian,Madzhid Khalilov,Stefan Lange,,CyrillTrans;Phonemic,,2014-01-24
-701,Bengali,beng1280,Bengali,ben,Eurasia,24.0,90.0,Indo-European,Anju Saxena,Anju Saxena;Mohini Pimpalkhare,,Phonemic;Standard,,2015-04-01
-702,Hindi,hind1269,Hindi,hin,Eurasia,25.0,77.0,Indo-European,Anju Saxena,Anju Saxena;Mohini Pimpalkhare,,Phonemic;Standard,,2015-04-01
-703,Khasi,khas1269,Khasi,kha,Eurasia,24.977,91.9998,Austroasiatic,Anju Saxena;Marantha T. Wahlang,Marantha T. Wahlang;Muhammad Rafiq,,,,2015-04-01
-704,Mahasu Pahari (Kotghari dialect),maha1287,Mahasu Pahari,bfz,Eurasia,31.0088,77.5317,Indo-European,Anju Saxena,David Karlander,,Phonemic,Kotgarhi;Kotgurui;Mahasu Pahari;Shodochi;Sodochi,2015-04-01
-705,Marathi,mara1378,Marathi,mar,Eurasia,17.9344,76.6665,Indo-European,Anju Saxena,Mohini Pimpalkhare,,Phonemic;Standard,,2015-04-01
-706,Nepali,east1436,Eastern Pahari,nep,Eurasia,27.5947033333,87.6200833333,Indo-European,Anju Saxena,Anju Saxena,,Phonemic,,2015-04-01
-707,Punjabi,west2386,Western Panjabi,pnb,Eurasia,30.0948,75.3474,Indo-European,Anju Saxena,Mohini Pimpalkhare,,Phonemic,,2015-04-01
-708,Tamil,tami1289,Tamil,tam,Eurasia,10.520219,78.825989,Dravidian,Anju Saxena,Mohamed Hashim,,Phonemic,,2015-04-01
-709,Telugu,telu1262,Telugu,tel,Eurasia,16.4529,78.7024,Dravidian,Anju Saxena,David Karlander;Anju Saxena;K. Taraka Rama,,Phonemic,,2015-04-01
-710,Tibetan,tibe1272,Tibetan,bod,Eurasia,28.3681,90.1872,Sino-Tibetan,Anju Saxena,David Karlander,,Phonemic,,2015-04-01
 800,Kme-2 (Kemie variety),manm1238,Man Met,,Eurasia,22.0743,100.842,Austroasiatic,Ilya Peiros,,,phonetic,,2016-01-31
 801,Bulang,blan1242,Blang,,Eurasia,22.0092,99.7405,Austroasiatic,Ilya Peiros,,,phonetic,,2016-01-31
 802,Bulang-2,blan1242,Blang,,Eurasia,22.0092,99.7405,Austroasiatic,Ilya Peiros,,,phonetic,,2016-01-31

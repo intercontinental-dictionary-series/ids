@@ -25,19 +25,19 @@ Conceptlists in Concepticon:
 [![CLDF validation](https://github.com/intercontinental-dictionary-series/ids/workflows/CLDF-validation/badge.svg)](https://github.com/intercontinental-dictionary-series/ids/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 98%](https://img.shields.io/badge/Glottolog-98%25-green.svg "Glottolog: 98%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
-![Source: 22%](https://img.shields.io/badge/Source-22%25-red.svg "Source: 22%")
+![Source: 20%](https://img.shields.io/badge/Source-20%25-red.svg "Source: 20%")
 
-- **Varieties:** 329
+- **Varieties:** 319
 - **Concepts:** 1,310
-- **Lexemes:** 454,145
-- **Sources:** 95
+- **Lexemes:** 437,902
+- **Sources:** 85
 - **Synonymy:** 1.28
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 352262/454145 (77.57%)
+- Entries missing sources: 352262/437902 (80.44%)
 
 # Contributors
 
