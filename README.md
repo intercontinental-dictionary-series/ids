@@ -1,4 +1,4 @@
-# CLDF dataset derived from Key and Comrie’s "Intercontinental Dictionary Series" from 2021
+# CLDF dataset derived from Key and Comrie’s "Intercontinental Dictionary Series" from 2023
 
 [![CLDF validation](https://github.com/intercontinental-dictionary-series/ids/workflows/CLDF-validation/badge.svg)](https://github.com/intercontinental-dictionary-series/ids/actions?query=workflow%3ACLDF-validation)
 

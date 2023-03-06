@@ -11,13 +11,13 @@
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset derived from Key and Comrie\u2019s \"Intercontinental Dictionary Series\" from 2021",
+    "dc:title": "CLDF dataset derived from Key and Comrie\u2019s \"Intercontinental Dictionary Series\" from 2023",
     "dcat:accessURL": "https://github.com/intercontinental-dictionary-series/ids",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/intercontinental-dictionary-series/ids",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.2-3-g65074c6",
+            "dc:created": "v4.2-5-ga7cf246",
             "dc:title": "Repository"
         },
         {
