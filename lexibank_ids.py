@@ -22,7 +22,7 @@ wrapped_in_brackets = re.compile(r"^[(\[][^\[\]()]+?[)\]]$")
 
 
 class Dataset(IDSDataset):
-
+    writer_options = {'keep_languages': False, 'keep_parameters': False}
     IDSDataset.form_spec.missing_data = (
         "?",
         "∅",

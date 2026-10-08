@@ -23,21 +23,21 @@ Conceptlists in Concepticon:
 
 
 [![CLDF validation](https://github.com/intercontinental-dictionary-series/ids/workflows/CLDF-validation/badge.svg)](https://github.com/intercontinental-dictionary-series/ids/actions?query=workflow%3ACLDF-validation)
-![Glottolog: 98%](https://img.shields.io/badge/Glottolog-98%25-green.svg "Glottolog: 98%")
-![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
-![Source: 20%](https://img.shields.io/badge/Source-20%25-red.svg "Source: 20%")
+![Glottolog: 98%](etc/badge_languages.svg)
+![Concepticon: 100%](etc/badge_concepts.svg)
+![Source: 20%](etc/badge_sources.svg)
 
-- **Varieties:** 319
-- **Concepts:** 1,310
+- **Varieties:** 319 (linked to 269 different Glottocodes)
+- **Concepts:** 1,310 (linked to 1,308 different Concepticon concept sets)
 - **Lexemes:** 437,902
 - **Sources:** 85
 - **Synonymy:** 1.28
 
 ## Possible Improvements:
 
+- Languages missing glottocodes: 5/319 (1.57%%)
+- Entries missing sources: 352262/437902 (80.44%%)
 
-
-- Entries missing sources: 352262/437902 (80.44%)
 
 # Contributors
 
