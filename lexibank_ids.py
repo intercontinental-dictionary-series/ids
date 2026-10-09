@@ -14,7 +14,12 @@ from clldutils.text import split_text_with_context
 from csvw import dsv
 from idspy import IDSDataset
 
-GLOTTOCODE_UPDATES = {"sana1281": "sana1298", "pray1239": "phai1238", "samr1245": "somr1240"}
+GLOTTOCODE_UPDATES = {
+    "sana1281": "sana1298", 
+    "pray1239": "phai1238", 
+    "samr1245": "somr1240",
+    "jama1262": "limo1249",
+}
 SOURCE_UPDATES = {"key1958-1964": "key19581964"}
 
 empty = re.compile(r"^\s*(NULL|∅|[\s\-]*)$")

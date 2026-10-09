@@ -111,7 +111,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 215,Ancient Aramaic,olda1245,Old Aramaic-Sam'alian,oar,Eurasia,32.84,37.0,Afro-Asiatic,Stephen A. Kaufman,Stephen A. Kaufman,Comprehensive Aramaic Lexicon data files,Phonemic,Aramaic (Ancient),2007-10-25
 216,Elamite,elam1244,Elamite,elx,Eurasia,31.1833,48.2333,Elamite,Václav Blazek,Mary Ritchie Key,,Phonemic,,2007-10-25
 217,Negerhollands,nege1244,Virgin Islands Dutch Creole,dcr,North America,18.3416,-64.8922,Indo-European,Robin Sabino,Robin Sabino,Mrs. Alice Stevens,Phonemic,Dutch Creole,2007-10-25
-218,Jamaican Creole (Limonese Creole dialect),jama1262,Jamaican Creole English,jam,North America,18.13,-77.2612,Indo-European,Anita Hertzfeld;Franklin Perry,Robin Sabino,,Phonemic,Limonese Creole;Limón Creole English;Mekatelyu,2007-10-25
+218,Jamaican Creole (Limonese Creole dialect),limo1249,Limonese Creole,jam,North America,9.957414,-83.0905,Indo-European,Anita Hertzfeld;Franklin Perry,Robin Sabino,,Phonemic,Limonese Creole;Limón Creole English;Mekatelyu,2007-10-25
 219,Basque,basq1248,Basque,eus,Eurasia,43.2787,-1.31622,Basque,Jean-Baptiste Coyos,Mary Ritchie Key,Etchebarne-Harrixuri family;Etchebarne Battitta family;Estécahandy-Halbide family;Mrs. Coyos (mother of J.-B. Coyos),Phonemic,Euskera;Vascuense,2007-10-25
 220,Hausa,haus1257,Hausa,hau,Africa,11.1513,8.7804,Afro-Asiatic,Ronald Cosper,George B. Loveridge;Hilary Young,Garba Mohammed Gital,Phonemic,Abakwariga;Habe;Haoussa;Hausawa;Kado;Mgbakpa,2007-10-25
 221,Polci,polc1243,Pesse,pze,Africa,10.1346,9.5961,Afro-Asiatic,Ronald Cosper,George B. Loveridge;Hilary Young,Musa Waje;Abdu Sabo,Phonemic,Palchi;Palci;Polchi,2007-10-25
